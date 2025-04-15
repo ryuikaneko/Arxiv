@@ -1,0 +1,688 @@
+20171230
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.241114
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214210
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214441
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214443
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224517
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224518
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235149
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.241204
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245142
+
+
+20171229
+
+https://arxiv.org/abs/1712.09337
+https://arxiv.org/abs/1712.09363
+https://arxiv.org/abs/1712.09375
+https://arxiv.org/abs/1712.09409
+* https://arxiv.org/abs/1712.09412 # Semigroup Approach to the Sign Problem in Quantum Monte Carlo Simultions, Zhong-Chao Wei
+https://arxiv.org/abs/1712.09493
+https://arxiv.org/abs/1712.09512
+https://arxiv.org/abs/1712.09671
+
+https://arxiv.org/abs/1712.09782
+* https://arxiv.org/abs/1712.09801 # Topological magnon bands in the zigzag and stripy phases of antiferromagnetic honeycomb lattice, Ki Hoon Lee, Suk Bum Chung, Kisoo Park, Je-Geun Park
+* https://arxiv.org/abs/1712.09902 # Dynamics of open quantum systems by interpolation of von Neumann and classical master equations, and its application to quantum annealing, Tadashi Kadowaki
+https://arxiv.org/abs/1712.09904
+https://arxiv.org/abs/1712.09905
+https://arxiv.org/abs/1712.09973
+https://arxiv.org/abs/1712.09979
+* https://arxiv.org/abs/1712.10001 # Determinant Monte Carlo for irreducible Feynman diagrams, Fedor Simkovic IV., Evgeny Kozik
+https://arxiv.org/abs/1712.10005
+https://arxiv.org/abs/1712.09565
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.041072
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.063838
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214514
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.062148
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.063623
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.261603
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.265301
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214513
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224516
+
+
+20171228
+
+https://arxiv.org/abs/1712.09243
+https://arxiv.org/abs/1712.09289
+
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.062330
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.266802
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214208
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214438
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235146
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.241113
+
+
+20171227
+
+* https://arxiv.org/abs/1712.08633 # Functional renormalization group approach to interacting three-dimensional Weyl semimetals, Anand Sharma, Arthur Scammell, Jan Krieg, Peter Kopietz
+https://arxiv.org/abs/1712.08639
+https://arxiv.org/abs/1712.08653
+https://arxiv.org/abs/1712.08657
+https://arxiv.org/abs/1712.08668
+
+https://arxiv.org/abs/1712.08694
+https://arxiv.org/abs/1712.08731
+https://arxiv.org/abs/1712.08741
+https://arxiv.org/abs/1712.08750
+https://arxiv.org/abs/1712.08766
+https://arxiv.org/abs/1712.08771
+https://arxiv.org/abs/1712.08775
+* https://arxiv.org/abs/1712.08790 # Thermalization and prethermalization in isolated quantum systems: a theoretical overview, Takashi Mori, Tatsuhiko N. Ikeda, Eriko Kaminishi, Masahito Ueda
+https://arxiv.org/abs/1712.08792
+https://arxiv.org/abs/1712.08873
+
+https://arxiv.org/abs/1712.08905
+* https://arxiv.org/abs/1712.08975 # Frustrated Kondo chains and glassy magnetic phases on the pyrochlore lattice, Jing Luo, Gia-Wei Chern
+https://arxiv.org/abs/1712.09011
+https://arxiv.org/abs/1712.09018
+* https://arxiv.org/abs/1712.09050 # Interlayer Coupling Effect on a Bilayer Kitaev Model, Hiroyuki Tomishige, Joji Nasu, Akihisa Koga
+https://arxiv.org/abs/1712.09169
+https://arxiv.org/abs/1712.09190
+https://arxiv.org/abs/1712.09239
+https://arxiv.org/abs/1712.09273
+https://arxiv.org/abs/1712.09071
+
+https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.8.064025
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.061603
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.063620
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214432
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214512
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.220508
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224428
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224429
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224512
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235138
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235139
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235140
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235141
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235142
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235144
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245134
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245135
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245139
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.266401
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.267202
+
+
+20171225
+
+https://arxiv.org/abs/1712.08169
+* https://arxiv.org/abs/1712.08170 # Magnon triple points, topological transitions, and thermal Hall effect in pyrochlore iridates, Kyusung Hwang, Nandini Trivedi, Mohit Randeria
+https://arxiv.org/abs/1712.08200
+* https://arxiv.org/abs/1712.08216 # Nematic quantum phases in the bilayer honeycomb antiferromagnet, H. Zhang, C. A. Lamas, M. Arlego, Wolfram Brenig
+https://arxiv.org/abs/1712.08245
+https://arxiv.org/abs/1712.08278
+* https://arxiv.org/abs/1712.08300 # From the SU(2) Quantum Link Model on the Honeycomb Lattice to the Quantum Dimer Model on the Kagome Lattice: Phase Transition and Fractionalized Flux Strings, D. Banerjee, F.-J. Jiang, T. Z. Olesen, P. Orland, U.-J. Wiese
+* https://arxiv.org/abs/1712.08365 # Mott transition in the square-lattice SU(4) fermionic Hubbard model with a pi-flux gauge field, Zhichao Zhou, Congjun Wu, Yu Wang
+* https://arxiv.org/abs/1712.08379 # Precursors of the insulating state in the square lattice Hubbard model, Erik G. C. P. van Loon, Hartmut Hafermann, Mikhail Katsnelson
+https://arxiv.org/abs/1712.08508
+
+* https://arxiv.org/abs/1712.08511 # Uniaxial and hydrostatic pressure effects in alpha-RuCl3 single crystals via thermal-expansion measurements, Mingquan He, Xiao Wang, Liran Wang, Frederic Hardy, Thomas Wolf, Peter Adelmann, Thomas Brueckel, Yixi Su, Christoph Meingast
+https://arxiv.org/abs/1712.08517
+https://arxiv.org/abs/1712.08525
+https://arxiv.org/abs/1712.08536
+* https://arxiv.org/abs/1712.08602 # The Binomial Spin Glass, Mohammad-Sadegh Vaezi, Gerardo Ortiz, Martin Weigel, Zohar Nussinov
+* https://arxiv.org/abs/1712.08612 # Chiral topological insulator of magnons, Bo Li, Alexey A. Kovalev
+https://arxiv.org/abs/1712.08385
+https://arxiv.org/abs/1712.08581
+
+
+20171223
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.041068
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.041069
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.063618
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224427
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224510
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235136
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.250602
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.253904
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.255901
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.256404
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.257002
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235135
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235307
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235432
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.241110
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.241111
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245127
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245129
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245420
+
+
+20171222
+
+https://arxiv.org/abs/1712.07681
+https://arxiv.org/abs/1712.07687
+
+https://arxiv.org/abs/1712.07696
+* https://arxiv.org/abs/1712.07703 # Universality from disorder in the random-bond Blume-Capel model, N.G. Fytas, J. Zierenberg, P.E. Theodorakis, M. Weigel, W. Janke, A. Malakis
+* https://arxiv.org/abs/1712.07715 # Entanglement in 3D Kitaev Spin Liquids, Stephanie Matern, Maria Hermanns
+https://arxiv.org/abs/1712.07718
+https://arxiv.org/abs/1712.07767
+https://arxiv.org/abs/1712.07795
+https://arxiv.org/abs/1712.07808
+https://arxiv.org/abs/1712.07827
+https://arxiv.org/abs/1712.07894
+https://arxiv.org/abs/1712.07898
+
+https://arxiv.org/abs/1712.07908
+* https://arxiv.org/abs/1712.07911 # Lattice Models with Exactly Solvable Topological Hinge and Corner States, Flore K. Kunst, Guido van Miert, Emil J. Bergholtz
+* https://arxiv.org/abs/1712.07914 # Boosting Tc with Disorder in Spin-Fluctuation Mediated Unconventional Superconductors, Astrid T. Roemer, P. J. Hirschfeld, Brian M. Andersen
+* https://arxiv.org/abs/1712.07942 # A quantum spin liquid based on a new three-dimensional lattice, S. Chillal, Y. Iqbal, H. O. Jeschke, J. A. Rodriguez-Rivera, R. Bewley, P. Manuel, D. Khalyavin, P. Steffens, R. Thomale, A. T. M. N. Islam, J. Reuther, B. Lake
+https://arxiv.org/abs/1712.07950
+https://arxiv.org/abs/1712.07994
+https://arxiv.org/abs/1712.08055
+https://arxiv.org/abs/1712.08089
+https://arxiv.org/abs/1712.08115
+https://arxiv.org/abs/1712.08032
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214428
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.220406
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224426
+
+
+20171221
+
+* https://arxiv.org/abs/1712.07180 # Energy barriers of metastable states in first order quantum phase transitions, Sascha Wald, Andre Timpanaro, Cecilia Cormick, Gabriel T. Landi
+* https://arxiv.org/abs/1712.07188 # Emergent magnetic degeneracy in iron pnictides due to the interplay between spin-orbit coupling and quantum fluctuations, Morten H. Christensen, Peter P. Orth, Brian M. Andersen, Rafael M. Fernandes
+
+https://arxiv.org/abs/1712.07190
+* https://arxiv.org/abs/1712.07192 #  Magnetic phase diagram of the iron pnictides in the presence of spin-orbit coupling: Frustration between C2 and C4 magnetic phases, Morten H. Christensen, Peter P. Orth, Brian M. Andersen, Rafael M. Fernandes
+https://arxiv.org/abs/1712.07215
+https://arxiv.org/abs/1712.07228
+https://arxiv.org/abs/1712.07238
+https://arxiv.org/abs/1712.07282
+* https://arxiv.org/abs/1712.07289 # Numerical Large Deviation Analysis of Eigenstate Thermalization Hypothesis, Toru Yoshizawa, Eiki Iyoda, Takahiro Sagawa
+https://arxiv.org/abs/1712.07314
+https://arxiv.org/abs/1712.07372
+* https://arxiv.org/abs/1712.07418 # Ordered states in the Kitaev-Heisenberg model: From 1D chains to 2D honeycomb, Clio Efthimia Agrapidis, Jeroen van den Brink, Satoshi Nishimoto
+
+https://arxiv.org/abs/1712.07467
+https://arxiv.org/abs/1712.07523
+https://arxiv.org/abs/1108.1306
+https://arxiv.org/abs/1712.06023
+https://arxiv.org/abs/1712.07211
+https://arxiv.org/abs/1712.07311
+https://arxiv.org/abs/1712.07326
+https://arxiv.org/abs/1712.07570
+https://arxiv.org/abs/1712.07245
+https://arxiv.org/abs/1712.07524
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.257202
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.257203
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.063309
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.062322
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.250402
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214206
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.220405
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235428
+
+
+20171220
+
+https://arxiv.org/abs/1712.06600
+https://arxiv.org/abs/1712.06610
+* https://arxiv.org/abs/1712.06662 # Lattice supersymmetry and order-disorder coexistence in the tricritical Ising model, Edward O'Brien, Paul Fendley
+* https://arxiv.org/abs/1712.06699 # Extend of the Z2-spin liquid phase on the Kagome-lattice, Marc D. Schulz
+https://arxiv.org/abs/1712.06703
+https://arxiv.org/abs/1712.06712
+https://arxiv.org/abs/1712.06722
+* https://arxiv.org/abs/1712.06732 # Effect of Zn doping on the antiferromagnetism in kagome Cu4-xZnx(OH)6FBr
+* https://arxiv.org/abs/1712.06740 # Magnetic State Selected by Magnetic Dipole Interaction in Kagome Antiferromagnet NaBa2Mn3F11, Shohei Hayashida, Hajime Ishikawa, Yoshihiko Okamoto, Tsuyoshi Okubo, Zenji Hiroi, Maxim Avdeev, Pascal Manuel, Masato Hagihala, Minoru Soda, Takatsugu Masuda
+
+https://arxiv.org/abs/1712.06754
+* https://arxiv.org/abs/1712.06762 # Formation of d-wave superconductivity caused by proximity to the chiral spin liquid, Rui Wang, Tigran Sedrakyan, Baigeng Wang, D. Y. Xing
+https://arxiv.org/abs/1712.06773
+* https://arxiv.org/abs/1712.06775 # Evolution of magnetic Dirac bosons in a honeycomb lattice, D. Boyko, J.T. Haraldsen, A.V. Balatsky
+https://arxiv.org/abs/1712.06786
+* https://arxiv.org/abs/1712.06791 # Li doping kagome spin liquid compounds, Wei Jiang, Huaqing Huang, Jiawei Mei, Feng Liu
+https://arxiv.org/abs/1712.06798
+https://arxiv.org/abs/1712.06809
+https://arxiv.org/abs/1712.06836
+https://arxiv.org/abs/1712.06858
+
+https://arxiv.org/abs/1712.06892
+https://arxiv.org/abs/1712.06910
+https://arxiv.org/abs/1712.07047
+https://arxiv.org/abs/1712.07076
+* https://arxiv.org/abs/1712.07114 # Quantum state engineering of a Hubbard system with ultracold fermions, Christie S. Chiu, Geoffrey Ji, Anton Mazurenko, Daniel Greif, Markus Greiner
+https://arxiv.org/abs/1712.06757
+https://arxiv.org/abs/1712.06759
+https://arxiv.org/abs/1712.06884
+https://arxiv.org/abs/1712.07067
+https://arxiv.org/abs/1712.06891
+
+https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.8.064020
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235130
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.241107
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.241109
+
+
+20171219
+
+https://arxiv.org/abs/1712.05857
+https://arxiv.org/abs/1712.05916
+* https://arxiv.org/abs/1712.06007 # Wigner crystallization in topological flat bands
+https://arxiv.org/abs/1712.06018
+https://arxiv.org/abs/1712.06023
+https://arxiv.org/abs/1712.06027
+
+https://arxiv.org/abs/1712.06054
+https://arxiv.org/abs/1712.06066
+https://arxiv.org/abs/1712.06098
+https://arxiv.org/abs/1712.06111
+https://arxiv.org/abs/1712.06126
+https://arxiv.org/abs/1712.06156
+https://arxiv.org/abs/1712.06164
+* https://arxiv.org/abs/1712.06208 # Short range order in the quantum XXZ honeycomb lattice material BaCo2(PO4)2, H.S. Nair, J.M. Brown, E. Coldren, G. Hester, M.P. Gelfand, A. Podlesnyak, Q. Huang, K.A. Ross
+https://arxiv.org/abs/1712.06218
+https://arxiv.org/abs/1712.06270
+
+* https://arxiv.org/abs/1712.06282 # Neel temperature and reentrant H-T phase diagram of quasi-2D frustrated magnets, Burkhard Schmidt, Peter Thalmeier
+https://arxiv.org/abs/1712.06359
+https://arxiv.org/abs/1712.06361
+https://arxiv.org/abs/1712.06385
+https://arxiv.org/abs/1712.06394
+https://arxiv.org/abs/1712.06458
+https://arxiv.org/abs/1712.06460
+https://arxiv.org/abs/1712.06545
+https://arxiv.org/abs/1712.06561
+https://arxiv.org/abs/1712.06581
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.256402
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.062508
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.062125
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.062127
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214203
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.220504
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235127
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.241408
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245123
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245125
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.250401
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.257201
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.258001
+
+
+20171218
+
+https://arxiv.org/abs/1712.05424
+* https://arxiv.org/abs/1712.05490 # Competition among various charge-inhomogeneous states and d-wave superconducting state in Hubbard models on square lattices, Kota Ido, Takahiro Ohgoe, Masatoshi Imada
+* https://arxiv.org/abs/1712.05529 # Universality in the Hubbard model, Tadahiro Miyao
+* https://arxiv.org/abs/1712.05567 # Effects of Disorder on the Pressure-Induced Mott Transition in kappa-(BEDT-TTF)2Cu[N(CN)2]Cl, Elena Gati, Ulrich Tutsch, Ammar Naji, Markus Garst, Sebastian Koehler, Harald Schubert, Takahiko Sasaki, Michael Lang
+https://arxiv.org/abs/1712.05575
+* https://arxiv.org/abs/1712.05588 # Dynamical quantum phase transitions in discrete time crystals, Arkadiusz Kosior, Krzysztof Sacha
+https://arxiv.org/abs/1712.05613
+* https://arxiv.org/abs/1712.05618 # Pauli metallic ground-state in Hubbard clusters with Rashba spin-orbit coupling, Valentina Brosco, Daniele Guerci, Massimo Capone
+https://arxiv.org/abs/1712.05621
+https://arxiv.org/abs/1712.05622
+
+https://arxiv.org/abs/1712.05624
+https://arxiv.org/abs/1712.05648
+https://arxiv.org/abs/1712.05704
+https://arxiv.org/abs/1712.05779
+https://arxiv.org/abs/1712.05561
+https://arxiv.org/abs/1712.05771
+https://arxiv.org/abs/1706.08130
+https://arxiv.org/abs/1712.05402
+
+https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.1.074405
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.247203
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.247403
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.247601
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.062124
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214504
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245413
+
+
+20171215
+
+https://arxiv.org/abs/1712.04942
+https://arxiv.org/abs/1712.04943
+https://arxiv.org/abs/1712.04951
+https://arxiv.org/abs/1712.04967
+* https://arxiv.org/abs/1712.04971 # Fractal dimension of interfaces in Edwards-Anderson spin glasses for up to six space dimensions, Wenlong Wang, M. A. Moore, Helmut G. Katzgraber
+https://arxiv.org/abs/1712.04977
+https://arxiv.org/abs/1712.05019
+https://arxiv.org/abs/1712.05025
+https://arxiv.org/abs/1712.05026
+
+https://arxiv.org/abs/1712.05027
+https://arxiv.org/abs/1712.05034
+https://arxiv.org/abs/1712.05069
+https://arxiv.org/abs/1712.05073
+https://arxiv.org/abs/1712.05111
+https://arxiv.org/abs/1712.05113
+https://arxiv.org/abs/1712.05124
+https://arxiv.org/abs/1712.05140
+https://arxiv.org/abs/1712.05167
+* https://arxiv.org/abs/1712.05172 # Reply to Comment on: "Fluctuation Theorem for Many-Body Pure Quantum States", Eiki Iyoda, Kazuya Kaneko, Takahiro Sagawa
+
+https://arxiv.org/abs/1712.05303
+https://arxiv.org/abs/1712.05304
+https://arxiv.org/abs/1712.05347
+https://arxiv.org/abs/1712.05348
+* https://arxiv.org/abs/1712.05377 # Z3 Topological Order in Face Centered Cubic Quantum Plaquette Model, Trithep Devakul
+* https://arxiv.org/abs/1712.05396 # The t-t'-J model in one dimension using extremely correlated Fermi liquid theory and time dependent density matrix renormalization group, Peizhi Mai, Steven R. White, B. Sriram Shastry
+https://arxiv.org/abs/1712.05398
+* https://arxiv.org/abs/1712.05400 # Itinerant quantum multi-criticality of two dimensional Dirac fermions, Bitan Roy, Pallab Goswami, Vladimir Juricic
+https://arxiv.org/abs/1712.05282
+https://arxiv.org/abs/1712.05286
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235424
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245122
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.041063
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235123
+
+
+20171214
+
+* https://arxiv.org/abs/1712.04511 # X-Cube Model on Generic Lattices: New Phases and Geometric Order, Kevin Slagle, Yong Baek Kim
+https://arxiv.org/abs/1712.04554
+* https://arxiv.org/abs/1712.04579 # Persistence of the gapless spin liquid in the breathing kagome Heisenberg antiferromagnet, Yasir Iqbal, Didier Poilblanc, Ronny Thomale, Federico Becca
+* https://arxiv.org/abs/1712.04670 # Fast trimers in one-dimensional extended Fermi-Hubbard model, A. Dhar, P. Torma, J. J. Kinnunen
+https://arxiv.org/abs/1712.04679
+* https://arxiv.org/abs/1712.04734 # Low-temperature lattice effects in the spin-liquid candidate kappa-(BEDT-TTF)2Cu2(CN)3, Rudra Sekhar Manna, Steffi Hartmann, John A. Schlueter, Mariano de Souza, Michael Lang
+https://arxiv.org/abs/1712.04764
+https://arxiv.org/abs/1712.04782
+https://arxiv.org/abs/1712.04854
+https://arxiv.org/abs/1712.04717
+https://arxiv.org/abs/1712.04914
+
+https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.1.071201
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.041061
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.041062
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.246601
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.247001
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.247202
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245119
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235119
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235120
+
+
+20171213
+
+https://arxiv.org/abs/1712.03981
+https://arxiv.org/abs/1712.03982
+* https://arxiv.org/abs/1712.04021 # Study of anyon condensation and topological phase transitions from a Z4 topological phase using Projected Entangled Pair States, Mohsin Iqbal, Kasper Duivenvoorden, Norbert Schuch
+* https://arxiv.org/abs/1712.04072 # Phonon dispersion and the competition between pairing and charge order, Natanael C. Costa, T. Blommel, W.-T. Chiu, G.G. Batrouni, R.T. Scalettar
+https://arxiv.org/abs/1712.04082
+https://arxiv.org/abs/1712.04144
+https://arxiv.org/abs/1712.04179
+https://arxiv.org/abs/1712.04184
+https://arxiv.org/abs/1712.04188
+https://arxiv.org/abs/1712.04199
+* https://arxiv.org/abs/1712.04297 # Exploring the Hubbard Model on the Square Lattice at Zero Temperature with a Bosonized Functional Renormalization Approach, Sebastian Johann Wetzel
+https://arxiv.org/abs/1712.04300
+https://arxiv.org/abs/1712.04311
+https://arxiv.org/abs/1712.04434
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214301
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224416
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235114
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235116
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245116
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245118
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245115
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.062312
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.246401
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.246402
+
+# https://physics.aps.org/articles/v10/132 # Viewpoint: Topological Insulators Turn a Corner
+
+
+20171212
+
+* https://arxiv.org/abs/1712.03238 # A Fibonacci Topological Superconductor, Yichen Hu, C. L. Kane
+* https://arxiv.org/abs/1712.03295 # Momentum-Space Cluster Dual Fermion Method, Sergei Iskakov, Hanna Terletska, Emanuel Gull
+https://arxiv.org/abs/1712.03339
+https://arxiv.org/abs/1712.03362
+https://arxiv.org/abs/1712.03367
+https://arxiv.org/abs/1712.03379
+https://arxiv.org/abs/1712.03489
+https://arxiv.org/abs/1712.03523
+https://arxiv.org/abs/1712.03557
+https://arxiv.org/abs/1712.03618
+
+https://arxiv.org/abs/1712.03625
+https://arxiv.org/abs/1712.03671
+https://arxiv.org/abs/1712.03699
+https://arxiv.org/abs/1712.03706
+https://arxiv.org/abs/1712.03710
+https://arxiv.org/abs/1712.03842
+* https://arxiv.org/abs/1712.03873 # Prediction of a room-temperature and switchable Kane-Mele quantum spin Hall insulator, Antimo Marrazzo, Marco Gibertini, Davide Campi, Nicolas Mounet, Nicola Marzari
+https://arxiv.org/abs/1712.03893
+https://arxiv.org/abs/1712.03940
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214414
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224414
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235113
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245114
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245406
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.247201
+
+
+20171211
+
+* https://arxiv.org/abs/1712.02789 # Stability of Anomalous Floquet Insulators, Frederik Nathan, Dmitry Abanin, Erez Berg, Netanel H. Lindner, Mark S. Rudner
+https://arxiv.org/abs/1712.02801
+https://arxiv.org/abs/1712.02840
+https://arxiv.org/abs/1712.02927
+https://arxiv.org/abs/1712.02945
+https://arxiv.org/abs/1712.02983
+https://arxiv.org/abs/1712.02991
+https://arxiv.org/abs/1712.03051
+https://arxiv.org/abs/1712.03117
+* https://arxiv.org/abs/1712.03137 # Stability of the Weyl-semimetal phase on the pyrochlore lattice, Christoph Berke, Paolo Michetti, Carsten Timm
+* https://arxiv.org/abs/1712.03165 # Infinite coherence time of edge spins in finite-length chains, Ivo Maceira, Frederic Mila
+https://arxiv.org/abs/1712.03195
+https://arxiv.org/abs/1712.03193
+
+
+20171209
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245112
+
+
+20171208
+
+https://arxiv.org/abs/1712.02234
+https://arxiv.org/abs/1712.02344
+https://arxiv.org/abs/1712.02352
+
+* https://arxiv.org/abs/1712.02353 # Majorana-based fermionic quantum computation, T. E. O'Brien, P. Rozek, A. R. Akhmerov
+* https://arxiv.org/abs/1712.02357 # Semiclassical theory of the tunneling anomaly in partially spin-polarized compressible quantum Hall states, Debanjan Chowdhury, Brian Skinner, Patrick A. Lee
+https://arxiv.org/abs/1712.02375
+https://arxiv.org/abs/1712.02404
+https://arxiv.org/abs/1712.02415
+* https://arxiv.org/abs/1712.02418 # Dynamic quantum kagome ice, E. Lhotel, S. Petit, M. Ciomaga Hatnean, J. Ollivier, H. Mutka, E. Ressouche, M. R. Lees, G. Balakrishnan
+https://arxiv.org/abs/1712.02440
+https://arxiv.org/abs/1712.02444
+https://arxiv.org/abs/1712.02506
+https://arxiv.org/abs/1712.02525
+
+* https://arxiv.org/abs/1712.02535 # Effects of two-loop contributions in the pseudofermion functional renormalization group method for quantum spin systems, Marlon Rueck, Johannes Reuther
+https://arxiv.org/abs/1712.02611
+https://arxiv.org/abs/1712.02628
+https://arxiv.org/abs/1712.02647
+* https://arxiv.org/abs/1712.02656 # Enhancing Superconductivity by Disorder, Maria N. Gastiasoro, Brian M. Andersen
+* https://arxiv.org/abs/1712.02694 # Spin and pseudospin towers of the Hubbard model on a bipartite lattice, J. Z. Boretsky, J. R. Cohn, J. K. Freericks
+https://arxiv.org/abs/1712.02709
+https://arxiv.org/abs/1712.02716
+* https://arxiv.org/abs/1712.02726 # Fibonacci sequences and valence bond entanglement entropy in doped quantum spin ladders, Sudipto Singha Roy, Himadri Shekhar Dhar, Aditi Sen De, Ujjwal Sen
+https://arxiv.org/abs/1712.02736
+
+https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.8.064006
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214408
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214409
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214502
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.220401
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235110
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245110
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245110
+
+
+20171207
+
+https://arxiv.org/abs/1712.02008
+https://arxiv.org/abs/1712.02092
+* https://arxiv.org/abs/1712.02128 # Comment on: "Fluctuation Theorem for Many-Body Pure Quantum States", Jochen Gemmer, Lars Knipschild, Robin Steinigeweg
+https://arxiv.org/abs/1712.02166
+https://arxiv.org/abs/1712.02175
+* https://arxiv.org/abs/1712.02188 # Path integral representation for the Hubbard model with reduced number of Lefschetz thimbles, M. V. Ulybyshev, S. N. Valgushev
+https://arxiv.org/abs/1712.02233
+https://arxiv.org/abs/1712.02267
+* https://arxiv.org/abs/1712.02301 # Phase transitions in a system of hard Y-shaped particles on the triangular lattice, Dipanjan Mandal, Trisha Nath, R. Rajesh
+https://arxiv.org/abs/1712.01850
+
+https://arxiv.org/abs/1712.01844
+* https://arxiv.org/abs/1712.01854 # Exact solution of a two-species quantum dimer model for pseudogap metals, Johannes Feldmeier, Sebastian Huber, Matthias Punk
+https://arxiv.org/abs/1712.01884
+https://arxiv.org/abs/1712.01904
+https://arxiv.org/abs/1712.01908
+https://arxiv.org/abs/1712.01923
+https://arxiv.org/abs/1712.01968
+https://arxiv.org/abs/1712.02002
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.041057
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.236401
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.237203
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.230402
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.230403
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.230404
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224101
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224408
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235408
+
+
+20171206
+
+https://arxiv.org/abs/1712.01258
+* https://arxiv.org/abs/1712.01260 # Continuous Matrix Product States for Inhomogeneous Quantum Field Theories: a Basis-Spline Approach, Martin Ganahl
+https://arxiv.org/abs/1712.01282
+https://arxiv.org/abs/1712.01289
+https://arxiv.org/abs/1712.01306
+https://arxiv.org/abs/1712.01370
+https://arxiv.org/abs/1712.01348
+https://arxiv.org/abs/1712.01419
+https://arxiv.org/abs/1712.01427
+https://arxiv.org/abs/1712.01430
+* https://arxiv.org/abs/1712.01458 # Tensor Renormalization Group with Randomized Singular Value Decomposition, Satoshi Morita, Ryo Igarashi, Hui-Hai Zhao, Naoki Kawashima
+https://arxiv.org/abs/1712.01475
+https://arxiv.org/abs/1712.01667
+* https://arxiv.org/abs/1712.01669 # Competition between spin-orbit coupling, magnetism, and dimerization in the honeycomb iridates: alpha-Li2IrO3 under pressure, V. Hermann, M. Altmeyer, J. Ebad-Allah, F. Freund, A. Jesche, A. A. Tsirlin, M. Hanfland, P. Gegenwart, I. I. Mazin, D. I. Khomskii, R. Valenti, C. A. Kuntscher
+https://arxiv.org/abs/1712.01678
+* https://arxiv.org/abs/1712.01701 # Dynamical properties of the S=1/2 random Heisenberg chain, Yu-Rong Shu, Maxime Dupont, Dao-Xin Yao, Sylvain Capponi, Anders W. Sandvik
+https://arxiv.org/abs/1708.02704
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245106
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.236402
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.062105
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235107
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235108
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.241101
+
+
+20171205
+
+https://arxiv.org/abs/1712.00308
+https://arxiv.org/abs/1712.00450
+https://arxiv.org/abs/1712.00453
+https://arxiv.org/abs/1712.00467
+https://arxiv.org/abs/1712.00477
+https://arxiv.org/abs/1712.00490
+https://arxiv.org/abs/1712.00515
+https://arxiv.org/abs/1712.00614
+* https://arxiv.org/abs/1712.00740 # Competing phases and topological excitations of spin-one pyrochlore antiferromagnets, Fei Ye Li, Gang Chen
+* https://arxiv.org/abs/1712.00757 # Berezinskii-Kosterlitz-Thouless and Vogel-Fulcher-Tammann criticality in XY model, M. G. Vasin, V. N. Ryzhov, V. M. Vinokur
+https://arxiv.org/abs/1712.00777
+* https://arxiv.org/abs/1712.00876 #  XXZ-Ising model on the triangular kagome lattice with spin-1 on the decorated trimers, Chengkang Zhou, Yuanwei Feng, Jiawei Ruan, Dao-Xin Yao
+https://arxiv.org/abs/1712.00915
+https://arxiv.org/abs/1712.01053
+https://arxiv.org/abs/1712.01067
+* https://arxiv.org/abs/1712.01095 # Resonant inelastic x-ray scattering probes the electron-phonon coupling in the spin-liquid kappa-(BEDT-TTF)2Cu2(CN)3, V. Ilakovac, S. Carniato, P. Foury-Leylekian, S. Tomic, J.-P. Pouget, P. Lazic, Y. Joly, K. Miyagawa, K. Kanoda, A. Nicolaou
+* https://arxiv.org/abs/1712.01148 # Supersymmetry Breaking and Nambu-Goldstone Fermions in Interacting Majorana Chains, Noriaki Sannomiya, Hosho Katsura
+* https://arxiv.org/abs/1712.01212 # Bosonic Integer Quantum Hall States without Landau Levels on Square Lattice, Wanli Liu, Zhiyu Dong, Zhihuan Dong, Chenrong Liu, Wei Yan, Yan Chen
+https://arxiv.org/abs/1712.00456
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224503
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235103
+https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.89.041004
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214402
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.237201
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.214404
+
+
+20171204
+
+https://arxiv.org/abs/1712.00020
+https://arxiv.org/abs/1712.00055
+* https://arxiv.org/abs/1712.00183 # Frustrated antiferromagnetic honeycomb-tunnel-like lattice CuRE2Ge2O8 (RE=Pr, Nd, Sm, and Eu), Hwanbeom Cho, Marie Kratochvilova, Nahyun Lee, Hasung Sim, Je-Geun Park
+* https://arxiv.org/abs/1712.00198 # Spin waves and stability of zigzag order in the Hubbard model with spin-dependent hopping terms - Application to the honeycomb lattice compounds Na2IrO3 and alpha-RuCl3, Shubhajyoti Mohapatra, Avinash Singh
+* https://arxiv.org/abs/1712.00204 # Many body localization-delocalization transition in quantum Sherrington-Kirkpatrick model, Sudip Mukherjee, Sabyasachi Nag, Arti Garg
+* https://arxiv.org/abs/1712.00308 # Anyonic statistics of quantum impurities in two dimensions, Enderalp Yakaboylu, Mikhail Lemeshko
+https://arxiv.org/abs/1712.00366
+https://arxiv.org/abs/1712.00367
+* https://arxiv.org/abs/1712.00371 # Deep Neural Network Detects Quantum Phase Transition, Shunta Arai, Masayuki Ohzeki, Kazuyuki Tanaka
+https://arxiv.org/abs/1712.00392
+https://arxiv.org/abs/1711.11309
+https://arxiv.org/abs/1712.00127
+https://arxiv.org/abs/1712.00446
+
+
+20171202
+
+https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.114501
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.041054
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.220605
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.062103
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224401
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.224402
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235102
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245101
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.227208
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.227601
+
+
+20171201
+
+https://arxiv.org/abs/1711.11042
+https://arxiv.org/abs/1711.11045
+https://arxiv.org/abs/1711.11047
+https://arxiv.org/abs/1711.11049
+
+https://arxiv.org/abs/1711.11050
+https://arxiv.org/abs/1711.11064
+https://arxiv.org/abs/1711.11203
+https://arxiv.org/abs/1711.11228
+* https://arxiv.org/abs/1711.11232 # Topological magnons in a Kagome lattice spin system with XXZ and Dzyaloshinskii-Moriya interactions, Ranjani Seshadri, Diptiman Sen
+* https://arxiv.org/abs/1711.11233 # Nodal S-wave Superconductivity in Antiferromagnetic Semimetals, Wojciech Brzezicki, Mario Cuoco
+* https://arxiv.org/abs/1711.11340 # Nature of optical excitations in the frustrated kagome compound Herbertsmithite, Andrej Pustogow, Ying Li, Ievgen Voloshenko, Pascal Puphal, Cornelius Krellner, Igor I. Mazin, Martin Dressel, Roser Valenti
+https://arxiv.org/abs/1711.11346
+https://arxiv.org/abs/1711.11382
+* https://arxiv.org/abs/1711.11401 # Tensor-network study of quantum phase transition on Sierpinski fractal, Yoju Lee, Roman Krcmar, Jozef Genzor, Tomotoshi Nishino, Andrej Gendiar
+
+* https://arxiv.org/abs/1711.11418 # mVMC - Open-source software for many-variable variational Monte Carlo method, Takahiro Misawa, Satoshi Morita, Kazuyoshi Yoshimi, Mitsuaki Kawamura, Yuichi Motoyama, Kota Ido, Takahiro Ohgoe, Masatoshi Imada, Takeo Kato
+https://arxiv.org/abs/1711.11425
+https://arxiv.org/abs/1711.11540
+https://arxiv.org/abs/1711.11557
+https://arxiv.org/abs/1711.11571
+https://arxiv.org/abs/1711.11580
+https://arxiv.org/abs/1711.11587
+* https://arxiv.org/abs/1711.11589 # Symmetry indicators and anomalous surface states of topological crystalline insulators, Eslam Khalaf, Hoi Chun Po, Ashvin Vishwanath, Haruki Watanabe
+https://arxiv.org/abs/1711.11240
+https://arxiv.org/abs/1711.11499
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.041052
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.225302
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.227401
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.227701
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.201115

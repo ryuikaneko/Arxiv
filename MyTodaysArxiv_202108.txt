@@ -1,0 +1,588 @@
+20210831
+
+https://arxiv.org/abs/2108.00031
+https://arxiv.org/abs/2108.12441
+https://arxiv.org/abs/2108.12525
+* https://arxiv.org/abs/2108.12559 # Dynamic properties of collective excitations in twisted bilayer Graphene, Gaopei Pan, Xu Zhang, Heqiu Li, Kai Sun, Zi Yang Meng
+* https://arxiv.org/abs/2108.12583 # Power-Law Random Banded Matrix Ensemble as the Effective Model for Many-Body Localization Transition, Wen-Jia Rao
+* https://arxiv.org/abs/2108.12584 # Magnetic phase diagrams of the spin-12 Heisenberg model on a kagome-strip chain: Emergence of a Haldane phase, Katsuhiro Morita, Shigetoshi Sota, Takami Tohyama
+https://arxiv.org/abs/2108.12614
+https://arxiv.org/abs/2108.12683
+https://arxiv.org/abs/2108.12686
+https://arxiv.org/abs/2108.12688
+https://arxiv.org/abs/2108.12689
+
+* https://arxiv.org/abs/2108.12747 # Fragility of the nematic spin liquid induced by diagonal couplings in the square-lattice SU(3) model, Xiao-Tian Zhang, Wen-Jun Hu, Elbio Dagotto, Shoushu Gong
+https://arxiv.org/abs/2108.12761
+https://arxiv.org/abs/2108.12803
+https://arxiv.org/abs/2108.12850
+* https://arxiv.org/abs/2108.12860 # Symmetry-protected quantization of complex Berry phases in non-Hermitian systems, Shoichi Tsubota, Hong Yang, Yutaka Akagi, Hosho Katsura
+https://arxiv.org/abs/2108.12884
+https://arxiv.org/abs/2108.12915
+https://arxiv.org/abs/2108.12945
+https://arxiv.org/abs/2108.12950
+https://arxiv.org/abs/2108.13000
+
+https://arxiv.org/abs/2108.13047
+https://arxiv.org/abs/2108.13065
+https://arxiv.org/abs/2108.13133
+https://arxiv.org/abs/2108.13137
+https://arxiv.org/abs/2108.13187
+https://arxiv.org/abs/2108.13219
+https://arxiv.org/abs/2108.13355
+https://arxiv.org/abs/2108.13411
+* https://arxiv.org/abs/2108.13375 # Benchmarking variational quantum eigensolvers for the square-octagon-lattice Kitaev model, Andy C. Y. Li, M. Sohaib Alam, Thomas Iadecola, Ammar Jahin, Doga Murat Kurkcuoglu, Richard Li, Peter P. Orth, A. Baris Ozguler, Gabriel N. Perdue
+* https://arxiv.org/abs/2108.13401 # A quantum-classical eigensolver using multiscale entanglement renormalization, Qiang Miao, Thomas Barthel
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.054440
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.064447
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075448
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085152
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085439
+
+
+20210830
+
+https://arxiv.org/abs/2108.11964
+https://arxiv.org/abs/2108.11973
+https://arxiv.org/abs/2108.12012
+
+https://arxiv.org/abs/2108.12131
+https://arxiv.org/abs/2108.12133
+https://arxiv.org/abs/2108.12135
+https://arxiv.org/abs/2108.12169
+* https://arxiv.org/abs/2108.12209 # Exponential clustering of bipartite quantum entanglement at arbitrary temperatures, Tomotaka Kuwahara, Keiji Saito
+https://arxiv.org/abs/2108.12256
+https://arxiv.org/abs/2108.12372
+* https://arxiv.org/abs/2108.12378 # Probing infinite many-body quantum systems with finite size quantum simulators, Viacheslav Kuzmin, Torsten V. Zache, Lorenzo Pastori, Alessio Celi, Mikhail Baranov, Peter Zoller
+https://arxiv.org/abs/2108.12416
+https://arxiv.org/abs/2108.12416
+
+https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.024051
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033198
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033195
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.023323
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075154
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.090602
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.097003
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.097002
+
+
+20210827
+
+https://arxiv.org/abs/2108.11392
+https://arxiv.org/abs/2108.11406
+https://arxiv.org/abs/2108.11418
+https://arxiv.org/abs/2108.11419
+https://arxiv.org/abs/2108.11421
+https://arxiv.org/abs/2108.11425
+https://arxiv.org/abs/2108.11428
+https://arxiv.org/abs/2108.11464
+
+https://arxiv.org/abs/2108.11478
+* https://arxiv.org/abs/2108.11566 # Non-monotonic behavior of the Binder Parameter in the systems with the Potts symmetry, Hiroshi Watanabe, Yuichi Motoyama, Satoshi Morita, Naoki Kawashima
+* https://arxiv.org/abs/2108.11585 # Replica symmetry breaking in the RKKY skyrmion crystal system, Kota Mitsumoto, Hikaru Kawamura
+https://arxiv.org/abs/2108.11594
+https://arxiv.org/abs/2108.11654
+https://arxiv.org/abs/2108.11849
+https://arxiv.org/abs/2108.11850
+https://arxiv.org/abs/2108.11905
+https://arxiv.org/abs/2108.11917
+https://arxiv.org/abs/2108.11416
+
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.024134
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075150
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075152
+
+
+20210826
+
+https://arxiv.org/abs/2108.10894
+https://arxiv.org/abs/2108.10895
+https://arxiv.org/abs/2108.10897
+https://arxiv.org/abs/2108.10903
+https://arxiv.org/abs/2108.10935
+https://arxiv.org/abs/2108.10978
+https://arxiv.org/abs/2108.11008
+* https://arxiv.org/abs/2108.11009 # Projected entangled pair states study of anisotropic-exchange magnets on triangular lattice, Meng Zhang, Chao Wang, Shaojun Dong, Hao Zhang, Yongjian Han, Lixin He
+* https://arxiv.org/abs/2108.11051 # Tensor-network study of correlation-spreading dynamics in the two-dimensional Bose-Hubbard model, Ryui Kaneko, Ippei Danshita
+
+https://arxiv.org/abs/2108.11109
+https://arxiv.org/abs/2108.11110
+https://arxiv.org/abs/2108.11138
+https://arxiv.org/abs/2108.11174
+https://arxiv.org/abs/2108.11180
+* https://arxiv.org/abs/2108.11273 # Scaling Theories of Kosterlitz-Thouless Phase Transitions, Zhiyao Zuo, Shuai Yin, Xuanmin Cao, Fan Zhong
+https://arxiv.org/abs/2108.11306
+https://arxiv.org/abs/2108.10927
+https://arxiv.org/abs/2108.10964
+https://arxiv.org/abs/2108.11198
+
+https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.030334
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031043
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033190
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.064310
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085147
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.064510
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075148
+
+
+20210825
+
+* https://arxiv.org/abs/2108.10324 # Hilbert Space Fragmentation and Commutant Algebras, Sanjay Moudgalya, Olexei I. Motrunich
+https://arxiv.org/abs/2108.10852
+https://arxiv.org/abs/2108.10325
+
+https://arxiv.org/abs/2108.10327
+* https://arxiv.org/abs/2108.10329 # The case of SU(3) criticality in spin-2 chains, Chengshu Li, Victor Luiz Quito, Eduardo Miranda, Rodrigo Pereira, Ian Affleck, Pedro L. S. Lopes
+https://arxiv.org/abs/2108.10333
+https://arxiv.org/abs/2108.10372
+https://arxiv.org/abs/2108.10495
+* https://arxiv.org/abs/2108.10780 # Unraveling correlated materials' properties with noisy quantum computers: Natural-orbitalized variational quantum eigensolving of extended impurity models within a slave-boson approach, Pauline Besserve, Thomas Ayral
+https://arxiv.org/abs/2108.10838
+https://arxiv.org/abs/2108.10874
+https://arxiv.org/abs/2108.10434
+https://arxiv.org/abs/2108.10435
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033188
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.L032051
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.096802
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.090601
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085144
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085145
+
+
+20210824
+
+https://arxiv.org/abs/2108.09308
+* https://arxiv.org/abs/2108.09309 # Microscopic characterization of Ising conformal field theory in Rydberg chains, Kevin Slagle, David Aasen, Hannes Pichler, Roger S. K. Mong, Paul Fendley, Xie Chen, Manuel Endres, Jason Alicea
+https://arxiv.org/abs/2108.09341
+https://arxiv.org/abs/2108.09366
+https://arxiv.org/abs/2108.09525
+https://arxiv.org/abs/2108.09532
+https://arxiv.org/abs/2108.09547
+https://arxiv.org/abs/2108.09575
+* https://arxiv.org/abs/2108.09664 # New Trends in Quantum Machine Learning, Lorenzo Buffoni, Filippo Caruso
+https://arxiv.org/abs/2108.09683
+
+https://arxiv.org/abs/2108.09693
+https://arxiv.org/abs/2108.09866
+https://arxiv.org/abs/2108.09883
+* https://arxiv.org/abs/2108.09966 # Fidelity and entanglement entropy for infinite-order phase transitions, Jin Zhang
+https://arxiv.org/abs/2108.10002
+https://arxiv.org/abs/2108.10020
+https://arxiv.org/abs/2108.10114
+https://arxiv.org/abs/2108.10139
+https://arxiv.org/abs/2108.09324
+https://arxiv.org/abs/2108.09812
+
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025308
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.L032049
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.029906
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.022611
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L081407
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085142
+
+
+20210823
+
+https://arxiv.org/abs/2108.08854
+https://arxiv.org/abs/2108.08855
+https://arxiv.org/abs/2108.08861
+https://arxiv.org/abs/2108.08878
+https://arxiv.org/abs/2108.08893
+* https://arxiv.org/abs/2108.08974 # Quantum Critical Points and the Sign Problem, Rubem Mondaini, Sabyasachi Tarat, Richard T. Scalettar
+* https://arxiv.org/abs/2108.09120 # Arc nematic phase in the J1-J2-J3 classical Heisenberg model on the triangular lattice, Cecilie Glittum, Olav F. Syljuasen
+* https://arxiv.org/abs/2108.09197 # Scalable error mitigation for noisy quantum circuits produces competitive expectation values, Youngseok Kim, Christopher J. Wood, Theodore J. Yoder, Seth T. Merkel, Jay M. Gambetta, Kristan Temme, Abhinav Kandala
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.064437
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085138
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075137
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075136
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033179
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033168
+
+
+20210820
+
+https://arxiv.org/abs/2108.08312
+https://arxiv.org/abs/2108.08316
+* https://arxiv.org/abs/2108.08319 # Precise Hamiltonian identification of a superconducting quantum processor, Dominik Hangleiter, Ingo Roth, Jens Eisert, Pedram Roushan
+https://arxiv.org/abs/2108.08374
+https://arxiv.org/abs/2108.08458
+https://arxiv.org/abs/2108.08514
+https://arxiv.org/abs/2108.08526
+
+https://arxiv.org/abs/2108.08630
+* https://arxiv.org/abs/2108.08631 # Determinant-free fermionic wave function using feed-forward neural network, Koji Inui, Yasuyuki Kato, Yukitoshi Motome
+https://arxiv.org/abs/2108.08632
+* https://arxiv.org/abs/2108.08801 # Schwinger-Boson mean-field study of spin-1/2 J1-J2-Jchi model in honeycomb lattice: thermal Hall signature, Rohit Mukherjee, Ritajit Kundu, Avinash Singh, Arijit Kundu
+https://arxiv.org/abs/2108.08808
+https://arxiv.org/abs/2108.08824
+https://arxiv.org/abs/2108.08833
+https://arxiv.org/abs/2108.08835
+https://arxiv.org/abs/2108.08840
+* https://arxiv.org/abs/2108.08611 # Solving the Hubbard model using density matrix embedding theory and the variational quantum eigensolver, Lana Mineh, Ashley Montanaro
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.087201
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075135
+
+
+20210819
+
+https://arxiv.org/abs/2108.07813
+https://arxiv.org/abs/2108.07816
+* https://arxiv.org/abs/2108.07817 # Deformed Symmetry Structures and Quantum Many-body Scar Subspaces, Jie Ren, Chenguang Liang, Chen Fang
+https://arxiv.org/abs/2108.07860
+
+https://arxiv.org/abs/2108.07893
+https://arxiv.org/abs/2108.07909
+https://arxiv.org/abs/2108.07999
+https://arxiv.org/abs/2108.08060
+https://arxiv.org/abs/2108.08069
+https://arxiv.org/abs/2108.08099
+* https://arxiv.org/abs/2108.08268 # Fermionic Quantum Circuits Reproduce Experimental Two-dimensional Many-body Localization Transition Point, Joey Li, Amos Chan, Thorsten B. Wahl
+* https://arxiv.org/abs/2108.08086 # Probing ground state properties of the kagome antiferromagnetic Heisenberg model using the Variational Quantum Eigensolver, Jan Lukas Bosse, Ashley Montanaro
+https://arxiv.org/abs/2108.08176
+https://arxiv.org/abs/2108.08248
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075132
+
+
+20210818
+
+https://arxiv.org/abs/2108.07271
+* https://arxiv.org/abs/2108.07272 # (Classical) Prethermal phases of matter in dimension 1, 2, and 3, Andrea Pizzi, Andreas Nunnenkamp, Johannes Knolle
+* https://arxiv.org/abs/2108.07273 # Driven-dissipative criticality within the discrete truncated Wigner approximation, Vijay Pal Singh, Hendrik Weimer
+
+https://arxiv.org/abs/2108.07409
+https://arxiv.org/abs/2108.07500
+https://arxiv.org/abs/2108.07585
+https://arxiv.org/abs/2108.07641
+https://arxiv.org/abs/2108.07722
+https://arxiv.org/abs/2108.07733
+https://arxiv.org/abs/2108.07738
+https://arxiv.org/abs/2108.07753
+* https://arxiv.org/abs/2108.07765 # Construction of Fractal Order and Phase Transition with Rydberg Atoms, Nayan E. Myerson-Jain, Stephen Yan, David Weld, Cenke Xu
+https://arxiv.org/abs/2108.05937
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.080602
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.086801
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075130
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L081109
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085130
+
+
+20210817
+
+* https://arxiv.org/abs/2108.06346 # Exotic quantum criticality in Dirac systems: Metallic and deconfined, Zi Hong Liu, Matthias Vojta, Fakher F. Assaad, Lukas Janssen
+https://arxiv.org/abs/2108.06465
+https://arxiv.org/abs/2108.06588
+* https://arxiv.org/abs/2108.06676 # Coexistence of non-Abelian chiral spin liquid and magnetic order in a spin-1 antiferromagnet, Yixuan Huang, W. Zhu, Shou-Shu Gong, Hong-Chen Jiang, D. N. Sheng
+
+https://arxiv.org/abs/2108.06725
+* https://arxiv.org/abs/2108.06762 # Observation of many-body localization in an experimental quantum annealer, Jaime L. C. da C. Filho, Zoe Gonzalez Izquierdo, Andreia Saguia, Tameem Albash, Itay Hen, Marcelo S. Sarandy
+https://arxiv.org/abs/2108.06826
+* https://arxiv.org/abs/2108.06856 # Simulation of the Ring-exchange Models with Projected Entangled Pair States, Chao Wang, Shaojun Dong, Yongjian Han, Lixin He
+* https://arxiv.org/abs/2108.06961 # Effects of spin-lattice coupling and a magnetic field in classical Heisenberg antiferromagnets on the breathing pyrochlore lattice, Kazushi Aoyama, Masaki Gen, Hikaru Kawamura
+https://arxiv.org/abs/2108.07055
+https://arxiv.org/abs/2108.07235
+https://arxiv.org/abs/2108.07254
+https://arxiv.org/abs/2108.06831
+https://arxiv.org/abs/2108.07171
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.L032047
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.024118
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025305
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.022607
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.054512
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075127
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085128
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085129
+
+20210816
+
+* https://arxiv.org/abs/2108.05906 # Stirring by Staring: Measurement Induced Chirality, Matthew Wampler, Brian J. J. Khor, Gil Refael, Israel Klich
+https://arxiv.org/abs/2108.05922
+https://arxiv.org/abs/2108.05933
+https://arxiv.org/abs/2108.05959
+https://arxiv.org/abs/2108.05975
+https://arxiv.org/abs/2108.06047
+
+https://arxiv.org/abs/2108.06177
+https://arxiv.org/abs/2108.05937
+https://arxiv.org/abs/2108.06061
+https://arxiv.org/abs/2108.06124
+https://arxiv.org/abs/2108.06150
+https://arxiv.org/abs/2108.06186
+https://arxiv.org/abs/2108.06224
+https://arxiv.org/abs/2108.06271
+https://arxiv.org/abs/2108.06252
+https://arxiv.org/abs/2108.06261
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031035
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.070403
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085123
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L081107
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075120
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075121
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085122
+
+
+20210813
+
+https://arxiv.org/abs/2108.05360
+https://arxiv.org/abs/2108.05365
+https://arxiv.org/abs/2108.05366
+https://arxiv.org/abs/2108.05373
+https://arxiv.org/abs/2108.05375
+
+https://arxiv.org/abs/2108.05426
+https://arxiv.org/abs/2108.05468
+https://arxiv.org/abs/2108.05493
+https://arxiv.org/abs/2108.05559
+* https://arxiv.org/abs/2108.05594 # Spatio-temporal heterogeneities of entanglement in the many-body localized phase, Claudia Artiaco, Federico Balducci, Markus Heyl, Angelo Russomanno, Antonello Scardicchio
+* https://arxiv.org/abs/2108.05737 # Neural Networks as Universal Probes of Many-Body Localization in Quantum Graphs, Cameron Beetar, Jeff Murugan, Dario Rosa
+https://arxiv.org/abs/2108.05760
+https://arxiv.org/abs/2108.05810
+https://arxiv.org/abs/2108.05823
+https://arxiv.org/abs/2108.05843
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031034
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085120
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.064422
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075119
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085121
+
+
+20210812
+
+https://arxiv.org/abs/2108.04831
+* https://arxiv.org/abs/2108.04832 # Projection of Infinite-U Hubbard Model and Algebraic Sign Structure, Yunqing Ouyang, Xiao Yan Xu
+https://arxiv.org/abs/2108.04834
+https://arxiv.org/abs/2108.04844
+https://arxiv.org/abs/2108.04845
+https://arxiv.org/abs/2108.04846
+
+https://arxiv.org/abs/2108.04875
+https://arxiv.org/abs/2108.04971
+https://arxiv.org/abs/2108.04997
+* https://arxiv.org/abs/2108.05040 # Instabilities of spin-one Kitaev Spin Liquid phase in presence of single-ion anisotropies, Owen Bradley, Rajiv R. P. Singh
+https://arxiv.org/abs/2108.05044
+* https://arxiv.org/abs/2108.05113 # Quantum Many-Body Scars and Quantum Criticality, Zhiyuan Yao, Lei Pan, Shang Liu, Hui Zhai
+https://arxiv.org/abs/2108.05155
+* https://arxiv.org/abs/2108.05334 # SU(4) symmetry in twisted bilayer graphene - an itinerant perspective, Dmitry V. Chichinadze, Laura Classen, Yuxuan Wang, Andrey V. Chubukov
+https://arxiv.org/abs/2108.0484
+https://arxiv.org/abs/2108.05288
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033140
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085117
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.054415
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075114
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085116
+
+
+20210811
+
+* https://arxiv.org/abs/2108.04244 # Distinguishing an Anderson Insulator from a Many-Body Localized phase through space-time snapshots with Neural Networks, Florian Kotthoff, Frank Pollmann, Giuseppe De Tomasi
+https://arxiv.org/abs/2108.04252
+* https://arxiv.org/abs/2108.04256 # Continuous Gaussian Measurements of the Free Boson CFT: An Exactly Solvable Model, Y. Minoguchi, P. Rabl, M. Buchhold
+https://arxiv.org/abs/2108.04261
+https://arxiv.org/abs/2108.04274
+
+https://arxiv.org/abs/2108.04277
+* https://arxiv.org/abs/2108.04320 # Gapless excitations in field-induced Kitaev spin liquids with line defects, Lucas R. D. Freitas, Rodrigo G. Pereira
+https://arxiv.org/abs/2108.04372
+https://arxiv.org/abs/2108.04435
+https://arxiv.org/abs/2108.04574
+https://arxiv.org/abs/2108.04697
+https://arxiv.org/abs/2108.04703
+https://arxiv.org/abs/2108.04758
+https://arxiv.org/abs/2108.04799
+https://arxiv.org/abs/2108.04413
+
+https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.083802
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075112
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075113
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L081106
+
+
+20210810
+
+* https://arxiv.org/abs/2108.03246 # Signatures of a Majorana-Fermi surface in the Kitaev magnet Ag3LiIr2O6, Joshuah T. Heath, Faranak Bahrami, Sangyun Lee, Roman Movshovich, Xiao Chen, Fazel Tafti, Kevin S. Bedell
+https://arxiv.org/abs/2108.03249
+* https://arxiv.org/abs/2108.03251 # Identifying Correlation Clusters in Many-Body Localized Systems, Kevin Hemery, Frank Pollmann, Adam Smith
+* https://arxiv.org/abs/2108.03313 # Non-local interactions in moire Hubbard systems, Nicolas Morales-Duran, Nai Chao Hu, Pawel Potasz, Allan H. MacDonald
+* https://arxiv.org/abs/2108.03314 # Fulde-Ferrel-Larkin-Ovchinnikov phase in one dimensional Fermi gas with attractive interactions and transverse spin-orbit coupling, Monalisa Singh Roy, Manoranjan Kumar
+https://arxiv.org/abs/2108.03338
+* https://arxiv.org/abs/2108.03409 # JVMC: Versatile and performant variational Monte Carlo leveraging automated differentiation and GPU acceleration, Markus Schmitt, Moritz Reh
+* https://arxiv.org/abs/2108.03460 # Weak ergodicity breaking through the lens of quantum entanglement, Zlatko Papic
+
+https://arxiv.org/abs/2108.03521
+https://arxiv.org/abs/2108.03547
+https://arxiv.org/abs/2108.03607
+https://arxiv.org/abs/2108.03633
+https://arxiv.org/abs/2108.03811
+https://arxiv.org/abs/2108.03835
+https://arxiv.org/abs/2108.03927
+https://arxiv.org/abs/2108.03960
+* https://arxiv.org/abs/2108.03976 # Confinement induced impurity states in spin chains, Joseph Vovrosh, Hongzheng Zhao, Johannes Knolle, Alvise Bastianello
+* https://arxiv.org/abs/2108.04118 # Strong pairing in mixed dimensional bilayer antiferromagnetic Mott insulators, Annabelle Bohrdt, Lukas Homeier, Immanuel Bloch, Eugene Demler, Fabian Grusdt
+
+* https://arxiv.org/abs/2108.04153 # Universal thermodynamics of an SU(N) Fermi-Hubbard Model, Eduardo Ibarra-Garcia-Padilla, Sohail Dasgupta, Hao-Tian Wei, Shintaro Taie, Yoshiro Takahashi, Richard T. Scalettar, Kaden R. A. Hazzard
+https://arxiv.org/abs/2108.04179
+https://arxiv.org/abs/2108.03282
+https://arxiv.org/abs/2108.03283
+https://arxiv.org/abs/2108.03325
+https://arxiv.org/abs/2108.03351
+https://arxiv.org/abs/2108.03638
+https://arxiv.org/abs/2108.03747
+https://arxiv.org/abs/2108.03954
+https://arxiv.org/abs/2108.04189
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033135
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L060406
+
+
+20210809
+
+* https://arxiv.org/abs/2108.02792 # Quantum Circuits For Two-Dimensional Isometric Tensor Networks, Lucas Slattery, Bryan K. Clark
+* https://arxiv.org/abs/2108.02847 # Gutzwiller-projected states for the J1-J2 Heisenberg model on the kagome lattice: achievements and pitfalls, Yasir Iqbal, Francesco Ferrari, Aishwarya Chauhan, Alberto Parola, Didier Poilblanc, Federico Becca
+https://arxiv.org/abs/2108.02862
+https://arxiv.org/abs/2108.02911
+https://arxiv.org/abs/2108.03010
+https://arxiv.org/abs/2108.03118
+* https://arxiv.org/abs/2108.03142 # Particle fluctuations and the failure of simple effective models for many-body localized phases, Maximilian Kiefer-Emmanouilidis, Razmik Unanyan, Michael Fleischhauer, Jesko Sirker
+https://arxiv.org/abs/2108.03174
+https://arxiv.org/abs/2108.03175
+https://arxiv.org/abs/2108.02942
+https://arxiv.org/abs/2108.03193
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.060602
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L060302
+
+
+20210806
+
+https://arxiv.org/abs/2108.02203
+https://arxiv.org/abs/2108.02205
+https://arxiv.org/abs/2108.02212
+* https://arxiv.org/abs/2108.02215 # Fate of Algebraic Many-Body Localization under driving, Heiko Burau, Markus Heyl, Giuseppe De Tomasi
+https://arxiv.org/abs/2108.02219
+* https://arxiv.org/abs/2108.02225 # Entanglement Entropy Transitions with Random Tensor Networks, Ryan Levy, Bryan K. Clark
+* https://arxiv.org/abs/2108.02414 # Correlation function in interacting flat-band models constructed by molecular-orbital representation, Tomonari Mizoguchi, Yoshihito Kuno, Yasuhiro Hatsugai
+https://arxiv.org/abs/2108.02450
+https://arxiv.org/abs/2108.02504
+https://arxiv.org/abs/2108.02205
+https://arxiv.org/abs/2108.02395
+https://arxiv.org/abs/2108.02661
+
+
+20210805
+
+https://arxiv.org/abs/2108.01669
+https://arxiv.org/abs/2108.01676
+https://arxiv.org/abs/2108.01677
+https://arxiv.org/abs/2108.01718
+https://arxiv.org/abs/2108.01723
+https://arxiv.org/abs/2108.01729
+https://arxiv.org/abs/2108.01747
+* https://arxiv.org/abs/2108.01882 # Phase transition of an SU(3) symmetric spin-1 chain, Tohru Mashiko, Kiyohide Nomura
+https://arxiv.org/abs/2108.01932
+
+https://arxiv.org/abs/2108.01933
+https://arxiv.org/abs/2108.01934
+https://arxiv.org/abs/2108.01935
+https://arxiv.org/abs/2108.02108
+https://arxiv.org/abs/2108.02154
+* https://arxiv.org/abs/2108.02159 # Competing magnetic states in transition metal dichalcogenide moire materials, Nai Chao Hu, Allan H. MacDonald
+* https://arxiv.org/abs/2108.02175 # Variational quantum eigensolver for the Heisenberg antiferromagnet on the kagome lattice, Joris Kattemoelle, Jasper van Wezel
+* https://arxiv.org/abs/2108.01725 # A unified framework of transformations based on Jordan-Wigner transformation, Qing-Song Li, Huan-Yu Liu, Qingchun Wang, Yu-Chun Wu, Guo-Ping Guo
+https://arxiv.org/abs/2108.02200
+https://arxiv.org/abs/2108.02201
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.060601
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.023304
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.054201
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.085105
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.064406
+
+
+20210804
+
+https://arxiv.org/abs/2108.01086
+https://arxiv.org/abs/2108.01096
+https://arxiv.org/abs/2108.01097
+https://arxiv.org/abs/2108.01112
+https://arxiv.org/abs/2108.01121
+https://arxiv.org/abs/2108.01131
+https://arxiv.org/abs/2108.01217
+https://arxiv.org/abs/2108.01218
+
+* https://arxiv.org/abs/2108.01238 # Nonergodic dynamics of the one-dimensional Bose-Hubbard model with a trapping potential, Masaya Kunimi, Ippei Danshita
+https://arxiv.org/abs/2108.01258
+* https://arxiv.org/abs/2108.01315 # Multipolar ordering in the three-orbital Hubbard model, Naoya Chikano, Shintaro Hoshino, Hiroshi Shinaoka
+https://arxiv.org/abs/2108.01401
+https://arxiv.org/abs/2108.01402
+https://arxiv.org/abs/2108.01460
+https://arxiv.org/abs/2108.01509
+https://arxiv.org/abs/2108.01560
+https://arxiv.org/abs/2108.01109
+https://arxiv.org/abs/2108.01183
+
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.025003
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075103
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075104
+
+
+20210803
+
+https://arxiv.org/abs/2108.00604
+https://arxiv.org/abs/2108.00002
+
+https://arxiv.org/abs/2108.00008
+https://arxiv.org/abs/2108.00009
+https://arxiv.org/abs/2108.00018
+https://arxiv.org/abs/2108.00063
+https://arxiv.org/abs/2108.00064
+https://arxiv.org/abs/2108.00311
+https://arxiv.org/abs/2108.00472
+* https://arxiv.org/abs/2108.00553 # Importance Sampling and the Sign Problem, S. Tarat, Bo Xiao, R. Mondaini, R. T. Scalettar
+https://arxiv.org/abs/2108.00607
+https://arxiv.org/abs/2108.00617
+
+https://arxiv.org/abs/2108.00623
+https://arxiv.org/abs/2108.00636
+https://arxiv.org/abs/2108.00674
+* https://arxiv.org/abs/2108.00681 # Quasi-fractionalization of spin in a cluster-based Haldane state supported by chirality of a triangular spin tube, Takanori Sugimoto, Takami Tohyama
+https://arxiv.org/abs/2108.00685
+https://arxiv.org/abs/2108.00961
+https://arxiv.org/abs/2108.00972
+https://arxiv.org/abs/2108.01010
+https://arxiv.org/abs/2108.00022
+https://arxiv.org/abs/2108.00031
+
+https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.030318
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.054401
+
+
+20210802
+
+* https://arxiv.org/abs/2107.14249 # Strain tuning of highly frustrated magnets: Order and disorder in the distorted kagome Heisenberg antiferromagnet, Mary Madelynn Nayga, Matthias Vojta
+https://arxiv.org/abs/2107.14271
+https://arxiv.org/abs/2107.14311
+https://arxiv.org/abs/2107.14454
+* https://arxiv.org/abs/2107.14459 # Microwave-engineering of programmable XXZ Hamiltonians in arrays of Rydberg atoms, P. Scholl, H. J. Williams, G. Bornet, F. Wallner, D. Barredo, T. Lahaye, A. Browaeys, L. Henriet, A. Signoles, C. Hainaut, T. Franz, S. Geier, A. Tebben, A. Salzinger, G. Zuern, M. Weidemueller
+https://arxiv.org/abs/2107.14474
+https://arxiv.org/abs/2107.14505
+https://arxiv.org/abs/2107.14637
+* https://arxiv.org/abs/2107.14647 # Finite-size scalings in measurement-induced dynamical phase transition, Ranjan Modak, Debraj Rakshit, Ujjwal Sen
+https://arxiv.org/abs/2107.14716
+https://arxiv.org/abs/2107.14620
+
+https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.030317
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.050602
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.L032030
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.012432
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.045151
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.035161

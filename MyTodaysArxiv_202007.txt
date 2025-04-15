@@ -1,0 +1,563 @@
+20200731
+
+https://arxiv.org/abs/2007.15002
+https://arxiv.org/abs/2007.15011
+https://arxiv.org/abs/2007.15028
+* https://arxiv.org/abs/2007.15035 # Time-dependent variational principle of mixed matrix product states in the thermodynamic limit, Yantao Wu
+https://arxiv.org/abs/2007.15164
+https://arxiv.org/abs/2007.15166
+
+* https://arxiv.org/abs/2007.15175 # Antiferromagnetic transitions of Dirac fermions in three dimensions, Yiqun Huang, Huaiming Guo, Joseph Maciejko, Richard T. Scalettar, Shiping Feng
+https://arxiv.org/abs/2007.15200
+* https://arxiv.org/abs/2007.15371 # Quantum Cellular Automata, Tensor Networks, and Area Laws, Lorenzo Piroli, J. Ignacio Cirac
+https://arxiv.org/abs/2007.15372
+* https://arxiv.org/abs/2007.15477 # Machine-Learning Study using Improved Correlation Configuration and Application to Quantum Monte Carlo Simulation, Yusuke Tomita, Kenta Shiina, Yutaka Okabe, Hwee Kuan Lee
+* https://arxiv.org/abs/2007.15487 # Superconductivity in twisted multilayer graphene: a smoking gun in recent condensed matter physics, Yonghuan Chu, Fangduo Zhu, Linzhi Wen, Wanying Chen, Qiaoni Chen, Tianxing Ma
+https://arxiv.org/abs/2007.15489
+* https://arxiv.org/abs/2007.15577 # Phase Diagram of a Spin-ice Kondo Lattice Model in a Breathing Pyrochlore Lattice, Munir Shahzad, Kipton Barros, Stephanie H. Curnoe
+https://arxiv.org/abs/2007.15636
+https://arxiv.org/abs/2007.15641
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014455
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014315
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.024522
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035161
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035163
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041126
+
+
+20200730
+
+* https://arxiv.org/abs/2007.14406 # Variational wave functions for the spin-Peierls transition in the Su-Schrieffer-Heeger model with quantum phonons, Francesco Ferrari, Roser Valenti, Federico Becca
+* https://arxiv.org/abs/2007.14409 # Interacting double dimer model on the square lattice, Neil Wilkins, Stephen Powell
+https://arxiv.org/abs/2007.14498
+https://arxiv.org/abs/2007.14540
+* https://arxiv.org/abs/2007.14809 # Machine learning phases and criticalities without using real data for training, D.-R. Tan, F.-J. Jiang
+* https://arxiv.org/abs/2007.14822 # The ITensor Software Library for Tensor Network Calculations, Matthew Fishman, Steven R. White, E. Miles Stoudenmire
+https://arxiv.org/abs/2007.14923
+https://arxiv.org/abs/2007.14982
+* https://arxiv.org/abs/2007.14397 # Quantum entanglement recognition, Jun Yong Khoo, Markus Heyl
+https://arxiv.org/abs/2007.14460
+https://arxiv.org/abs/2007.14608
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033168
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.032027
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035441
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041124
+
+
+20200729
+
+https://arxiv.org/abs/2007.13837
+https://arxiv.org/abs/2007.14315
+https://arxiv.org/abs/2007.13738
+* https://arxiv.org/abs/2007.13759 # Z2 parton phases in the mixed-dimensional t-Jz model, Fabian Grusdt, Lode Pollet
+* https://arxiv.org/abs/2007.13767 # Is there slow particle transport in the MBL phase?, David J. Luitz, Yevgeny Bar Lev
+https://arxiv.org/abs/2007.13769
+https://arxiv.org/abs/2007.13783
+* https://arxiv.org/abs/2007.13785 # Gapless state of interacting Majorana fermions in a strain-induced Landau level, Adhip Agarwala, Subhro Bhattacharjee, Johannes Knolle, Roderich Moessner
+https://arxiv.org/abs/2007.13788
+https://arxiv.org/abs/2007.13790
+
+https://arxiv.org/abs/2007.13820
+https://arxiv.org/abs/2007.13940
+https://arxiv.org/abs/2007.13983
+https://arxiv.org/abs/2007.14056
+https://arxiv.org/abs/2007.14100
+https://arxiv.org/abs/2007.14257
+* https://arxiv.org/abs/2007.14282 # Variational Monte Carlo calculations of A<=4 nuclei with an artificial neural-network correlator ansatz, Corey Adams, Giuseppe Carleo, Alessandro Lovato, Noemi Rocco
+https://arxiv.org/abs/2007.14338
+* https://arxiv.org/abs/2007.14356 # Temperature scaling in nonequilibrium relaxation in three-dimensional Heisenberg model in the Swendsen-Wang and Metropolis algorithms, Yoshihiko Nonomura, Yusuke Tomita
+https://arxiv.org/abs/2007.14378
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033154
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035157
+
+
+20200728
+
+https://arxiv.org/abs/2007.12689
+https://arxiv.org/abs/2007.12708
+* https://arxiv.org/abs/2007.12715 # Amplitude Mode in Quantum Magnets via Dimensional Crossover, Chengkang Zhou, Zheng Yan, Kai Sun, Oleg A. Starykh, Zi Yang Meng
+https://arxiv.org/abs/2007.12886
+https://arxiv.org/abs/2007.13142
+* https://arxiv.org/abs/2007.13528 # Dynamically Evolving Bond-Dimensions within the one-site Time-Dependent-Variational-Principle method for Matrix Product States: Towards efficient simulation of non-equilibrium open quantum dynamics, Angus J. Dunnett, Alex W. Chin
+https://arxiv.org/abs/2007.13556
+* https://arxiv.org/abs/2007.13607 # Finite-size scaling analysis of two-dimensional deformed Affleck-Kennedy-Lieb-Tasaki states, Ching-Yu Huang, Yuan-Chun Lu, Pochung Chen
+* https://arxiv.org/abs/2007.13610 # Analytic continuation of the self-energy via Machine Learning techniques, Taegeun Song, Roser Valenti, Hunpyo Lee
+https://arxiv.org/abs/2007.13711
+https://arxiv.org/abs/2007.13720
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.057001
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.057202
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033150
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.020411
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035152
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041402
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014447
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035154
+
+
+20200727
+
+https://arxiv.org/abs/2007.12381
+https://arxiv.org/abs/2007.12188
+* https://arxiv.org/abs/2007.12418 # Quantum Quench and Charge Oscillations in the SU(3) Hubbard Model: a Test of Time Evolving Block Decimation with general non-Abelian Symmetries, Miklos Antal Werner, Catalin Pascu Moca, Ors Legeza, Gergely Zarand
+https://arxiv.org/abs/2007.12504
+https://arxiv.org/abs/2007.12511
+https://arxiv.org/abs/2007.12534
+* https://arxiv.org/abs/2007.12186 # Quantum Go Machine, Lu-Feng Qiao, Jun Gao, Zhi-Qiang Jiao, Zhe-Yong Zhang, Zhu Cao, Ruo-Jing Ren, Chao-Ni Zhang, Cheng-Qiu Hu, Xiao-Yun Xu, Hao Tang, Zhi-Hao Ma, Xian-Min Jin
+* https://arxiv.org/abs/2007.12215 # Quantum Non-equilibrium Many-Body Spin-Photon Systems, Fernando J. Gomez-Ruiz
+
+https://doi.org/10.1093/ptep/ptaa059
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.047204
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014205
+
+
+20200724
+
+https://arxiv.org/abs/2007.11905
+https://arxiv.org/abs/2007.11582
+* https://arxiv.org/abs/2007.11602 # Many-body physics in the NISQ era: quantum programming a discrete time crystal, Matteo Ippoliti, Kostyantyn Kechedzhi, Roderich Moessner, S. L. Sondhi, Vedika Khemani
+* https://arxiv.org/abs/2007.11637 # Vacancy-induced low-energy density of states in the Kitaev spin liquid, Wen-Han Kao, Johannes Knolle, Gabor B. Halasz, Roderich Moessner, Natalia B. Perkins
+https://arxiv.org/abs/2007.11673
+https://arxiv.org/abs/2007.11702
+https://arxiv.org/abs/2007.11711
+https://arxiv.org/abs/2007.11791
+https://arxiv.org/abs/2007.11827
+* https://arxiv.org/abs/2007.11963 # Doped Mott Insulators in the Triangular Lattice Hubbard Model, Zheng Zhu, D. N. Sheng, Ashvin Vishwanath
+https://arxiv.org/abs/2007.12024
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033132
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035147
+
+
+20200723
+
+https://arxiv.org/abs/2007.11061
+* https://arxiv.org/abs/2007.11161 # Triangular Lattice Quantum Dimer Model Redux: Static and Dynamic Properties, Zheng Yan, Yan-Cheng Wang, Nvsen Ma, Yang Qi, Zi Yang Meng
+https://arxiv.org/abs/2007.11174
+* https://arxiv.org/abs/2007.11329 # DSQSS: Discrete Space Quantum Systems Solver, Yuichi Motoyama, Kazuyoshi Yoshimi, Akiko Masaki-Kato, Takeo Kato, Naoki Kawashima
+* https://arxiv.org/abs/2007.11343 # Finite-temperature density-matrix renormalization group method for electron-phonon systems: Thermodynamics and Holstein-polaron spectral functions, David Jansen, Janez Bonca, Fabian Heidrich-Meisner
+https://arxiv.org/abs/2007.11395
+* https://arxiv.org/abs/2007.11212 # Speedup of the Quantum Adiabatic Algorithm using Delocalization Catalysis, Chenfeng Cao, Jian Xue, Nic Shannon, Robert Joynt
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033125
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033116
+
+
+20200722
+
+https://arxiv.org/abs/2007.10357
+https://arxiv.org/abs/2007.10370
+https://arxiv.org/abs/2007.10380
+https://arxiv.org/abs/2007.10414
+https://arxiv.org/abs/2007.10548
+https://arxiv.org/abs/2007.10555
+
+https://arxiv.org/abs/2007.10561
+https://arxiv.org/abs/2007.10597
+https://arxiv.org/abs/2007.10646
+https://arxiv.org/abs/2007.10661
+https://arxiv.org/abs/2007.10708
+https://arxiv.org/abs/2007.10751
+https://arxiv.org/abs/2007.10762
+* https://arxiv.org/abs/2007.10917 # Deep Variational Quantum Eigensolver: a divide-and-conquer method for solving a larger problem with smaller size quantum computers, Keisuke Fujii, Kosuke Mitarai, Wataru Mizukami, Yuya O. Nakagawa
+https://arxiv.org/abs/2007.10347
+https://arxiv.org/abs/2007.10352
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.031016
+https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.014059
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033110
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033109
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033111
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033112
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.047201
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.040602
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014308
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014310
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035139
+
+
+20200721
+
+https://arxiv.org/abs/2007.09974
+https://arxiv.org/abs/2007.09151
+https://arxiv.org/abs/2007.09195
+https://arxiv.org/abs/2007.09752
+https://arxiv.org/abs/2007.09913
+https://arxiv.org/abs/2007.09926
+https://arxiv.org/abs/2007.10208
+https://arxiv.org/abs/2007.09148
+https://arxiv.org/abs/2007.10253
+https://arxiv.org/abs/2007.09814
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.046601
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.032020
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033103
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035137
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035425
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.024430
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035136
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041116
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041117
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041118
+
+
+20200720
+
+https://arxiv.org/abs/2007.08593
+https://arxiv.org/abs/2007.08851
+https://arxiv.org/abs/2007.08887
+https://arxiv.org/abs/2007.08891
+https://arxiv.org/abs/2007.08990
+https://arxiv.org/abs/2007.09041
+https://arxiv.org/abs/2007.08653
+https://arxiv.org/abs/2007.08519
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.031014
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033099
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014428
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.024425
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014427
+
+
+20200717
+
+https://arxiv.org/abs/2007.07894
+https://arxiv.org/abs/2007.07896
+https://arxiv.org/abs/2007.07898
+https://arxiv.org/abs/2007.07903
+https://arxiv.org/abs/2007.07909
+
+* https://arxiv.org/abs/2007.07912 # Local Probes for Charge-Neutral Edge States in Two-Dimensional Quantum Magnets, Johannes Feldmeier, Willian Natori, Michael Knap, Johannes Knolle
+https://arxiv.org/abs/2007.07914
+https://arxiv.org/abs/2007.08039
+https://arxiv.org/abs/2007.08072
+https://arxiv.org/abs/2007.08236
+https://arxiv.org/abs/2007.08361
+* https://arxiv.org/abs/2007.08381 # Local quench spectroscopy of many-body quantum systems, L. Villa, J. Despres, S. J. Thomson, L. Sanchez-Palencia
+* https://arxiv.org/abs/2007.07000 # Inferring Hidden Symmetries of Exotic Magnets from Learning Explicit Order Parameters, Nihal Rao, Ke Liu, Lode Pollet
+https://arxiv.org/abs/2007.08327
+https://arxiv.org/abs/2007.08487
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014426
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033084
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033087
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033088
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.012614
+
+
+20200716
+
+https://arxiv.org/abs/2007.07256
+https://arxiv.org/abs/2007.07258
+* https://arxiv.org/abs/2007.07259 # The Heart of Entanglement: Chiral, Nematic, and Incommensurate Phases in the Kitaev-Gamma Ladder in a Field, Erik S. Sorensen, Andrei Catuneanu, Jacob Gordon, Hae-Young Kee
+https://arxiv.org/abs/2007.07273
+
+https://arxiv.org/abs/2007.07313
+https://arxiv.org/abs/2007.07379
+https://arxiv.org/abs/2007.07381
+https://arxiv.org/abs/2007.07439
+https://arxiv.org/abs/2007.07503
+* https://arxiv.org/abs/2007.07509 # Spin wave theory of one-dimensional generalized Kitaev model, Wang Yang, Alberto Nocera, Ian Affleck
+https://arxiv.org/abs/2007.07512
+https://arxiv.org/abs/2007.07763
+https://arxiv.org/abs/2007.07776
+https://arxiv.org/abs/2007.07264
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.032016
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033073
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033075
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.012415
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035421
+
+
+20200715
+
+* https://arxiv.org/abs/2007.06586 # Characterizing the many-body localization transition through correlations, Benjamin Villalonga, Bryan K. Clark
+https://arxiv.org/abs/2007.06588
+https://arxiv.org/abs/2007.06619
+https://arxiv.org/abs/2007.06663
+* https://arxiv.org/abs/2007.06757 # Thermodynamic evidence for field-angle dependent Majorana gap in a Kitaev spin liquid, O. Tanaka, Y. Mizukami, R. Harasawa, K. Hashimoto, N. Kurita, H. Tanaka, S. Fujimoto, Y. Matsuda, E.-G. Moon, T. Shibauchi
+
+https://arxiv.org/abs/2007.06826
+* https://arxiv.org/abs/2007.06874 # The quantum sine-Gordon model with quantum circuits, Ananda Roy, Dirk Schuricht, Johannes Hauschild, Frank Pollmann, Hubert Saleur
+* https://arxiv.org/abs/2007.06989 # Emergent entanglement structures and self-similarity in quantum spin chains, Boris Sokolov, Matteo A. C. Rossi, Guillermo Garcia-Perez, Sabrina Maniscalco
+https://arxiv.org/abs/2007.07038
+https://arxiv.org/abs/2007.07147
+https://arxiv.org/abs/2007.07233
+* https://arxiv.org/abs/2007.07249 # Dominant fifth-order correlations in doped quantum anti-ferromagnets, A. Bohrdt, Y. Wang, J. Koepsell, M. Kanasz-Nagy, E. Demler, F. Grusdt
+https://arxiv.org/abs/2007.06770
+https://arxiv.org/abs/2007.06868
+https://arxiv.org/abs/2007.07115
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.032015
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033068
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033071
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.012132
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.016101
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.016102
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.030504
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.037202
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.036801
+
+
+20200714
+
+https://arxiv.org/abs/2007.05539
+* https://arxiv.org/abs/2007.05540 # Distributed-Memory DMRG via Sparse and Dense Parallel Tensor Contractions, Ryan Levy, Edgar Solomonik, Bryan K. Clark
+* https://arxiv.org/abs/2007.05543 # Doped Orthogonal Metals Become Fermi Arcs, Chuang Chen, Tian Yuan, Yang Qi, Zi Yang Meng
+https://arxiv.org/abs/2007.05560
+* https://arxiv.org/abs/2007.05587 # Systematic Comparison and Cross-validation of Fixed-Node Diffusion Monte Carlo and Phaseless Auxiliary-Field Quantum Monte Carlo in Solids, Fionn D. Malone, Anouar Benali, Miguel A. Morales, Michel Caffarel, P. R. C. Kent, Luke Shulenburger
+
+https://arxiv.org/abs/2007.05915
+https://arxiv.org/abs/2007.05928
+https://arxiv.org/abs/2007.05931
+https://arxiv.org/abs/2007.05990
+* https://arxiv.org/abs/2007.06086 # Fragile Insulator and Electronic Nematicity in a Graphene Moire System, Lei Chen, Haoyu Hu, Qimaio Si
+https://arxiv.org/abs/2007.06115
+https://arxiv.org/abs/2007.06121
+https://arxiv.org/abs/2007.06135
+https://arxiv.org/abs/2007.06205
+https://arxiv.org/abs/2007.06305
+
+https://arxiv.org/abs/2007.06323
+https://arxiv.org/abs/2007.06331
+* https://arxiv.org/abs/2007.06340 # Phases and collective modes of bosons in a triangular lattice at finite temperature: A cluster mean field study, M. Malakar, S. Ray, S. Sinha, D. Angom
+https://arxiv.org/abs/2007.05650
+* https://arxiv.org/abs/2007.05962 # Supervised learning in Hamiltonian reconstruction from local measurements on eigenstates, Chenfeng Cao, Shi-Yao Hou, Ningping Cao, Bei Zeng
+https://arxiv.org/abs/2007.05969
+* https://arxiv.org/abs/2007.06082 # Entanglement and Tensor Networks for Supervised Image Classification, John Martyn, Guifre Vidal, Chase Roberts, Stefan Leichenauer
+https://arxiv.org/abs/2007.06185
+https://arxiv.org/abs/2007.06244
+https://arxiv.org/abs/2007.06539
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.031009
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.031010
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033062
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.024415
+
+
+20200713
+
+* https://arxiv.org/abs/2007.04991 # Locating quantum critical points with Kibble-Zurek quenches, Michal Bialonczyk, Bogdan Damski
+https://arxiv.org/abs/2007.05002
+https://arxiv.org/abs/2007.05054
+https://arxiv.org/abs/2007.05063
+* https://arxiv.org/abs/2007.05070 # Forecasting Election Polls with Spin Systems, Ruben Ibarrondo, Mikel Sanz, Roman Orus
+https://arxiv.org/abs/2007.05085
+https://arxiv.org/abs/2007.05118
+* https://arxiv.org/abs/2007.05241 # Engineering entanglement Hamiltonians with strongly interacting cold atoms in optical traps, R. E. Barfknecht, T. Mendes-Santos, L. Fallani
+https://arxiv.org/abs/2007.05436
+https://arxiv.org/abs/2007.05475
+https://arxiv.org/abs/2007.05320
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.031008
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014413
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014417
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035121
+
+
+20200710
+
+* https://arxiv.org/abs/2007.04318 # Observing Quasiparticles through the Entanglement Lens, Yizhi You, Elisabeth Wybo, Frank Pollmann, S. L. Sondhi
+* https://arxiv.org/abs/2007.04323 # Nonlinear spectroscopy of random quantum magnets, S. A. Parameswaran, Sarang Gopalakrishnan
+https://arxiv.org/abs/2007.04326
+* https://arxiv.org/abs/2007.04329 # Exceptional Spin Liquids, Kang Yang, Siddhardh C. Morampudi, Emil J. Bergholtz
+* https://arxiv.org/abs/2007.04332 # Partial flux ordering and thermal Majorana metals in (higher-order) spin liquids, Tim Eschmann, Vatsal Dwivedi, Henry F. Legg, Ciaran Hickey, Simon Trebst
+https://arxiv.org/abs/2007.04336
+* https://arxiv.org/abs/2007.04339 # Susceptibility anisotropy and its disorder evolution in models for Kitaev materials, Eric C. Andrade, Lukas Janssen, Matthias Vojta
+https://arxiv.org/abs/2007.04353
+https://arxiv.org/abs/2007.04373
+* https://arxiv.org/abs/2007.04424 # MoG-VQE: Multiobjective genetic variational quantum eigensolver, D. Chivilikhin, A. Samarin, V. Ulyantsev, I. Iorsh, A. R. Oganov, O. Kyriienko
+
+https://arxiv.org/abs/2007.04539
+https://arxiv.org/abs/2007.04636
+* https://arxiv.org/abs/2007.04669 # Dual Boson Diagrammatic Monte Carlo Approach Applied to the Extended Hubbard Model, M. Vandelli, V. Harkov, E. A. Stepanov, J. Gukelberger, E. Kozik, A. Rubio, A. I. Lichtenstein
+https://arxiv.org/abs/2007.04676
+* https://arxiv.org/abs/2007.04680 # Competing orders in a frustrated Heisenberg model on the Fisher lattice, Atanu Maity, Yasir Iqbal, Saptarshi Mandal
+https://arxiv.org/abs/2007.04745
+https://arxiv.org/abs/2007.04746
+https://arxiv.org/abs/2007.04839
+https://arxiv.org/abs/2007.04913
+https://arxiv.org/abs/2007.04447
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.027204
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033039
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035119
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045113
+
+
+20200709
+
+https://arxiv.org/abs/2007.04190
+https://arxiv.org/abs/2007.03685
+https://arxiv.org/abs/2007.03690
+* https://arxiv.org/abs/2007.03717 # Heisenberg-Kitaev model in a magnetic field: 1/S expansion, Pedro M. Consoli, Lukas Janssen, Matthias Vojta, Eric C. Andrade
+https://arxiv.org/abs/2007.03735
+* https://arxiv.org/abs/2007.03739 # Unconventional superconductivity in a strongly correlated band-insulator without doping, Anwesha Chattopadhyay, H. R. Krishnamurthy, Arti Garg
+https://arxiv.org/abs/2007.03810
+
+* https://arxiv.org/abs/2007.03822 # Statistical Mechanics of Quantum Error-Correcting Codes, Yaodong Li, Matthew P. A. Fisher
+https://arxiv.org/abs/2007.03837
+https://arxiv.org/abs/2007.03839
+https://arxiv.org/abs/2007.03864
+https://arxiv.org/abs/2007.03871
+* https://arxiv.org/abs/2007.03955 # Sparse modeling of large-scale quantum impurity models with low symmetries, Hiroshi Shinaoka, Yuki Nagai
+https://arxiv.org/abs/2007.04076
+https://arxiv.org/abs/2007.04187
+https://arxiv.org/abs/2007.04196
+https://arxiv.org/abs/2007.04199
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033032
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.032008
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.027203
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.026401
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035117
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035411
+
+
+20200708
+
+https://arxiv.org/abs/2007.02950
+* https://arxiv.org/abs/2007.02959 # Numerical evidence for many-body localization in two and three dimensions, Eli Chertkov, Benjamin Villalonga, Bryan K. Clark
+
+https://arxiv.org/abs/2007.02966
+* https://arxiv.org/abs/2007.02970 # Measurement-induced criticality in (2+1)-d hybrid quantum circuits, Xhek Turkeshi, Rosario Fazio, Marcello Dalmonte
+* https://arxiv.org/abs/2007.03182 # Boundary CFT and tensor network approach to surface critical phenomena of the tricritical 3-state Potts model, Shumpei Iino
+https://arxiv.org/abs/2007.03268
+https://arxiv.org/abs/2007.03290
+https://arxiv.org/abs/2007.03471
+https://arxiv.org/abs/2007.03491
+https://arxiv.org/abs/2007.03504
+https://arxiv.org/abs/2007.03551
+* https://arxiv.org/abs/2007.03638 # Riemannian optimization of isometric tensor networks, Markus Hauru, Maarten Van Damme, Jutho Haegeman
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033025
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.032005
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035115
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014409
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.012406
+
+
+20200707
+
+https://arxiv.org/abs/2007.01876
+https://arxiv.org/abs/2007.01912
+https://arxiv.org/abs/2007.01993
+https://arxiv.org/abs/2007.02005
+https://arxiv.org/abs/2007.02399
+https://arxiv.org/abs/2007.02804
+* https://arxiv.org/abs/2007.02878 # Quantum phase transitions in a spin-1 antiferromagnetic chain with long-range interactions and modulated single-ion anisotropy, Jie Ren, Wen-Long You, Andrzej M. Oles
+https://arxiv.org/abs/2007.01881
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033017
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033020
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033021
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.020501
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.024406
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.024505
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.020401
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045107
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.014303
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041105
+
+
+20200706
+
+* https://arxiv.org/abs/2007.01303 # Conformal field theories are magical, Christopher David White, ChunJun Cao, Brian Swingle
+https://arxiv.org/abs/2007.01307
+* https://arxiv.org/abs/2007.01311 # Disorder-Free Localization and Many-Body Quantum Scars from Magnetic Frustration, Paul A. McClarty, Masudul Haque, Arnab Sen, Johannes Richter
+https://arxiv.org/abs/2007.01403
+https://arxiv.org/abs/2007.01489
+https://arxiv.org/abs/2007.01526
+
+https://arxiv.org/abs/2007.01565
+https://arxiv.org/abs/2007.01582
+https://arxiv.org/abs/2007.01633
+https://arxiv.org/abs/2007.01687
+https://arxiv.org/abs/2007.01700
+https://arxiv.org/abs/2007.01715
+https://arxiv.org/abs/2007.01746
+https://arxiv.org/abs/2007.01786
+https://arxiv.org/abs/2007.01804
+https://arxiv.org/abs/2007.01430
+
+
+20200703
+
+https://arxiv.org/abs/2007.00735
+* https://arxiv.org/abs/2007.00661 # Hubbard ladders at small U revisited, Yuval Gannot, Yi-Fan Jiang, Steven A. Kivelson
+https://arxiv.org/abs/2007.00666
+https://arxiv.org/abs/2007.00668
+https://arxiv.org/abs/2007.00690
+https://arxiv.org/abs/2007.00845
+https://arxiv.org/abs/2007.00871
+* https://arxiv.org/abs/2007.00901 # DCore: Integrated DMFT software for correlated electrons, Hiroshi Shinaoka, Junya Otsuki, Mitsuaki Kawamura, Nayuta Takemori, Kazuyoshi Yoshimi
+
+https://arxiv.org/abs/2007.00932
+https://arxiv.org/abs/2007.01037
+https://arxiv.org/abs/2007.01048
+https://arxiv.org/abs/2007.01067
+https://arxiv.org/abs/2007.01153
+* https://arxiv.org/abs/2007.00876 # Boltzmann machine learning with a variational quantum algorithm, Yuta Shingu, Yuya Seki, Shohei Watabe, Suguru Endo, Yuichiro Matsuzaki, Shiro Kawabata, Tetsuro Nikuni, Hideaki Hakoshima
+* https://arxiv.org/abs/2007.00958 # Quantum simulation with hybrid tensor networks, Xiao Yuan, Jinzhao Sun, Junyu Liu, Qi Zhao, You Zhou
+https://arxiv.org/abs/2007.01000
+https://arxiv.org/abs/2007.01004
+https://arxiv.org/abs/2007.01286
+
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.012601
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.013301
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033011
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033015
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033009
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.031002
+
+
+20200702
+
+https://arxiv.org/abs/2007.00116
+https://arxiv.org/abs/2007.00369
+https://arxiv.org/abs/2007.00007
+https://arxiv.org/abs/2007.00134
+
+https://arxiv.org/abs/2007.00142
+https://arxiv.org/abs/2007.00181
+https://arxiv.org/abs/2007.00303
+* https://arxiv.org/abs/2007.00315 # Multifractal Dynamics of the QREM, Tommaso Parolini, Gianni Mossi
+https://arxiv.org/abs/2007.00355
+* https://arxiv.org/abs/2007.00376 # Degenerate manifolds, helimagnets, and multi-Q chiral phases in the classical Heisenberg antiferromagnet on the face-centered-cubic lattice, Peter Balla, Yasir Iqbal, Karlo Penc
+https://arxiv.org/abs/2007.00519
+* https://arxiv.org/abs/2007.00562 # Entanglement properties of the doping-driven Mott transition in the two-dimensional Hubbard model, C. Walsh, P. Semon, D. Poulin, G. Sordi, A.-M. S. Tremblay
+https://arxiv.org/abs/2007.00575
+https://arxiv.org/abs/2007.00368
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033007
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.035102
+
+
+20200701
+
+* https://arxiv.org/abs/2006.16253 # Strong Coupling Limit of the Holstein-Hubbard Model, Zhaoyu Han, Steven A. Kivelson, Hong Yao
+* https://arxiv.org/abs/2006.16256 # Unification of parton and coupled-wire approaches to quantum magnetism in two dimensions, Eyal Leviatan, David F. Mross
+https://arxiv.org/abs/2006.16271
+
+https://arxiv.org/abs/2006.16488
+https://arxiv.org/abs/2006.16683
+https://arxiv.org/abs/2006.16691
+https://arxiv.org/abs/2006.16786
+https://arxiv.org/abs/2006.16914
+https://arxiv.org/abs/2006.16943
+* https://arxiv.org/abs/2006.16987 # Emergent moments and random singlet physics in a Majorana spin liquid, S. Sanyal, K. Damle, J. T. Chalker, R. Moessner
+* https://arxiv.org/abs/2006.16248 # Faster Digital Quantum Simulation by Symmetry Protection, Minh C. Tran, Yuan Su, Daniel Carney, Jacob M. Taylor
+* https://arxiv.org/abs/2006.16269 # Reinforcement Learning for Digital Quantum Simulation, Adrien Bolens, Markus Heyl
+* https://arxiv.org/abs/2006.16963 # Optimization at the boundary of the tensor network variety, Matthias Christandl, Fulvio Gesmundo, Daniel Stilck Franca, Albert H. Werner
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.224439
+https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.116020
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.017002
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.017001
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.010501
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.017201
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023420
