@@ -1,5 +1,10 @@
 20250415
 
+https://arxiv.org/abs/2504.09053
+https://arxiv.org/abs/2504.09602
+* https://arxiv.org/abs/2504.08817 # Exploring utilization of generative AI for research and education in data-driven materials science, Takahiro Misawa, Ai Koizumi, Ryo Tamura, Kazuyoshi Yoshimi
+https://arxiv.org/abs/2504.08925
+
 https://arxiv.org/abs/2504.08843
 https://arxiv.org/abs/2504.08876
 https://arxiv.org/abs/2504.08891
