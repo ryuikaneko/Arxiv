@@ -1,4 +1,37 @@
+20250416
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.144308
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.144415
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.150403
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.150404
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.150405
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.151601
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.156301
+
+
 20250415
+
+https://arxiv.org/abs/2504.08760
+https://arxiv.org/abs/2504.08888
+https://arxiv.org/abs/2504.09020
+https://arxiv.org/abs/2504.09112
+https://arxiv.org/abs/2504.09254
+https://arxiv.org/abs/2504.09406
+https://arxiv.org/abs/2504.09511
+https://arxiv.org/abs/2504.09524
+https://arxiv.org/abs/2504.09568
+https://arxiv.org/abs/2504.09610
+https://arxiv.org/abs/2504.09686
+https://arxiv.org/abs/2504.09699
+https://arxiv.org/abs/2504.09830
+* https://arxiv.org/abs/2504.09847 # Z_N generalizations of three-dimensional stabilizer codes, Chanbeen Lee, Yaozong Hu, Gil Young Cho, Haruki Watanabe
+https://arxiv.org/abs/2504.09880
+* https://arxiv.org/abs/2504.10027 # Deconfined Quantum Critical Point: A Review of Progress, Yi Cui, Rong Yu, Weiqiang Yu
+* https://arxiv.org/abs/2504.10114 # t-J model for strongly correlated two-orbital systems: Application to bilayer nickelate superconductors, Tatsuya Kaneko, Masataka Kakoi, Kazuhiko Kuroki
+https://arxiv.org/abs/2504.10189
+https://arxiv.org/abs/2504.10237
+* https://arxiv.org/abs/2504.09661 # Ising 100: review of solutions
+https://arxiv.org/abs/2504.10255
 
 https://arxiv.org/abs/2504.09053
 https://arxiv.org/abs/2504.09602
