@@ -1,5 +1,68 @@
+20250417
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023062
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.042207
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.042615
+https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.074512
+https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.076014
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.155126
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.165129
+
+
 20250416
 
+* https://arxiv.org/abs/2504.10566 # Cat states carrying long-range correlations in the many-body localized phase, Nicolas Laflorencie, Jeanne Colbois, Fabien Alet
+* https://arxiv.org/abs/2504.10580 # Non-Hermitian Multipole Skin Effects Challenge Localization, Jacopo Gliozzi, Federico Balducci, Taylor L. Hughes, Giuseppe De Tomasi
+* https://arxiv.org/abs/2504.10678 # Out-of-equilibrium dynamics across the first-order quantum transitions of one-dimensional quantum Ising models, Andrea Pelissetto, Davide Rossini, Ettore Vicari
+https://arxiv.org/abs/2504.10835
+https://arxiv.org/abs/2504.10863
+https://arxiv.org/abs/2504.10894
+https://arxiv.org/abs/2504.10912
+https://arxiv.org/abs/2504.10913
+* https://arxiv.org/abs/2504.10919 # Symmetry-protected topological order identified via Gutzwiller-guided density-matrix-renormalization-group: SO(n) spin chains, Pei-Yuan Cai, Hui-Ke Jin, Yi Zhou
+https://arxiv.org/abs/2504.11013
+https://arxiv.org/abs/2504.11017
+https://arxiv.org/abs/2504.11052
+https://arxiv.org/abs/2504.11062
+https://arxiv.org/abs/2504.11174
+https://arxiv.org/abs/2504.11449
+https://arxiv.org/abs/2504.11458
+https://arxiv.org/abs/2504.10569
+https://arxiv.org/abs/2504.10587
+* https://arxiv.org/abs/2504.11139 # Non-stabilizerness in open XXZ spin chains: Universal scaling and dynamics, Doru Sticlet, Balazs Dora, Dominik Szombathy, Gergely Zarand, Catalin Pascu Moca
+https://arxiv.org/abs/2504.11361
+https://arxiv.org/abs/2504.10516
+https://arxiv.org/abs/2504.10542
+https://arxiv.org/abs/2504.10543
+https://arxiv.org/abs/2504.10579
+https://arxiv.org/abs/2504.10591
+https://arxiv.org/abs/2504.10595
+https://arxiv.org/abs/2504.10602
+https://arxiv.org/abs/2504.10606
+https://arxiv.org/abs/2504.10631
+https://arxiv.org/abs/2504.10651
+https://arxiv.org/abs/2504.10712
+https://arxiv.org/abs/2504.10733
+https://arxiv.org/abs/2504.10771
+https://arxiv.org/abs/2504.10781
+https://arxiv.org/abs/2504.10801
+* https://arxiv.org/abs/2504.10803 # Control-driven critical fluctuations across quantum trajectories, Haining Pan, Thomas Iadecola, E. M. Stoudenmire, J. H. Pixley
+https://arxiv.org/abs/2504.10815
+https://arxiv.org/abs/2504.10882
+https://arxiv.org/abs/2504.10897
+https://arxiv.org/abs/2504.10938
+https://arxiv.org/abs/2504.11036
+* https://arxiv.org/abs/2504.11049 # A quantum algorithm for estimating the determinant, Vittorio Giovannetti, Seth Lloyd, Lorenzo Maccone
+https://arxiv.org/abs/2504.11083
+https://arxiv.org/abs/2504.11109
+https://arxiv.org/abs/2504.11181
+https://arxiv.org/abs/2504.11204
+https://arxiv.org/abs/2504.11213
+https://arxiv.org/abs/2504.10601
+https://arxiv.org/abs/2504.10492
+https://arxiv.org/abs/2504.10623
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021016
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.144308
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.144415
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.150403
