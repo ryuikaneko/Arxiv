@@ -1,5 +1,22 @@
 20250418
 
+https://arxiv.org/abs/2504.12367
+* https://arxiv.org/abs/2504.12411 # Spontaneous symmetry breaking in the Heisenberg antiferromagnet on a triangular lattice, Bastian Pradenas, Grigor Adamyan, Oleg Tchernyshyov
+https://arxiv.org/abs/2504.12414
+https://arxiv.org/abs/2504.12454
+https://arxiv.org/abs/2504.12600
+https://arxiv.org/abs/2504.12731
+* https://arxiv.org/abs/2504.12878 # Frustrated kagome-lattice bilayer quantum Heisenberg antiferromagnet, Dmytro Yaremchuk, Taras Hutak, Vasyl Baliha, Taras Krokhmalskii, Oleg Derzhko, Juergen Schnack, Johannes Richter
+* https://arxiv.org/abs/2504.12881 # Photoinduced magnetic phase transitions in the cubic Kondo-lattice model, Ryo Hamano, Masahito Mochizuki
+https://arxiv.org/abs/2504.12929
+https://arxiv.org/abs/2504.13012
+https://arxiv.org/abs/2504.11664
+https://arxiv.org/abs/2504.12053
+https://arxiv.org/abs/2504.12374
+* https://arxiv.org/abs/2504.12472 # Finding periodic orbits in projected quantum many-body dynamics, Elena Petrova, Marko Ljubotina, Gokhan Yalniz, Maksym Serbyn
+https://arxiv.org/abs/2504.12700
+https://arxiv.org/abs/2504.12916
+
 https://arxiv.org/abs/2504.12675
 https://arxiv.org/abs/2504.12373
 * https://arxiv.org/abs/2504.12383 # ScarFinder: a detector of optimal scar trajectories in quantum many-body dynamics, Jie Ren, Andrew Hallam, Lei Ying, Zlatko Papic
