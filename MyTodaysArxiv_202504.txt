@@ -1,4 +1,89 @@
+20250418
+
+https://arxiv.org/abs/2504.12675
+https://arxiv.org/abs/2504.12373
+* https://arxiv.org/abs/2504.12383 # ScarFinder: a detector of optimal scar trajectories in quantum many-body dynamics, Jie Ren, Andrew Hallam, Lei Ying, Zlatko Papic
+https://arxiv.org/abs/2504.12389
+https://arxiv.org/abs/2504.12399
+* https://arxiv.org/abs/2504.12416 # Quantum vs. classical: A comprehensive benchmark study for predicting time series with variational quantum machine learning, Tobias Fellner, David Kreplin, Samuel Tovey, Christian Holm
+https://arxiv.org/abs/2504.12449
+https://arxiv.org/abs/2504.12507
+https://arxiv.org/abs/2504.12518
+https://arxiv.org/abs/2504.12575
+https://arxiv.org/abs/2504.12607
+https://arxiv.org/abs/2504.12611
+https://arxiv.org/abs/2504.12629
+https://arxiv.org/abs/2504.12632
+https://arxiv.org/abs/2504.12729
+https://arxiv.org/abs/2504.12893
+https://arxiv.org/abs/2504.12896
+https://arxiv.org/abs/2504.12942
+https://arxiv.org/abs/2504.12989
+https://arxiv.org/abs/2504.13027
+https://arxiv.org/abs/2504.13029
+https://arxiv.org/abs/2504.13083
+https://arxiv.org/abs/2504.13097
+https://arxiv.org/abs/2504.13168
+https://arxiv.org/abs/2504.13174
+* https://arxiv.org/abs/2504.12385 # Learning transitions in classical Ising models and deformed toric codes, Malte Puetz, Samuel J. Garratt, Hidetoshi Nishimori, Simon Trebst, Guo-Yi Zhu
+https://arxiv.org/abs/2504.12388
+https://arxiv.org/abs/2504.12419
+https://arxiv.org/abs/2504.13040
+https://arxiv.org/abs/2504.13086
+
+https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020312
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.134203
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.134427
+
+
 20250417
+
+https://arxiv.org/abs/2504.11525
+https://arxiv.org/abs/2504.11549
+
+https://arxiv.org/abs/2504.11552
+* https://arxiv.org/abs/2504.11664 # Work Statistics and Quantum Trajectories: No-Click Limit and non-Hermitian Hamiltonians, Manali Malakar, Alessandro Silva
+https://arxiv.org/abs/2504.11670
+https://arxiv.org/abs/2504.11685
+https://arxiv.org/abs/2504.11737
+https://arxiv.org/abs/2504.11764
+https://arxiv.org/abs/2504.11799
+https://arxiv.org/abs/2504.11805
+https://arxiv.org/abs/2504.11807
+https://arxiv.org/abs/2504.11846
+
+https://arxiv.org/abs/2504.11880
+https://arxiv.org/abs/2504.11899
+https://arxiv.org/abs/2504.11938
+* https://arxiv.org/abs/2504.11957 # Unconditional robustness of multipartite entanglement of superposition, Hui-Hui Qin, Shao-Shuai Zhao, Shao-Ming Fei
+https://arxiv.org/abs/2504.12053
+https://arxiv.org/abs/2504.12238
+* https://arxiv.org/abs/2504.12263 # A complete theory of the Clifford commutant, Lennart Bittel, Jens Eisert, Lorenzo Leone, Antonio A. Mele, Salvatore F.E. Oliviero
+https://arxiv.org/abs/2504.12286
+https://arxiv.org/abs/2504.11887
+https://arxiv.org/abs/2504.12017
+
+https://arxiv.org/abs/2504.11523
+https://arxiv.org/abs/2504.11625
+https://arxiv.org/abs/2504.11632
+https://arxiv.org/abs/2504.11778
+https://arxiv.org/abs/2504.11884
+* https://arxiv.org/abs/2504.11917 # Dirac Representation for Lattice Spin Operators: Spin-1/2 and Spin-1 cases, Maseim Bassis Kenmoe
+* https://arxiv.org/abs/2504.12037 # Integrating Neural Networks and Tensor Networks for Computing Free Energy, Hanyan Cao, Yijia Wang, Feng Pan, Pan Zhang
+https://arxiv.org/abs/2504.12038
+https://arxiv.org/abs/2504.12041
+https://arxiv.org/abs/2504.12043
+
+https://arxiv.org/abs/2504.12077
+https://arxiv.org/abs/2504.12096
+https://arxiv.org/abs/2504.12166
+https://arxiv.org/abs/2504.12191
+https://arxiv.org/abs/2504.12219
+* https://arxiv.org/abs/2504.12298 # Projectively implemented altermagnetism in an exactly solvable quantum spin liquid, Avedis Neehus, Achim Rosch, Johannes Knolle, Urban F. P. Seifert
+https://arxiv.org/abs/2504.12056
+https://arxiv.org/abs/2504.12233
+* https://arxiv.org/abs/2504.12291 # Liouvillean Spectral Transition in Noisy Quantum Many-Body Scars, Jin-Lou Ma, Zexian Guo, Yu Gao, Zlatko Papic, Lei Ying
+https://arxiv.org/abs/2504.12144
 
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021017
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023062
