@@ -1,5 +1,35 @@
 20250421
 
+* https://arxiv.org/abs/2504.13258 # Universal non-equilibrium dynamics of pure states and density-dependent thermalization in Sachdev-Ye-Kitaev model, Rishik Perugu, Arijit Haldar, Sumilan Banerjee
+https://arxiv.org/abs/2504.13344
+* https://arxiv.org/abs/2504.13364 # The configurational entropy of random trees, Pieter H. W. van der Hoek, Angelo Rosa, Ralf Everaers
+https://arxiv.org/abs/2504.13369
+* https://arxiv.org/abs/2504.13555 # Coplanar order induced by emergent frustration, Zehui Deng, Lu Liu, Wenan Guo, Hai-Qing Lin
+https://arxiv.org/abs/2504.13564
+https://arxiv.org/abs/2504.13578
+https://arxiv.org/abs/2504.13702
+https://arxiv.org/abs/2504.13770
+https://arxiv.org/abs/2504.13481
+https://arxiv.org/abs/2504.13815
+
+https://arxiv.org/abs/2504.13232
+https://arxiv.org/abs/2504.13252
+https://arxiv.org/abs/2504.13257
+https://arxiv.org/abs/2504.13303
+https://arxiv.org/abs/2504.13346
+https://arxiv.org/abs/2504.13356
+https://arxiv.org/abs/2504.13376
+https://arxiv.org/abs/2504.13383
+https://arxiv.org/abs/2504.13414
+https://arxiv.org/abs/2504.13497
+https://arxiv.org/abs/2504.13616
+https://arxiv.org/abs/2504.13729
+https://arxiv.org/abs/2504.13202
+https://arxiv.org/abs/2504.13758
+* https://arxiv.org/abs/2504.13760 # Realizing string breaking dynamics in a Z2 lattice gauge theory on quantum hardware, Constantia Alexandrou, Andreas Athenodorou, Kostas Blekos, Georgios Polykratis, Stefan Kuehn
+https://arxiv.org/abs/2504.13796
+https://arxiv.org/abs/2504.13830
+
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.043313
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.144310
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L161115
