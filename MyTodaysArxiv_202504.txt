@@ -1,4 +1,34 @@
+20250423
+
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.044128
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021021
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021022
+
+
+=
+
+
 20250422
+
+https://arxiv.org/abs/2504.14008
+https://arxiv.org/abs/2504.14019
+https://arxiv.org/abs/2504.14110
+https://arxiv.org/abs/2504.14187
+https://arxiv.org/abs/2504.14378
+* https://arxiv.org/abs/2504.14483 # Sigma-Attention: A Transformer-based operator learning framework for self-energy in strongly correlated systems, Yuanran Zhu, Peter Rosenberg, Zhen Huang, Hardeep Bassi, Chao Yang, Shiwei Zhang
+https://arxiv.org/abs/2504.14577
+https://arxiv.org/abs/2504.14578
+https://arxiv.org/abs/2504.14688
+https://arxiv.org/abs/2504.14846
+https://arxiv.org/abs/2504.14849
+https://arxiv.org/abs/2504.14878
+https://arxiv.org/abs/2504.14910
+https://arxiv.org/abs/2504.14954
+https://arxiv.org/abs/2504.14970
+https://arxiv.org/abs/2504.15216
+https://arxiv.org/abs/2504.15238
+https://arxiv.org/abs/2504.14362
+https://arxiv.org/abs/2504.14661
 
 https://arxiv.org/abs/2504.14791
 https://arxiv.org/abs/2504.13910
