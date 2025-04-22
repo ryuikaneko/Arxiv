@@ -1,5 +1,37 @@
 20250422
 
+https://arxiv.org/abs/2504.14791
+https://arxiv.org/abs/2504.13910
+https://arxiv.org/abs/2504.13980
+https://arxiv.org/abs/2504.14002
+https://arxiv.org/abs/2504.14005
+https://arxiv.org/abs/2504.14027
+https://arxiv.org/abs/2504.14034
+https://arxiv.org/abs/2504.14040
+https://arxiv.org/abs/2504.14312
+https://arxiv.org/abs/2504.14380
+https://arxiv.org/abs/2504.14453
+https://arxiv.org/abs/2504.14459
+https://arxiv.org/abs/2504.14474
+https://arxiv.org/abs/2504.14557
+https://arxiv.org/abs/2504.14568
+* https://arxiv.org/abs/2504.14675 # Page curve like dynamics in Interacting Quantum Systems, Tamoghna Ray, Abhishek Dhar, Manas Kulkarni
+https://arxiv.org/abs/2504.14828
+https://arxiv.org/abs/2504.14841
+https://arxiv.org/abs/2504.14995
+https://arxiv.org/abs/2504.15070
+https://arxiv.org/abs/2504.15091
+https://arxiv.org/abs/2504.15183
+https://arxiv.org/abs/2504.15187
+https://arxiv.org/abs/2504.15194
+* https://arxiv.org/abs/2504.15203 # Fine features of entanglement dynamics in quenches across the Ising quantum critical point, Aditya Banerjee
+https://arxiv.org/abs/2504.15230
+* https://arxiv.org/abs/2504.14315 # Dichotomy theorem distinguishing non-integrability and the lowest-order Yang-Baxter equation for isotropic spin chains, Naoto Shiraishi, Mizuki Yamaguchi
+https://arxiv.org/abs/2504.14362
+https://arxiv.org/abs/2504.14728
+https://arxiv.org/abs/2504.14910
+* https://arxiv.org/abs/2504.15154 # Non-Hermitian Hopf insulators, Daichi Nakamura, Kohei Kawabata
+
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023073
 https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.044046
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.144419
