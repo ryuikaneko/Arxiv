@@ -3,9 +3,13 @@
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.044128
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021021
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021022
-
-
-=
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.043319
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023076
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.134436
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.134437
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L161118
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L161408 
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.160401
 
 
 20250422
