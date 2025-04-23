@@ -1,5 +1,45 @@
 20250423
 
+https://arxiv.org/abs/2504.15343
+* https://arxiv.org/abs/2504.15356 # Efficiently learning fermionic unitaries with few non-Gaussian gates, Sharoon Austin, Mauro E.S. Morales, Alexey Gorshkov
+https://arxiv.org/abs/2504.15367
+https://arxiv.org/abs/2504.15410
+https://arxiv.org/abs/2504.15441
+https://arxiv.org/abs/2504.15460
+
+https://arxiv.org/abs/2504.15603
+https://arxiv.org/abs/2504.15620
+https://arxiv.org/abs/2504.15698
+https://arxiv.org/abs/2504.15712
+https://arxiv.org/abs/2504.15761
+https://arxiv.org/abs/2504.15808
+https://arxiv.org/abs/2504.15831
+https://arxiv.org/abs/2504.15832
+https://arxiv.org/abs/2504.15964
+https://arxiv.org/abs/2504.15990
+
+https://arxiv.org/abs/2504.16004
+https://arxiv.org/abs/2504.16008
+https://arxiv.org/abs/2504.16066
+https://arxiv.org/abs/2504.15353
+https://arxiv.org/abs/2504.15458
+* https://arxiv.org/abs/2504.15755 # Emergent Kitaev materials in synthetic Fermi-Hubbard bilayers, Daniel Gonzalez-Cuadra, Alejandro Bermudez
+https://arxiv.org/abs/2504.15285
+https://arxiv.org/abs/2504.15287
+https://arxiv.org/abs/2504.15952
+https://arxiv.org/abs/2504.15338
+
+* https://arxiv.org/abs/2504.15354 # Multimagnon and multispinon L3-edge RIXS spectra of an effective J1-J2-J3 square lattice Heisenberg model, Kai-Yuan Qi, Shangjian Jin, Trinanjan Datta, Dao-Xin Yao
+https://arxiv.org/abs/2504.15648
+https://arxiv.org/abs/2504.15705
+https://arxiv.org/abs/2504.15764
+* https://arxiv.org/abs/2504.15788 # A primer on Kitaev Model: Basic aspects, material realization, and recent experiments, Saptarshi Mandal
+https://arxiv.org/abs/2504.15813
+https://arxiv.org/abs/2504.15926
+https://arxiv.org/abs/2504.15966
+https://arxiv.org/abs/2504.16052
+https://arxiv.org/abs/2504.15403
+
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.044128
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021021
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021022
