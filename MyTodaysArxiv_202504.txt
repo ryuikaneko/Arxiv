@@ -1,4 +1,45 @@
+20250425
+
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.044133
+
+
 20250424
+
+https://arxiv.org/abs/2504.16131
+https://arxiv.org/abs/2504.16157
+
+https://arxiv.org/abs/2504.16170
+https://arxiv.org/abs/2504.16197
+https://arxiv.org/abs/2504.16210
+https://arxiv.org/abs/2504.16256
+https://arxiv.org/abs/2504.16258
+https://arxiv.org/abs/2504.16259
+https://arxiv.org/abs/2504.16334
+https://arxiv.org/abs/2504.16350
+https://arxiv.org/abs/2504.16370
+https://arxiv.org/abs/2504.16399
+
+https://arxiv.org/abs/2504.16607
+* https://arxiv.org/abs/2504.16718 # Simulating Quantum Circuits with Tree Tensor Networks using Density-Matrix Renormalization Group Algorithm, Aditya Dubey, Zeki Zeybek, Peter Schmelcher
+https://arxiv.org/abs/2504.16888
+https://arxiv.org/abs/2504.16424
+https://arxiv.org/abs/2504.16518
+https://arxiv.org/abs/2504.16530
+https://arxiv.org/abs/2504.16589
+https://arxiv.org/abs/2504.16846
+https://arxiv.org/abs/2504.16381
+https://arxiv.org/abs/2504.16167
+
+https://arxiv.org/abs/2504.16176
+https://arxiv.org/abs/2504.16179
+https://arxiv.org/abs/2504.16200
+https://arxiv.org/abs/2504.16239
+https://arxiv.org/abs/2504.16274
+* https://arxiv.org/abs/2504.16583 # Modulated honeycomb lattices and their magnetic properties, Akihisa Koga, Toranosuke Matsubara
+https://arxiv.org/abs/2504.16620
+https://arxiv.org/abs/2504.16631
+https://arxiv.org/abs/2504.16847
+* https://arxiv.org/abs/2504.16165 # Robust Mixed-State Cluster States and Spurious Topological Entanglement Negativity, Seunghun Lee, Eun-Gook Moon
 
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.042428
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.155140
