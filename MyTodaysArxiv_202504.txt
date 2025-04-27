@@ -1,4 +1,40 @@
+20250428
+
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.042430
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.042825
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.155441
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021028
+
+
+====
+
+
 20250425
+
+* https://arxiv.org/abs/2504.17000 # Bosonic vs. Fermionic Matter in Quantum Simulations of 2+1D Gauge Theories, N. S. Srivatsa, Jesse J. Osborne, Debasish Banerjee, Jad C. Halimeh
+https://arxiv.org/abs/2504.17010
+https://arxiv.org/abs/2504.17014
+https://arxiv.org/abs/2504.17027
+https://arxiv.org/abs/2504.17212
+https://arxiv.org/abs/2504.17435
+https://arxiv.org/abs/2504.17450
+https://arxiv.org/abs/2504.17558
+* https://arxiv.org/abs/2504.17623 # Thermal Hall conductivity in the strongest cuprate superconductor: Estimate of the mean free path in the trilayer cuprate HgBa2Ca2Cu3O8+delta, Munkhtuguldur Altangerel, Quentin Barthelemy, Etienne Lefrancois, Jordan Baglo, Manel Mezidi, Gael Grissonnanche, Ashvini Vallipuram, Emma Campillo, Anne Forget, Dorothee Colson, Ruixing Liang, D. A. Bonn, W. N. Hardy, Cyril Proust, Louis Taillefer
+* https://arxiv.org/abs/2504.17659 # Programmable glassy dynamics using tunable disorder in tweezer arrays, Kaustav Mukherjee, Grant W. Biedermann, Robert J. Lewis-Swan
+https://arxiv.org/abs/2504.17681
+https://arxiv.org/abs/2504.17686
+https://arxiv.org/abs/2504.17616
+https://arxiv.org/abs/2504.17650
+https://arxiv.org/abs/2504.16950
+https://arxiv.org/abs/2504.16985
+* https://arxiv.org/abs/2504.16995 # Quantum Randomness through Emergent Confinement Mechanism in Measured Tensor Network States, Guglielmo Lami, Andrea De Luca, Xhek Turkeshi, Jacopo De Nardis
+https://arxiv.org/abs/2504.16999
+https://arxiv.org/abs/2504.17405
+https://arxiv.org/abs/2504.17509
+https://arxiv.org/abs/2504.17548
+https://arxiv.org/abs/2504.17561
+https://arxiv.org/abs/2504.17642
+* https://arxiv.org/abs/2504.17320 # Lindblad dynamics in holography, Takanori Ishii, Daichi Takeda
 
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.044133
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023082
