@@ -1,5 +1,18 @@
 20250428
 
+https://arxiv.org/abs/2504.17871
+https://arxiv.org/abs/2504.17936
+https://arxiv.org/abs/2504.17970
+https://arxiv.org/abs/2504.17995
+https://arxiv.org/abs/2504.18063
+* https://arxiv.org/abs/2504.18093 # Finite-q antiferro and ferri magnetic toroidal order in a distorted kagome structure, Akimitsu Kirikoshi, Satoru Hayami
+https://arxiv.org/abs/2504.18117
+https://arxiv.org/abs/2504.18220
+https://arxiv.org/abs/2504.18228
+* https://arxiv.org/abs/2504.18336 # The possible frustrated superconductivity in the kagome superconductors, Hong-Min Jiang, Wen-Qian Dong, Shun-Li Yu, Z. D. Wang
+* https://arxiv.org/abs/2504.18480 # Nature of the 1/3 Magnetization Plateau in Spin-1/2 Kagome Antiferromagnets, Li-Wei He, Xinzhe Wang, Shun-Li Yu, Jian-Xin Li
+https://arxiv.org/abs/2504.18531
+
 https://arxiv.org/abs/2504.17837
 https://arxiv.org/abs/2504.17873
 https://arxiv.org/abs/2504.17881
