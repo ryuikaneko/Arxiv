@@ -1,12 +1,31 @@
 20250428
 
+https://arxiv.org/abs/2504.17837
+https://arxiv.org/abs/2504.17873
+https://arxiv.org/abs/2504.17881
+https://arxiv.org/abs/2504.17886
+https://arxiv.org/abs/2504.18074
+* https://arxiv.org/abs/2504.18090 # Quantum Circuit Learning Using Non-Integrable System Dynamics, Ryutaro Sato, Yasuhiro Aota, Takaharu Yoishida, Hideaki Kawaguchi, Yuichiro Mori, Hiroki Kuji, Yuichiro Matsuzaki
+https://arxiv.org/abs/2504.18098
+https://arxiv.org/abs/2504.18103
+https://arxiv.org/abs/2504.18141
+* https://arxiv.org/abs/2504.18149 # Preparing the Gutzwiller wave function for attractive SU(3) fermions on a quantum computer, Han Xu, Kazuhiro Seki, Seiji Yunoki
+https://arxiv.org/abs/2504.18163
+https://arxiv.org/abs/2504.18166
+* https://arxiv.org/abs/2504.18311 # Emergent random matrix universality in quantum operator dynamics, Oliver Lunt, Thomas Kriecherbauer, Kenneth T-R McLaughlin, Curt von Keyserlingk
+* https://arxiv.org/abs/2504.18359 # Predicting sampling advantage of stochastic Ising Machines for Quantum Simulations, Rutger J.L.F. Berns, Davi R. Rodrigues, Giovanni Finocchio, Johan H. Mentink
+https://arxiv.org/abs/2504.18426
+https://arxiv.org/abs/2504.16299
+* https://arxiv.org/abs/2504.17845 # Eta-pairing state in flatband lattice: Interband coupling effect on entanglement entropy logarithm, Seik Pak, Hanbyul Kim, Chan Bin Bark, Sang-Jin Sin, Jae-yoon Choi, Moon Jip Park
+https://arxiv.org/abs/2504.17911
+* https://arxiv.org/abs/2504.18034 # Quantum effects in rotationally invariant spin glass models, Yoshinori Hara, Yoshiyuki Kabashima
+https://arxiv.org/abs/2504.18129
+https://arxiv.org/abs/2504.18156
+
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.042430
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.042825
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.155441
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021028
-
-
-====
 
 
 20250425
