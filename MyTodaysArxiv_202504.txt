@@ -1,5 +1,64 @@
 20250429
 
+https://arxiv.org/abs/2504.18626
+https://arxiv.org/abs/2504.18627
+https://arxiv.org/abs/2504.18681
+
+https://arxiv.org/abs/2504.18709
+https://arxiv.org/abs/2504.18775
+* https://arxiv.org/abs/2504.18778 # Three-Dimensional Fermi Surface, Van Hove Singularity and Enhancement of Superconductivity in Infinite-Layer Nickelates, Chengliang Xia, Shengjie Zhou, Hanghui Chen
+* https://arxiv.org/abs/2504.18861 # Percolation in the two-dimensional Ising model, Tao Chen, Jinhong Zhu, Wei Zhong, Sheng Fang, Youjin Deng
+https://arxiv.org/abs/2504.18926
+https://arxiv.org/abs/2504.19045
+https://arxiv.org/abs/2504.19310
+https://arxiv.org/abs/2504.19321
+https://arxiv.org/abs/2504.19352
+https://arxiv.org/abs/2504.19361
+
+* https://arxiv.org/abs/2504.19378 # Discrete Time Crystal in quantum Sherrington-Kirkpatrick model, Aarya Bothra, Arti Garg
+* https://arxiv.org/abs/2504.19407 # Melting of a Bosonic Mott Insulator in Kagome Optical Lattices with Sign-Inverted Hopping, Kazuma Nagao, Daisuke Yamamoto, Seiji Yunoki, Ippei Danshita
+https://arxiv.org/abs/2504.19512
+* https://arxiv.org/abs/2504.19525 # Spin-Depairing-Induced Exceptional Fermionic Superfluidity, Soma Takemori, Kazuki Yamamoto, Akihisa Koga
+https://arxiv.org/abs/2504.19532
+* https://arxiv.org/abs/2504.19535 # Evolution of quantum criticality in underdoped cuprates, Changshuai Lan, Chengyu Yan, Yihang Li, Qiao Chen, Huai Guan, Xinming Zhao, Dong Wu, Butian Zhang, Youwei Zhang, Shun Wang
+https://arxiv.org/abs/2504.19657
+https://arxiv.org/abs/2504.19666
+https://arxiv.org/abs/2504.19679
+https://arxiv.org/abs/2504.19680
+
+* https://arxiv.org/abs/2504.19786 # eta-pairing states in the Hubbard model with non-uniform Hubbard interaction, D. K. He, Z. Song
+https://arxiv.org/abs/2504.19837
+https://arxiv.org/abs/2504.19844
+https://arxiv.org/abs/2504.19873
+https://arxiv.org/abs/2504.19987
+https://arxiv.org/abs/2504.20021
+* https://arxiv.org/abs/2504.18724 # Micromagnons and long-range entanglement in ferrimagnetic ground states, Marcin Wiesniak, Ankit Kumar, Idriss Hank Nkouatchoua Ngueya
+* https://arxiv.org/abs/2504.18744 # On Ising model in magnetic field on the lattice, Raghav G. Jha
+https://arxiv.org/abs/2504.18754
+https://arxiv.org/abs/2504.18803
+
+https://arxiv.org/abs/2504.19097
+* https://arxiv.org/abs/2504.19214 # Rapid passage to ordered states in Rydberg atom arrays, Liang Zeng, Fei Zhu, Li Chen, Heng Shen
+* https://arxiv.org/abs/2504.19315 # Emergence of Imaginary Time Crystals in the non-Hermitian Su-Schrieffer-Heeger model, E. Slootman, L. Eek, C. Morais Smith, R. Arouca
+https://arxiv.org/abs/2504.19317
+https://arxiv.org/abs/2504.19795
+https://arxiv.org/abs/2504.18683
+https://arxiv.org/abs/2504.18703
+https://arxiv.org/abs/2504.18795
+https://arxiv.org/abs/2504.19053
+* https://arxiv.org/abs/2504.19185 # Quantum computation with the eigenstate thermalization hypothesis instead of wavefunction preparation, Thomas E. Baker
+
+https://arxiv.org/abs/2504.19613
+https://arxiv.org/abs/2504.19632
+https://arxiv.org/abs/2504.19651
+https://arxiv.org/abs/2504.19833
+https://arxiv.org/abs/2504.19928
+https://arxiv.org/abs/2504.19966
+https://arxiv.org/abs/2502.08044
+https://arxiv.org/abs/2504.19159
+https://arxiv.org/abs/2305.03527
+https://arxiv.org/abs/2504.18833
+
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.042625
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.L040202
 https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020319
