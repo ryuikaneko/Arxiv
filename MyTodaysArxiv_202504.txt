@@ -1,5 +1,47 @@
 20250430
 
+* https://arxiv.org/abs/2504.20404 # Beyond Robertson-Schroedinger: A General Uncertainty Relation Unveiling Hidden Noncommutative Trade-offs, Gen Kimura, Aina Mayumi, Hiromichi Ohno, Jaeha Lee, Dariusz Chruscinski
+https://arxiv.org/abs/2504.20072
+https://arxiv.org/abs/2504.20139
+https://arxiv.org/abs/2504.20140
+https://arxiv.org/abs/2504.20225
+https://arxiv.org/abs/2504.20247
+https://arxiv.org/abs/2504.20321
+https://arxiv.org/abs/2504.20465
+
+* https://arxiv.org/abs/2504.20481 # Self-consistency error correction for accurate machine learning potentials from variational Monte Carlo, Giacomo Tenti, Kousuke Nakano, Michele Casula
+* https://arxiv.org/abs/2504.20695 # Inhomogeneous Phase Stiffness in 2D s-wave Disordered Superconductors, Sudipta Biswas, A. Taraphder, Sudhansu S. Mandal
+https://arxiv.org/abs/2504.20711
+https://arxiv.org/abs/2504.20714
+* https://arxiv.org/abs/2504.20719 # Particle-Hole Asymmetry and Pinball Liquid in a Triangular-Lattice Extended Hubbard Model within Mean-Field Approximation, Aleksey Alekseev, Agnieszka Cichy, Konrad Jerzy Kapcia
+* https://arxiv.org/abs/2504.20743 # Nonsymmorphic Topological Phases of Non-Hermitian Systems, Daichi Nakamura, Yutaro Tanaka, Ken Shiozaki, Kohei Kawabata
+https://arxiv.org/abs/2504.20766
+https://arxiv.org/abs/2504.20775
+https://arxiv.org/abs/2504.20871
+https://arxiv.org/abs/2504.20151
+
+https://arxiv.org/abs/2504.20154
+https://arxiv.org/abs/2504.20167
+* https://arxiv.org/abs/2504.20195 # Nuclear responses with neural-network quantum states, Elad Parnes, Nir Barnea, Giuseppe Carleo, Alessandro Lovato, Noemi Rocco, Xilin Zhang
+https://arxiv.org/abs/2504.20197
+https://arxiv.org/abs/2504.20596
+* https://arxiv.org/abs/2504.20746 # Trotterization is substantially efficient for low-energy states, Kaoru Mizuta, Tomotaka Kuwahara
+* https://arxiv.org/abs/2504.20901 # High-temperature partition functions and classical simulability of long-range quantum systems, Jorge Sanchez-Segovia, Jan T. Schneider, Alvaro M. Alhambra
+* https://arxiv.org/abs/2504.20134 # Surmise for random matrices' level spacing distributions beyond nearest-neighbors, Ruth Shir, Pablo Martinez-Azcona, Aurelia Chenu
+* https://arxiv.org/abs/2504.20145 # Roadmap on Quantum Thermodynamics
+https://arxiv.org/abs/2504.20218
+
+https://arxiv.org/abs/2504.20324
+* https://arxiv.org/abs/2504.20495 # A Family of Self-Dual Quasicrystals with Critical Phases, Wenzhi Wang, Wei Yi, Tianyu Li
+https://arxiv.org/abs/2504.20842
+https://arxiv.org/abs/2504.20847
+https://arxiv.org/abs/2504.20891
+https://arxiv.org/abs/2504.20953
+https://arxiv.org/abs/2504.20979
+https://arxiv.org/abs/2504.20982
+https://arxiv.org/abs/2504.20989
+https://arxiv.org/abs/2504.20852
+
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023098
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023099
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.144315
