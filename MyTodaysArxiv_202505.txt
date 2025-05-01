@@ -1,5 +1,44 @@
 20250501
 
+https://arxiv.org/abs/2504.21073
+* https://arxiv.org/abs/2504.21090 # Is Entanglement Necessary for the Typicality Argument in Statistical Mechanics?, Pedro S. Correia, Gabriel Dias Carvalho, Thiago R. de Oliveira
+https://arxiv.org/abs/2504.21109
+https://arxiv.org/abs/2504.21112
+https://arxiv.org/abs/2504.21135
+
+https://arxiv.org/abs/2504.21172
+https://arxiv.org/abs/2504.21250
+* https://arxiv.org/abs/2504.21298 # Preparation Circuits for Matrix Product States by Classical Variational Disentanglement, Refik Mansuroglu, Norbert Schuch
+https://arxiv.org/abs/2504.21306
+https://arxiv.org/abs/2504.21335
+* https://arxiv.org/abs/2504.21440 # QuantumToolbox.jl: An efficient Julia framework for simulating open quantum systems, Alberto Mercurio, Yi-Te Huang, Li-Xun Cai, Yueh-Nan Chen, Vincenzo Savona, Franco Nori
+* https://arxiv.org/abs/2504.21459 # A Unified Variational Framework for Quantum Excited States, Shi-Xin Zhang, Lei Wang
+https://arxiv.org/abs/2504.21564
+https://arxiv.org/abs/2504.21575
+https://arxiv.org/abs/2504.21631
+
+* https://arxiv.org/abs/2504.21666 # Quantum Annealing Algorithms for Estimating Ising Partition Functions, Haowei Li, Zhiyuan Yao, Xingze Qiu
+https://arxiv.org/abs/2504.21704
+https://arxiv.org/abs/2504.21758
+https://arxiv.org/abs/2504.21833
+https://arxiv.org/abs/2504.21842
+https://arxiv.org/abs/2504.21854
+https://arxiv.org/abs/2504.20991
+https://arxiv.org/abs/2504.21079
+https://arxiv.org/abs/2504.21144
+https://arxiv.org/abs/2504.21241
+
+* https://arxiv.org/abs/2504.21786 # Improved Lanczos Algorithm using Matrix Product States, Yu Wang, Zhangyu Yang, Christian B. Mendl
+* https://arxiv.org/abs/2504.21089 # Extracting average properties of disordered spin chains with translationally invariant tensor networks, Kevin Vervoort, Wei Tang, Nick Bultinck
+https://arxiv.org/abs/2504.21208
+https://arxiv.org/abs/2504.21223
+https://arxiv.org/abs/2504.21431
+* https://arxiv.org/abs/2504.21461 # Discrete time crystals detected by time-translation twist, Ryota Nakai, Taozhi Guo, Shinsei Ryu
+https://arxiv.org/abs/2504.21546
+https://arxiv.org/abs/2504.21616
+https://arxiv.org/abs/2504.21630
+https://arxiv.org/abs/2504.21641
+
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045310
 https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020321
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.176503
