@@ -1,5 +1,52 @@
 20250502
 
+https://arxiv.org/abs/2505.00066
+
+* https://arxiv.org/abs/2505.00073 # An unbiased measure over the matrix product state manifold, Sebastian Leontica, Andrew G. Green
+https://arxiv.org/abs/2505.00087
+* https://arxiv.org/abs/2505.00089 # Approximation theory for Green's functions via the Lanczos algorithm, Gabriele Pinna, Oliver Lunt, Curt von Keyserlingk
+https://arxiv.org/abs/2505.00102
+https://arxiv.org/abs/2505.00116
+https://arxiv.org/abs/2505.00126
+https://arxiv.org/abs/2505.00137
+https://arxiv.org/abs/2505.00145
+https://arxiv.org/abs/2505.00159
+https://arxiv.org/abs/2505.00182
+
+https://arxiv.org/abs/2505.00433
+https://arxiv.org/abs/2505.00444
+https://arxiv.org/abs/2505.00475
+https://arxiv.org/abs/2505.00476
+https://arxiv.org/abs/2505.00483
+https://arxiv.org/abs/2505.00529
+* https://arxiv.org/abs/2505.00537 # Local Information Flow in Quantum Quench Dynamics, Nicolas P. Bauer, Bjoern Trauzettel, Thomas Klein Kvorning, Jens H. Bardarson, Claudia Artiaco
+https://arxiv.org/abs/2505.00542
+https://arxiv.org/abs/2505.00561
+* https://arxiv.org/abs/2505.00588 # Exact Many-body Quantum Dynamics in One-Dimensional Baths via "Superspins", Joseph T. Lee, Silvia Cardenas-Lopez, Stuart J. Masson, Rahul Trivedi, Ana Asenjo-Garcia
+
+https://arxiv.org/abs/2505.00639
+https://arxiv.org/abs/2505.00642
+https://arxiv.org/abs/2505.00674
+https://arxiv.org/abs/2505.00697
+https://arxiv.org/abs/2505.00698
+https://arxiv.org/abs/2505.00701
+https://arxiv.org/abs/2505.00098
+* https://arxiv.org/abs/2505.00494 # Accelerating two-dimensional tensor network contractions using QR-decompositions, Yining Zhang, Qi Yang, Philippe Corboz
+https://arxiv.org/abs/2505.00673
+https://arxiv.org/abs/2210.14521
+https://arxiv.org/abs/2505.00067
+
+https://arxiv.org/abs/2505.00069
+https://arxiv.org/abs/2505.00106
+https://arxiv.org/abs/2505.00107
+https://arxiv.org/abs/2505.00223
+* https://arxiv.org/abs/2505.00233 # Explorative Curriculum Learning for Strongly Correlated Electron Systems, Kimihiro Yamazaki, Takuya Konishi, Yoshinobu Kawahara
+https://arxiv.org/abs/2505.00459
+https://arxiv.org/abs/2505.00461
+* https://arxiv.org/abs/2505.00628 # Single-site entanglement as a marker for quantum phase transitions at non-zero temperatures, Willdauany C. de Freitas Silva, Andressa R. Medeiros-Silva, Rubem Mondaini, Vivian V. Franca, Thereza Paiva
+https://arxiv.org/abs/2505.00070
+https://arxiv.org/abs/2505.00211
+
 https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020322
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.174201
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.184401
