@@ -1,5 +1,38 @@
 20250505
 
+https://arxiv.org/abs/2505.00714
+https://arxiv.org/abs/2505.00716
+https://arxiv.org/abs/2505.00764
+https://arxiv.org/abs/2505.00768
+https://arxiv.org/abs/2505.00883
+* https://arxiv.org/abs/2505.00914 # Symmetry-adapted sample-based quantum diagonalization: Application to lattice model, Kosuke Nogaki, Steffen Backes, Tomonori Shirakawa, Seiji Yunoki, Ryotaro Arita
+https://arxiv.org/abs/2505.01023
+https://arxiv.org/abs/2505.01214
+https://arxiv.org/abs/2505.01236
+https://arxiv.org/abs/2505.01250
+
+https://arxiv.org/abs/2505.00873
+https://arxiv.org/abs/2505.00933
+* https://arxiv.org/abs/2505.01010 # Quasi-local Frustration-Free Free Fermions, Shunsuke Sengoku, Hoi Chun Po, Haruki Watanabe
+https://arxiv.org/abs/2505.01184
+* https://arxiv.org/abs/2505.01405 # QCMaquis 4.0: Multi-Purpose Electronic, Vibrational, and Vibronic Structure and Dynamics Calculations with the Density Matrix Renormalization Group, Kalman Szenes, Nina Glaser, Mihael Erakovic, Valentin Barandun, Maximilian Moerchen, Robin Feldmann, Stefano Battaglia, Alberto Baiardi, Markus Reiher
+https://arxiv.org/abs/2505.00766
+* https://arxiv.org/abs/2505.00767 # Anisotropic Spin Ice on a Breathing Pyrochlore Lattice, Gloria Isbrandt, Frank Pollmann, Michael Knap
+https://arxiv.org/abs/2505.00771
+https://arxiv.org/abs/2505.00796
+https://arxiv.org/abs/2505.00806
+
+https://arxiv.org/abs/2505.00845
+https://arxiv.org/abs/2505.00927
+https://arxiv.org/abs/2505.00964
+* https://arxiv.org/abs/2505.00971 # Bulk excitations in ultraclean alpha-RuCl3: Quantitative evidence for Majorana dispersions in a Kitaev quantum spin liquid, Kumpei Imamura, Ryuichi Namba, Riku Ishioka, Kota Ishihara, Yuji Matsuda, Seunghun Lee, Eun-Gook Moon, Kenichiro Hashimoto, Takasada Shibauchi
+https://arxiv.org/abs/2505.00993
+https://arxiv.org/abs/2505.00994
+https://arxiv.org/abs/2505.01042
+https://arxiv.org/abs/2505.01089
+https://arxiv.org/abs/2505.01153
+https://arxiv.org/abs/2505.01047
+
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.052403
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054107
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023112
@@ -10,7 +43,7 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.205102
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L180402
 
 
-=
+====
 
 
 20250502
