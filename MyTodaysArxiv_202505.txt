@@ -1,5 +1,51 @@
 20250506
 
+* https://arxiv.org/abs/2505.01493 # Fractionalized fermionic multicriticality in anisotropic Kitaev spin-orbital liquids, Max Fornoville, Lukas Janssen
+
+https://arxiv.org/abs/2505.01508
+https://arxiv.org/abs/2505.01509
+* https://arxiv.org/abs/2505.01513 # Engineering frustrated Rydberg spin models by graphical Floquet modulation, Mingsheng Tian, Rhine Samajdar, Bryce Gadway
+https://arxiv.org/abs/2505.01522
+https://arxiv.org/abs/2505.01541
+https://arxiv.org/abs/2505.01561
+https://arxiv.org/abs/2505.01610
+* https://arxiv.org/abs/2505.02030 # Exact diagonalization study of triangular Heisenberg model with four-spin ring-exchange interaction, Yuchao Zheng, Muwei Wu, Dao-Xin Yao, Han-Qing Wu
+* https://arxiv.org/abs/2505.02066 # Dynamical dimerization and subdiffusive transport of strongly correlated neutral-ionic systems coupled to lattices, Yuta Sakai, Chisa Hotta
+https://arxiv.org/abs/2505.02103
+
+https://arxiv.org/abs/2505.02113
+https://arxiv.org/abs/2505.02187
+https://arxiv.org/abs/2505.02367
+https://arxiv.org/abs/2505.02372
+https://arxiv.org/abs/2505.02451
+https://arxiv.org/abs/2505.02661
+https://arxiv.org/abs/2505.02670
+* https://arxiv.org/abs/2505.02683 # Partons from stabilizer codes, Rafael A. Macedo, Carlo C. Bellinati, Weslei B. Fontana, Eric C. Andrade, Rodrigo G. Pereira
+https://arxiv.org/abs/2505.02786
+https://arxiv.org/abs/2505.01580
+
+https://arxiv.org/abs/2505.01608
+* https://arxiv.org/abs/2505.02125 # Renyi Markov length in one-dimensional non-trivial mixed state phases and mixed state phase transitions, Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose
+https://arxiv.org/abs/2505.02458
+https://arxiv.org/abs/2505.01506
+https://arxiv.org/abs/2505.01516
+https://arxiv.org/abs/2505.01623
+https://arxiv.org/abs/2505.01935
+https://arxiv.org/abs/2505.01942
+* https://arxiv.org/abs/2505.01978 # Generation of 95-qubit genuine entanglement and verification of symmetry-protected topological phases
+* https://arxiv.org/abs/2505.02040 # Tuning the Quantum Mpemba Effect in Isolated System by Initial State Engineering, Yihan Yu, Tianren Jin, Kai Xu, Heng Fan
+
+https://arxiv.org/abs/2505.02054
+https://arxiv.org/abs/2505.02205
+https://arxiv.org/abs/2505.02241
+https://arxiv.org/abs/2505.02283
+https://arxiv.org/abs/2505.02286
+https://arxiv.org/abs/2505.02445
+https://arxiv.org/abs/2505.02553
+https://arxiv.org/abs/2505.02612
+https://arxiv.org/abs/2505.02718
+https://arxiv.org/abs/2505.01786
+
 https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020324
 https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.094502
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.174407
