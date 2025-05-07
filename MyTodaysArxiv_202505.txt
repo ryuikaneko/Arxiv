@@ -1,5 +1,36 @@
 20250507
 
+https://arxiv.org/abs/2505.02868
+* https://arxiv.org/abs/2505.02892 # Many-Body Quantum Optics in a Bose-Hubbard Waveguide, Federico Roccati
+https://arxiv.org/abs/2505.02900
+* https://arxiv.org/abs/2505.02914 # Sequential Generation of Two-dimensional Super-area-law States with Local Parent Hamiltonian, Wucheng Zhang
+* https://arxiv.org/abs/2505.02923 # Stabilizer-Accelerated Ground-State Estimation of Quantum Many-Body Systems, Caroline E. P . Robin
+* https://arxiv.org/abs/2505.02997 # Long-Range Interacting Many-Body Systems in the Irrep Basis, Ivy Pannier-Guenther, Andrew Kolmer Forbes, Pablo M. Poggi, Ivan H. Deutsch
+https://arxiv.org/abs/2505.03140
+https://arxiv.org/abs/2505.03307
+https://arxiv.org/abs/2505.03371
+https://arxiv.org/abs/2505.03378
+https://arxiv.org/abs/2505.03399
+https://arxiv.org/abs/2505.03551
+https://arxiv.org/abs/2505.03578
+https://arxiv.org/abs/2505.03642
+https://arxiv.org/abs/2505.03645
+https://arxiv.org/abs/2505.03691
+https://arxiv.org/abs/2505.03696
+https://arxiv.org/abs/2505.03151
+https://arxiv.org/abs/2505.03213
+* https://arxiv.org/abs/2505.03466 # Design principles of deep translationally-symmetric neural quantum states for frustrated magnets, Rajah P. Nutakki, Ahmedeo Shokry, Filippo Vicentini
+https://arxiv.org/abs/2505.02893
+https://arxiv.org/abs/2505.02894
+* https://arxiv.org/abs/2505.02901 # XDiag: Exact Diagonalization for quantum many-body systems, Alexander Wietek, Luke Staszewski, Martin Ulaga, Paul L. Ebert, Hannes Karlsson, Siddhartha Sarkar, Henry Shackleton, Aritra Sinha, Rafael D. Soares
+https://arxiv.org/abs/2505.02905
+https://arxiv.org/abs/2505.02911
+https://arxiv.org/abs/2505.02927
+https://arxiv.org/abs/2505.02936
+https://arxiv.org/abs/2505.03126
+https://arxiv.org/abs/2505.03191
+https://arxiv.org/abs/2505.03446
+
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023120
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023121
 https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.094505
