@@ -1,3 +1,13 @@
+20250507
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023120
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023121
+https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.094505
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.184307
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180403
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.183404
+
+
 20250506
 
 * https://arxiv.org/abs/2505.01493 # Fractionalized fermionic multicriticality in anisotropic Kitaev spin-orbital liquids, Max Fornoville, Lukas Janssen
