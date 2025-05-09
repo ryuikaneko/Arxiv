@@ -1,4 +1,43 @@
+20250509
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023125
+https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020327
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.184201
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.184308
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195117
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L180201
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180405
+
+
 20250508
+
+https://arxiv.org/abs/2505.03879
+https://arxiv.org/abs/2505.03958
+https://arxiv.org/abs/2505.04282
+https://arxiv.org/abs/2505.04298
+https://arxiv.org/abs/2505.04381
+https://arxiv.org/abs/2505.04390
+https://arxiv.org/abs/2505.04400
+https://arxiv.org/abs/2505.04442
+* https://arxiv.org/abs/2505.04476 # Disordered solid to Bose-glass transition in Bose-Hubbard model with disorder and long-range interactions, Kohenjit Pebam, Laxmi Angom, Bhumika Thoudam, Momin Hrangbung, Deepak Gaur, Dilip Angom
+https://arxiv.org/abs/2505.04554
+https://arxiv.org/abs/2505.04151
+https://arxiv.org/abs/2505.04514
+
+https://arxiv.org/abs/2505.03877
+https://arxiv.org/abs/2505.03878
+https://arxiv.org/abs/2505.03885
+https://arxiv.org/abs/2505.03889
+https://arxiv.org/abs/2505.03998
+https://arxiv.org/abs/2505.04240
+https://arxiv.org/abs/2505.04285
+https://arxiv.org/abs/2505.04304
+https://arxiv.org/abs/2505.04552
+* https://arxiv.org/abs/2505.04595 # Adiabatic state preparation and thermalization of simulated phase noise in a Rydberg spin Hamiltonian, Tomas Kozlej, Gerard Pelegri, Jonathan D. Pritchard, Andrew J. Daley
+https://arxiv.org/abs/2505.04607
+https://arxiv.org/abs/2505.03743
+https://arxiv.org/abs/2505.03911
+https://arxiv.org/abs/2505.04044
 
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.052410
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023123
