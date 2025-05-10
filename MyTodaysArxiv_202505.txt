@@ -1,3 +1,16 @@
+20250512
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023129
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023131
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.052606
+https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.105005
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L201106
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.182502
+
+
+====
+
+
 20250509
 
 https://arxiv.org/abs/2505.04719
