@@ -1,5 +1,51 @@
 20250509
 
+https://arxiv.org/abs/2505.04719
+https://arxiv.org/abs/2505.04683
+https://arxiv.org/abs/2505.04684
+https://arxiv.org/abs/2505.04726
+https://arxiv.org/abs/2505.04730
+https://arxiv.org/abs/2505.04867
+https://arxiv.org/abs/2505.04868
+https://arxiv.org/abs/2505.04945
+https://arxiv.org/abs/2505.05068
+* https://arxiv.org/abs/2505.05117 # Spin-glass quantum phase transition in amorphous arrays of Rydberg atoms, L. Brodoloni, J. Vovrosh, S. Julia-Farre, A. Dauphin, S. Pilati
+
+* https://arxiv.org/abs/2505.05194 # Two-dimensional J1-J2 clock model: A cornucopia of emergence, Vishnu Pulloor Kuttanikkad, Abhishodh Prakash, Rajesh Narayanan, Titas Chanda
+* https://arxiv.org/abs/2505.05204 # Static and dynamic properties of Kitaev-Heisenberg ferromagnet on a triangular lattice, Kaushal K. Kesharpu, Pavel A. Maksimov
+https://arxiv.org/abs/2505.05417
+https://arxiv.org/abs/2505.05458
+
+https://arxiv.org/abs/2505.04700
+https://arxiv.org/abs/2505.04705
+https://arxiv.org/abs/2505.04743
+https://arxiv.org/abs/2505.04768
+https://arxiv.org/abs/2505.04841
+https://arxiv.org/abs/2505.04880
+https://arxiv.org/abs/2505.04958
+
+https://arxiv.org/abs/2505.05058
+https://arxiv.org/abs/2505.05158
+https://arxiv.org/abs/2505.05175
+https://arxiv.org/abs/2505.05199
+https://arxiv.org/abs/2505.05202
+https://arxiv.org/abs/2505.05210
+https://arxiv.org/abs/2505.05249
+* https://arxiv.org/abs/2505.05411 # Quantum Simulation of Dynamical Response Functions of Equilibrium States, Esther Cruz, Dominik S. Wild, Mari Carmen Banuls, J. Ignacio Cirac
+https://arxiv.org/abs/2505.05431
+* https://arxiv.org/abs/2505.05435 # Asymmetric decay of quantum many-body scars in XYZ quantum spin chains, Dhiman Bhowmick, Vir B. Bulchandani, Wen Wei Ho
+
+https://arxiv.org/abs/2505.05468
+* https://arxiv.org/abs/2505.04704 # Disorder-Free Localization and Fragmentation in a Non-Abelian Lattice Gauge Theory, Giovanni Cataldi, Giuseppe Calajo, Pietro Silvi, Simone Montangero, Jad C. Halimeh
+* https://arxiv.org/abs/2505.04853 # Systematic construction of asymptotic quantum many-body scar states and their relation to supersymmetric quantum mechanics, Masaya Kunimi, Yusuke Kato, Hosho Katsura
+* https://arxiv.org/abs/2505.05246 # General Hamiltonian description of nonreciprocal interactions, Yu-bo Shi, Roderich Moessner, Ricard Alert, Marin Bukov
+https://arxiv.org/abs/2505.05460
+https://arxiv.org/abs/2505.04716
+https://arxiv.org/abs/2505.04925
+https://arxiv.org/abs/2505.04932
+https://arxiv.org/abs/2505.05393
+https://arxiv.org/abs/2505.04862
+
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023125
 https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020327
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.184201
