@@ -1,14 +1,53 @@
 20250512
 
+https://arxiv.org/abs/2505.05559
+* https://arxiv.org/abs/2505.05563 # Efficient calculation of Green's functions on quantum computers via simultaneous circuit perturbation, Samuele Piccinelli, Francesco Tacchino, Ivano Tavernelli, Giuseppe Carleo
+* https://arxiv.org/abs/2505.05575 # Bridging Classical and Quantum Information Scrambling with the Operator Entanglement Spectrum, Ben T. McDonough, Claudio Chamon, Justin H. Wilson, Thomas Iadecola
+https://arxiv.org/abs/2505.05582
+https://arxiv.org/abs/2505.05614
+https://arxiv.org/abs/2505.05645
+https://arxiv.org/abs/2505.05743
+https://arxiv.org/abs/2505.05841
+https://arxiv.org/abs/2505.05850
+* https://arxiv.org/abs/2505.05908 # TTNOpt: Tree tensor network package for high-rank tensor compression, Ryo Watanabe, Hidetaka Manabe, Toshiya Hikihara, Hiroshi Ueda
+
+https://arxiv.org/abs/2505.05957
+https://arxiv.org/abs/2505.05964
+https://arxiv.org/abs/2505.05966
+https://arxiv.org/abs/2505.05981
+https://arxiv.org/abs/2505.05998
+https://arxiv.org/abs/2505.06048
+https://arxiv.org/abs/2505.06054
+https://arxiv.org/abs/2505.06081
+https://arxiv.org/abs/2505.06082
+https://arxiv.org/abs/2505.06124
+
+https://arxiv.org/abs/2505.06154
+https://arxiv.org/abs/2505.06162
+https://arxiv.org/abs/2505.06165
+https://arxiv.org/abs/2505.06212
+https://arxiv.org/abs/2505.06216
+https://arxiv.org/abs/2505.05490
+https://arxiv.org/abs/2505.05839
+https://arxiv.org/abs/2505.05875
+* https://arxiv.org/abs/2505.05879 # Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid, S. Azadi, N.D. Drummond, A. Principi, R.V. Belosludov, M.S. Bahramy
+https://arxiv.org/abs/2505.05882
+
+https://arxiv.org/abs/2505.05883
+https://arxiv.org/abs/2505.05894
+https://arxiv.org/abs/2505.06029
+https://arxiv.org/abs/2505.06034
+https://arxiv.org/abs/2505.06069
+https://arxiv.org/abs/2505.06119
+https://arxiv.org/abs/2505.06135
+* https://arxiv.org/abs/2505.06158 # Entanglement dynamics and Page curves in random permutation circuits, David Szasz-Schagrin, Michele Mazzoni, Bruno Bertini, Katja Klobas, Lorenzo Piroli
+
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023129
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023131
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.052606
 https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.105005
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L201106
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.182502
-
-
-====
 
 
 20250509
