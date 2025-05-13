@@ -1,5 +1,16 @@
 20250512
 
+https://arxiv.org/abs/2505.05551
+https://arxiv.org/abs/2505.05565
+https://arxiv.org/abs/2505.05566
+* https://arxiv.org/abs/2505.05572 # Proposal for many-body quantum chaos detection with single-site measurements, Isaias Vallejo-Fabila, Adway Kumar Das, Sayan Choudhury, Lea F. Santos
+https://arxiv.org/abs/2505.05674
+https://arxiv.org/abs/2505.05747
+https://arxiv.org/abs/2505.05760
+* https://arxiv.org/abs/2505.05889 # Topological Devil's staircase in a constrained kagome Ising antiferromagnet, Afonso Rufino, Samuel Nyckees, Jeanne Colbois, Frederic Mila
+https://arxiv.org/abs/2505.06179
+https://arxiv.org/abs/2505.06156
+
 https://arxiv.org/abs/2505.05559
 * https://arxiv.org/abs/2505.05563 # Efficient calculation of Green's functions on quantum computers via simultaneous circuit perturbation, Samuele Piccinelli, Francesco Tacchino, Ivano Tavernelli, Giuseppe Carleo
 * https://arxiv.org/abs/2505.05575 # Bridging Classical and Quantum Information Scrambling with the Operator Entanglement Spectrum, Ben T. McDonough, Claudio Chamon, Justin H. Wilson, Thomas Iadecola
