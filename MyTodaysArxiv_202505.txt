@@ -1,5 +1,60 @@
 20250513
 
+* https://arxiv.org/abs/2505.06336 # 2D Quon Language: Unifying Framework for Cliffords, Matchgates, and Beyond, Byungmin Kang, Chen Zhao, Zhengwei Liu, Xun Gao, Soonwon Choi
+https://arxiv.org/abs/2505.06317
+https://arxiv.org/abs/2505.06322
+https://arxiv.org/abs/2505.06343
+* https://arxiv.org/abs/2505.06347 # Quantum State Preparation via Large-Language-Model-Driven Evolution, Qing-Hong Cao, Zong-Yue Hou, Ying-Ying Li, Xiaohui Liu, Zhuo-Yang Song, Liang-Qi Zhang, Shutao Zhang, Ke Zhao
+https://arxiv.org/abs/2505.06385
+* https://arxiv.org/abs/2505.06404 # The Quantum Approximate Optimization Algorithm Can Require Exponential Time to Optimize Linear Functions, Francisco Chicano, Zakaria Abdelmoiz Dahi, Gabiel Luque
+https://arxiv.org/abs/2505.06441
+https://arxiv.org/abs/2505.06455
+https://arxiv.org/abs/2505.06471
+
+https://arxiv.org/abs/2505.06478
+https://arxiv.org/abs/2505.06530
+https://arxiv.org/abs/2505.06559
+https://arxiv.org/abs/2505.06567
+https://arxiv.org/abs/2505.06755
+https://arxiv.org/abs/2505.06774
+https://arxiv.org/abs/2505.06786
+https://arxiv.org/abs/2505.06798
+https://arxiv.org/abs/2505.06799
+https://arxiv.org/abs/2505.06838
+
+https://arxiv.org/abs/2505.06882
+* https://arxiv.org/abs/2505.06928 # Unraveling Quantum Environments: Transformer-Assisted Learning in Lindblad Dynamics, Chi-Sheng Chen, En-Jui Kuo
+https://arxiv.org/abs/2505.06931
+https://arxiv.org/abs/2505.07163
+https://arxiv.org/abs/2505.07173
+* https://arxiv.org/abs/2505.07312 # Beyond Boson Sampling: Higher Spin Sampling as a Practical Path to Quantum Supremacy, Chon-Fai Kam, En-Jui Kuo
+https://arxiv.org/abs/2505.07319
+https://arxiv.org/abs/2505.07524
+https://arxiv.org/abs/2505.07550
+* https://arxiv.org/abs/2505.07612 # Time evolution of the quantum Ising model in two dimensions using Tree Tensor Networks, Wladislaw Krinitsin, Niklas Tausendpfund, Markus Heyl, Matteo Rizzi, Markus Schmitt
+
+https://arxiv.org/abs/2505.07625
+https://arxiv.org/abs/2505.07725
+https://arxiv.org/abs/2505.07770
+* https://arxiv.org/abs/2505.07795 # Mixed state deep thermalization, Xie-Hang Yu, Wen Wei Ho, Pavel Kos
+https://arxiv.org/abs/2505.07798
+* https://arxiv.org/abs/2505.07804 # Quon Classical Simulation: Unifying Clifford, Matchgates and Entanglement, Zixuan Feng, Zhengwei Liu, Fan Lu, Ningfeng Wang
+* https://arxiv.org/abs/2505.06286 # Observing structural disorder induced interacting topological phase in an atom array, Zongpei Yue, Yu-Feng Mao, Xinhui Liang, Zhen-Xing Hua, Peiyun Ge, Yu-Xin Chao, Kai Li, Chen Jia, Meng Khoon Tey, Yong Xu, Li You
+https://arxiv.org/abs/2505.06334
+* https://arxiv.org/abs/2505.06419 # Initialization and training of matrix product state probabilistic models, Xun Tang, Yuehaw Khoo, Lexing Ying
+https://arxiv.org/abs/2505.06869
+
+https://arxiv.org/abs/2505.07229
+https://arxiv.org/abs/2505.07243
+https://arxiv.org/abs/2505.07476
+https://arxiv.org/abs/2505.07549
+https://arxiv.org/abs/2505.07711
+* https://arxiv.org/abs/2505.07720 # Interplay of localization and topology in disordered dimerized array of Rydberg atoms, Maksym Prodius, Adith Sai Aramthottil, Jakub Zakrzewski
+https://arxiv.org/abs/2505.07791
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021050
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021049
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021048
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023135
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023139
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.174204
