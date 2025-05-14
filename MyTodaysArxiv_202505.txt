@@ -1,4 +1,48 @@
+20250514
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190401
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190802
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190803
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.196302
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.196701
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195123
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195418
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.205116
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023142
+
+
 20250513
+
+* https://arxiv.org/abs/2505.06339 # Emergent magnetism and spin liquids in an extended Hubbard description of moire bilayers, Zhenhao Song, Urban F. P. Seifert, Leon Balents, Hong-Chen Jiang
+https://arxiv.org/abs/2505.06342
+* https://arxiv.org/abs/2505.06354 # Fractional Chern Insulators and Competing States in a Twisted MoTe2 Lattice Model, Yuchi He, S.H. Simon, S.A. Parameswaran
+https://arxiv.org/abs/2505.06376
+https://arxiv.org/abs/2505.06398
+https://arxiv.org/abs/2505.06479
+https://arxiv.org/abs/2505.06529
+https://arxiv.org/abs/2505.06689
+https://arxiv.org/abs/2505.06733
+https://arxiv.org/abs/2505.06736
+
+https://arxiv.org/abs/2505.06873
+https://arxiv.org/abs/2505.06902
+https://arxiv.org/abs/2505.06984
+https://arxiv.org/abs/2505.07017
+https://arxiv.org/abs/2505.07038
+https://arxiv.org/abs/2505.07083
+https://arxiv.org/abs/2505.07241
+* https://arxiv.org/abs/2505.07341 # Variational Quantum Monte Carlo investigations of the superconducting pairing in La3Ni2O7, Yi-Qun Liu, Da Wang, Qiang-Hua Wang
+https://arxiv.org/abs/2505.07394
+https://arxiv.org/abs/2505.07428
+
+https://arxiv.org/abs/2505.07436
+https://arxiv.org/abs/2505.07442
+https://arxiv.org/abs/2505.07569
+* https://arxiv.org/abs/2505.07627 # Quantum Monte Carlo study of the bond- and site-diluted transverse-field Ising model, C. Kraemer, M. Hoermann, K.P. Schmidt
+https://arxiv.org/abs/2505.07814
+https://arxiv.org/abs/2505.06551
+https://arxiv.org/abs/2505.07169
+https://arxiv.org/abs/2505.07655
 
 * https://arxiv.org/abs/2505.06336 # 2D Quon Language: Unifying Framework for Cliffords, Matchgates, and Beyond, Byungmin Kang, Chen Zhao, Zhengwei Liu, Xun Gao, Soonwon Choi
 https://arxiv.org/abs/2505.06317
