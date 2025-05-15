@@ -18,6 +18,48 @@ https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023149
 
 20250514
 
+* https://arxiv.org/abs/2505.07930 # Observation of Near-Critical Kibble-Zurek Scaling in Rydberg Atom Arrays, Tao Zhang, Hanteng Wang, Wenjun Zhang, Yuqing Wang, Angrui Du, Ziqi Li, Yujia Wu, Chengshu Li, Jiazhong Hu, Hui Zhai, Wenlan Chen
+https://arxiv.org/abs/2505.07950
+https://arxiv.org/abs/2505.07971
+https://arxiv.org/abs/2505.07981
+https://arxiv.org/abs/2505.08081
+https://arxiv.org/abs/2505.08103
+https://arxiv.org/abs/2505.08141
+https://arxiv.org/abs/2505.08165
+
+https://arxiv.org/abs/2505.08236
+https://arxiv.org/abs/2505.08249
+https://arxiv.org/abs/2505.08269
+https://arxiv.org/abs/2505.08397
+https://arxiv.org/abs/2505.08597
+https://arxiv.org/abs/2505.08675
+https://arxiv.org/abs/2505.08717
+https://arxiv.org/abs/2505.08779
+* https://arxiv.org/abs/2505.08226 # Bang-bang preparation of a quantum many-body ground state in a finite lattice: optimization of the algorithm with a tensor network, Ihor Sokolov, Jacek Dziarmaga
+https://arxiv.org/abs/2505.08276
+
+https://arxiv.org/abs/2505.08291
+https://arxiv.org/abs/2505.08297
+https://arxiv.org/abs/2505.08635
+https://arxiv.org/abs/2505.07900
+https://arxiv.org/abs/2505.07928
+* https://arxiv.org/abs/2505.07929 # Evidence that the Quantum Approximate Optimization Algorithm Optimizes the Sherrington-Kirkpatrick Model Efficiently in the Average Case, Sami Boulebnane, Abid Khan, Minzhao Liu, Jeffrey Larson, Dylan Herman, Ruslan Shaydulin, Marco Pistoia
+* https://arxiv.org/abs/2505.07977 # Physically motivated extrapolation for quantum error mitigation, Pablo Diez-Valle, Gaurav Saxena, Jack S. Baker, Jun-Ho Lee, Thi Ha Kyaw
+https://arxiv.org/abs/2505.08056
+https://arxiv.org/abs/2505.08069
+https://arxiv.org/abs/2505.08289
+
+https://arxiv.org/abs/2505.08206
+https://arxiv.org/abs/2505.08282
+https://arxiv.org/abs/2505.08291
+https://arxiv.org/abs/2505.08346
+https://arxiv.org/abs/2505.08386
+https://arxiv.org/abs/2505.08396
+https://arxiv.org/abs/2505.08474
+https://arxiv.org/abs/2505.08577
+https://arxiv.org/abs/2505.08603
+https://arxiv.org/abs/2505.08663
+
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190401
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190802
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190803
