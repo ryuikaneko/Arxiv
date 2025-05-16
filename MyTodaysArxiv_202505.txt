@@ -1,5 +1,42 @@
 20250516
 
+https://arxiv.org/abs/2505.09653
+https://arxiv.org/abs/2505.09654
+https://arxiv.org/abs/2505.09687
+* https://arxiv.org/abs/2505.09707 # Complexity transitions in chaotic quantum systems, Gopal Chandra Santra, Alex Windey, Soumik Bandyopadhyay, Andrea Legramandi, Philipp Hauke
+* https://arxiv.org/abs/2505.09714 # Overcoming the entanglement barrier with sampled tensor networks, Stefano Carignano, Guglielmo Lami, Jacopo De Nardis, Luca Tagliacozzo
+https://arxiv.org/abs/2505.09729
+https://arxiv.org/abs/2505.09730
+https://arxiv.org/abs/2505.09818
+* https://arxiv.org/abs/2505.09900 # Two-local modifications of SYK model with quantum chaos, Masanori Hanada, Sam van Leuven, Onur Oktay, Masaki Tezuka
+https://arxiv.org/abs/2505.09973
+
+https://arxiv.org/abs/2505.09994
+https://arxiv.org/abs/2505.10012
+https://arxiv.org/abs/2505.10035
+https://arxiv.org/abs/2505.10080
+https://arxiv.org/abs/2505.10110
+https://arxiv.org/abs/2505.10148
+https://arxiv.org/abs/2505.10157
+https://arxiv.org/abs/2505.10365
+https://arxiv.org/abs/2505.10385
+https://arxiv.org/abs/2505.10403
+
+https://arxiv.org/abs/2505.10462
+https://arxiv.org/abs/2505.10477
+https://arxiv.org/abs/2505.10499
+https://arxiv.org/abs/2505.10513
+https://arxiv.org/abs/2505.10530
+https://arxiv.org/abs/2505.10553
+https://arxiv.org/abs/2505.10092
+https://arxiv.org/abs/2505.10166
+https://arxiv.org/abs/2505.10167
+https://arxiv.org/abs/2505.10242
+
+https://arxiv.org/abs/2505.10469
+https://arxiv.org/abs/2505.10531
+https://arxiv.org/abs/2505.10550
+
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023151
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023152
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023153
