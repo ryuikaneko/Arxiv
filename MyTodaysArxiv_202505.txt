@@ -37,6 +37,9 @@ https://arxiv.org/abs/2505.10469
 https://arxiv.org/abs/2505.10531
 https://arxiv.org/abs/2505.10550
 
+https://arxiv.org/abs/2505.09826
+https://arxiv.org/abs/2505.10559
+
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023151
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023152
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023153
