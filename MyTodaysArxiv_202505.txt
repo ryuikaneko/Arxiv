@@ -1,5 +1,46 @@
 20250515
 
+https://arxiv.org/abs/2505.08796
+https://arxiv.org/abs/2505.08851
+https://arxiv.org/abs/2505.08888
+https://arxiv.org/abs/2505.08925
+https://arxiv.org/abs/2505.08942
+https://arxiv.org/abs/2505.09161
+https://arxiv.org/abs/2505.09179
+
+https://arxiv.org/abs/2505.09203
+https://arxiv.org/abs/2505.09227
+https://arxiv.org/abs/2505.09249
+* https://arxiv.org/abs/2505.09311 # One-dimensional extended Hubbard model coupled with an optical cavity, Taiga Nakamoto, Kazuaki Takasan, Naoto Tsuji
+* https://arxiv.org/abs/2505.09346 # Tunable Hilbert space fragmentation and extended critical regime, Mateusz Lisiecki, Janez Bonca, Marcin Mierzejewski, Jacek Herbrych, Patrycja Lydzba
+* https://arxiv.org/abs/2505.09420 # Spin Nernst and thermal Hall effects of topological triplons in quantum dimer magnets on the maple-leaf and star lattices, Nanse Esaki, Yutaka Akagi, Karlo Penc, Hosho Katsura
+https://arxiv.org/abs/2505.09476
+https://arxiv.org/abs/2505.09531
+https://arxiv.org/abs/2505.09543
+https://arxiv.org/abs/2505.09566
+
+https://arxiv.org/abs/2505.08915
+https://arxiv.org/abs/2505.08991
+* https://arxiv.org/abs/2505.08994 # Quantum dynamics in frustrated Ising fullerenes, Alejandro Lopez-Bezanilla, William Bernoudy, Kelly Boothby, Jack Raymond, Alberto Nocera, Andrew D. King
+https://arxiv.org/abs/2505.09117
+https://arxiv.org/abs/2505.09158
+https://arxiv.org/abs/2505.09174
+https://arxiv.org/abs/2505.09206
+https://arxiv.org/abs/2505.09207
+https://arxiv.org/abs/2505.09225
+https://arxiv.org/abs/2505.09411
+
+https://arxiv.org/abs/2505.08991
+https://arxiv.org/abs/2505.09320
+https://arxiv.org/abs/2505.09371
+https://arxiv.org/abs/2505.09395
+https://arxiv.org/abs/2505.09512
+https://arxiv.org/abs/2505.09559
+https://arxiv.org/abs/2505.09563
+https://arxiv.org/abs/2505.09573
+https://arxiv.org/abs/2505.09607
+https://arxiv.org/abs/2505.09545
+
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.052611
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.174518
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.174520
