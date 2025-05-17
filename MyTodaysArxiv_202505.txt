@@ -1,8 +1,8 @@
 20250516
 
-https://arxiv.org/abs/2505.09677
+* https://arxiv.org/abs/2505.09677 # Quantum Hall Effect without Chern Bands, Benjamin Michen, Jan Carl Budich
 https://arxiv.org/abs/2505.09683
-https://arxiv.org/abs/2505.09685
+* https://arxiv.org/abs/2505.09685 # Full, three-quarter, half and quarter Wigner crystals in Bernal bilayer graphene, Enrique Aguilar-Mendez, Titus Neupert, Glenn Wagner
 https://arxiv.org/abs/2505.09697
 https://arxiv.org/abs/2505.09726
 https://arxiv.org/abs/2505.09732
