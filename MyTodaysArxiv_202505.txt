@@ -74,6 +74,9 @@ https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.053310
 https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020331
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195131
 
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021056
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021057
+
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023151
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023152
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023153
