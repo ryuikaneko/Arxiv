@@ -8,6 +8,9 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.174430
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.174431
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.205125
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.205126
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023158
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023159
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.L022038
 
 
 20250519
