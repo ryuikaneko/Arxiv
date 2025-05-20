@@ -1,3 +1,38 @@
+20250519
+
+https://arxiv.org/abs/2505.10623
+https://arxiv.org/abs/2505.11159
+https://arxiv.org/abs/2505.10167
+https://arxiv.org/abs/2505.10657
+https://arxiv.org/abs/2505.10733
+https://arxiv.org/abs/2505.10773
+https://arxiv.org/abs/2505.10852
+https://arxiv.org/abs/2505.10905
+* https://arxiv.org/abs/2505.10974 # Thermodynamics of the S=1/2 maple-leaf Heisenberg antiferromagnet, Taras Hutak
+
+https://arxiv.org/abs/2505.10984
+https://arxiv.org/abs/2505.11088
+https://arxiv.org/abs/2505.11161
+https://arxiv.org/abs/2505.10612
+* https://arxiv.org/abs/2505.11377 # TensorMixedStates: a Julia library for simulating pure and mixed quantum states using matrix product states, Jerome Houdayer, Gregoire Misguich
+* https://arxiv.org/abs/2505.11501 # Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems, Lucas Sa, Benjamin Beri
+https://arxiv.org/abs/2505.10693
+https://arxiv.org/abs/2505.10716
+https://arxiv.org/abs/2505.10796
+https://arxiv.org/abs/2505.10963
+
+https://arxiv.org/abs/2505.11025
+https://arxiv.org/abs/2505.11238
+https://arxiv.org/abs/2505.11464
+https://arxiv.org/abs/2505.11466
+https://arxiv.org/abs/2505.11486
+https://arxiv.org/abs/2505.11487
+https://arxiv.org/abs/2505.10766
+https://arxiv.org/abs/2505.11290
+https://arxiv.org/abs/2505.11319
+* https://arxiv.org/abs/2505.11489 # Exactly solvable many-body dynamics from space-time duality, Bruno Bertini, Pieter W. Claeys, Tomaz Prosen
+
+
 20250516
 
 * https://arxiv.org/abs/2505.09677 # Quantum Hall Effect without Chern Bands, Benjamin Michen, Jan Carl Budich
