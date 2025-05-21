@@ -1,3 +1,17 @@
+20250521
+
+https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020333
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.L051305
+https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.094030
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.200801
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.206602
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.174206
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195141
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195142
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195143
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054125
+
+
 20250520
 
 https://arxiv.org/abs/2505.11514
