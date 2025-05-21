@@ -1,5 +1,29 @@
 20250520
 
+https://arxiv.org/abs/2505.11722
+https://arxiv.org/abs/2505.11727
+https://arxiv.org/abs/2505.11948
+https://arxiv.org/abs/2505.11964
+https://arxiv.org/abs/2505.12011
+https://arxiv.org/abs/2505.12033
+https://arxiv.org/abs/2505.12342
+https://arxiv.org/abs/2505.12590
+* https://arxiv.org/abs/2505.12595 # Driven Critical Dynamics in Tricitical Point, Ting-Long Wang, Yi-Fan Jiang, Shuai Yin
+https://arxiv.org/abs/2505.12622
+https://arxiv.org/abs/2505.12639
+* https://arxiv.org/abs/2505.12704 # Itinerant ferromagnetism in an SU(3) Fermi-Hubbard model at finite temperature: A DMFT study, Juntaro Fujii, Kazuki Yamamoto, Akihisa Koga
+* https://arxiv.org/abs/2505.12979 # Tricritical Kibble-Zurek Scaling in Rydberg Atom Ladders, Hanteng Wang, Xingyu Li, Chengshu Li
+https://arxiv.org/abs/2505.13003
+https://arxiv.org/abs/2505.13057
+https://arxiv.org/abs/2505.13352
+https://arxiv.org/abs/2505.12013
+https://arxiv.org/abs/2505.12387
+https://arxiv.org/abs/2505.13207
+https://arxiv.org/abs/2505.13230
+
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054123
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021059
+
 https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.054049
 https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020332
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.052215
