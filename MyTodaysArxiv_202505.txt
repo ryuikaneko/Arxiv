@@ -12,6 +12,35 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.205129
 
 20250521
 
+* https://arxiv.org/abs/2505.13625 # Classical Criticality via Quantum Annealing, Pratik Sathe, Andrew D. King, Susan M. Mniszewski, Carleton Coffrin, Cristiano Nisoli, Francesco Caravelli
+https://arxiv.org/abs/2505.13637
+https://arxiv.org/abs/2505.13659
+https://arxiv.org/abs/2505.13720
+https://arxiv.org/abs/2505.13744
+https://arxiv.org/abs/2505.14004
+
+https://arxiv.org/abs/2505.14007
+https://arxiv.org/abs/2505.14276
+https://arxiv.org/abs/2505.14487
+* https://arxiv.org/abs/2505.14571 # Dynamic correlations of frustrated quantum spins from high-temperature expansion, Ruben Burkard, Benedikt Schneider, Bjoern Sbierski
+https://arxiv.org/abs/2505.13592
+https://arxiv.org/abs/2505.14013
+https://arxiv.org/abs/2505.14622
+https://arxiv.org/abs/2505.13525
+https://arxiv.org/abs/2505.13525
+https://arxiv.org/abs/2505.13599
+
+* https://arxiv.org/abs/2505.13695 # Large-scale quantum reservoir computing using a Gaussian Boson Sampler, Valeria Cimini, Mandar M. Sohoni, Federico Presutti, Benjamin K. Malia, Shi-Yuan Ma, Ryotatsu Yanagimoto, Tianyu Wang, Tatsuhiro Onodera, Logan G. Wright, Peter L. McMahon
+https://arxiv.org/abs/2505.13710
+https://arxiv.org/abs/2505.13848
+https://arxiv.org/abs/2505.13901
+https://arxiv.org/abs/2505.14192
+https://arxiv.org/abs/2505.14295
+https://arxiv.org/abs/2505.14375
+https://arxiv.org/abs/2505.14450
+https://arxiv.org/abs/2505.14628
+https://arxiv.org/abs/2505.14670
+
 https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020333
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.L051305
 https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.094030
