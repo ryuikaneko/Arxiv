@@ -1,5 +1,37 @@
 20250523
 
+https://arxiv.org/abs/2505.15869
+https://arxiv.org/abs/2505.15887
+https://arxiv.org/abs/2505.15898
+https://arxiv.org/abs/2505.15902
+https://arxiv.org/abs/2505.15907
+https://arxiv.org/abs/2505.15908
+https://arxiv.org/abs/2505.15913
+* https://arxiv.org/abs/2505.15917 # How to factor 2048 bit RSA integers with less than a million noisy qubits, Craig Gidney
+https://arxiv.org/abs/2505.15945
+https://arxiv.org/abs/2505.16021
+https://arxiv.org/abs/2505.16163
+https://arxiv.org/abs/2505.16268
+https://arxiv.org/abs/2505.16332
+https://arxiv.org/abs/2505.16444
+* https://arxiv.org/abs/2505.16525 # Extreme value statistics and eigenstate thermalization in kicked quantum chaotic spin-1/2 chains, Tanay Pathak, Masaki Tezuka
+https://arxiv.org/abs/2505.16545
+https://arxiv.org/abs/2505.16615
+https://arxiv.org/abs/2505.16618
+https://arxiv.org/abs/2505.16669
+https://arxiv.org/abs/2505.16676
+https://arxiv.org/abs/2505.16698
+https://arxiv.org/abs/2505.16714
+https://arxiv.org/abs/2505.16715
+https://arxiv.org/abs/2505.16889
+https://arxiv.org/abs/2505.16891
+https://arxiv.org/abs/2505.16895
+https://arxiv.org/abs/2505.16908
+https://arxiv.org/abs/2505.16948
+https://arxiv.org/abs/2505.15980
+https://arxiv.org/abs/2505.16606
+* https://arxiv.org/abs/2505.17009 # Topological Phases, Criticality, and Mixed State Order in a Hubbard Quantum Simulator, Lin Su, Rahul Sahay, Michal Szurek, Alexander Douglas, Ognjen Markovic, Ceren B. Dag, Ruben Verresen, Markus Greiner
+
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021062
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021063
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.052441
