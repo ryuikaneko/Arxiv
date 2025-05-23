@@ -1,4 +1,27 @@
+20250526
+
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054131
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.055306
+
+
+====
+
+
 20250523
+
+* https://arxiv.org/abs/2505.15889 # Strong Hilbert space fragmentation and fractons from subsystem and higher-form symmetries, Charles Stahl, Oliver Hart, Alexey Khudorozhkov, Rahul Nandkishore
+* https://arxiv.org/abs/2505.15891 # Gaplessness from disorder and quantum geometry in gapped superconductors, Omri Lesser, Sagnik Banerjee, Xuepeng Wang, Jaewon Kim, Ehud Altman, Debanjan Chowdhury
+https://arxiv.org/abs/2505.15894
+https://arxiv.org/abs/2505.16020
+* https://arxiv.org/abs/2505.16117 # Inchworm Tensor Train Hybridization Expansion Quantum Impurity Solver, Yang Yu, Andre Erpenbeck, Dominika Zgid, Guy Cohen, Olivier Parcollet, Emanuel Gull
+https://arxiv.org/abs/2505.16140
+https://arxiv.org/abs/2505.16173
+* https://arxiv.org/abs/2505.16206 # Finite temperatures and flat bands: the Hubbard model on three-dimensional Lieb lattices, Lucas O. Lima, Julian Faundez, Natanael C. Costa, Raimundo R. dos Santos
+https://arxiv.org/abs/2505.16370
+https://arxiv.org/abs/2505.16379
+* https://arxiv.org/abs/2505.16546 # Twisted Partition Functions as Order Parameters, Jun Maeda, Yuya Tanizaki
+https://arxiv.org/abs/2505.16701
+https://arxiv.org/abs/2505.16476
 
 https://arxiv.org/abs/2505.15869
 https://arxiv.org/abs/2505.15887
