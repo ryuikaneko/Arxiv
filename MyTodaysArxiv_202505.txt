@@ -2,6 +2,10 @@
 
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054131
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.055306
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.206303
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.184434
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195153
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.055307
 
 
 ====
