@@ -1,14 +1,51 @@
 20250526
 
+https://arxiv.org/abs/2505.17081
+https://arxiv.org/abs/2505.17192
+https://arxiv.org/abs/2505.17200
+https://arxiv.org/abs/2505.17212
+https://arxiv.org/abs/2505.17294
+https://arxiv.org/abs/2505.17378
+
+https://arxiv.org/abs/2505.17411
+https://arxiv.org/abs/2505.17500
+https://arxiv.org/abs/2505.17669
+* https://arxiv.org/abs/2505.17772 # Symmetry breaking and thermal phase transition of the spin-1 quantum magnet with SU(3) symmetry on the simple cubic lattice, Nils Caci, Dominik Chudy, Pablo Daniel Mendez Mariscal, Daniel Ueltschi, Stefan Wessel
+https://arxiv.org/abs/2505.17876
+https://arxiv.org/abs/2505.17888
+https://arxiv.org/abs/2505.18001
+https://arxiv.org/abs/2505.18016
+https://arxiv.org/abs/2505.18029
+https://arxiv.org/abs/2505.18119
+
+* https://arxiv.org/abs/2505.18124 # Multiparty entanglement loops in quantum spin liquids, Liuke Lyu, Deeksha Chandorkar, Samarth Kapoor, So Takei, Erik S. Sorensen, William Witczak-Krempa
+https://arxiv.org/abs/2505.15521
+https://arxiv.org/abs/2505.17027
+https://arxiv.org/abs/2505.17175
+* https://arxiv.org/abs/2505.17181 # Quantum Mpemba effect without global symmetries, Tanmay Bhore, Lei Su, Ivar Martin, Aashish A. Clerk, Zlatko Papic
+* https://arxiv.org/abs/2505.17185 # Role of Nonstabilizerness in Quantum Optimization, Chiara Capecci, Gopal Chandra Santra, Alberto Bottarelli, Emanuele Tirrito, Philipp Hauke
+https://arxiv.org/abs/2505.17187
+* https://arxiv.org/abs/2505.17679 # Boosting quantum efficiency by reducing complexity, Giovanni Sisorio, Alberto Cappellaro, Luca Dell'Anna
+* https://arxiv.org/abs/2505.18143 # Statistical Localization in a Rydberg Simulator of U(1) Lattice Gauge Theory, Prithvi Raj Datla, Luheng Zhao, Wen Wei Ho, Natalie Klco, Huanqian Loh
+https://arxiv.org/abs/2505.17170
+
+https://arxiv.org/abs/2505.17361
+https://arxiv.org/abs/2505.17713
+https://arxiv.org/abs/2505.17731
+https://arxiv.org/abs/2505.17842
+https://arxiv.org/abs/2505.17846
+https://arxiv.org/abs/2505.17033
+https://arxiv.org/abs/2505.17046
+https://arxiv.org/abs/2505.17079
+* https://arxiv.org/abs/2505.17740 # A tensor network approach for chaotic time series prediction, Rodrigo Martinez-Pena, Roman Orus
+https://arxiv.org/abs/2505.17756
+
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054131
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.055306
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.206303
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.184434
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195153
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.055307
-
-
-====
 
 
 20250523
