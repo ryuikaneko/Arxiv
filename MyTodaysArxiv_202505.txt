@@ -2,6 +2,59 @@
 
 20250527
 
+https://arxiv.org/abs/2505.18250
+https://arxiv.org/abs/2505.18253
+https://arxiv.org/abs/2505.18299
+https://arxiv.org/abs/2505.18496
+* https://arxiv.org/abs/2505.18519 # Implementing advanced trial wave functions in fermion quantum Monte Carlo via stochastic sampling, Zhi-Yu Xiao, Zixiang Lu, Yixiao Chen, Tao Xiang, Shiwei Zhang
+https://arxiv.org/abs/2505.18550
+https://arxiv.org/abs/2505.18616
+https://arxiv.org/abs/2505.18620
+
+https://arxiv.org/abs/2505.18751
+https://arxiv.org/abs/2505.18785
+https://arxiv.org/abs/2505.18796
+https://arxiv.org/abs/2505.18898
+https://arxiv.org/abs/2505.18910
+https://arxiv.org/abs/2505.18959
+* https://arxiv.org/abs/2505.19071 # Coherence, Transport, and Chaos in 1D Bose-Hubbard Model: Disorder vs. Stark Potential, Asad Ali, M.I. Hussain, Saif Al-Kuwari, M. T. Rahim, H. Kuniyil, Seyed Mohammad Hosseiny, Jamileh Seyed-Yazdi, Hamid Arian Zad, Saeed Haddadi
+https://arxiv.org/abs/2505.19117
+* https://arxiv.org/abs/2505.19204 # A many-body marker for three-dimensional topological insulators with inversion symmetry, Federico Becca, Alberto Parola
+https://arxiv.org/abs/2505.19280
+
+https://arxiv.org/abs/2505.19296
+https://arxiv.org/abs/2505.19485
+https://arxiv.org/abs/2505.19900
+https://arxiv.org/abs/2505.20159
+* https://arxiv.org/abs/2505.20204 # Mechanism of defect formation in the quantum annealing of random transverse-field Ising chain, Robert Juhasz
+https://arxiv.org/abs/2505.20205
+https://arxiv.org/abs/2505.20213
+https://arxiv.org/abs/2505.18265
+https://arxiv.org/abs/2505.18367
+https://arxiv.org/abs/2505.19262
+
+* https://arxiv.org/abs/2505.19424 # Matrix-product-state approach for qubits-waveguide systems in real space, Shimpei Goto
+https://arxiv.org/abs/2505.19783
+* https://arxiv.org/abs/2505.18260 # Chaos and thermalization in open quantum systems, Filippo Ferrari, Vincenzo Savona, Fabrizio Minganti
+https://arxiv.org/abs/2505.18396
+https://arxiv.org/abs/2505.18400
+https://arxiv.org/abs/2505.18539
+https://arxiv.org/abs/2505.18606
+https://arxiv.org/abs/2505.18701
+https://arxiv.org/abs/2505.19079
+https://arxiv.org/abs/2505.19380
+
+https://arxiv.org/abs/2505.19772
+https://arxiv.org/abs/2505.19808
+https://arxiv.org/abs/2505.20000
+* https://arxiv.org/abs/2505.20042 # Quasi-Adiabatic Processing of Thermal States, Reinis Irmejs, Mari Carmen Banuls, J. Ignacio Cirac
+https://arxiv.org/abs/2505.20064
+https://arxiv.org/abs/2505.20108
+https://arxiv.org/abs/2505.20261
+https://arxiv.org/abs/2505.19906
+* https://arxiv.org/abs/2505.20132 # Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks, Safa Hamreras, Sukhbinder Singh, Roman Orus
+https://arxiv.org/abs/2505.18460
+
 https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.9.054801
 https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.054070
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.052218
