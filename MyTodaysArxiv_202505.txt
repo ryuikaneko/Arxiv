@@ -1,5 +1,32 @@
 20250528
 
+https://arxiv.org/abs/2505.20337
+https://arxiv.org/abs/2505.20382
+https://arxiv.org/abs/2505.20387
+https://arxiv.org/abs/2505.20408
+https://arxiv.org/abs/2505.20412
+https://arxiv.org/abs/2505.20442
+https://arxiv.org/abs/2505.20519
+https://arxiv.org/abs/2505.20534
+https://arxiv.org/abs/2505.20550
+* https://arxiv.org/abs/2505.20593 # Measurement-Induced Dynamical Quantum Thermalization, Marvin Lenk, Sayak Biswas, Anna Posazhennikova, Johann Kroha
+https://arxiv.org/abs/2505.20595
+https://arxiv.org/abs/2505.20832
+https://arxiv.org/abs/2505.21017
+https://arxiv.org/abs/2505.21066
+https://arxiv.org/abs/2505.21084
+https://arxiv.org/abs/2505.21170
+https://arxiv.org/abs/2505.21192
+https://arxiv.org/abs/2505.21240
+https://arxiv.org/abs/2505.21243
+https://arxiv.org/abs/2505.21255
+https://arxiv.org/abs/2505.21308
+https://arxiv.org/abs/2505.20376
+* https://arxiv.org/abs/2505.20406 # Leveraging recurrence in neural network wavefunctions for large-scale simulations of Heisenberg antiferromagnets: the triangular lattice, M. Schuyler Moss, Roeland Wiersema, Mohamed Hibat-Allah, Juan Carrasquilla, Roger G. Melko
+https://arxiv.org/abs/2505.20472
+https://arxiv.org/abs/2505.21048
+
+
 20250527
 
 https://arxiv.org/abs/2505.18250
