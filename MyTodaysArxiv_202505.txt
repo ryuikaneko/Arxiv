@@ -55,6 +55,7 @@ https://arxiv.org/abs/2505.19906
 * https://arxiv.org/abs/2505.20132 # Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks, Safa Hamreras, Sukhbinder Singh, Roman Orus
 https://arxiv.org/abs/2505.18460
 
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023193
 https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.9.054801
 https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.054070
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.052218
