@@ -1,4 +1,56 @@
+20250530
+
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023197
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023198
+https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.054918
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.052628
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.205144
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.205145
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.205146
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L180203
+
+
 20250529
+
+https://arxiv.org/abs/2505.21614
+https://arxiv.org/abs/2505.21618
+* https://arxiv.org/abs/2505.21621 # Designing Fault-Tolerant Blind Quantum Computation, Gefen Baranes, Iria W. Wang, Francisco Machado, Aziza Suleymanzade, Pieter-Jan Stas, Yan-Cheng Wei, Susanne F. Yelin, Johannes Borregaard, Mikhail D. Lukin
+https://arxiv.org/abs/2505.21712
+https://arxiv.org/abs/2505.21726
+https://arxiv.org/abs/2505.21881
+
+https://arxiv.org/abs/2505.21961
+https://arxiv.org/abs/2505.22070
+* https://arxiv.org/abs/2505.22083 # Hyperbolic recurrent neural network as the first type of non-Euclidean neural quantum state ansatz, H. L. Dao
+https://arxiv.org/abs/2505.22164
+https://arxiv.org/abs/2505.22171
+https://arxiv.org/abs/2505.22265
+https://arxiv.org/abs/2505.22276
+https://arxiv.org/abs/2505.22390
+https://arxiv.org/abs/2505.22398
+https://arxiv.org/abs/2505.22405
+
+https://arxiv.org/abs/2505.22484
+https://arxiv.org/abs/2505.22502
+https://arxiv.org/abs/2505.22514
+https://arxiv.org/abs/2505.22629
+* https://arxiv.org/abs/2505.22658 # A multimode cavity QED Ising spin glass, Brendan P. Marsh, David Atri Schuller, Yunpeng Ji, Henry S. Hunt, Giulia Z. Socolof, Deven P. Bowman, Jonathan Keeling, Benjamin L. Lev
+* https://arxiv.org/abs/2505.21921 # Exact Quantum Many-Body Scars in 2D Quantum Gauge Models, Yuan Miao, Linhao Li, Hosho Katsura, Masahito Yamazaki
+https://arxiv.org/abs/2505.21933
+https://arxiv.org/abs/2505.22319
+https://arxiv.org/abs/2505.22533
+https://arxiv.org/abs/2505.22261
+
+https://arxiv.org/abs/2505.21619
+https://arxiv.org/abs/2505.21687
+https://arxiv.org/abs/2505.21826
+https://arxiv.org/abs/2505.22274
+https://arxiv.org/abs/2505.22317
+* https://arxiv.org/abs/2505.20593 # Measurement-Induced Dynamical Quantum Thermalization, Marvin Lenk, Sayak Biswas, Anna Posazhennikova, Johann Kroha
+https://arxiv.org/abs/2505.21606
+https://arxiv.org/abs/2505.21611
+https://arxiv.org/abs/2505.22193
+https://arxiv.org/abs/2505.22623
 
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.210402
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.210602
