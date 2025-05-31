@@ -1,5 +1,53 @@
 20250530
 
+https://arxiv.org/abs/2505.22693
+https://arxiv.org/abs/2505.22715
+https://arxiv.org/abs/2505.22729
+
+https://arxiv.org/abs/2505.22731
+https://arxiv.org/abs/2505.22743
+https://arxiv.org/abs/2505.22924
+* https://arxiv.org/abs/2505.22932 # Variational Quantum Simulations of a Two-Dimensional Frustrated Transverse-Field Ising Model on a Trapped-Ion Quantum Computer, Ammar Kirmani, Elijah Pelofske, Andreas Baertschi, Stephan Eidenbenz, Jian-Xin Zhu
+* https://arxiv.org/abs/2505.23011 # Page Curve of average subsystem entropy, Oscar C.O. Dahlsten
+https://arxiv.org/abs/2505.23021
+https://arxiv.org/abs/2505.23028
+https://arxiv.org/abs/2505.23041
+https://arxiv.org/abs/2505.23217
+https://arxiv.org/abs/2505.23256
+
+https://arxiv.org/abs/2505.23373
+https://arxiv.org/abs/2505.23389
+https://arxiv.org/abs/2505.23581
+https://arxiv.org/abs/2505.23603
+https://arxiv.org/abs/2505.22721
+https://arxiv.org/abs/2505.22676
+https://arxiv.org/abs/2505.22723
+* https://arxiv.org/abs/2505.22725 # Kekule order from diffuse nesting near higher-order Van Hove points, Jonas Beck, Jonathan Bodky, Matteo Duerrnagel, Ronny Thomale, Julian Ingham, Lennart Klebl, Hendrik Hohmann
+https://arxiv.org/abs/2505.22887
+https://arxiv.org/abs/2505.22933
+
+https://arxiv.org/abs/2505.22965
+https://arxiv.org/abs/2505.23200
+https://arxiv.org/abs/2505.23208
+https://arxiv.org/abs/2505.23237
+https://arxiv.org/abs/2505.23255
+* https://arxiv.org/abs/2505.23282 # Tuning the Chern number of Kitaev quantum spin liquid, Seong Jun Kwon, Kyusung Hwang, Suk Bum Chung
+https://arxiv.org/abs/2505.23371
+* https://arxiv.org/abs/2505.23409 # Parton Mean-Field Theory of a Rydberg Quantum Spin Liquid induced by Density-Dependent Peierls Phases, Benno Bock, Simon Ohler, Michael Fleischhauer
+* https://arxiv.org/abs/2505.23602 # Eigenstate Thermalization Hypothesis (ETH) for off-diagonal matrix elements in integrable spin chains, Federico Rottoli, Vincenzo Alba
+https://arxiv.org/abs/2505.23633
+
+* https://arxiv.org/abs/2505.23699 # Dyn-HTE: High-temperature expansion of the dynamic Matsubara spin correlator, Ruben Burkard, Benedikt Schneider, Bjoern Sbierski
+* https://arxiv.org/abs/2505.23728 # Group Convolutional Neural Network Ground State of the Quantum Dimer Model, Ojasvi Sharma, Sandipan Manna, Prashant Shekhar Rao, G J Sreejith
+* https://arxiv.org/abs/2505.22720 # Flow to Nishimori universality in weakly monitored quantum circuits with qubit loss, Malte Puetz, Romain Vasseur, Andreas W.W. Ludwig, Simon Trebst, Guo-Yi Zh
+https://arxiv.org/abs/2505.22734
+https://arxiv.org/abs/2505.22791
+https://arxiv.org/abs/2505.22816
+* https://arxiv.org/abs/2505.23096 # Bridging the classical and quantum regimes in a dissipative Ising chain, Zhenming Zhang, Haowei Li, Wei Yi
+https://arxiv.org/abs/2505.23127
+https://arxiv.org/abs/2505.23289
+https://arxiv.org/abs/2505.23388
+
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023197
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023198
 https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.054918
