@@ -1,5 +1,77 @@
 20250603
 
+https://arxiv.org/abs/2506.00097
+https://arxiv.org/abs/2506.00112
+* https://arxiv.org/abs/2506.00116 # Fermionic Magic Resources of Quantum Many-Body Systems, Piotr Sierant, Paolo Stornati, Xhek Turkeshi
+https://arxiv.org/abs/2506.00118
+https://arxiv.org/abs/2506.00124
+
+https://arxiv.org/abs/2506.00055
+https://arxiv.org/abs/2506.00090
+https://arxiv.org/abs/2506.00110
+* https://arxiv.org/abs/2506.00114 # Symmetry-deformed toric codes and the quantum dimer model, Jiaxin Qiao, Yoshito Watanabe, Simon Trebst
+* https://arxiv.org/abs/2506.00126 # Absence of topological order in the U(1) checkerboard toric code, M. Vieweg, V. Kott, L. Lenke, A. Schellenberger, K.P. Schmidt
+* https://arxiv.org/abs/2506.00155 # Expressivity of determinantal anzatzes for neural network wave functions, Ni Zhan, William A. Wheeler, Elif Ertekin, Ryan P. Adams, Lucas K. Wagner
+* https://arxiv.org/abs/2506.00248 # A higher dimensional generalization of the Kitaev spin liquid, Po-Jui Chen, Piers Coleman
+https://arxiv.org/abs/2506.00449
+https://arxiv.org/abs/2506.00515
+https://arxiv.org/abs/2506.00617
+
+* https://arxiv.org/abs/2506.00787 # Hole clustering and mutual interplay in three-band Hubbard model, Mi Jiang, Yi-feng Yang, Guang-Ming Zhang
+https://arxiv.org/abs/2506.00792
+https://arxiv.org/abs/2506.00804
+https://arxiv.org/abs/2506.00919
+https://arxiv.org/abs/2506.00949
+* https://arxiv.org/abs/2506.01122 # Missing link between the 2D Quantum Hall problem and 1D quasicrystals, Anuradha Jagannathan
+* https://arxiv.org/abs/2506.01131 # Analogs of deconfined quantum criticality for non-invertible symmetry breaking in 1d, Yu-Hsueh Chen, Tarun Grover
+https://arxiv.org/abs/2506.01233
+https://arxiv.org/abs/2506.01292
+* https://arxiv.org/abs/2506.01363 # A flexible and interoperable high-performance Lanczos-based solver for generic quantum impurity problems: upgrading EDIpack, Lorenzo Crippa, Igor Krivenko, Samuele Giuli, Gabriele Bellomia, Alexander Kowalski, Francesco Petocchi, Alberto Scazzola, Markus Wallerberger, Giacomo Mazza, Luca de Medici, Giorgio Sangiovanni, Massimo Capone, Adriano Amaricci
+
+https://arxiv.org/abs/2506.01401
+https://arxiv.org/abs/2506.01402
+* https://arxiv.org/abs/2506.01448 # Enhanced coherence and layer-selective charge order in a trilayer cuprate superconductor, S. Smit, M. Bluschke, P. Moen, N. Heinsdorf, E. Zavatti, G. Bellomia, S. Giuli, S.K.Y. Dufresne, C.T. Suen, V. Zimmermann, C. Au-Yeung, S. Zhdanovich, J.I. Dadap, M. Zonno, S. Gorovikov, H. Lee, C-T. Kuo, J-S. Lee, D. Song, S. Ishida, H. Eisaki, B. Keimer, M. Michiardi, I.S. Elfimov, G. Levy, D.J. Jones, M. Capone, A. Damascelli
+https://arxiv.org/abs/2506.01449
+https://arxiv.org/abs/2506.01476
+https://arxiv.org/abs/2506.01485
+https://arxiv.org/abs/2506.01491
+https://arxiv.org/abs/2506.01506
+https://arxiv.org/abs/2506.01553
+* https://arxiv.org/abs/2506.01648 # Loop current order on the kagome lattice, Jun Zhan, Hendrik Hohmann, Matteo Duerrnagel, Ruiqing Fu, Sen Zhou, Ziqiang Wang, Ronny Thomale, Xianxin Wu, Jiangping Hu
+
+https://arxiv.org/abs/2506.01653
+https://arxiv.org/abs/2506.01823
+* https://arxiv.org/abs/2506.01915 # Magnetic correlations in the SU(3) triangular-lattice t-J model at finite doping, Annika Boehler, Fabian Grusdt, Annabelle Bohrdt
+https://arxiv.org/abs/2506.00215
+https://arxiv.org/abs/2506.00650
+* https://arxiv.org/abs/2506.01100 # Correlation Functions and Chaotic Behavior of the SYK Chain Model in Pure States, Seyyed M.H. Halataei
+* https://arxiv.org/abs/2506.01204 # Quantum-Classical Embedding via Ghost Gutzwiller Approximation for Enhanced Simulations of Correlated Electron Systems, I-Chi Chen, Aleksei Khindanov, Carlos Salazar, Humberto Munoz Barona, Feng Zhang, Cai-Zhuang Wang, Thomas Iadecola, Nicola Lanata, Yong-Xin Yao
+* https://arxiv.org/abs/2506.01335 # Neural-network-assisted Monte Carlo sampling trained by Quantum Approximate Optimization Algorithm, Yuichiro Nakano, Ken N. Okada, Keisuke Fujii
+https://arxiv.org/abs/2506.01582
+https://arxiv.org/abs/2506.01852
+
+* https://arxiv.org/abs/2506.01860 # Benchmarking Universal Machine Learning Interatomic Potentials for Real-Time Analysis of Inelastic Neutron Scattering Data, Bowen Han, Yongqiang Cheng
+* https://arxiv.org/abs/2506.01891 # Probing Quantum Spin Systems with Kolmogorov-Arnold Neural Network Quantum States, Mahmud Ashraf Shamim, Eric Reinhardt, Talal Ahmed Chowdhury, Sergei Gleyzer, Paulo T Araujo
+https://arxiv.org/abs/2506.01924
+https://arxiv.org/abs/2506.00300
+https://arxiv.org/abs/2506.00321
+https://arxiv.org/abs/2506.00341
+https://arxiv.org/abs/2506.00346
+https://arxiv.org/abs/2506.00347
+https://arxiv.org/abs/2506.00354
+https://arxiv.org/abs/2506.00366
+
+https://arxiv.org/abs/2506.00540
+https://arxiv.org/abs/2506.00575
+* https://arxiv.org/abs/2506.00755 # Exponential speedup in quantum simulation of Kogut-Susskind Hamiltonian via orbifold lattice, Georg Bergner, Masanori Hanada
+https://arxiv.org/abs/2506.01559
+https://arxiv.org/abs/2506.01708
+https://arxiv.org/abs/2506.01715
+https://arxiv.org/abs/2506.01882
+https://arxiv.org/abs/2506.00102
+https://arxiv.org/abs/2506.00471
+https://arxiv.org/abs/2506.01598
+
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.214403
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.214404
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.224201
