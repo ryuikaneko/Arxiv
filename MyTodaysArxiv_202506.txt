@@ -15,6 +15,50 @@ https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062601
 
 20250602
 
+* https://arxiv.org/abs/2505.23860 # Quantum computing and artificial intelligence: status and perspectives
+https://arxiv.org/abs/2505.23893
+https://arxiv.org/abs/2505.23978
+https://arxiv.org/abs/2505.23989
+https://arxiv.org/abs/2505.24212
+https://arxiv.org/abs/2505.24285
+https://arxiv.org/abs/2505.24366
+https://arxiv.org/abs/2505.24392
+https://arxiv.org/abs/2505.24453
+https://arxiv.org/abs/2505.24549
+
+https://arxiv.org/abs/2505.24587
+https://arxiv.org/abs/2505.24596
+https://arxiv.org/abs/2505.24626
+https://arxiv.org/abs/2505.24764
+https://arxiv.org/abs/2505.24765
+https://arxiv.org/abs/2505.24772
+https://arxiv.org/abs/2505.24194
+https://arxiv.org/abs/2505.24268
+https://arxiv.org/abs/2505.24780
+https://arxiv.org/abs/2505.24818
+
+https://arxiv.org/abs/2505.23901
+https://arxiv.org/abs/2505.23906
+https://arxiv.org/abs/2505.23909
+https://arxiv.org/abs/2505.23910
+https://arxiv.org/abs/2505.24041
+https://arxiv.org/abs/2505.24124
+https://arxiv.org/abs/2505.24130
+https://arxiv.org/abs/2505.24146
+https://arxiv.org/abs/2505.24150
+https://arxiv.org/abs/2505.24228
+
+https://arxiv.org/abs/2505.24300
+https://arxiv.org/abs/2505.24318
+https://arxiv.org/abs/2505.24414
+https://arxiv.org/abs/2505.24432
+https://arxiv.org/abs/2505.24520
+https://arxiv.org/abs/2505.24777
+https://arxiv.org/abs/2505.24847
+* https://arxiv.org/abs/2505.23853 # Roughening and dynamics of an electric flux string in a (2+1)D lattice gauge theory, Francesco Di Marcantonio, Sunny Pradhan, Sofia Vallecorsa, Mari Carmen Banuls, Enrique Rico Ortega
+https://arxiv.org/abs/2505.23928
+https://arxiv.org/abs/2505.24769
+
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.L022045
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.210403
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.211604
