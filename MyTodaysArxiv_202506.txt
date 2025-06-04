@@ -1,5 +1,44 @@
 20250604
 
+https://arxiv.org/abs/2506.02108
+* https://arxiv.org/abs/2506.02113 # Classical spin liquids from frustrated Ising models in hyperbolic space, Fabian Koehler, Johanna Erdmenger, Roderich Moessner, Matthias Vojta
+https://arxiv.org/abs/2506.02128
+https://arxiv.org/abs/2506.02185
+https://arxiv.org/abs/2506.02192
+
+https://arxiv.org/abs/2506.02198
+https://arxiv.org/abs/2506.02292
+https://arxiv.org/abs/2506.02325
+https://arxiv.org/abs/2506.02549
+https://arxiv.org/abs/2506.02716
+https://arxiv.org/abs/2506.03029
+https://arxiv.org/abs/2506.03040
+* https://arxiv.org/abs/2506.03146 # Topology meets symmetry breaking: Hidden order, intrinsically gapless topological states and finite-temperature topological transitions, Reja H. Wilke, Henning Schloemer, Simon M. Linsel, Annabelle Bohrdt, Fabian Grusdt
+* https://arxiv.org/abs/2506.02103 # 2D Entanglement from a Single Motzkin Spaghetto, Zhao Zhang
+* https://arxiv.org/abs/2506.02105 # Learning Circuits with Infinite Tensor Networks, Joe Gibbs, Lukasz Cincio
+
+* https://arxiv.org/abs/2506.02127 # Quantum Complexity and Chaos in Many-Qudit Doped Clifford Circuits, Beatrice Magni, Xhek Turkeshi
+https://arxiv.org/abs/2506.02131
+* https://arxiv.org/abs/2506.02171 # Kolmogorov-Arnold Wavefunctions, Paulo F. Bedaque, Jacob Cigliano, Hersh Kumar, Srijit Paul, Suryansh Rajawat
+https://arxiv.org/abs/2506.02238
+https://arxiv.org/abs/2506.02570
+https://arxiv.org/abs/2506.02664
+https://arxiv.org/abs/2506.02719
+https://arxiv.org/abs/2506.02888
+https://arxiv.org/abs/2506.02944
+* https://arxiv.org/abs/2506.02970 # Integrals of motion as slow modes in dissipative many-body operator dynamics, Tian-Hua Yang, Dmitry A. Abanin
+
+* https://arxiv.org/abs/2506.03124 # Simulating dynamics of correlated matter with neural quantum states, Markus Schmitt, Markus Heyl
+https://arxiv.org/abs/2506.02036
+https://arxiv.org/abs/2506.02068
+https://arxiv.org/abs/2506.02170
+https://arxiv.org/abs/2506.02313
+https://arxiv.org/abs/2506.02441
+https://arxiv.org/abs/2506.02809
+https://arxiv.org/abs/2506.03014
+https://arxiv.org/abs/2506.03060
+https://arxiv.org/abs/2506.02067
+
 https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.97.021003
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.221401
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.224404
