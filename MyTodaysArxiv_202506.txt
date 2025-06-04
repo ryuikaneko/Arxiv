@@ -1,3 +1,14 @@
+20250604
+
+https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.97.021003
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.221401
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.224404
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.245108
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.245109
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.245110
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062605
+
+
 20250603
 
 https://arxiv.org/abs/2506.00097
