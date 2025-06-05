@@ -1,5 +1,31 @@
 20250605
 
+https://arxiv.org/abs/2506.03200
+* https://arxiv.org/abs/2506.03247 # Tensor Renormalization Group Meets Computer Assistance, Nikolay Ebel, Tom Kennedy, Slava Rychkov
+https://arxiv.org/abs/2506.03250
+
+https://arxiv.org/abs/2506.03251
+https://arxiv.org/abs/2506.03261
+https://arxiv.org/abs/2506.03262
+https://arxiv.org/abs/2506.03477
+https://arxiv.org/abs/2506.03488
+https://arxiv.org/abs/2506.03494
+https://arxiv.org/abs/2506.03505
+https://arxiv.org/abs/2506.03509
+https://arxiv.org/abs/2506.03553
+* https://arxiv.org/abs/2506.03629 # One dimensional Bose-Hubbard model with long range hopping, Edmond Orignac
+
+https://arxiv.org/abs/2506.03717
+* https://arxiv.org/abs/2506.03866 # <<Anticommuting>> Z2 quantum spin liquids, Sumiran Pujari, Harsh Nigam
+https://arxiv.org/abs/2506.03937
+https://arxiv.org/abs/2506.03963
+https://arxiv.org/abs/2506.04064
+* https://arxiv.org/abs/2506.04181 # Exactly solvable spin liquids in Kitaev bilayers and moire superlattices, Ivan Dutta, Anamitra Mukherjee, Onur Erten, Kush Saha
+https://arxiv.org/abs/2506.02651
+https://arxiv.org/abs/2506.03567
+https://arxiv.org/abs/2506.03703
+https://arxiv.org/abs/2506.04114
+
 https://arxiv.org/abs/2506.03241
 https://arxiv.org/abs/2506.03282
 https://arxiv.org/abs/2506.03339
