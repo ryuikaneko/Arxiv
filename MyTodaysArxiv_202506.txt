@@ -1,5 +1,32 @@
 20250605
 
+https://arxiv.org/abs/2506.03241
+https://arxiv.org/abs/2506.03282
+https://arxiv.org/abs/2506.03339
+https://arxiv.org/abs/2506.03398
+https://arxiv.org/abs/2506.03435
+https://arxiv.org/abs/2506.03441
+https://arxiv.org/abs/2506.03447
+https://arxiv.org/abs/2506.03453
+https://arxiv.org/abs/2506.03636
+https://arxiv.org/abs/2506.03697
+
+https://arxiv.org/abs/2506.03920
+https://arxiv.org/abs/2506.03995
+https://arxiv.org/abs/2506.04084
+https://arxiv.org/abs/2506.04095
+https://arxiv.org/abs/2506.04097
+https://arxiv.org/abs/2506.04146
+https://arxiv.org/abs/2506.04170
+* https://arxiv.org/abs/2506.04200 # Entanglement renormalization circuits for 2d Gaussian Fermion States, Sing Lam Wong, Andrew C. Potter
+https://arxiv.org/abs/2506.04223
+* https://arxiv.org/abs/2506.03263 # Theory of Angle Resolved Photoemission Spectroscopy of Altermagnetic Mott Insulators, Lorenzo Lanzini, Purnendu Das, Michael Knap
+
+https://arxiv.org/abs/2506.03668
+https://arxiv.org/abs/2506.03833
+https://arxiv.org/abs/2506.03841
+https://arxiv.org/abs/2506.04221
+
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062405
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062606
 https://journals.aps.org/prl/abstract/10.1103/dl59-vl7v
