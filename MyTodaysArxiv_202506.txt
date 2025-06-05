@@ -6,6 +6,7 @@ https://journals.aps.org/prl/abstract/10.1103/dl59-vl7v
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.214409
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.214411
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L220404
+https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020343
 
 
 20250604
