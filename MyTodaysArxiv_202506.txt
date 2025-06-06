@@ -1,11 +1,64 @@
 20250606
 
+https://arxiv.org/abs/2506.04298
+https://arxiv.org/abs/2506.04300
+https://arxiv.org/abs/2506.04321
+https://arxiv.org/abs/2506.04325
+* https://arxiv.org/abs/2506.04343 # Levy Sachdev-Ye-Kitaev Model, Budhaditya Bhattacharjee, William E. Salazar, Dario Rosa, Alexei Andreanov
+https://arxiv.org/abs/2506.04468
+https://arxiv.org/abs/2506.04517
+
+https://arxiv.org/abs/2506.04530
+https://arxiv.org/abs/2506.04596
+https://arxiv.org/abs/2506.04620
+https://arxiv.org/abs/2506.04637
+* https://arxiv.org/abs/2506.04663 # Accelerated spin-adapted ground state preparation with non-variational quantum algorithms, Takumi Kobori, Taichi Kosugi, Hirofumi Nishi, Synge Todo, Yu-ichiro Matsushita
+https://arxiv.org/abs/2506.04687
+https://arxiv.org/abs/2506.04725
+https://arxiv.org/abs/2506.04771
+https://arxiv.org/abs/2506.04834
+https://arxiv.org/abs/2506.04847
+
+https://arxiv.org/abs/2506.04891
+https://arxiv.org/abs/2506.05031
+https://arxiv.org/abs/2506.05125
+https://arxiv.org/abs/2506.05187
+https://arxiv.org/abs/2506.05244
+https://arxiv.org/abs/2506.05269
+https://arxiv.org/abs/2506.05306
+https://arxiv.org/abs/2506.05323
+https://arxiv.org/abs/2506.04259
+https://arxiv.org/abs/2506.04520
+
+https://arxiv.org/abs/2506.04537
+* https://arxiv.org/abs/2506.04740 # Time Glasses: Symmetry Broken Chaotic Phase with a Finite Gap, Taiki Haga
+* https://arxiv.org/abs/2506.05050 # Hybrid between biologically inspired and quantum inspired many-body states, Miha Srdinsek, Xavier Waintal
+https://arxiv.org/abs/2506.05206
+https://arxiv.org/abs/2506.04895
+https://arxiv.org/abs/2506.04523
+https://arxiv.org/abs/2506.04335
+https://arxiv.org/abs/2506.04342
+https://arxiv.org/abs/2506.04563
+https://arxiv.org/abs/2506.04601
+
+https://arxiv.org/abs/2506.04697
+https://arxiv.org/abs/2506.04719
+* https://arxiv.org/abs/2506.04726 # Stochastic thermodynamics for classical non-Markov jump processes, Kiyoshi Kanazawa, Andreas Dechant
+https://arxiv.org/abs/2506.05085
+https://arxiv.org/abs/2506.05099
+https://arxiv.org/abs/2506.05197
+https://arxiv.org/abs/2506.05279
+https://arxiv.org/abs/2506.05319
+https://arxiv.org/abs/2506.05324
+https://arxiv.org/abs/2506.05330
+
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062806
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.220402
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.220403
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.220404
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.224410
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.245117
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082
 
 
 20250605
