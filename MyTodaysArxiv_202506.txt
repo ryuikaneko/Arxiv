@@ -1,5 +1,25 @@
 20250609
 
+https://arxiv.org/abs/2506.05475
+https://arxiv.org/abs/2506.05509
+https://arxiv.org/abs/2506.05536
+https://arxiv.org/abs/2506.05627
+https://arxiv.org/abs/2506.05642
+https://arxiv.org/abs/2506.05722
+https://arxiv.org/abs/2506.05732
+https://arxiv.org/abs/2506.05888
+
+https://arxiv.org/abs/2506.05995
+https://arxiv.org/abs/2506.05458
+* https://arxiv.org/abs/2506.05477 # Compression, simulation, and synthesis of turbulent flows with tensor trains, Stefano Pisoni, Raghavendra Dheeraj Peddinti, Egor Tiunov, Siddhartha E. Guzman, Leandro Aolita
+https://arxiv.org/abs/2506.06064
+* https://arxiv.org/abs/2506.06214 # Can Theoretical Physics Research Benefit from Language Agents?, Sirui Lu, Zhijing Jin, Terry Jingchen Zhang, Pavel Kos, J. Ignacio Cirac, Bernhard Schoelkopf
+https://arxiv.org/abs/2506.06224
+https://arxiv.org/abs/2506.05540
+https://arxiv.org/abs/2506.05557
+* https://arxiv.org/abs/2506.05798 # Stochastic modeling of deterministic laser chaos using generator extended dynamic mode decomposition, Kakutaro Fukushi, Jun Ohkubo
+https://arxiv.org/abs/2506.06150
+
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.063307
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.245120
 
