@@ -1,5 +1,29 @@
 20250609
 
+* https://arxiv.org/abs/2506.05461 # Emergent Berezinskii-Kosterlitz-Thouless deconfinement in super-Coulombic plasmas, Ayush De, Leo Radzihovsky, Snir Gazit
+
+https://arxiv.org/abs/2506.05462
+https://arxiv.org/abs/2506.05504
+https://arxiv.org/abs/2506.05620
+https://arxiv.org/abs/2506.05645
+https://arxiv.org/abs/2506.05666
+https://arxiv.org/abs/2506.05753
+* https://arxiv.org/abs/2506.05770 # Dynamical Phase Transition of Dissipative Fermionic Superfluids, Xin-Yuan Gao, Yangqian Yan
+https://arxiv.org/abs/2506.05830
+https://arxiv.org/abs/2506.05838
+* https://arxiv.org/abs/2506.05848 # Bath parameterization in multi-band cluster Dynamical Mean-Field Theory, Diego Florez-Ablan, Carlos Mejuto-Zaera, Massimo Capone
+
+https://arxiv.org/abs/2506.05852
+https://arxiv.org/abs/2506.05860
+https://arxiv.org/abs/2506.05931
+https://arxiv.org/abs/2506.06047
+https://arxiv.org/abs/2506.06140
+https://arxiv.org/abs/2506.06148
+https://arxiv.org/abs/2506.06173
+https://arxiv.org/abs/2506.06237
+https://arxiv.org/abs/2506.06257
+https://arxiv.org/abs/2506.05907
+
 https://arxiv.org/abs/2506.05475
 https://arxiv.org/abs/2506.05509
 https://arxiv.org/abs/2506.05536
