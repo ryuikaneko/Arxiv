@@ -1,5 +1,40 @@
 20250610
 
+https://arxiv.org/abs/2506.06364
+
+https://arxiv.org/abs/2506.06439
+https://arxiv.org/abs/2506.06642
+https://arxiv.org/abs/2506.06681
+https://arxiv.org/abs/2506.06789
+https://arxiv.org/abs/2506.06967
+https://arxiv.org/abs/2506.07007
+https://arxiv.org/abs/2506.07043
+https://arxiv.org/abs/2506.07095
+https://arxiv.org/abs/2506.07125
+* https://arxiv.org/abs/2506.07151 # Emergent gapless spiral phases and conformal Lifshitz criticality in the cluster Ising model with off-diagonal interactions, Wei-Lin Li, Dan-Dan Liang, Zhi Li, Xue-Jia Yu
+
+https://arxiv.org/abs/2506.07156
+https://arxiv.org/abs/2506.07302
+https://arxiv.org/abs/2506.07318
+* https://arxiv.org/abs/2506.07441 # Scaling up the transcorrelated density matrix renormalization group, Benjamin Corbett, Akimasa Miyake
+https://arxiv.org/abs/2506.07447
+https://arxiv.org/abs/2506.07529
+https://arxiv.org/abs/2506.07654
+https://arxiv.org/abs/2506.07688
+https://arxiv.org/abs/2506.07703
+* https://arxiv.org/abs/2506.07741 # Interlayer Pairing in Bilayer Nickelates, Thomas A. Maier, Peter Doak, Ling-Fang Lin, Yang Zhang, Adriana Moreo, Elbio Dagotto
+
+https://arxiv.org/abs/2506.07788
+https://arxiv.org/abs/2506.07862
+https://arxiv.org/abs/2506.07983
+* https://arxiv.org/abs/2506.08000 # Microscopic Mechanism of Anyon Superconductivity Emerging from Fractional Chern Insulators, Fabian Pichler, Clemens Kuhlenkamp, Michael Knap, Ashvin Vishwanath
+https://arxiv.org/abs/2506.06363
+https://arxiv.org/abs/2506.06502
+https://arxiv.org/abs/2506.07027
+https://arxiv.org/abs/2506.07139
+https://arxiv.org/abs/2506.07923
+https://arxiv.org/abs/2506.06300
+
 https://journals.aps.org/prl/abstract/10.1103/nf4j-kbtj
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.214417
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.224104
@@ -8,6 +43,7 @@ https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062413
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062610
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062611
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023240
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021087
 
 
 20250609
