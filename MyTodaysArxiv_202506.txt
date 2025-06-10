@@ -1,3 +1,14 @@
+20250610
+
+https://journals.aps.org/prl/abstract/10.1103/nf4j-kbtj
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.214417
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.224104
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.245124
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062413
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062610
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062611
+
+
 20250609
 
 * https://arxiv.org/abs/2506.05461 # Emergent Berezinskii-Kosterlitz-Thouless deconfinement in super-Coulombic plasmas, Ayush De, Leo Radzihovsky, Snir Gazit
