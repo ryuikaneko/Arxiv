@@ -6,6 +6,49 @@ https://journals.aps.org/pra/abstract/10.1103/7mvy-zq7j
 
 20250611
 
+https://arxiv.org/abs/2506.08057
+https://arxiv.org/abs/2506.08073
+https://arxiv.org/abs/2506.08112
+https://arxiv.org/abs/2506.08145
+https://arxiv.org/abs/2506.08156
+https://arxiv.org/abs/2506.08224
+https://arxiv.org/abs/2506.08286
+https://arxiv.org/abs/2506.08322
+* https://arxiv.org/abs/2506.08329 # Neuralized Fermionic Tensor Networks for Quantum Many-Body Systems, Si-Jing Du, Garnet Kin-Lic Chan
+
+https://arxiv.org/abs/2506.08339
+https://arxiv.org/abs/2506.08402
+https://arxiv.org/abs/2506.08423
+https://arxiv.org/abs/2506.08450
+https://arxiv.org/abs/2506.08621
+https://arxiv.org/abs/2506.08663
+https://arxiv.org/abs/2506.08714
+https://arxiv.org/abs/2506.08730
+* https://arxiv.org/abs/2506.08763 # Enhanced superconducting gap in the outer CuO2 plane of the trilayer cuprate (Hg,Re)Ba2Ca2Cu3O8+delta, M. Horio, M. Miyamoto, Y. Mino, S. Ishida, B. Thiagarajan, C. M. Polley, C. H. Lee, T. Nishio, H. Eisaki, I. Matsuda
+https://arxiv.org/abs/2506.08867
+
+https://arxiv.org/abs/2506.09011
+https://arxiv.org/abs/2506.09025
+https://arxiv.org/abs/2506.08212
+https://arxiv.org/abs/2506.08331
+https://arxiv.org/abs/2506.08523
+* https://arxiv.org/abs/2506.08575 # Adaptive quantum dynamics with the time-dependent variational Monte Carlo method, Raffaele Salioni, Rocco Martinazzo, Davide Emilio Galli, Christian Apostoli
+* https://arxiv.org/abs/2506.08594 # Solving excited states for long-range interacting trapped ions with neural networks, Yixuan Ma, Chang Liu, Weikang Li, Shun-Yao Zhang, L.-M. Duan, Yukai Wu, Dong-Ling Deng
+https://arxiv.org/abs/2506.08802
+https://arxiv.org/abs/2506.08103
+* https://arxiv.org/abs/2506.08142 # How to Write a Simulator for Quantum Circuits from Scratch: A Tutorial, Michael J. McGuffin, Jean-Marc Robert, Kazuki Ikeda
+
+* https://arxiv.org/abs/2506.08395 # Matrix Product State on a Quantum Computer, Yong Liu, Guangyao Huang, Yizhi Wang, Junjie Wu
+https://arxiv.org/abs/2506.08455
+https://arxiv.org/abs/2506.08498
+https://arxiv.org/abs/2506.08565
+https://arxiv.org/abs/2506.08657
+https://arxiv.org/abs/2506.08748
+https://arxiv.org/abs/2506.08749
+https://arxiv.org/abs/2506.08759
+https://arxiv.org/abs/2506.08917
+https://arxiv.org/abs/2506.09037
+
 https://journals.aps.org/prl/abstract/10.1103/z9ym-kqln
 https://journals.aps.org/prl/abstract/10.1103/xxlq-d1sw
 https://journals.aps.org/prl/abstract/10.1103/2lxs-wccj
