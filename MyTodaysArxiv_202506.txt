@@ -8,6 +8,47 @@ journals.aps.org/prl/abstract/10.1103/stvg-lg9h
 
 20250613
 
+https://arxiv.org/abs/2506.10068
+https://arxiv.org/abs/2506.10071
+* https://arxiv.org/abs/2506.10076 # Entanglement Holography in Quantum Phases via Twisted Renyi-N Correlators, Pablo Sala, Frank Pollmann, Masaki Oshikawa, Yizhi You
+* https://arxiv.org/abs/2506.10078 # Worldline deconfinement and emergent long-range interaction in entanglement Hamiltonian and entanglement spectrum, Zenan Liu, Zhe Wang, Dao-Xin Yao, Zheng Yan
+https://arxiv.org/abs/2506.10080
+https://arxiv.org/abs/2506.10187
+https://arxiv.org/abs/2506.10211
+
+https://arxiv.org/abs/2506.10298
+https://arxiv.org/abs/2506.10333
+https://arxiv.org/abs/2506.10358
+https://arxiv.org/abs/2506.10367
+https://arxiv.org/abs/2506.10579
+https://arxiv.org/abs/2506.10590
+https://arxiv.org/abs/2506.10782
+https://arxiv.org/abs/2506.10786
+https://arxiv.org/abs/2506.10795
+https://arxiv.org/abs/2506.10819
+
+https://arxiv.org/abs/2506.04875
+https://arxiv.org/abs/2506.10072
+* https://arxiv.org/abs/2506.10308 # Coupled Lindblad pseudomode theory for simulating open quantum systems, Zhen Huang, Gunhee Park, Garnet Kin-Lic Chan, Lin Lin
+* https://arxiv.org/abs/2506.10319 # Lieb's Theorem for Bose Hubbard Models, Zhong-Chao Wei, Chong Zhao
+* https://arxiv.org/abs/2506.10379 # Hamiltonian Learning via Inverse Physics-Informed Neural Networks, Jie Liu, Xin Wang
+https://arxiv.org/abs/2506.10396
+* https://arxiv.org/abs/2506.10771 # Kibble-Zurek dynamical scaling hypothesis in the Google analog-digital quantum simulator of the XX model, Yintai Zhang, Francis A. Bayocboc Jr., Jacek Dziarmaga
+* https://arxiv.org/abs/2506.10806 # Constructing Quantum Many-Body Scars from Hilbert Space Fragmentation, Fan Yang, Matteo Magoni, Hannes Pichler
+https://arxiv.org/abs/2506.10917
+https://arxiv.org/abs/2506.10069
+
+https://arxiv.org/abs/2506.10151
+* https://arxiv.org/abs/2506.10191 # Constructive interference at the edge of quantum ergodic dynamics
+https://arxiv.org/abs/2506.10250
+https://arxiv.org/abs/2506.10258
+https://arxiv.org/abs/2506.10275
+* https://arxiv.org/abs/2506.10283 # A Time-Symmetric Quantum Algorithm for Direct Eigenstate Determination, Shijie Wei, Jingwei Wen, Xiaogang Li, Peijie Chang, Bozhi Wang, Franco Nori, Guilu Long
+https://arxiv.org/abs/2506.10306
+https://arxiv.org/abs/2506.10655
+https://arxiv.org/abs/2506.10796
+https://arxiv.org/abs/2506.10873
+
 https://journals.aps.org/pra/abstract/10.1103/d7tm-9hkp
 https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.97.025004
 https://journals.aps.org/prl/abstract/10.1103/fk9d-k8dc
