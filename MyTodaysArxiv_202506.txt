@@ -7,6 +7,54 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L241111
 
 20250616
 
+https://arxiv.org/abs/2506.11195
+https://arxiv.org/abs/2506.11211
+* https://arxiv.org/abs/2506.11227 # Optimized Gutzwiller Projected States for Doped Antiferromagnets in Fermi-Hubbard Simulators, Christian Reinmoser, Muqing Xu, Lev Haldar Kendrick, Anant Kale, Youqi Gang, Martin Lebrat, Markus Greiner, Fabian Grusdt, Annabelle Bohrdt
+
+* https://arxiv.org/abs/2506.11230 # Stripe order in quasicrystals, Rafael M. P. Teixeira, Eric C. Andrade
+https://arxiv.org/abs/2506.11256
+https://arxiv.org/abs/2506.11288
+https://arxiv.org/abs/2506.11341
+https://arxiv.org/abs/2506.11520
+https://arxiv.org/abs/2506.11527
+https://arxiv.org/abs/2506.11617
+https://arxiv.org/abs/2506.11619
+https://arxiv.org/abs/2506.11675
+* https://arxiv.org/abs/2506.11731 # Topological Signatures of Magnetic Phase Transitions with Majorana Fermions through Local Observables and Quantum Information, Karyn Le Hur, Fan Yang, Magali Korolev
+
+https://arxiv.org/abs/2506.11856
+https://arxiv.org/abs/2506.11871
+https://arxiv.org/abs/2506.11952
+https://arxiv.org/abs/2506.11984
+* https://arxiv.org/abs/2506.11985 # Ising versus infinite randomness criticality in arrays of Rydberg atoms trapped with non-perfect tweezers, Jose Soto-Garcia, Natalia Chepiga
+https://arxiv.org/abs/2506.12005
+* https://arxiv.org/abs/2506.11187 # Roughening Transition in Quantum Circuits, Hyunsoo Ha, David A. Huse, Grace M. Sommers
+https://arxiv.org/abs/2506.11197
+* https://arxiv.org/abs/2506.11222 # Many-Body Neural Network Wavefunction for a Non-Hermitian Ising Chain, Lavoisier Wah, Remmy Zen, Flore K. Kunst
+https://arxiv.org/abs/2506.11225
+
+https://arxiv.org/abs/2506.11759
+https://arxiv.org/abs/2506.11796
+https://arxiv.org/abs/2506.11881
+https://arxiv.org/abs/2506.11909
+https://arxiv.org/abs/2506.11920
+* https://arxiv.org/abs/2506.11922 # Hilbert subspace imprint: a new mechanism for non-thermalization, Hui Yu, Jiangping Hu, Shi-Xin Zhang
+https://arxiv.org/abs/2506.11974
+* https://arxiv.org/abs/2506.11982 # Interpretable representation learning of quantum data enabled by probabilistic variational autoencoders, Paulin de Schoulepnikoff, Gorka Munoz-Gil, Hendrik Poulsen Nautrup, Hans J. Briegel
+https://arxiv.org/abs/2506.11146
+https://arxiv.org/abs/2506.11236
+
+https://arxiv.org/abs/2506.11289
+https://arxiv.org/abs/2506.11330
+https://arxiv.org/abs/2506.11346
+https://arxiv.org/abs/2506.11355
+https://arxiv.org/abs/2506.11453
+https://arxiv.org/abs/2506.11539
+https://arxiv.org/abs/2506.11552
+https://arxiv.org/abs/2506.11711
+https://arxiv.org/abs/2506.11716
+https://arxiv.org/abs/2506.11725
+
 https://journals.aps.org/prl/abstract/10.1103/stvg-lg9h
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023262
 https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020351
