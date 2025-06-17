@@ -1,5 +1,95 @@
 20250617
 
+https://arxiv.org/abs/2506.12017
+
+* https://arxiv.org/abs/2506.12128 # Improved Ground State Estimation in Quantum Field Theories via Normalising Flow-Assisted Neural Quantum States, Vishal S. Ngairangbam, Michael Spannowsky, Timur Sypchenko
+* https://arxiv.org/abs/2506.12133 # Universal Spreading of Nonstabilizerness and Quantum Transport, Emanuele Tirrito, Poetri Sonya Tarabunga, Devendra Singh Bhakuni, Marcello Dalmonte, Piotr Sierant, Xhek Turkeshi
+https://arxiv.org/abs/2506.12166
+https://arxiv.org/abs/2506.12195
+https://arxiv.org/abs/2506.12223
+https://arxiv.org/abs/2506.12292
+https://arxiv.org/abs/2506.12298
+https://arxiv.org/abs/2506.12309
+https://arxiv.org/abs/2506.12378
+https://arxiv.org/abs/2506.12381
+
+* https://arxiv.org/abs/2506.12391 # Simulating the Antiferromagnetic Heisenberg Model on a Spin-Frustrated Kagome Lattice with the Contextual Subspace Variational Quantum Eigensolver, Tim Weaving, Alexis Ralli, Vinul Wimalaweera, Peter J. Love, Peter V. Coveney
+https://arxiv.org/abs/2506.12406
+https://arxiv.org/abs/2506.12410
+https://arxiv.org/abs/2506.12414
+https://arxiv.org/abs/2506.12418
+https://arxiv.org/abs/2506.12427
+https://arxiv.org/abs/2506.12504
+https://arxiv.org/abs/2506.12512
+https://arxiv.org/abs/2506.12603
+https://arxiv.org/abs/2506.12628
+
+https://arxiv.org/abs/2506.12662
+https://arxiv.org/abs/2506.12679
+https://arxiv.org/abs/2506.12734
+https://arxiv.org/abs/2506.12770
+https://arxiv.org/abs/2506.12788
+https://arxiv.org/abs/2506.12797
+https://arxiv.org/abs/2506.12857
+https://arxiv.org/abs/2506.12938
+https://arxiv.org/abs/2506.13075
+https://arxiv.org/abs/2506.13134
+
+https://arxiv.org/abs/2506.13141
+https://arxiv.org/abs/2506.13185
+https://arxiv.org/abs/2506.13228
+https://arxiv.org/abs/2506.13241
+https://arxiv.org/abs/2506.13264
+https://arxiv.org/abs/2506.13304
+https://arxiv.org/abs/2506.13332
+* https://arxiv.org/abs/2506.13370 # Quantum thermalization mechanism and the emergence of symmetry-breaking phases, Sebastian Gomez, Angel L. Corps, Armando Relano
+https://arxiv.org/abs/2506.13386
+https://arxiv.org/abs/2506.13401
+
+https://arxiv.org/abs/2506.13442
+https://arxiv.org/abs/2506.13469
+https://arxiv.org/abs/2506.13534
+* https://arxiv.org/abs/2506.13605 # High-expressibility Quantum Neural Networks using only classical resources, Marco Maronese, Francesco Ferrari, Matteo Vandelli, Daniele Dragoni
+https://arxiv.org/abs/2506.13632
+https://arxiv.org/abs/2506.13643
+https://arxiv.org/abs/2506.10659
+https://arxiv.org/abs/2506.11617
+https://arxiv.org/abs/2506.12462
+https://arxiv.org/abs/2506.12487
+
+https://arxiv.org/abs/2506.12608
+* https://arxiv.org/abs/2506.12629 # The Software Landscape for the Density Matrix Renormalization Group, Per Sehlstedt, Jan Brandejs, Paolo Bientinesi, Lars Karlsson
+https://arxiv.org/abs/2506.12650
+https://arxiv.org/abs/2506.12656
+https://arxiv.org/abs/2506.13488
+https://arxiv.org/abs/2506.13495
+https://arxiv.org/abs/2506.13581
+https://arxiv.org/abs/2506.13720
+* https://arxiv.org/abs/2506.13760 # Compact representation and long-time extrapolation of real-time data for quantum systems, Andre Erpenbeck, Yuanran Zhu, Yang Yu, Lei Zhang, Richard Gerum, Olga Goulko, Chao Yang, Guy Cohen, Emanuel Gull
+* https://arxiv.org/abs/2506.12300 # Trion formation and ordering in the attractive SU(3) Fermi-Hubbard model, Jonathan Stepp, Eduardo Ibarra-Garcia-Padilla, Richard T. Scalettar, Kaden R. A. Hazzard
+
+https://arxiv.org/abs/2506.12345
+https://arxiv.org/abs/2506.12467
+https://arxiv.org/abs/2506.12736
+https://arxiv.org/abs/2506.12877
+https://arxiv.org/abs/2506.12969
+https://arxiv.org/abs/2506.12985
+https://arxiv.org/abs/2506.13031
+* https://arxiv.org/abs/2506.13096 # Diagnosing 2D symmetry protected topological states via mixed state anomaly, Chao Xu, Yunlong Zang, Yixin Ma, Yingfei Gu, Shenghan Jiang
+* https://arxiv.org/abs/2506.13159 # Resonant dynamics of dipole-conserving Bose-Hubbard model with time-dependent tensor electric fields, Jiali Zhang, Shaoliang Zhang
+* https://arxiv.org/abs/2506.13210 # Backsolution: A Framework for Solving Inverse Problems via Automatic Differentiation, Koji Kobayashi, Tomi Ohtsuki
+
+https://arxiv.org/abs/2506.13308
+* https://arxiv.org/abs/2506.13359 # Computing and compressing local vertex functions in imaginary and real frequencies from the multipoint numerical renormalization group using quantics tensor cross interpolation, Markus Frankenbach, Marc Ritter, Mathias Pelz, Nepomuk Ritz, Jan von Delft, Anxiang Ge
+https://arxiv.org/abs/2506.13372
+https://arxiv.org/abs/2506.13413
+* https://arxiv.org/abs/2506.13431 # Excitations and dynamical structure factor of J1-J2 spin-3/2 and spin-5/2 Heisenberg spin chains, Aman Sharma, Mithilesh Nayak, Natalia Chepiga, Frederic Mila
+https://arxiv.org/abs/2506.13556
+https://arxiv.org/abs/2506.13597
+https://arxiv.org/abs/2506.13625
+https://arxiv.org/abs/2506.13631
+* https://arxiv.org/abs/2506.12138 # Adiabatic echo protocols for robust quantum many-body state preparation, Zhongda Zeng, Giuliano Giudici, Aruku Senoo, Alexander Baumgaertner, Adam M. Kaufman, Hannes Pichler
+
 https://journals.aps.org/pra/abstract/10.1103/2tdf-q8fp
 https://journals.aps.org/prl/abstract/10.1103/vvrx-mljg
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L241111
