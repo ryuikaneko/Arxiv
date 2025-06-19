@@ -8,6 +8,60 @@ https://journals.aps.org/pre/abstract/10.1103/j3lx-rhyw
 
 20250619
 
+https://arxiv.org/abs/2506.14818
+https://arxiv.org/abs/2506.14888
+https://arxiv.org/abs/2506.14890
+https://arxiv.org/abs/2506.14967
+https://arxiv.org/abs/2506.15023
+https://arxiv.org/abs/2506.15092
+https://arxiv.org/abs/2506.15121
+https://arxiv.org/abs/2506.15122
+https://arxiv.org/abs/2506.15394
+
+https://arxiv.org/abs/2506.15400
+* https://arxiv.org/abs/2506.15516 # Unconventional Spin Dynamics and Supersolid Excitations in the Triangular-Lattice XXZ Model, Rafael Flores-Calderon, Roderich Moessner, Frank Pollmann
+https://arxiv.org/abs/2506.15552
+* https://arxiv.org/abs/2506.15575 # Quantum metric and localization in a quasicrystal, Quentin Marsal, Patric Holmvall, Annica M. Black-Schaffer
+https://arxiv.org/abs/2506.15652
+https://arxiv.org/abs/2506.15661
+* https://arxiv.org/abs/2506.15669 # Kinetic magnetism in the crossover between the square and triangular lattice Fermi-Hubbard models, Darren Pereira, Erich J. Mueller
+https://arxiv.org/abs/2506.14781
+https://arxiv.org/abs/2506.14845
+* https://arxiv.org/abs/2506.14904 # Free real scalar CFT on fuzzy sphere: spectrum, algebra and wavefunction ansatz, Yin-Chen He
+
+https://arxiv.org/abs/2506.15108
+https://arxiv.org/abs/2506.15337
+https://arxiv.org/abs/2506.15353
+https://arxiv.org/abs/2506.14795
+https://arxiv.org/abs/2506.14858
+https://arxiv.org/abs/2506.14920
+https://arxiv.org/abs/2506.15074
+https://arxiv.org/abs/2506.15080
+https://arxiv.org/abs/2506.15116
+https://arxiv.org/abs/2506.15130
+
+https://arxiv.org/abs/2506.15291
+https://arxiv.org/abs/2506.15373
+https://arxiv.org/abs/2506.15375
+https://arxiv.org/abs/2506.15382
+* https://arxiv.org/abs/2506.15426 # What is a good use case for quantum computers?, Michael Marthaler, Peter Pinski, Pascal Stadler, Vladimir Rybkin, Marina Walt
+https://arxiv.org/abs/2506.15438
+https://arxiv.org/abs/2506.15439
+https://arxiv.org/abs/2506.15466
+https://arxiv.org/abs/2506.15474
+https://arxiv.org/abs/2506.15487
+
+https://arxiv.org/abs/2506.15521
+https://arxiv.org/abs/2506.15551
+https://arxiv.org/abs/2506.15609
+https://arxiv.org/abs/2506.15633
+* https://arxiv.org/abs/2506.15663 # Wavefunction branches demand a definition!, C. Jess Riedel
+* https://arxiv.org/abs/2506.14961 # Quantum and Semi-Classical Signatures of Dissipative Chaos in the Steady State, Griffith Rufo, Sabrina Rufo, Pedro Ribeiro, Stefano Chesi
+* https://arxiv.org/abs/2506.14983 # Thermalization from quantum entanglement: jet simulations in the massive Schwinger model, Adrien Florio, David Frenklakh, Sebastian Grieninger, Dmitri E. Kharzeev, Andrea Palermo, Shuzhe Shi
+https://arxiv.org/abs/2506.14941
+https://arxiv.org/abs/2506.14995
+https://arxiv.org/abs/2506.15658
+
 https://journals.aps.org/prl/abstract/10.1103/l3d5-lnr7
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.240401
 https://journals.aps.org/prl/abstract/10.1103/rl1f-ptzq
