@@ -1,4 +1,50 @@
+20250619
+
+https://journals.aps.org/prl/abstract/10.1103/l3d5-lnr7
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.240401
+https://journals.aps.org/prl/abstract/10.1103/rl1f-ptzq
+https://journals.aps.org/prb/abstract/10.1103/njcp-264s
+https://journals.aps.org/prb/abstract/10.1103/syny-gvt3
+https://journals.aps.org/prb/abstract/10.1103/d3zm-pbr1
+https://journals.aps.org/prb/abstract/10.1103/2bnf-tmtc
+
+
 20250618
+
+https://arxiv.org/abs/2506.13890
+
+https://arxiv.org/abs/2506.14053
+https://arxiv.org/abs/2506.14063
+https://arxiv.org/abs/2506.14077
+https://arxiv.org/abs/2506.14214
+https://arxiv.org/abs/2506.14225
+https://arxiv.org/abs/2506.14330
+https://arxiv.org/abs/2506.14342
+https://arxiv.org/abs/2506.14355
+https://arxiv.org/abs/2506.14372
+https://arxiv.org/abs/2506.14416
+
+* https://arxiv.org/abs/2506.14555 # Translation symmetry restoration in integrable systems: the noninteracting case, Molly Gibbins, Adam Smith, Bruno Bertini
+https://arxiv.org/abs/2506.14594
+* https://arxiv.org/abs/2506.14703 # Zigzag antiferromagnets in the SU(3) Hubbard model on the square lattice, Stijn V. Kleijweg, Philippe Corboz
+https://arxiv.org/abs/2506.13856
+https://arxiv.org/abs/2506.13865
+* https://arxiv.org/abs/2506.13898 # Dynamical quantum phase transition with divergent multipartite entanglement, Jie Chen, Ricardo Costa de Almeida, Hendrik Weimer
+https://arxiv.org/abs/2506.14068
+https://arxiv.org/abs/2506.14075
+https://arxiv.org/abs/2506.14257
+https://arxiv.org/abs/2506.14334
+
+https://arxiv.org/abs/2506.14456
+https://arxiv.org/abs/2506.14458
+https://arxiv.org/abs/2506.14480
+https://arxiv.org/abs/2506.14526
+https://arxiv.org/abs/2506.14537
+https://arxiv.org/abs/2506.14661
+https://arxiv.org/abs/2506.14688
+https://arxiv.org/abs/2506.14745
+https://arxiv.org/abs/2506.14129
+* https://arxiv.org/abs/2506.14747 # Quantum simulation of fermionic non-Abelian lattice gauge theories in (2+1)D with built-in gauge protection, Gaia De Paciani, Lukas Homeier, Jad C. Halimeh, Monika Aidelsburger, Fabian Grusdt
 
 https://journals.aps.org/prl/abstract/10.1103/pcvc-734h
 https://journals.aps.org/prb/abstract/10.1103/z4sw-zj8z
