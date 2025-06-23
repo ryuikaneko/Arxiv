@@ -1,5 +1,88 @@
 20250623
 
+https://arxiv.org/abs/2506.15760
+https://arxiv.org/abs/2506.15909
+https://arxiv.org/abs/2506.15931
+https://arxiv.org/abs/2506.16005
+* https://arxiv.org/abs/2506.16026 # Clifford augmented density matrix renormalization group for \textit{ab initio} quantum chemistry, Lizhong Fu, Honghui Shang, Jinlong Yang, Chu Guo
+
+https://arxiv.org/abs/2506.16113
+https://arxiv.org/abs/2506.16122
+https://arxiv.org/abs/2506.16266
+https://arxiv.org/abs/2506.16286
+https://arxiv.org/abs/2506.16300
+https://arxiv.org/abs/2506.16332
+https://arxiv.org/abs/2506.16361
+https://arxiv.org/abs/2506.16451
+https://arxiv.org/abs/2506.16509
+* https://arxiv.org/abs/2506.16518 # Operator-space fragmentation and integrability in Pauli-Lindblad models, Dawid Paszko, Christopher J. Turner, Dominic C. Rose, Arijeet Pal
+
+https://arxiv.org/abs/2506.16524
+https://arxiv.org/abs/2506.16527
+https://arxiv.org/abs/2506.16534
+https://arxiv.org/abs/2506.16570
+https://arxiv.org/abs/2506.16799
+https://arxiv.org/abs/2506.16841
+https://arxiv.org/abs/2506.16938
+https://arxiv.org/abs/2506.17089
+https://arxiv.org/abs/2506.17135
+https://arxiv.org/abs/2506.17181
+
+https://arxiv.org/abs/2506.17207
+* https://arxiv.org/abs/2506.15769 # Breakdown of the thermodynamic limit in quantum spin and dimer models, Jeet Shah, Laura Shou, Jeremy Shuler, Victor Galitski
+https://arxiv.org/abs/2506.15816
+https://arxiv.org/abs/2506.15830
+https://arxiv.org/abs/2506.16308
+https://arxiv.org/abs/2506.16368
+https://arxiv.org/abs/2506.16559
+https://arxiv.org/abs/2506.16911
+https://arxiv.org/abs/2506.15804
+https://arxiv.org/abs/2506.15807
+
+https://arxiv.org/abs/2506.15973
+https://arxiv.org/abs/2506.15727
+https://arxiv.org/abs/2506.16443
+https://arxiv.org/abs/2506.15726
+* https://arxiv.org/abs/2506.15770 # Probing the pseudogap and beyond: examining single-particle properties of the hole- and electron-doped Hubbard model, Wen O. Wang, Edwin W. Huang, Brian Moritz, Thomas P. Devereaux
+* https://arxiv.org/abs/2506.16068 # Superfluid dome in the spatially modulated two-dimensional XY model, Feng-Feng Song, Aditya Chugh, Hanggai Nuomin, Naoki Kawashima, Alexander Wietek
+https://arxiv.org/abs/2506.16093
+https://arxiv.org/abs/2506.16104
+https://arxiv.org/abs/2506.16111
+https://arxiv.org/abs/2506.16137
+
+https://arxiv.org/abs/2506.16176
+https://arxiv.org/abs/2506.16207
+https://arxiv.org/abs/2506.16240
+https://arxiv.org/abs/2506.16315
+* https://arxiv.org/abs/2506.16360 # Orbital Order and Superconductivity in Bilayer Nickelate Compounds, Giniyat Khaliullin, Jiri Chaloupka
+* https://arxiv.org/abs/2506.16362 # Superconductivity in the spin-state crossover materials: Nickelates with planar-coordinated low-spin Ni2+ ions, Jiri Chaloupka, Giniyat Khaliullin
+https://arxiv.org/abs/2506.16384
+* https://arxiv.org/abs/2506.16424 # Pseudocriticality in antiferromagnetic spin chains, Sankalp Kumar, Sumiran Pujari, Jonathan D'Emidio
+https://arxiv.org/abs/2506.16439
+https://arxiv.org/abs/2506.16446
+
+https://arxiv.org/abs/2506.16464
+https://arxiv.org/abs/2506.16466
+https://arxiv.org/abs/2506.16483
+https://arxiv.org/abs/2506.16501
+https://arxiv.org/abs/2506.16503
+https://arxiv.org/abs/2506.16508
+https://arxiv.org/abs/2506.16525
+* https://arxiv.org/abs/2506.16533 # Mott metal-insulator transition in a modified periodic Anderson model: Insights from entanglement entropy and role of short-range spatial correlations, Ankur Majumder, Sudeshna Sen
+https://arxiv.org/abs/2506.16749
+https://arxiv.org/abs/2506.16781
+
+https://arxiv.org/abs/2506.16788
+https://arxiv.org/abs/2506.16794
+https://arxiv.org/abs/2506.16814
+https://arxiv.org/abs/2506.16818
+https://arxiv.org/abs/2506.16820
+https://arxiv.org/abs/2506.16867
+https://arxiv.org/abs/2506.16877
+https://arxiv.org/abs/2506.16887
+https://arxiv.org/abs/2506.16907
+https://arxiv.org/abs/2506.15521
+
 https://journals.aps.org/pre/abstract/10.1103/q72t-1xw7
 https://journals.aps.org/prresearch/abstract/10.1103/h4dh-bjmq
 https://journals.aps.org/prresearch/abstract/10.1103/3ttm-vhdt
