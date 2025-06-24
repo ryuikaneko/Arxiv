@@ -1,4 +1,62 @@
+20250625
+
+https://journals.aps.org/pre/abstract/10.1103/vv47-k25m
+https://journals.aps.org/pre/abstract/10.1103/8cdf-sth8
+
+
+====
+
+
 20250624
+
+https://arxiv.org/abs/2506.17345
+https://arxiv.org/abs/2506.17392
+https://arxiv.org/abs/2506.17394
+https://arxiv.org/abs/2506.17402
+
+https://arxiv.org/abs/2506.17404
+https://arxiv.org/abs/2506.17407
+https://arxiv.org/abs/2506.17408
+https://arxiv.org/abs/2506.17414
+https://arxiv.org/abs/2506.17734
+https://arxiv.org/abs/2506.17786
+https://arxiv.org/abs/2506.17800
+https://arxiv.org/abs/2506.17962
+* https://arxiv.org/abs/2506.17981 # Kitaev model in regular hyperbolic tilings, Julien Vidal, Remy Mosseri
+https://arxiv.org/abs/2506.18127
+
+https://arxiv.org/abs/2506.18166
+https://arxiv.org/abs/2506.18416
+* https://arxiv.org/abs/2506.18464 # Probing universal phase diagram of dimensional crossover with an atomic quantum simulator, Jinyuan Tian, Zhongcheng Yu, Jing Liu, Chi-Kin Lai, Lorenzo Pizzino, Chengyang Wu, Hongmian Shui, Thierry Giamarchi, Hepeng Yao, Xiaoji Zhou
+https://arxiv.org/abs/2506.18561
+* https://arxiv.org/abs/2506.18709 # Local classical correlations between physical electrons in the Hubbard model, Gabriele Bellomia, Adriano Amaricci, Massimo Capone
+https://arxiv.org/abs/2506.17418
+https://arxiv.org/abs/2506.17456
+https://arxiv.org/abs/2506.17952
+https://arxiv.org/abs/2506.18022
+* https://arxiv.org/abs/2506.18121 # Measurement induced scrambling and emergent symmetries in random circuits, Haifeng Tang, Hong-Yi Wang, Zhong Wang, Xiao-Liang Qi
+
+https://arxiv.org/abs/2506.18137
+https://arxiv.org/abs/2506.18228
+https://arxiv.org/abs/2506.18475
+* https://arxiv.org/abs/2506.18624 # Emergent deterministic entanglement dynamics in monitored infinite-range bosonic systems, Zejian Li, Anna Delmonte, Rosario Fazio
+https://arxiv.org/abs/2506.18675
+https://arxiv.org/abs/2506.18240
+https://arxiv.org/abs/2506.17321
+https://arxiv.org/abs/2506.17388
+https://arxiv.org/abs/2506.17391
+https://arxiv.org/abs/2506.17395
+
+* https://arxiv.org/abs/2506.17547 # Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing, Kaito Kobayashi, Yukitoshi Motome
+https://arxiv.org/abs/2506.17710
+https://arxiv.org/abs/2506.17883
+https://arxiv.org/abs/2506.18031
+https://arxiv.org/abs/2506.18061
+* https://arxiv.org/abs/2506.18298 # Thermalization of Quantum Many-Body Scars in Kinetically Constrained Systems, Jia-wei Wang, Xiang-Fa Zhou, Guang-Can Guo, Zheng-Wei Zhou
+https://arxiv.org/abs/2506.18435
+https://arxiv.org/abs/2506.18799
+https://arxiv.org/abs/2506.18802
+https://arxiv.org/abs/2506.18888
 
 https://journals.aps.org/prresearch/abstract/10.1103/l4b7-h5cd
 https://journals.aps.org/prresearch/abstract/10.1103/lp1b-yswm
