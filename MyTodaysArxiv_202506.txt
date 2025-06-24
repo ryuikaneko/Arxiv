@@ -1,3 +1,11 @@
+20250624
+
+https://journals.aps.org/prresearch/abstract/10.1103/l4b7-h5cd
+https://journals.aps.org/prresearch/abstract/10.1103/lp1b-yswm
+https://journals.aps.org/prxquantum/abstract/10.1103/rmy6-9n89
+https://journals.aps.org/prb/abstract/10.1103/jz4d-vdhj
+
+
 20250623
 
 https://arxiv.org/abs/2506.15760
@@ -104,9 +112,6 @@ https://journals.aps.org/prb/abstract/10.1103/tncd-kbh8
 https://journals.aps.org/prb/abstract/10.1103/v2bt-v4kl
 https://journals.aps.org/prb/abstract/10.1103/5rtw-ml8b
 https://journals.aps.org/prb/abstract/10.1103/qj8n-k5j2
-
-
-====
 
 
 20250619
