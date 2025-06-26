@@ -8,6 +8,61 @@ https://journals.aps.org/pra/abstract/10.1103/1qzc-6c6n
 
 20250625
 
+https://arxiv.org/abs/2506.18969
+* https://arxiv.org/abs/2506.18973 # High spin, low spin or gapped spins: magnetism in the bilayer nickelates, Hanbit Oh, Yi-Ming Wu, Julian May-Mann, Yijun Yu, Harold Y. Hwang, Ya-Hui Zhang, S. Raghu
+https://arxiv.org/abs/2506.18978
+https://arxiv.org/abs/2506.18984
+https://arxiv.org/abs/2506.18996
+https://arxiv.org/abs/2506.19040
+https://arxiv.org/abs/2506.19042
+https://arxiv.org/abs/2506.19184
+https://arxiv.org/abs/2506.19211
+https://arxiv.org/abs/2506.19336
+
+* https://arxiv.org/abs/2506.19339 # Efficient optimization of variational tensor-network approach to three-dimensional statistical systems, Xia-Ze Xu, Tong-Yu Lin, Guang-Ming Zhang
+https://arxiv.org/abs/2506.19378
+https://arxiv.org/abs/2506.19596
+https://arxiv.org/abs/2506.19618
+https://arxiv.org/abs/2506.19637
+https://arxiv.org/abs/2506.19669
+https://arxiv.org/abs/2506.19682
+https://arxiv.org/abs/2506.19706
+https://arxiv.org/abs/2506.19716
+https://arxiv.org/abs/2506.19725
+
+https://arxiv.org/abs/2506.19727
+https://arxiv.org/abs/2506.18966
+https://arxiv.org/abs/2506.19011
+https://arxiv.org/abs/2506.19013
+https://arxiv.org/abs/2506.19127
+https://arxiv.org/abs/2506.19136
+https://arxiv.org/abs/2506.19150
+https://arxiv.org/abs/2506.19188
+https://arxiv.org/abs/2506.19298
+https://arxiv.org/abs/2506.19678
+
+https://arxiv.org/abs/2506.19696
+https://arxiv.org/abs/2506.19771
+https://arxiv.org/abs/2506.19814
+https://arxiv.org/abs/2506.19189
+https://arxiv.org/abs/2506.19227
+https://arxiv.org/abs/2506.19238
+https://arxiv.org/abs/2506.19239
+https://arxiv.org/abs/2506.19679
+https://arxiv.org/abs/2506.19778
+* https://arxiv.org/abs/2506.18976 # Nonstabilizerness and Error Resilience in Noisy Quantum Circuits, Fabian Ballar Trigueros, Jose Antonio Marin Guzman
+
+https://arxiv.org/abs/2506.18979
+https://arxiv.org/abs/2506.19003
+https://arxiv.org/abs/2506.19228
+https://arxiv.org/abs/2506.19232
+https://arxiv.org/abs/2506.19275
+https://arxiv.org/abs/2506.19293
+https://arxiv.org/abs/2506.19337
+https://arxiv.org/abs/2506.19369
+https://arxiv.org/abs/2506.19374
+https://arxiv.org/abs/2506.19407
+
 https://arxiv.org/abs/2506.19428
 https://arxiv.org/abs/2506.19461
 https://arxiv.org/abs/2506.19538
