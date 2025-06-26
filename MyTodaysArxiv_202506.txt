@@ -1,5 +1,44 @@
 20250626
 
+https://arxiv.org/abs/2506.19878
+* https://arxiv.org/abs/2506.19879 # Utilization of SU(2) Symmetry for Efficient Simulation of Quantum Systems, Oleksa Hryniv
+https://arxiv.org/abs/2506.19896
+https://arxiv.org/abs/2506.19959
+https://arxiv.org/abs/2506.19965
+
+https://arxiv.org/abs/2506.19973
+https://arxiv.org/abs/2506.20075
+https://arxiv.org/abs/2506.20108
+https://arxiv.org/abs/2506.20125
+https://arxiv.org/abs/2506.20126
+https://arxiv.org/abs/2506.20355
+https://arxiv.org/abs/2506.20398
+https://arxiv.org/abs/2506.20416
+https://arxiv.org/abs/2506.20428
+https://arxiv.org/abs/2506.20466
+
+https://arxiv.org/abs/2506.20483
+https://arxiv.org/abs/2506.20560
+https://arxiv.org/abs/2506.20570
+https://arxiv.org/abs/2506.20587
+https://arxiv.org/abs/2506.20625
+https://arxiv.org/abs/2506.20655
+https://arxiv.org/abs/2506.20658
+* https://arxiv.org/abs/2506.20660 # Continuous operation of a coherent 3,000-qubit system, Neng-Chun Chiu, Elias C. Trapp, Jinen Guo, Mohamed H. Abobeih, Luke M. Stewart, Simon Hollerith, Pavel Stroganov, Marcin Kalinowski, Alexandra A. Geim, Simon J. Evered, Sophie H. Li, Lisa M. Peters, Dolev Bluvstein, Tout T. Wang, Markus Greiner, Vladan Vuletic, Mikhail D. Lukin
+* https://arxiv.org/abs/2506.20661 # Architectural mechanisms of a universal fault-tolerant quantum computer, Dolev Bluvstein, Alexandra A. Geim, Sophie H. Li, Simon J. Evered, J. Pablo Bonilla Ataides, Gefen Baranes, Andi Gu, Tom Manovitz, Muqing Xu, Marcin Kalinowski, Shayan Majidy, Christian Kokail, Nishad Maskara, Elias C. Trapp, Luke M. Stewart, Simon Hollerith, Hengyun Zhou, Michael J. Gullans, Susanne F. Yelin, Markus Greiner, Vladan Vuletic, Madelyn Cain, Mikhail D. Lukin
+https://arxiv.org/abs/2506.20117
+
+https://arxiv.org/abs/2506.19903
+https://arxiv.org/abs/2506.19908
+https://arxiv.org/abs/2506.19913
+https://arxiv.org/abs/2506.19949
+* https://arxiv.org/abs/2506.20106 # Algorithms for variational Monte Carlo calculations of fermion PEPS in the swap gates formulation, Yantao Wu, Zhehao Dai
+https://arxiv.org/abs/2506.20402
+https://arxiv.org/abs/2506.20491
+https://arxiv.org/abs/2506.20617
+https://arxiv.org/abs/2506.19916
+https://arxiv.org/abs/2506.19969
+
 https://journals.aps.org/pre/abstract/10.1103/4lmb-6qqv
 https://journals.aps.org/prl/abstract/10.1103/p5fv-c9dj
 https://journals.aps.org/prresearch/abstract/10.1103/np63-xnh8
