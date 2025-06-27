@@ -1,5 +1,38 @@
 20250627
 
+https://arxiv.org/abs/2506.20738
+https://arxiv.org/abs/2506.20739
+https://arxiv.org/abs/2506.21271
+https://arxiv.org/abs/2506.21290
+https://arxiv.org/abs/2506.21303
+https://arxiv.org/abs/2506.21385
+https://arxiv.org/abs/2506.21392
+https://arxiv.org/abs/2506.21482
+https://arxiv.org/abs/2506.21540
+https://arxiv.org/abs/2506.20715
+
+* https://arxiv.org/abs/2506.20870 # Variational simulation of quantum phase transitions induced by boundary fields, Alan C. Duriez, Andreia Saguia, Marcelo S. Sarandy
+https://arxiv.org/abs/2506.21058
+https://arxiv.org/abs/2506.21061
+https://arxiv.org/abs/2506.21139
+* https://arxiv.org/abs/2506.21156 # Complexity of PXP scars revisited, Pawel Caputa, Xuhao Jiang, Sinong Liu
+https://arxiv.org/abs/2506.21244
+https://arxiv.org/abs/2506.21255
+* https://arxiv.org/abs/2506.21299 # Meson spectroscopy of exotic symmetries of Ising criticality in Rydberg atom arrays, Joseph Vovrosh, Julius de Hond, Sergi Julia-Farre, Johannes Knolle, Alexandre Dauphin
+https://arxiv.org/abs/2506.21318
+* https://arxiv.org/abs/2506.21431 # Quantum Assisted Ghost Gutzwiller Ansatz, P.V. Sriluckshmy, Francois Jamet, Fedor Simkovic IV
+
+https://arxiv.org/abs/2506.21447
+* https://arxiv.org/abs/2506.20724 # Measurement-based quantum computing with qudit stabilizer states, Alena Romanova, Wolfgang Duer
+https://arxiv.org/abs/2506.20742
+https://arxiv.org/abs/2506.20929
+https://arxiv.org/abs/2506.20985
+https://arxiv.org/abs/2506.21094
+https://arxiv.org/abs/2506.21124
+https://arxiv.org/abs/2506.21345
+https://arxiv.org/abs/2506.21537
+https://arxiv.org/abs/2506.20696
+
 https://journals.aps.org/prd/abstract/10.1103/3rwf-f844
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.256604
 https://journals.aps.org/prb/abstract/10.1103/7t7k-qg49
