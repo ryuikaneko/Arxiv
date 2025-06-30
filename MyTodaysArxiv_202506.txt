@@ -1,5 +1,55 @@
 20250630
 
+https://arxiv.org/abs/2506.21650
+https://arxiv.org/abs/2506.21661
+https://arxiv.org/abs/2506.21673
+https://arxiv.org/abs/2506.21709
+https://arxiv.org/abs/2506.21721
+
+https://arxiv.org/abs/2506.21789
+https://arxiv.org/abs/2506.21850
+https://arxiv.org/abs/2506.21908
+* https://arxiv.org/abs/2506.22024 # Observation of entanglement in a cold atom analog of cosmological preheating, Victor Gondret, Clothilde Lamirault, Rui Dias, Lea Camier, Amaury Micheli, Charlie Leprince, Quentin Marolleau, Jean-Rene Rullier, Scott Robertson, Denis Boiron, Christoph I. Westbrook
+https://arxiv.org/abs/2506.22115
+https://arxiv.org/abs/2506.22266
+https://arxiv.org/abs/2506.22296
+https://arxiv.org/abs/2506.22297
+https://arxiv.org/abs/2506.22302
+https://arxiv.org/abs/2506.22315
+
+* https://arxiv.org/abs/2506.22320 # Skyrmions of Frustrated Quantum Dimer Systems, Fletcher Williams, David Dahlbom, Hao Zhang, Shruti Agarwal, Kipton Barros, Cristian D. Batista
+* https://arxiv.org/abs/2506.22414 # Spin Seebeck Effect of Triangular-lattice Spin Supersolid, Yuan Gao, Yixuan Huang, Sadamichi Maekawa, Wei Li
+https://arxiv.org/abs/2506.22417
+https://arxiv.org/abs/2506.21626
+* https://arxiv.org/abs/2506.21963 # Practical roadmap to measurement-altered criticality in Rydberg arrays, Stephen Naus, Yue Liu, Sara Murciano, Pablo Sala, Manuel Endres, Jason Alicea
+https://arxiv.org/abs/2506.22025
+https://arxiv.org/abs/2506.22085
+https://arxiv.org/abs/2506.22088
+* https://arxiv.org/abs/2506.22114 # Perfect quantum state transfer through a chaotic spin chain via many-body scars, Shane Dooley, Luke Johnston, Patrick Gormley, Beth Campbell
+https://arxiv.org/abs/2506.22241
+
+* https://arxiv.org/abs/2506.22436 # Is Lindblad for me?, Martino Stefanini, Aleksandra A. Ziolkowska, Dmitry Budker, Ulrich Poschinger, Ferdinand Schmidt-Kaler, Antoine Browaeys, Atac Imamoglu, Darrick Chang, Jamir Marino
+https://arxiv.org/abs/2506.21640
+https://arxiv.org/abs/2506.21643
+https://arxiv.org/abs/2506.21707
+https://arxiv.org/abs/2506.21842
+https://arxiv.org/abs/2506.21988
+https://arxiv.org/abs/2506.22013
+https://arxiv.org/abs/2506.22016
+https://arxiv.org/abs/2506.22159
+https://arxiv.org/abs/2506.22245
+
+* https://arxiv.org/abs/2506.22340 # QuKAN: A Quantum Circuit Born Machine approach to Quantum Kolmogorov Arnold Networks, Yannick Werner, Akash Malemath, Mengxi Liu, Vitor Fortes Rey, Nikolaos Palaiodimopoulos, Paul Lukowicz, Maximilian Kiefer-Emmanouilidis
+https://arxiv.org/abs/2506.22346
+https://arxiv.org/abs/2506.22387
+https://arxiv.org/abs/2506.22418
+https://arxiv.org/abs/2506.22430
+https://arxiv.org/abs/2506.02385
+* https://arxiv.org/abs/2506.10076 # Entanglement Holography in Quantum Phases via Twisted Renyi-N Correlators, Pablo Sala, Frank Pollmann, Masaki Oshikawa, Yizhi You
+https://arxiv.org/abs/2506.21670
+https://arxiv.org/abs/2506.21810
+https://arxiv.org/abs/2506.22156
+
 https://journals.aps.org/pre/abstract/10.1103/82f6-qdyd
 https://journals.aps.org/prxquantum/abstract/10.1103/8bzc-dlgt
 https://journals.aps.org/prd/abstract/10.1103/8n3f-2d33
