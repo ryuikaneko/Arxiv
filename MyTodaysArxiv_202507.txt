@@ -1,4 +1,68 @@
 20250701
 
+https://arxiv.org/abs/2506.22452
+https://arxiv.org/abs/2506.22478
+* https://arxiv.org/abs/2506.22539 # Conformal scalar field theory from Ising tricriticality on the fuzzy sphere, Joseph Taylor, Cristian Voinea, Zlatko Papic, Ruihua Fan
+https://arxiv.org/abs/2506.22663
+https://arxiv.org/abs/2506.22743
+https://arxiv.org/abs/2506.22860
+https://arxiv.org/abs/2506.22948
+* https://arxiv.org/abs/2506.23258 # Spontaneous symmetry breaking in an antiferromagnetic Heisenberg chain, Jingya Wang, Zenan Liu, Bin-Bin Mao, Zijian Xiong, Zhe Wang, Zheng Yan
+
+https://arxiv.org/abs/2506.23318
+https://arxiv.org/abs/2506.23415
+* https://arxiv.org/abs/2506.23550 # Seeding neural network quantum states with tensor network states, Ryui Kaneko, Shimpei Goto
+https://arxiv.org/abs/2506.23687
+https://arxiv.org/abs/2506.23732
+https://arxiv.org/abs/2506.23823
+https://arxiv.org/abs/2506.23956
+https://arxiv.org/abs/2506.24122
+* https://arxiv.org/abs/2506.22574 # Computing excited eigenstates using inexact Lanczos methods and tree tensor network states, Madhumita Rano, Henrik R. Larsson
+https://arxiv.org/abs/2506.22755
+
+https://arxiv.org/abs/2506.23546
+https://arxiv.org/abs/2506.23600
+https://arxiv.org/abs/2506.23796
+https://arxiv.org/abs/2506.23837
+https://arxiv.org/abs/2506.24079
+https://arxiv.org/abs/2506.24082
+https://arxiv.org/abs/2506.22544
+https://arxiv.org/abs/2506.22555
+https://arxiv.org/abs/2506.22571
+https://arxiv.org/abs/2506.22600
+
+https://arxiv.org/abs/2506.22669
+https://arxiv.org/abs/2506.22684
+https://arxiv.org/abs/2506.22738
+https://arxiv.org/abs/2506.22801
+https://arxiv.org/abs/2506.22830
+https://arxiv.org/abs/2506.22958
+https://arxiv.org/abs/2506.23144
+https://arxiv.org/abs/2506.23178
+https://arxiv.org/abs/2506.23197
+https://arxiv.org/abs/2506.23246
+
+https://arxiv.org/abs/2506.23345
+https://arxiv.org/abs/2506.23356
+https://arxiv.org/abs/2506.23379
+https://arxiv.org/abs/2506.23386
+https://arxiv.org/abs/2506.23560
+https://arxiv.org/abs/2506.23684
+https://arxiv.org/abs/2506.23765
+* https://arxiv.org/abs/2506.23775 # High-Performance Contraction of Quantum Circuits for Riemannian Optimization, Fabian Putterer, Max M. Zumpe, Isabel Nha Minh Le, Qunsheng Huang, Christian B. Mendl
+https://arxiv.org/abs/2506.23806
+* https://arxiv.org/abs/2506.23928 # Unraveling Open Quantum Dynamics with Time-Dependent Variational Monte Carlo, Christian Apostoli, Jacopo D'Alberto, Marco G. Genoni, Gianluca Bertaina, Davide E. Galli
+
+https://arxiv.org/abs/2506.24066
+https://arxiv.org/abs/2506.24081
+* https://arxiv.org/abs/2506.24109 # Multi-Target Density Matrix Renormalization Group X algorithm and its application to circuit quantum electrodynamics, Sofia Gonzalez-Garcia, Aaron Szasz, Alice Pagano, Dvir Kafri, Guifre Vidal, Agustin Di Paolo
+* https://arxiv.org/abs/2506.16820 # Double Supersolid Phase in a Bosonic t-J-V Model with Rydberg Atoms, Kuangjie Chen, Yang Qi, Zheng Yan, Xiaopeng Li
+https://arxiv.org/abs/2506.22452
+https://arxiv.org/abs/2506.23455
+https://arxiv.org/abs/2506.23894
+https://arxiv.org/abs/2506.23956
+https://arxiv.org/abs/2506.23357
+https://arxiv.org/abs/2506.23932
+
 https://journals.aps.org/prb/abstract/10.1103/s53y-qmr4
 https://journals.aps.org/prb/abstract/10.1103/5smb-xkt4
