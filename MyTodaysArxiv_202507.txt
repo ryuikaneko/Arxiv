@@ -1,5 +1,49 @@
 20250702
 
+https://arxiv.org/abs/2507.00065
+https://arxiv.org/abs/2507.00071
+https://arxiv.org/abs/2507.00112
+https://arxiv.org/abs/2507.00119
+https://arxiv.org/abs/2507.00127
+https://arxiv.org/abs/2507.00130
+https://arxiv.org/abs/2507.00138
+https://arxiv.org/abs/2507.00139
+https://arxiv.org/abs/2507.00158
+https://arxiv.org/abs/2507.00168
+
+* https://arxiv.org/abs/2507.00178 # Kibble-Zurek dynamics across the first-order quantum transitions of quantum Ising chains in the thermodynamic limit, Andrea Pelissetto, Davide Rossini, Ettore Vicari
+* https://arxiv.org/abs/2507.00276 # Temperature chaos as a logical consequence of reentrant transition in spin glasses, Hidetoshi Nishimori, Masayuki Ohzeki, Manaka Okuyama
+https://arxiv.org/abs/2507.00285
+https://arxiv.org/abs/2507.00291
+https://arxiv.org/abs/2507.00369
+https://arxiv.org/abs/2507.00386
+https://arxiv.org/abs/2507.00553
+* https://arxiv.org/abs/2507.00683 # Testing the spin-bath view of self-attention: A Hamiltonian analysis of GPT-2 Transformer, Satadeep Bhattacharjee, Seung-Cheol Lee
+https://arxiv.org/abs/2507.00745
+https://arxiv.org/abs/2507.00837
+
+https://arxiv.org/abs/2507.00854
+https://arxiv.org/abs/2507.00932
+https://arxiv.org/abs/2507.00956
+https://arxiv.org/abs/2507.00960
+https://arxiv.org/abs/2507.00995
+https://arxiv.org/abs/2506.11869
+https://arxiv.org/abs/2507.00024
+* https://arxiv.org/abs/2507.00199 # Preparation of cat states in many-body eigenbasis via non-local measurement, Ruoyu Yin, Hongzheng Zhao
+* https://arxiv.org/abs/2507.00944 # Revealing emergent many-body phenomena by analyzing large-scale space-time records of monitored quantum systems, Marcel Cech, Cecilia De Fazio, Maria Cea, Mari Carmen Banuls, Igor Lesanovsky, Federico Carollo
+https://arxiv.org/abs/2507.01013
+
+https://arxiv.org/abs/2507.00400
+https://arxiv.org/abs/2507.00405
+https://arxiv.org/abs/2507.00692
+https://arxiv.org/abs/2507.00696
+https://arxiv.org/abs/2507.00823
+https://arxiv.org/abs/2507.00908
+https://arxiv.org/abs/2507.00967
+https://arxiv.org/abs/2507.00019
+https://arxiv.org/abs/2507.00072
+https://arxiv.org/abs/2507.00081
+
 https://journals.aps.org/prl/abstract/10.1103/xmtw-g54f
 https://journals.aps.org/prl/abstract/10.1103/nys8-5mg2
 https://journals.aps.org/prl/abstract/10.1103/839n-rckn
