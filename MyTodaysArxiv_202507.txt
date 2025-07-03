@@ -1,5 +1,54 @@
 20250703
 
+* https://arxiv.org/abs/2507.01149 # Tensor network methods for the Gross-Pitaevskii equation on fine grids, Ryan J. J. Connor, Callum W. Duncan, Andrew J. Daley
+https://arxiv.org/abs/2507.01157
+https://arxiv.org/abs/2507.01194
+https://arxiv.org/abs/2507.01280
+
+* https://arxiv.org/abs/2507.01322 # Conformal Operator Flows of the Deconfined Quantum Criticality from SO(5) to O(4), Shuai Yang, Liang-dong Hu, Chao Han, W. Zhu, Yan Chen
+https://arxiv.org/abs/2507.01329
+https://arxiv.org/abs/2507.01486
+https://arxiv.org/abs/2507.01490
+https://arxiv.org/abs/2507.01606
+https://arxiv.org/abs/2507.01625
+https://arxiv.org/abs/2507.01718
+https://arxiv.org/abs/2507.01725
+https://arxiv.org/abs/2507.01824
+https://arxiv.org/abs/2507.01846
+
+* https://arxiv.org/abs/2507.01856 # Investigating the Fermi-Hubbard model by the Tensor-Backflow method, Xiao Liang
+https://arxiv.org/abs/2507.01959
+https://arxiv.org/abs/2507.01054
+https://arxiv.org/abs/2507.01142
+https://arxiv.org/abs/2507.01223
+https://arxiv.org/abs/2507.01229
+https://arxiv.org/abs/2507.01602
+* https://arxiv.org/abs/2507.01950 # String Breaking Dynamics and Glueball Formation in a 2+1D Lattice Gauge Theory, Kaidi Xu, Umberto Borla, Sergej Moroz, Jad C. Halimeh
+* https://arxiv.org/abs/2507.01905 # Improved energies and wave function accuracy with Weighted Variational Monte Carlo, Huan Zhang, Robert J. Webber, Michael Lindsey, Timothy C. Berkelbach, Jonathan Weare
+https://arxiv.org/abs/2507.01914
+
+https://arxiv.org/abs/2506.16111
+https://arxiv.org/abs/2507.01726
+https://arxiv.org/abs/2507.01918
+https://arxiv.org/abs/2507.01087
+https://arxiv.org/abs/2507.01089
+https://arxiv.org/abs/2507.01090
+https://arxiv.org/abs/2507.01107
+https://arxiv.org/abs/2507.01146
+https://arxiv.org/abs/2507.01195
+https://arxiv.org/abs/2507.01246
+
+https://arxiv.org/abs/2507.01528
+https://arxiv.org/abs/2507.01605
+https://arxiv.org/abs/2507.01691
+* https://arxiv.org/abs/2507.01883 # Circuit compression for 2D quantum dynamics, Matteo D'Anna, Yuxuan Zhang, Roeland Wiersema, Manuel S. Rudolph, Juan Carrasquilla
+https://arxiv.org/abs/2507.01902
+https://arxiv.org/abs/2507.01934
+https://arxiv.org/abs/2507.01382
+https://arxiv.org/abs/2507.01318
+https://arxiv.org/abs/2507.01174
+https://arxiv.org/abs/2507.01389
+
 https://journals.aps.org/prl/abstract/10.1103/2s3j-t22p
 https://journals.aps.org/prl/abstract/10.1103/5ksl-tjjm
 https://journals.aps.org/prl/abstract/10.1103/ztrj-2tm6
