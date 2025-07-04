@@ -1,3 +1,37 @@
+20250704
+
+https://arxiv.org/abs/2507.02030
+https://arxiv.org/abs/2507.02043
+https://arxiv.org/abs/2507.02086
+https://arxiv.org/abs/2507.02185
+https://arxiv.org/abs/2507.02188
+https://arxiv.org/abs/2507.02216
+https://arxiv.org/abs/2507.02301
+https://arxiv.org/abs/2507.02420
+
+https://arxiv.org/abs/2507.02501
+https://arxiv.org/abs/2507.02531
+https://arxiv.org/abs/2507.02540
+https://arxiv.org/abs/2507.02577
+https://arxiv.org/abs/2507.02601
+https://arxiv.org/abs/2507.02622
+https://arxiv.org/abs/2507.02653
+https://arxiv.org/abs/2507.02828
+* https://arxiv.org/abs/2507.02832 # LCQNN: Linear Combination of Quantum Neural Networks, Hongshun Yao, Xia Liu, Mingrui Jing, Xin Wang
+https://arxiv.org/abs/2507.02849
+
+https://arxiv.org/abs/2507.02853
+https://arxiv.org/abs/2507.00291
+https://arxiv.org/abs/2507.02033
+https://arxiv.org/abs/2507.02070
+https://arxiv.org/abs/2507.02364
+https://arxiv.org/abs/2507.02386
+https://arxiv.org/abs/2507.02499
+* https://arxiv.org/abs/2507.02644 # Solving the Hubbard model with Neural Quantum States, Yuntian Gu, Wenrui Li, Heng Lin, Bo Zhan, Ruichen Li, Yifei Huang, Di He, Yantao Wu, Tao Xiang, Mingpu Qin, Liwei Wang, Dingshun Lv
+https://arxiv.org/abs/2507.02272
+https://arxiv.org/abs/2507.02297
+
+
 20250703
 
 * https://arxiv.org/abs/2507.01149 # Tensor network methods for the Gross-Pitaevskii equation on fine grids, Ryan J. J. Connor, Callum W. Duncan, Andrew J. Daley
