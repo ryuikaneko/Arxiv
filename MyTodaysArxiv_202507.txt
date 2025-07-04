@@ -1,5 +1,24 @@
 20250704
 
+https://arxiv.org/abs/2507.02023
+* https://arxiv.org/abs/2507.02035 # Hall-on-Toric: Descendant Laughlin state in the chiral Zp toric code, Robin Schaefer, Claudio Chamon, Chris R. Laumann
+https://arxiv.org/abs/2507.02036
+https://arxiv.org/abs/2507.02296
+* https://arxiv.org/abs/2507.02324 # Noninvertible symmetry and topological holography for modulated SPT in one dimension, Jintae Kim, Yizhi You, Jung Hoon Han
+https://arxiv.org/abs/2507.02336
+* https://arxiv.org/abs/2507.02508 # Spin-charge bound states and emerging fermions in a quantum spin liquid, Jens H. Nyhegn, Kristian Knakkergaard Nielsen, Leon Balents, Georg M. Bruun
+
+https://arxiv.org/abs/2507.02571
+https://arxiv.org/abs/2507.02574
+https://arxiv.org/abs/2507.02586
+https://arxiv.org/abs/2507.02623
+https://arxiv.org/abs/2507.02625
+https://arxiv.org/abs/2507.02753
+https://arxiv.org/abs/2507.02830
+https://arxiv.org/abs/2503.21381
+https://arxiv.org/abs/2507.02096
+https://arxiv.org/abs/2507.02292
+
 https://arxiv.org/abs/2507.02030
 https://arxiv.org/abs/2507.02043
 https://arxiv.org/abs/2507.02086
