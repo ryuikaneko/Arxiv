@@ -1,5 +1,57 @@
 20250709
 
+https://arxiv.org/abs/2507.05336
+https://arxiv.org/abs/2507.05341
+https://arxiv.org/abs/2507.05356
+https://arxiv.org/abs/2507.05480
+https://arxiv.org/abs/2507.05486
+https://arxiv.org/abs/2507.05756
+https://arxiv.org/abs/2507.05871
+
+https://arxiv.org/abs/2507.05882
+* https://arxiv.org/abs/2507.05946 # A simpler probe of the quantum Mpemba effect in closed systems, Filiberto Ares, Colin Rylands, Pasquale Calabrese
+https://arxiv.org/abs/2507.05954
+* https://arxiv.org/abs/2507.05961 # Chladni states in Ising Spin Lattices, Giulio Iannelli, Pablo Villegas
+https://arxiv.org/abs/2507.05969
+https://arxiv.org/abs/2507.05971
+https://arxiv.org/abs/2507.05974
+https://arxiv.org/abs/2507.05998
+https://arxiv.org/abs/2507.06023
+https://arxiv.org/abs/2507.06068
+
+https://arxiv.org/abs/2507.06168
+https://arxiv.org/abs/2507.06194
+https://arxiv.org/abs/2507.06218
+https://arxiv.org/abs/2507.05291
+* https://arxiv.org/abs/2507.05303 # The Neural Networks with Tensor Weights and the Corresponding Fermionic Quantum Field Theory, Guojun Huang, Kai Zhou
+https://arxiv.org/abs/2507.05338
+https://arxiv.org/abs/2507.05350
+* https://arxiv.org/abs/2507.05352 # Looking elsewhere: improving variational Monte Carlo gradients by importance sampling, Antoine Misery, Luca Gravina, Alessandro Santini, Filippo Vicentini
+https://arxiv.org/abs/2507.05379
+https://arxiv.org/abs/2507.05579
+
+https://arxiv.org/abs/2507.05676
+https://arxiv.org/abs/2507.05691
+https://arxiv.org/abs/2507.05361
+https://arxiv.org/abs/2507.05392
+https://arxiv.org/abs/2507.05407
+https://arxiv.org/abs/2507.05476
+https://arxiv.org/abs/2507.05514
+https://arxiv.org/abs/2507.05535
+* https://arxiv.org/abs/2507.05580 # Tensor network algorithm to solve polaron impurity problems, Ruofan Chen, Lei Gu, Chu Guo
+https://arxiv.org/abs/2507.05640
+
+https://arxiv.org/abs/2507.05706
+https://arxiv.org/abs/2507.05736
+* https://arxiv.org/abs/2507.05797 # Reconstruction of Noise from Dynamical Mode Decomposition in Quantum Systems, Adva Baratz, Loris Maria Cangemi, Assaf Hamo, Sivan Refaely-Abramson, Amikam Levy
+* https://arxiv.org/abs/2507.05989 # Matrix-product entanglement characterizing the optimality of state-preparation quantum circuits, Shuo Qi, Wen-Jun Li, Gang Su, Shi-Ju Ran
+https://arxiv.org/abs/2507.06096
+https://arxiv.org/abs/2507.06154
+https://arxiv.org/abs/2507.06198
+https://arxiv.org/abs/2507.03137
+https://arxiv.org/abs/2507.05335
+https://arxiv.org/abs/2507.06046
+
 https://journals.aps.org/pre/abstract/10.1103/www8-3ts1
 https://journals.aps.org/pre/abstract/10.1103/mc1j-ldgj
 https://journals.aps.org/prl/abstract/10.1103/zn9v-k73w
