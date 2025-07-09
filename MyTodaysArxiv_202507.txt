@@ -10,10 +10,84 @@ https://journals.aps.org/prb/abstract/10.1103/qfmw-whbp
 https://journals.aps.org/prb/abstract/10.1103/kw68-mkkd
 
 
-====
-
-
 20250708
+
+https://arxiv.org/abs/2507.03115
+https://arxiv.org/abs/2507.03125
+https://arxiv.org/abs/2507.03130
+* https://arxiv.org/abs/2507.03134 # Quantics Tensor Train for solving Gross-Pitaevskii equation, Aleix Bou-Comas, Marcin Plodzien, Luca Tagliacozzo, Juan Jose Garcia-Ripoll
+https://arxiv.org/abs/2507.03137
+https://arxiv.org/abs/2507.03138
+https://arxiv.org/abs/2507.03154
+https://arxiv.org/abs/2507.03217
+https://arxiv.org/abs/2507.03266
+https://arxiv.org/abs/2507.03284
+
+https://arxiv.org/abs/2507.03513
+https://arxiv.org/abs/2507.03675
+https://arxiv.org/abs/2507.03719
+https://arxiv.org/abs/2507.03763
+https://arxiv.org/abs/2507.03826
+https://arxiv.org/abs/2507.03957
+https://arxiv.org/abs/2507.03997
+https://arxiv.org/abs/2507.04041
+* https://arxiv.org/abs/2507.04042 # Microscopy of Ultracold Fermions in Optical Lattices, Waseem S. Bakr, Zengli Ba, Max L. Prichard
+https://arxiv.org/abs/2507.04053
+
+https://arxiv.org/abs/2507.04068
+https://arxiv.org/abs/2507.04082
+https://arxiv.org/abs/2507.04146
+https://arxiv.org/abs/2507.04210
+https://arxiv.org/abs/2507.04213
+https://arxiv.org/abs/2507.04274
+* https://arxiv.org/abs/2507.04279 # Solving the Gross-Pitaevskii Equation with Quantic Tensor Trains: Ground States and Nonlinear Dynamics, Qian-Can Chen, I-Kang Liu, Jheng-Wei Li, Chia-Min Chung
+https://arxiv.org/abs/2507.04287
+* https://arxiv.org/abs/2507.04375 # Intertwined Orders in a Quantum-Entangled Metal, Junyoung Kwon, Jaehwon Kim, Gwansuk Oh, Seyoung Jin, Kwangrae Kim, Hoon Kim, Seunghyeok Ha, Hyun-Woo J. Kim, GiBaik Sim, Bjorn Wehinger, Gaston Garbarino, Nour Maraytta, Michael Merz, Matthieu Le Tacon, Christoph J. Sahle, Alessandro Longo, Jungho Kim, Ara Go, Gil Young Cho, Beom Hyun Kim, B. J. Kim
+https://arxiv.org/abs/2507.04557
+
+* https://arxiv.org/abs/2507.04669 # Prethermal inverse Mpemba effect, Koudai Sugimoto, Tomotaka Kuwahara, Keiji Saito
+https://arxiv.org/abs/2507.04693
+https://arxiv.org/abs/2507.04811
+https://arxiv.org/abs/2507.04844
+https://arxiv.org/abs/2507.04875
+https://arxiv.org/abs/2507.04926
+https://arxiv.org/abs/2507.04941
+https://arxiv.org/abs/2507.05002
+* https://arxiv.org/abs/2507.05009 # Non-ergodic one-magnon magnetization dynamics of the kagome lattice antiferromagnet, H. Schlueter, J. Schnack, J. Eckseler (Bielefeld University)
+https://arxiv.org/abs/2507.05013
+
+https://arxiv.org/abs/2507.05061
+* https://arxiv.org/abs/2507.05073 # Quantum Spin Glass in the Two-Dimensional Disordered Heisenberg Model via Foundation Neural-Network Quantum States, Luciano Loris Viteritti, Riccardo Rende, Giacomo Bracci Testasecca, Jacopo Niedda, Roderich Moessner, Giuseppe Carleo, Antonello Scardicchio
+* https://arxiv.org/abs/2507.05089 # Instability of the Haldane Phase: Roles of Charge Fluctuations and Hund's Coupling, Satoshi Nishimoto
+https://arxiv.org/abs/2507.05204
+https://arxiv.org/abs/2507.02888
+* https://arxiv.org/abs/2507.03768 # Entanglement transitions in structured and random nonunitary Gaussian circuits, Bastien Lapierre, Liang-Hong Mo, Shinsei Ryu
+https://arxiv.org/abs/2507.03840
+https://arxiv.org/abs/2507.04448
+https://arxiv.org/abs/2507.04558
+* https://arxiv.org/abs/2507.04993 # Universal Bound States in Long-range Spin Chains with an Impurity, Ning Sun, Lei Feng, Pengfei Zhang
+
+https://arxiv.org/abs/2507.05054
+https://arxiv.org/abs/2507.05134
+https://arxiv.org/abs/2507.04932
+https://arxiv.org/abs/2507.03092
+https://arxiv.org/abs/2507.03445
+* https://arxiv.org/abs/2507.03587 # Circuit-QED simulator of the Bose-Hubbard model for quantum spin dynamics, Ivan V. Dudinets, Jaehee Kim, Tomas Ramos, Aleksey K. Fedorov, Vladimir I. Man'ko, Joonsuk Huh
+https://arxiv.org/abs/2507.03689
+https://arxiv.org/abs/2507.03823
+https://arxiv.org/abs/2507.03999
+* https://arxiv.org/abs/2507.04262 # Solving the Gross-Pitaevskii equation on multiple different scales using the quantics tensor train representation, Marcel Niedermeier, Adrien Moulinas, Thibaud Louvet, Jose L. Lado, Xavier Waintal
+
+https://arxiv.org/abs/2507.04499
+https://arxiv.org/abs/2507.04500
+https://arxiv.org/abs/2507.04650
+https://arxiv.org/abs/2507.04658
+https://arxiv.org/abs/2507.04783
+https://arxiv.org/abs/2507.04874
+https://arxiv.org/abs/2507.03319
+https://arxiv.org/abs/2507.03780
+* https://arxiv.org/abs/2507.05222 # Quantum-Inspired Tensor-Network Fractional-Step Method for Incompressible Flow in Curvilinear Coordinates, Nis-Luca van Huelst, Pia Siegl, Paul Over, Sergio Bengoechea, Tomohiro Hashizume, Mario Guillaume Cecile, Thomas Rung, Dieter Jaksch
+https://arxiv.org/abs/2507.03094
 
 https://journals.aps.org/prl/abstract/10.1103/v8kp-39ry
 https://journals.aps.org/prl/abstract/10.1103/7p1r-r2p6
