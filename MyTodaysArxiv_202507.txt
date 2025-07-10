@@ -1,5 +1,6 @@
 20250710
 
+https://arxiv.org/abs/2507.06473
 * https://arxiv.org/abs/2507.06308 # Fibonacci Waveguide Quantum Electrodynamics, Florian Boensel (1 and 2), Flore K. Kunst (1 and 2), Federico Roccati (1 and 3) ((1) Max Planck Institute for the Science of Light, (2) Department of Physics, Friedrich-Alexander-Universitaet Erlangen-Nuernberg, (3) Dipartimento di Fisica e Chimica -- Emilio Segre, Universita degli Studi di Palermo)
 https://arxiv.org/abs/2507.06344
 https://arxiv.org/abs/2507.06348
