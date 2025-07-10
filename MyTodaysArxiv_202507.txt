@@ -1,5 +1,29 @@
 20250710
 
+* https://arxiv.org/abs/2507.06308 # Fibonacci Waveguide Quantum Electrodynamics, Florian Boensel (1 and 2), Flore K. Kunst (1 and 2), Federico Roccati (1 and 3) ((1) Max Planck Institute for the Science of Light, (2) Department of Physics, Friedrich-Alexander-Universitaet Erlangen-Nuernberg, (3) Dipartimento di Fisica e Chimica -- Emilio Segre, Universita degli Studi di Palermo)
+https://arxiv.org/abs/2507.06344
+https://arxiv.org/abs/2507.06348
+https://arxiv.org/abs/2507.06355
+* https://arxiv.org/abs/2507.06361 # Experimental Ground-State Energy of a 125-Site Flat Kagome Antiferromagnet via Hamiltonian Engineering on Quantum Computer, Muhammad Ahsan
+https://arxiv.org/abs/2507.06557
+https://arxiv.org/abs/2507.06601
+https://arxiv.org/abs/2507.06642
+https://arxiv.org/abs/2507.06649
+https://arxiv.org/abs/2507.06711
+https://arxiv.org/abs/2507.06758
+https://arxiv.org/abs/2507.06770
+https://arxiv.org/abs/2507.06862
+* https://arxiv.org/abs/2507.06912 # Extrapolation of quantum measurement data, Konstantinos Manos, Mirjam Weilenmann, Miguel Navascues
+https://arxiv.org/abs/2507.06998
+https://arxiv.org/abs/2507.07002
+https://arxiv.org/abs/2507.07018
+https://arxiv.org/abs/2507.07092
+* https://arxiv.org/abs/2507.06286 # Krylov Complexity, Eliezer Rabinovici, Adrian Sanchez-Garrido, Ruth Shir, Julian Sonner
+https://arxiv.org/abs/2507.06305
+https://arxiv.org/abs/2507.06382
+* https://arxiv.org/abs/2507.06514 # Algebraic States in Continuum in d>1 Dimensional Non-Hermitian Systems, Ao Yang, Kai Zhang, Chen Fang
+* https://arxiv.org/abs/2507.06636 # The quantum Mpemba effect in long-range spin systems, Shion Yamashika, Filiberto Ares
+
 https://journals.aps.org/prl/abstract/10.1103/nrjv-pwy1
 https://journals.aps.org/prb/abstract/10.1103/hj61-dw78
 https://journals.aps.org/prb/abstract/10.1103/nfmp-32tt
