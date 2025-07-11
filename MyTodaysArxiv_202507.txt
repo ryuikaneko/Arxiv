@@ -1,5 +1,27 @@
 20250711
 
+https://arxiv.org/abs/2507.07121
+https://arxiv.org/abs/2507.07123
+* https://arxiv.org/abs/2507.07179 # Magic phase transitions in monitored gaussian fermions, Emanuele Tirrito, Luca Lumia, Alessio Paviglianiti, Guglielmo Lami, Alessandro Silva, Xhek Turkeshi, Mario Collura
+* https://arxiv.org/abs/2507.07191 # Energy Spectra of Compressed Quantum States, Daochen Wang
+https://arxiv.org/abs/2507.07231
+https://arxiv.org/abs/2507.07365
+https://arxiv.org/abs/2507.07448
+https://arxiv.org/abs/2507.07492
+* https://arxiv.org/abs/2507.07530 # Simulating sparse SYK model with a randomized algorithm on a trapped-ion quantum computer, Etienne Granet, Yuta Kikuchi, Henrik Dreyer, Enrico Rinaldi
+https://arxiv.org/abs/2507.07537
+
+https://arxiv.org/abs/2507.07555
+https://arxiv.org/abs/2507.07593
+https://arxiv.org/abs/2507.07597
+https://arxiv.org/abs/2507.07601
+* https://arxiv.org/abs/2507.07646 # Tangent Space Excitation Ansatz for Quantum Circuits, Ji-Yao Chen, Bochen Huang, D. L. Zhou, Norbert Schuch, Chenfeng Cao, Muchun Yang
+https://arxiv.org/abs/2507.07649
+https://arxiv.org/abs/2507.07667
+https://arxiv.org/abs/2507.07742
+https://arxiv.org/abs/2507.07875
+https://arxiv.org/abs/2507.07912
+
 https://arxiv.org/abs/2507.07430
 https://arxiv.org/abs/2507.07159
 https://arxiv.org/abs/2507.07161
