@@ -1,8 +1,52 @@
 20250711
 
+https://arxiv.org/abs/2507.07430
+https://arxiv.org/abs/2507.07159
+https://arxiv.org/abs/2507.07161
+* https://arxiv.org/abs/2507.07167 # Finite-temperature criticality through quantum annealing, Gianluca Teza, Francesco Campaioli, Marco Avesani, Oren Raz
+* https://arxiv.org/abs/2507.07168 # Confined and deconfined chaos in classical spin systems, Hyeongjin Kim, Robin Schaefer, David M. Long, Anatoli Polkovnikov, Anushya Chandran
+https://arxiv.org/abs/2507.07178
+https://arxiv.org/abs/2507.07182
+https://arxiv.org/abs/2507.07272
+https://arxiv.org/abs/2507.07293
+
+https://arxiv.org/abs/2507.07310
+https://arxiv.org/abs/2507.07336
+* https://arxiv.org/abs/2507.07420 # Probabilistic Approximate Optimization: A New Variational Monte Carlo Algorithm, Abdelrahman S. Abdelrahman, Shuvro Chowdhury, Flaviano Morone, Kerem Y. Camsari
+https://arxiv.org/abs/2507.07447
+https://arxiv.org/abs/2507.07457
+https://arxiv.org/abs/2507.07463
+https://arxiv.org/abs/2507.07494
+https://arxiv.org/abs/2507.07500
+https://arxiv.org/abs/2507.07506
+https://arxiv.org/abs/2507.07534
+
+https://arxiv.org/abs/2507.07545
+https://arxiv.org/abs/2507.07553
+https://arxiv.org/abs/2507.07600
+* https://arxiv.org/abs/2507.07611 # Emergent QED3 at the bosonic Laughlin state to superfluid transition, Taige Wang, Xue-Yang Song, Michael P. Zaletel, T. Senthil
+* https://arxiv.org/abs/2507.07648 # Summing Real Time Feynman Paths of Lattice Polaron with Matrix Product States, Qi Gao, Yuan Wan
+* https://arxiv.org/abs/2507.07669 # Universal Spin Models are Universal Approximators in Machine Learning, Tobias Reinhart, Gemma De les Coves
+https://arxiv.org/abs/2507.07679
+* https://arxiv.org/abs/2507.07699 # Quench spectroscopy for Lieb-Liniger bosons in the presence of harmonic trap, Jiachen Yu, Yuanzhe Hu, Wenhan Chen, Jianing Yang, Xuzong Chen, Hepeng Yao
+https://arxiv.org/abs/2507.07701
+https://arxiv.org/abs/2507.07763
+
+https://arxiv.org/abs/2507.07783
+https://arxiv.org/abs/2507.07793
+https://arxiv.org/abs/2507.07886
+https://arxiv.org/abs/2507.07907
+https://arxiv.org/abs/2507.07187
+* https://arxiv.org/abs/2507.07195 # Introduction to Sachdev-Ye-Kitaev Model: A Strongly Correlated System Perspective, Rishabh Jha
+https://arxiv.org/abs/2507.07249
+* https://arxiv.org/abs/2507.07540 # NNQS-AFQMC: Neural network quantum states enhanced fermionic quantum Monte Carlo, Zhi-Yu Xiao, Bowen Kan, Huan Ma, Bowen Zhao, Honghui Shang
+https://arxiv.org/abs/2507.07684
+https://arxiv.org/abs/2507.07950
+
 https://journals.aps.org/prb/abstract/10.1103/66wr-mlbn
 https://journals.aps.org/prb/abstract/10.1103/vnzh-y22h
 https://journals.aps.org/prb/abstract/10.1103/8p7r-cw9k
+https://journals.aps.org/pre/abstract/10.1103/qzl8-4c4g
 
 
 20250710
