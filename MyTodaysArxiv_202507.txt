@@ -1,5 +1,60 @@
 20250714
 
+https://arxiv.org/abs/2507.08023
+https://arxiv.org/abs/2507.08067
+https://arxiv.org/abs/2507.08069
+* https://arxiv.org/abs/2507.08088 # Real-Time Dynamics in a (2+1)-D Gauge Theory: The Stringy Nature on a Superconducting Quantum Simulator, Jesus Cobos, Joana Fraxanet, Cesar Benito, Francesco di Marcantonio, Pedro Rivero, Kornel Kapas, Miklos Antal Werner, Oers Legeza, Alejandro Bermudez, Enrique Rico
+https://arxiv.org/abs/2507.08089
+https://arxiv.org/abs/2507.08129
+https://arxiv.org/abs/2507.08155
+https://arxiv.org/abs/2507.08183
+https://arxiv.org/abs/2507.08202
+https://arxiv.org/abs/2507.08206
+
+https://arxiv.org/abs/2507.08252
+* https://arxiv.org/abs/2507.08418 # Continuous-time parametrization of neural quantum states for quantum dynamics, Dingzu Wang, Wenxuan Zhang, Xiansong Xu, Dario Poletti
+https://arxiv.org/abs/2507.08439
+https://arxiv.org/abs/2507.08461
+https://arxiv.org/abs/2507.08489
+https://arxiv.org/abs/2507.08536
+https://arxiv.org/abs/2507.08543
+https://arxiv.org/abs/2507.08570
+https://arxiv.org/abs/2507.08585
+https://arxiv.org/abs/2507.08600
+
+https://arxiv.org/abs/2507.08623
+* https://arxiv.org/abs/2507.08661 # Time correlations from steady-state expectation values, Wojciech Gorecki, Simone Felicetti, Lorenzo Maccone, Roberto Di Candia
+* https://arxiv.org/abs/2507.08676 # Magic Steady State Production: Non-Hermitian and Stochastic pathways, Pablo Martinez-Azcona, Matthieu Sarkis, Alexandre Tkatchenko, Aurelia Chenu
+* https://arxiv.org/abs/2507.08699 # A novel quantum circuit for the quantum Fourier transform, Juan M. Romero, Emiliano Montoya-Gonzalez, Guillermo Cruz, Roberto C. Romero
+* https://arxiv.org/abs/2507.08080 # Diagonal Isometric Form for Tensor Product States in Two Dimensions, Benjamin Sappler, Masataka Kawano, Michael P Zaletel, Frank Pollmann
+https://arxiv.org/abs/2507.08175
+https://arxiv.org/abs/2507.08379
+https://arxiv.org/abs/2507.08482
+https://arxiv.org/abs/2507.08539
+https://arxiv.org/abs/2507.08720
+
+https://arxiv.org/abs/2507.08746
+* https://arxiv.org/abs/2507.08795 # Distinct Lifetimes for X and Z Loop Measurements in a Majorana Tetron Device
+https://arxiv.org/abs/2507.08008
+https://arxiv.org/abs/2507.08338
+https://arxiv.org/abs/2507.08009
+https://arxiv.org/abs/2507.08072
+* https://arxiv.org/abs/2507.08073 # Partial suppression of magnetism in the square lattice SU(3) Hubbard model, Samuel Bird, Sebastian Huber, Jannes Nys
+* https://arxiv.org/abs/2507.08092 # Long range to short range crossover in one dimension, Mrinal Sarkar, Nicolo Defenu, Tilman Enss
+https://arxiv.org/abs/2507.08187
+https://arxiv.org/abs/2507.08225
+
+* https://arxiv.org/abs/2507.08294 # Quantized order parameters of approximate symmetry for metals and insulators, Yasuhiro Tada
+https://arxiv.org/abs/2507.08300
+https://arxiv.org/abs/2507.08398
+https://arxiv.org/abs/2507.08407
+https://arxiv.org/abs/2507.08447
+https://arxiv.org/abs/2507.08481
+https://arxiv.org/abs/2507.08533
+https://arxiv.org/abs/2507.08668
+https://arxiv.org/abs/2507.08756
+https://arxiv.org/abs/2507.08694
+
 https://journals.aps.org/pra/abstract/10.1103/rkdn-j6hy
 https://journals.aps.org/pra/abstract/10.1103/4wq2-wyh4
 https://journals.aps.org/prb/abstract/10.1103/b55l-7tbc
