@@ -1,5 +1,20 @@
 20250715
 
+https://arxiv.org/abs/2507.08937
+https://arxiv.org/abs/2507.09247
+https://arxiv.org/abs/2507.09295
+
+https://arxiv.org/abs/2507.09316
+https://arxiv.org/abs/2507.09418
+https://arxiv.org/abs/2507.09502
+https://arxiv.org/abs/2507.09518
+* https://arxiv.org/abs/2507.09586 # Pseudogap in the lightly hole-doped triangular-lattice moire Hubbard model, V. I. Kuz'min, M. A. Visotin, S. G. Ovchinnikov
+https://arxiv.org/abs/2507.09593
+https://arxiv.org/abs/2507.09779
+https://arxiv.org/abs/2507.09906
+https://arxiv.org/abs/2507.10509
+https://arxiv.org/abs/2507.10193
+
 * https://arxiv.org/abs/2507.08930 # Variational subspace methods and application to improving variational Monte Carlo dynamics, Adrien Kahn, Luca Gravina, Filippo Vicentini
 https://arxiv.org/abs/2507.08936
 * https://arxiv.org/abs/2507.08939 # Robust Chiral Edge Dynamics of a Kitaev Honeycomb on a Trapped Ion Processor, Ammar Ali, Joe Gibbs, Keerthi Kumaran, Varadharajan Muruganandam, Bo Xiao, Paul Kairys, Gabor Halasz, Arnab Banerjee, Phillip C. Lotshaw
