@@ -1,5 +1,42 @@
 20250715
 
+* https://arxiv.org/abs/2507.08930 # Variational subspace methods and application to improving variational Monte Carlo dynamics, Adrien Kahn, Luca Gravina, Filippo Vicentini
+https://arxiv.org/abs/2507.08936
+* https://arxiv.org/abs/2507.08939 # Robust Chiral Edge Dynamics of a Kitaev Honeycomb on a Trapped Ion Processor, Ammar Ali, Joe Gibbs, Keerthi Kumaran, Varadharajan Muruganandam, Bo Xiao, Paul Kairys, Gabor Halasz, Arnab Banerjee, Phillip C. Lotshaw
+
+https://arxiv.org/abs/2507.08955
+https://arxiv.org/abs/2507.09072
+https://arxiv.org/abs/2507.09172
+* https://arxiv.org/abs/2507.09273 # Defects and their Time Scales in Quantum and Classical Annealing of the Two-Dimensional Ising Model, Phillip Weinberg, Na Xu, Anders W. Sandvik
+https://arxiv.org/abs/2507.09416
+https://arxiv.org/abs/2507.09517
+https://arxiv.org/abs/2507.09532
+https://arxiv.org/abs/2507.09614
+https://arxiv.org/abs/2507.09684
+https://arxiv.org/abs/2507.09706
+
+https://arxiv.org/abs/2507.09770
+https://arxiv.org/abs/2507.09988
+https://arxiv.org/abs/2507.10027
+https://arxiv.org/abs/2507.10161
+* https://arxiv.org/abs/2507.10272 # Efficient Measurement of Bosonic Non-Gaussianity, Kaifeng Bu, Bikun Li
+https://arxiv.org/abs/2507.10285
+* https://arxiv.org/abs/2507.10287 # Grassmann Variational Monte Carlo with neural wave functions, Douglas Hendry, Alessandro Sinibaldi, Giuseppe Carleo
+* https://arxiv.org/abs/2507.10319 # Quantum i.i.d. Steady States in Open Many-Body Systems, Takanao Ishii, Masahito Ueda
+https://arxiv.org/abs/2507.10356
+https://arxiv.org/abs/2507.10395
+
+https://arxiv.org/abs/2507.10418
+https://arxiv.org/abs/2507.10501
+https://arxiv.org/abs/2507.10519
+https://arxiv.org/abs/2507.09229
+* https://arxiv.org/abs/2507.09397 # Expansion dynamics of strongly correlated lattice bosons, Julian Schwingel, Michael Turaev, Johann Kroha, Sayak Ray
+* https://arxiv.org/abs/2507.09447 # Lyapunov formulation of band theory for disordered non-Hermitian systems, Konghao Sun, Haiping Hu
+https://arxiv.org/abs/2507.09567
+https://arxiv.org/abs/2507.09749
+https://arxiv.org/abs/2507.10327
+* https://arxiv.org/abs/2507.10471 # Resonant Valance Bond and Bethe Ansatz on Quasi-1D Lattices, Zhao Zhang
+
 https://journals.aps.org/prl/abstract/10.1103/26pl-gkh7
 https://journals.aps.org/prl/abstract/10.1103/7n1c-vq2p
 https://journals.aps.org/prxquantum/abstract/10.1103/dbnd-sl4j
