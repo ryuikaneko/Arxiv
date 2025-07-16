@@ -1,5 +1,20 @@
 20250716
 
+* https://arxiv.org/abs/2507.10654 # Ferrimagnetism from quantum fluctuations in Kitaev materials, Niccolo Francini, Pedro M. Consoli, Lukas Janssen
+https://arxiv.org/abs/2507.10663
+https://arxiv.org/abs/2507.10670
+
+https://arxiv.org/abs/2507.10687
+https://arxiv.org/abs/2507.10700
+https://arxiv.org/abs/2507.10762
+https://arxiv.org/abs/2507.10832
+https://arxiv.org/abs/2507.10848
+https://arxiv.org/abs/2507.10875
+https://arxiv.org/abs/2507.10887
+https://arxiv.org/abs/2507.11120
+https://arxiv.org/abs/2507.11218
+https://arxiv.org/abs/2507.11276
+
 https://arxiv.org/abs/2507.10715
 https://arxiv.org/abs/2507.10959
 https://arxiv.org/abs/2507.11341
