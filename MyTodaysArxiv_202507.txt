@@ -1,5 +1,12 @@
 20250716
 
+https://arxiv.org/abs/2507.10715
+https://arxiv.org/abs/2507.10959
+https://arxiv.org/abs/2507.11341
+https://arxiv.org/abs/2507.11378
+https://arxiv.org/abs/2507.11519
+https://arxiv.org/abs/2507.11528
+
 https://arxiv.org/abs/2507.10635
 * https://arxiv.org/abs/2507.10656 # Stabilizer Renyi Entropy Encodes Fusion Rules of Topological Defects and Boundaries, Masahiro Hoshino, Yuto Ashida
 https://arxiv.org/abs/2507.10668
