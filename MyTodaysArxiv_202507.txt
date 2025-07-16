@@ -1,5 +1,44 @@
 20250716
 
+https://arxiv.org/abs/2507.10635
+* https://arxiv.org/abs/2507.10656 # Stabilizer Renyi Entropy Encodes Fusion Rules of Topological Defects and Boundaries, Masahiro Hoshino, Yuto Ashida
+https://arxiv.org/abs/2507.10668
+https://arxiv.org/abs/2507.10671
+* https://arxiv.org/abs/2507.10688 # Magic transition in monitored free fermion dynamics, Cheng Wang, Zhi-Cheng Yang, Tianci Zhou, Xiao Chen
+
+https://arxiv.org/abs/2507.10699
+https://arxiv.org/abs/2507.10739
+https://arxiv.org/abs/2507.10771
+https://arxiv.org/abs/2507.10777
+https://arxiv.org/abs/2507.10856
+https://arxiv.org/abs/2507.10862
+https://arxiv.org/abs/2507.10876
+* https://arxiv.org/abs/2507.10892 # Entanglement production in the Sachdev-Ye-Kitaev Model and its variants, Tanay Pathak, Masaki Tezuka
+https://arxiv.org/abs/2507.10992
+https://arxiv.org/abs/2507.11002
+
+https://arxiv.org/abs/2507.11016
+https://arxiv.org/abs/2507.11020
+https://arxiv.org/abs/2507.11089
+https://arxiv.org/abs/2507.11180
+https://arxiv.org/abs/2507.11204
+https://arxiv.org/abs/2507.11217
+https://arxiv.org/abs/2507.11312
+https://arxiv.org/abs/2507.11322
+* https://arxiv.org/abs/2507.11424 # Simulating and Sampling from Quantum Circuits with 2D Tensor Networks, Manuel S. Rudolph, Joseph Tindall
+https://arxiv.org/abs/2507.11458
+
+* https://arxiv.org/abs/2507.11536 # Understanding Quantum Information and Computation, John Watrous
+https://arxiv.org/abs/2507.11541
+* https://arxiv.org/abs/2507.10690 # Natural super-orbitals representation of many-body operators, Maxime Debertolis
+* https://arxiv.org/abs/2507.10705 # Neural Network-Augmented Pfaffian Wave-functions for Scalable Simulations of Interacting Fermions, Ao Chen, Zhou-Quan Wan, Anirvan Sengupta, Antoine Georges, Christopher Roth
+https://arxiv.org/abs/2507.10752
+https://arxiv.org/abs/2507.10807
+* https://arxiv.org/abs/2507.10835 # Functional Neural Wavefunction Optimization, Victor Armegioiu, Juan Carrasquilla, Siddhartha Mishra, Johannes Mueller, Jannes Nys, Marius Zeinhofer, Hang Zhang
+https://arxiv.org/abs/2507.11044
+https://arxiv.org/abs/2507.11271
+https://arxiv.org/abs/2507.11487
+
 https://journals.aps.org/prl/abstract/10.1103/29qw-bssx
 https://journals.aps.org/prl/abstract/10.1103/z9m1-3mwb
 https://journals.aps.org/prl/abstract/10.1103/2g3v-z76q
