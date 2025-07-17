@@ -1,5 +1,46 @@
 20250717
 
+https://arxiv.org/abs/2507.11606
+https://arxiv.org/abs/2507.11614
+https://arxiv.org/abs/2507.11624
+* https://arxiv.org/abs/2507.11674 # nu-QSSEP: A toy model for entanglement spreading in stochastic diffusive quantum systems, Vincenzo Alba
+https://arxiv.org/abs/2507.11782
+* https://arxiv.org/abs/2507.11820 # Fractal Path Strategies for Efficient 2D DMRG Simulations, Oliver R. Bellwood, Heitor P. Casagrande, William J. Munro
+https://arxiv.org/abs/2507.11914
+
+https://arxiv.org/abs/2507.11933
+* https://arxiv.org/abs/2507.12153 # Interacting Bose gases in twisted-bilayer optical lattices, Ganesh C. Paul, Patrik Recher, Luis Santos
+* https://arxiv.org/abs/2507.12193 # Emergent Symmetry and Phase Transitions on the Domain Wall of Z2 Topological Orders, Hong-Hao Song, Chen Peng, Rui-Zhen Huang, Long Zhang
+https://arxiv.org/abs/2507.12229
+https://arxiv.org/abs/2507.12254
+https://arxiv.org/abs/2507.12349
+https://arxiv.org/abs/2507.12375
+https://arxiv.org/abs/2507.12437
+* https://arxiv.org/abs/2507.11915 # Noise-induced Quantum Mpemba effect, Mingrui Zhao, Zhonghuai Hou
+* https://arxiv.org/abs/2507.11957 # Measurement-Induced Phase Transition in a Disordered XX Spin Chain: A Real-Space Renormalization Group Study, Siddharth Tiwary, Joel E. Moore
+
+https://arxiv.org/abs/2507.12056
+https://arxiv.org/abs/2507.12065
+* https://arxiv.org/abs/2507.12176 # Mobility rings in a non-Hermitian non-Abelian quasiperiodic lattice, Rui-Jie Chen, Guo-Qing Zhang, Zhi Li, Dan-Wei Zhang
+* https://arxiv.org/abs/2507.12319 # Hybrid quantum lattice model: Polaritons, photons, and spin waves propagation, Maritza Ahumada, Natalia Valderrama-Quinteros, Diego Tancara, Guillermo Romero
+* https://arxiv.org/abs/2507.11565 # Lecture Notes on Quantum Algorithms, Muhammad Faryad
+https://arxiv.org/abs/2507.11577
+https://arxiv.org/abs/2507.11604
+* https://arxiv.org/abs/2507.11619 # Rise and fall of nonstabilizerness via random measurements, Annarita Scocco, Wai-Keong Mok, Leandro Aolita, Mario Collura, Tobias Haug
+* https://arxiv.org/abs/2507.11675 # Dynamics Simulation of Arbitrary Non-Hermitian Systems Based on Quantum Monte Carlo, Xiaogang Li, Qiming Ding, Kecheng Liu, Xiao Yuan
+https://arxiv.org/abs/2507.11707
+
+https://arxiv.org/abs/2507.11713
+https://arxiv.org/abs/2507.11735
+https://arxiv.org/abs/2507.11766
+https://arxiv.org/abs/2507.12013
+https://arxiv.org/abs/2507.12225
+https://arxiv.org/abs/2507.12253
+https://arxiv.org/abs/2507.12302
+https://arxiv.org/abs/2507.12332
+https://arxiv.org/abs/2507.12389
+https://arxiv.org/abs/2507.12394
+
 https://journals.aps.org/prb/abstract/10.1103/98jq-y7gh
 https://journals.aps.org/prb/abstract/10.1103/r15c-ymgc
 https://journals.aps.org/prb/abstract/10.1103/tdgz-ky5v
