@@ -1,5 +1,35 @@
 20250718
 
+https://arxiv.org/abs/2507.12525
+https://arxiv.org/abs/2507.12546
+https://arxiv.org/abs/2507.12515
+https://arxiv.org/abs/2507.12554
+https://arxiv.org/abs/2507.12592
+* https://arxiv.org/abs/2507.12722 # Scalable tensor network algorithm for quantum impurity problems, Zhijie Sun, Ruofan Chen, Zhenyu Li, Chu Guo
+https://arxiv.org/abs/2507.12836
+
+https://arxiv.org/abs/2507.12852
+* https://arxiv.org/abs/2507.12526 # Emergence of Generic Entanglement Structure in Doped Matchgate Circuits, Alessio Paviglianiti, Luca Lumia, Emanuele Tirrito, Alessandro Silva, Mario Collura, Xhek Turkeshi, Guglielmo Lami
+* https://arxiv.org/abs/2507.12589 # Efficient Qudit Circuit for Quench Dynamics of 2+1D Quantum Link Electrodynamics, Rohan Joshi, Michael Meth, Jan C. Louw, Jesse J. Osborne, Kevin Mato, Martin Ringbauer, Jad C. Halimeh
+* https://arxiv.org/abs/2507.12614 # Probing Hadron Scattering in Lattice Gauge Theories on Qudit Quantum Computers, Rohan Joshi, Jan C. Louw, Michael Meth, Jesse J. Osborne, Kevin Mato, Guo-Xian Su, Martin Ringbauer, Jad C. Halimeh
+https://arxiv.org/abs/2507.12626
+* https://arxiv.org/abs/2507.12902 # Robustness of Magic in the quantum Ising chain via Quantum Monte Carlo tomography, Hari Timsina, Yi-Ming Ding, Emanuele Tirrito, Poetri Sonya Tarabunga, Bin-Bin Mao, Mario Collura, Zheng Yan, Marcello Dalmonte
+https://arxiv.org/abs/2507.13174
+https://arxiv.org/abs/2507.13196
+https://arxiv.org/abs/2507.13228
+https://arxiv.org/abs/2507.13254
+
+https://arxiv.org/abs/2507.12485
+https://arxiv.org/abs/2507.12492
+https://arxiv.org/abs/2507.12505
+https://arxiv.org/abs/2507.12534
+https://arxiv.org/abs/2507.12536
+* https://arxiv.org/abs/2507.12550 # Learning mixed quantum states in large-scale experiments, Matteo Votto, Marko Ljubotina, Cecilia Lancien, J. Ignacio Cirac, Peter Zoller, Maksym Serbyn, Lorenzo Piroli, Benoit Vermersch
+https://arxiv.org/abs/2507.12997
+https://arxiv.org/abs/2507.13201
+* https://arxiv.org/abs/2507.13322 # Artificial Intelligence for Quantum Matter: Finding a Needle in a Haystack, Khachatur Nazaryan, Filippo Gaggioli, Yi Teng, Liang Fu
+* https://arxiv.org/abs/2507.12860 # Dark matter detection using optically trapped Rydberg atom tweezer arrays, So Chigusa, Taiyo Kasamaki, Toshi Kusano, Takeo Moroi, Kazunori Nakayama, Naoya Ozawa, Yoshiro Takahashi, Atsuhiro Umemoto, Amar Vutha
+
 https://journals.aps.org/prb/abstract/10.1103/lxwb-ql9q
 https://journals.aps.org/prb/abstract/10.1103/l9xn-h95s
 https://journals.aps.org/prb/abstract/10.1103/dygc-94fq
