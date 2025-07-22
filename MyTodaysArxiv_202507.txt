@@ -1,5 +1,56 @@
 20250722
 
+https://arxiv.org/abs/2507.14278
+https://arxiv.org/abs/2507.14323
+https://arxiv.org/abs/2507.14370
+https://arxiv.org/abs/2507.14371
+https://arxiv.org/abs/2507.14383
+https://arxiv.org/abs/2507.14422
+
+https://arxiv.org/abs/2507.14427
+https://arxiv.org/abs/2507.14434
+https://arxiv.org/abs/2507.14531
+https://arxiv.org/abs/2507.14691
+https://arxiv.org/abs/2507.14836
+https://arxiv.org/abs/2507.14839
+https://arxiv.org/abs/2507.14880
+* https://arxiv.org/abs/2507.14892 # Exceptional-Point Dynamics, Yan Xing, Xuedong Zhao, Hui Jing, Shi-Lei Su
+* https://arxiv.org/abs/2507.14895 # Granovskii-Zhedanov Scar of XYZ Spin-chain: Modern Algebraic Perspectives and Realization in Higher Dimensional Lattices, Dhiman Bhowmick, Wen Wei Ho
+https://arxiv.org/abs/2507.15063
+
+* https://arxiv.org/abs/2507.15065 # Grover's algorithm is an approximation of imaginary-time evolution, Yudai Suzuki, Marek Gluza, Jeongrak Son, Bi Hong Tiang, Nelly H. Y. Ng, Zoe Holmes
+https://arxiv.org/abs/2507.15128
+https://arxiv.org/abs/2507.15148
+https://arxiv.org/abs/2507.15166
+https://arxiv.org/abs/2507.15295
+https://arxiv.org/abs/2507.15384
+https://arxiv.org/abs/2507.15421
+https://arxiv.org/abs/2507.15424
+https://arxiv.org/abs/2507.15432
+https://arxiv.org/abs/2507.15458
+
+https://arxiv.org/abs/2507.15508
+https://arxiv.org/abs/2507.15537
+* https://arxiv.org/abs/2507.15725 # Efficiently Generation of Cluster States via Time-Delayed Feedback in Matrix Representation, Jia-Jin Zou, Jian-Wei Qin, Franco Nori, Ze-Liang Xiang
+https://arxiv.org/abs/2507.15738
+https://arxiv.org/abs/2507.15797
+https://arxiv.org/abs/2507.15799
+https://arxiv.org/abs/2507.15811
+https://arxiv.org/abs/2507.15845
+https://arxiv.org/abs/2507.14145
+https://arxiv.org/abs/2507.14478
+
+https://arxiv.org/abs/2507.14523
+https://arxiv.org/abs/2507.14600
+https://arxiv.org/abs/2507.14656
+* https://arxiv.org/abs/2507.14732 # Spiral renormalization group flow and universal entanglement spectrum of the non-Hermitian 5-state Potts model, Vic Vander Linden, Boris De Vos, Kevin Vervoort, Frank Verstraete, Atsushi Ueda
+https://arxiv.org/abs/2507.14868
+https://arxiv.org/abs/2507.14911
+https://arxiv.org/abs/2507.14919
+https://arxiv.org/abs/2507.15544
+* https://arxiv.org/abs/2507.15840 # TASI/CERN/KITP Lecture Notes on "Toward Quantum Computing Gauge Theories of Nature", Zohreh Davoudi
+https://arxiv.org/abs/2507.14489
+
 https://journals.aps.org/prl/abstract/10.1103/kd73-93cg
 https://journals.aps.org/prb/abstract/10.1103/wsmq-kmq9
 https://journals.aps.org/prb/abstract/10.1103/1cbf-kxny
