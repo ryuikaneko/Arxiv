@@ -1,5 +1,51 @@
 20250723
 
+https://arxiv.org/abs/2507.15925
+
+https://arxiv.org/abs/2507.15957
+https://arxiv.org/abs/2507.15959
+https://arxiv.org/abs/2507.16005
+https://arxiv.org/abs/2507.16026
+https://arxiv.org/abs/2507.16042
+https://arxiv.org/abs/2507.16168
+https://arxiv.org/abs/2507.16277
+https://arxiv.org/abs/2507.16418
+* https://arxiv.org/abs/2507.16421 # Scarred ferromagnetic phase in the long-range transverse-field Ising model, Angel L. Corps, Armando Relano
+* https://arxiv.org/abs/2507.16523 # "Odd" Toric Code in a tilted field: Higgs-confinement multicriticality, spontaneous self-duality symmetry breaking, and valence bond solids, Umberto Borla, Ayush De, Snir Gazit
+
+* https://arxiv.org/abs/2507.16558 # Thermal Hall transport in Kitaev spin liquids, Tsuyoshi Okubo, Joji Nasu, Takahiro Misawa, Yukitoshi Motome
+* https://arxiv.org/abs/2507.16567 # False signatures of non-ergodic behavior in disordered quantum many-body systems, Adith Sai Aramthottil, Ali Emami Kopaei, Piotr Sierant, Lev Vidmar, Jakub Zakrzewski
+https://arxiv.org/abs/2507.16654
+https://arxiv.org/abs/2507.16673
+https://arxiv.org/abs/2507.16688
+* https://arxiv.org/abs/2507.16751 # Many-Body Physics from Spin-Phonon Coupling in Rydberg Atom Arrays, Shuo Zhang, Langxuan Chen, Pengfei Zhang
+https://arxiv.org/abs/2507.16760
+https://arxiv.org/abs/2507.15941
+https://arxiv.org/abs/2507.16441
+https://arxiv.org/abs/2507.16475
+
+https://arxiv.org/abs/2507.16549
+https://arxiv.org/abs/2507.15918
+https://arxiv.org/abs/2507.15948
+https://arxiv.org/abs/2507.15955
+https://arxiv.org/abs/2507.16001
+https://arxiv.org/abs/2507.16004
+https://arxiv.org/abs/2507.16036
+https://arxiv.org/abs/2507.16049
+https://arxiv.org/abs/2507.16100
+https://arxiv.org/abs/2507.16286
+
+https://arxiv.org/abs/2507.16373
+https://arxiv.org/abs/2507.16401
+https://arxiv.org/abs/2507.16417
+https://arxiv.org/abs/2507.16543
+* https://arxiv.org/abs/2507.16602 # Multi-qubit Rydberg gates between distant atoms, Antonis Delakouras, Georgios Doultsinos, David Petrosyan
+https://arxiv.org/abs/2507.16637
+https://arxiv.org/abs/2507.16641
+https://arxiv.org/abs/2507.16797
+https://arxiv.org/abs/2507.15939
+https://arxiv.org/abs/2507.16321
+
 https://journals.aps.org/prl/abstract/10.1103/yr9d-7z8k
 https://journals.aps.org/prl/abstract/10.1103/tkcp-p5br
 https://journals.aps.org/prl/abstract/10.1103/pbtn-wsgv
