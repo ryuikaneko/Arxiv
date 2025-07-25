@@ -5,6 +5,66 @@ https://journals.aps.org/prl/abstract/10.1103/5d6p-8d1b
 
 20250724
 
+* https://arxiv.org/abs/2507.16892 # Superconductivity in kagome metals due to soft loop-current fluctuations, Daniel J. Schultz, Grgur Palle, Yong Baek Kim, Rafael M. Fernandes, Joerg Schmalian
+https://arxiv.org/abs/2507.16909
+https://arxiv.org/abs/2507.16916
+https://arxiv.org/abs/2507.16927
+
+https://arxiv.org/abs/2507.16972
+https://arxiv.org/abs/2507.16977
+https://arxiv.org/abs/2507.17048
+https://arxiv.org/abs/2507.17108
+https://arxiv.org/abs/2507.17145
+https://arxiv.org/abs/2507.17146
+https://arxiv.org/abs/2507.17179
+* https://arxiv.org/abs/2507.17201 # Mott Criticality as the Confinement Transition of a Pseudogap-Mott Metal, Abhirup Mukherjee, S. R. Hassan, Anamitra Mukherjee, N. S. Vidhyadhiraja, A. Taraphder, Siddhartha Lal
+https://arxiv.org/abs/2507.17227
+* https://arxiv.org/abs/2507.17236 # Restricted Boltzmann machine as a probabilistic Enigma, Bin Chen, Weichao Yu
+
+https://arxiv.org/abs/2507.17295
+https://arxiv.org/abs/2507.17397
+https://arxiv.org/abs/2507.17398
+https://arxiv.org/abs/2507.17497
+https://arxiv.org/abs/2507.17504
+https://arxiv.org/abs/2507.17509
+https://arxiv.org/abs/2507.17751
+* https://arxiv.org/abs/2507.16882 # Many-body delocalization with a two-dimensional 70-qubit superconducting quantum simulator
+https://arxiv.org/abs/2507.16966
+* https://arxiv.org/abs/2507.17421 # Instability of explicit time integration for strongly quenched dynamics with neural quantum states, Hrvoje Vrcan, Johan H. Mentink
+
+* https://arxiv.org/abs/2507.17424 # Universal properties of the many-body Lanczos algorithm at finite size, Luca Capizzi, Leonardo Mazza, Sara Murciano
+https://arxiv.org/abs/2507.17573
+https://arxiv.org/abs/2507.17586
+https://arxiv.org/abs/2507.17720
+https://arxiv.org/abs/2507.16879
+https://arxiv.org/abs/2507.16918
+https://arxiv.org/abs/2507.16939
+https://arxiv.org/abs/2507.16942
+* https://arxiv.org/abs/2507.16976 # A resource theoretical unification of Mpemba effects: classical and quantum, Alessandro Summer, Mattia Moroder, Laetitia P. Bettmann, Xhek Turkeshi, Iman Marvian, John Goold
+https://arxiv.org/abs/2507.16995
+
+https://arxiv.org/abs/2507.17117
+https://arxiv.org/abs/2507.17164
+https://arxiv.org/abs/2507.17175
+* https://arxiv.org/abs/2507.17279 # https://doi.org/10.1103/4y3n-p641 Virtual Cloning of Quantum States, Zhi-Hao Bi, Jing-Tao Qiu, Xiao-Dong Yu
+https://arxiv.org/abs/2507.17349
+https://arxiv.org/abs/2507.17364
+https://arxiv.org/abs/2507.17435
+https://arxiv.org/abs/2507.17452
+https://arxiv.org/abs/2507.17460
+https://arxiv.org/abs/2507.17470
+
+https://arxiv.org/abs/2507.17488
+https://arxiv.org/abs/2507.17495
+https://arxiv.org/abs/2507.17567
+https://arxiv.org/abs/2507.17589
+https://arxiv.org/abs/2507.17614
+* https://arxiv.org/abs/2507.16890 # Thermal modifications of mesons and energy-energy correlators from real-time simulations of a U(1) lattice gauge theory, Joao Barata, David Frenklakh, Swagato Mukherjee
+https://arxiv.org/abs/2507.17170
+https://arxiv.org/abs/2507.17361
+https://arxiv.org/abs/2507.17535
+https://arxiv.org/abs/2507.17582
+
 https://journals.aps.org/prl/abstract/10.1103/pnp2-g1g5
 https://journals.aps.org/prl/abstract/10.1103/n9sq-8cxw
 https://journals.aps.org/prl/abstract/10.1103/yfqr-y9ks
