@@ -1,5 +1,35 @@
 20250725
 
+* https://arxiv.org/abs/2507.17871 # Shallow quantum circuit for generating O(1)-entanged approximate state designs, Wonjun Lee, Minki Hhan, Gil Young Cho, Hyukjoon Kwon
+https://arxiv.org/abs/2507.17828
+https://arxiv.org/abs/2507.17832
+https://arxiv.org/abs/2507.17864
+https://arxiv.org/abs/2507.17880
+https://arxiv.org/abs/2507.17931
+https://arxiv.org/abs/2507.18000
+
+https://arxiv.org/abs/2507.18066
+https://arxiv.org/abs/2507.18079
+https://arxiv.org/abs/2507.18088
+https://arxiv.org/abs/2507.18259
+https://arxiv.org/abs/2507.18278
+https://arxiv.org/abs/2507.18296
+* https://arxiv.org/abs/2507.18426 # Three-qubit encoding in ytterbium-171 atoms for simulating 1+1D QCD, William Huie, Cianan Conefrey-Shinozaki, Zhubing Jia, Patrick Draper, Jacob P. Covey
+https://arxiv.org/abs/2507.18440
+https://arxiv.org/abs/2507.18486
+https://arxiv.org/abs/2507.18499
+
+https://arxiv.org/abs/2507.18571
+https://arxiv.org/abs/2507.17770
+https://arxiv.org/abs/2507.17825
+https://arxiv.org/abs/2507.17847
+https://arxiv.org/abs/2507.17938
+https://arxiv.org/abs/2507.18003
+https://arxiv.org/abs/2507.18157
+https://arxiv.org/abs/2507.18265
+https://arxiv.org/abs/2507.18266
+* https://arxiv.org/abs/2507.18286 # Unconventional Thermalization of a Localized Chain Interacting with an Ergodic Bath, Konrad Pawlik, Nicolas Laflorencie, Jakub Zakrzewski
+
 https://journals.aps.org/prl/abstract/10.1103/5d6p-8d1b
 
 
