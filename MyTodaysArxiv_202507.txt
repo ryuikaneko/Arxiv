@@ -1,5 +1,27 @@
 20250725
 
+https://arxiv.org/abs/2507.17821
+https://arxiv.org/abs/2507.17822
+https://arxiv.org/abs/2507.17823
+https://arxiv.org/abs/2507.17840
+https://arxiv.org/abs/2507.18020
+https://arxiv.org/abs/2507.18069
+https://arxiv.org/abs/2507.18349
+* https://arxiv.org/abs/2507.18373 # Persistent paramagnons in high-temperature infinite-layer nickelate superconductors
+https://arxiv.org/abs/2507.18379
+* https://arxiv.org/abs/2507.18408 # Quasicrystalline Altermagnetism, Rui Chen, Bin Zhou, Dong-Hui Xu
+
+* https://arxiv.org/abs/2507.18582 # Variational Monte Carlo Optimization of Topological Chiral Superconductors, Minho Luke Kim, Abigail Timmel, Xiao-Gang Wen
+https://arxiv.org/abs/2507.17912
+https://arxiv.org/abs/2507.18132
+* https://arxiv.org/abs/2507.18291 # Symmetries of the periodic Fredkin chain, Andrei G. Pronko
+https://arxiv.org/abs/2507.18298
+https://arxiv.org/abs/2507.18351
+https://arxiv.org/abs/2507.18387
+https://arxiv.org/abs/2507.18617
+https://arxiv.org/abs/2507.17763
+https://arxiv.org/abs/2507.18261
+
 * https://arxiv.org/abs/2507.17871 # Shallow quantum circuit for generating O(1)-entanged approximate state designs, Wonjun Lee, Minki Hhan, Gil Young Cho, Hyukjoon Kwon
 https://arxiv.org/abs/2507.17828
 https://arxiv.org/abs/2507.17832
