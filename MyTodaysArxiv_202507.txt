@@ -1,5 +1,21 @@
 20250728
 
+https://arxiv.org/abs/2507.18693
+https://arxiv.org/abs/2507.18707
+https://arxiv.org/abs/2507.18806
+https://arxiv.org/abs/2507.18919
+
+https://arxiv.org/abs/2507.19025
+https://arxiv.org/abs/2507.19161
+https://arxiv.org/abs/2507.19190
+https://arxiv.org/abs/2507.19207
+https://arxiv.org/abs/2507.19238
+https://arxiv.org/abs/2507.19265
+* https://arxiv.org/abs/2507.19301 # Fermi liquid and isotropic superconductivity of Hund scenario for bilayer nickelates, Jiangfan Wang, Yi-feng Yang
+https://arxiv.org/abs/2507.19412
+* https://arxiv.org/abs/2507.19471 # Interplay of non-Hermitian skin effect and electronic correlations in the non-Hermitian Hubbard model via Real-space dynamical mean field theory, Chakradhar Rangi, Juana Moreno, Ka-Ming Tam
+* https://arxiv.org/abs/2507.19276 # Hybrid tensor network and neural network quantum states for quantum chemistry, Zibo Wu, Bohan Zhang, Wei-Hai Fang, Zhendong Li
+
 https://arxiv.org/abs/2507.18704
 https://arxiv.org/abs/2507.18708
 https://arxiv.org/abs/2507.18767
