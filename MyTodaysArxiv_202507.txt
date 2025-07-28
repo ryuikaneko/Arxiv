@@ -1,5 +1,43 @@
 20250728
 
+https://arxiv.org/abs/2507.18704
+https://arxiv.org/abs/2507.18708
+https://arxiv.org/abs/2507.18767
+https://arxiv.org/abs/2507.18796
+
+* https://arxiv.org/abs/2507.18822 # Programmable Exploration of Magnetic States in Lieb-Kagome Interpolated Lattices, Alejandro Lopez-Bezanilla, Pavel A. Dub, Avadh Saxena
+https://arxiv.org/abs/2507.18844
+https://arxiv.org/abs/2507.18872
+https://arxiv.org/abs/2507.18954
+https://arxiv.org/abs/2507.18970
+https://arxiv.org/abs/2507.19018
+https://arxiv.org/abs/2507.19041
+https://arxiv.org/abs/2507.19093
+https://arxiv.org/abs/2507.19145
+* https://arxiv.org/abs/2507.19153 # Pulse-based optimization of quantum many-body states with Rydberg atoms in optical tweezer arrays, Kazuma Nagao, Sergi Julia-Farre, Joseph Vovrosh, Alexandre Dauphin, Seiji Yunoki
+
+https://arxiv.org/abs/2507.19180
+https://arxiv.org/abs/2507.19203
+https://arxiv.org/abs/2507.19206
+https://arxiv.org/abs/2507.19212
+https://arxiv.org/abs/2507.19250
+https://arxiv.org/abs/2507.19258
+https://arxiv.org/abs/2507.19323
+https://arxiv.org/abs/2507.19345
+https://arxiv.org/abs/2507.19348
+https://arxiv.org/abs/2507.19467
+
+* https://arxiv.org/abs/2507.18700 # Adaptive Neural Quantum States: A Recurrent Neural Network Perspective, Jake McNaughton, Mohamed Hibat-Allah
+https://arxiv.org/abs/2507.18746
+https://arxiv.org/abs/2507.18770
+https://arxiv.org/abs/2507.18818
+https://arxiv.org/abs/2507.18859
+* https://arxiv.org/abs/2507.18892 # Spinon Singlet: Microscopic Mechanism of d-Wave Pairing in a Partially-Filled Stripe, Jia-Long Wang, Shi-Jie Hu, Xue-Feng Zhang
+* https://arxiv.org/abs/2507.18950 # Kibble-Zurek mechanism for dissipative discrete time crystals, Roy D. Jara Jr., Jayson G. Cosme
+https://arxiv.org/abs/2507.18754
+https://arxiv.org/abs/2507.18930
+* https://arxiv.org/abs/2507.19069 # Entanglement across scales: Quantics tensor trains as a natural framework for renormalization, Stefan Rohshap, Jheng-Wei Li, Alena Lorenz, Serap Hasil, Karsten Held, Anna Kauch, Markus Wallerberger
+
 https://journals.aps.org/prb/abstract/10.1103/bz43-x4cg
 https://journals.aps.org/prb/abstract/10.1103/qsmz-9kkh
 https://journals.aps.org/prb/abstract/10.1103/9vn2-44fk
