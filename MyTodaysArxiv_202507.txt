@@ -1,5 +1,59 @@
 20250729
 
+https://arxiv.org/abs/2507.19562
+* https://arxiv.org/abs/2507.19588 # Real-Time Observation of Aharonov-Bohm Interference in a Z2 Lattice Gauge Theory on a Hybrid Qubit-Oscillator Quantum Computer, S. Saner, O. Bazavan, D. J. Webb, G. Araneda, C. J. Ballance, R. Srinivas, D. M. Lucas, A. Bermudez
+https://arxiv.org/abs/2507.19629
+https://arxiv.org/abs/2507.19655
+https://arxiv.org/abs/2507.19658
+https://arxiv.org/abs/2507.19713
+https://arxiv.org/abs/2507.19731
+https://arxiv.org/abs/2507.19861
+https://arxiv.org/abs/2507.19876
+
+https://arxiv.org/abs/2507.19932
+https://arxiv.org/abs/2507.19977
+https://arxiv.org/abs/2507.19994
+* https://arxiv.org/abs/2507.20009 # Efficient construction of fault-tolerant neutral-atom cluster states, Luke M. Stewart, Gefen Baranes, Joshua Ramette, Josiah Sinclair, Vladan Vuletic
+https://arxiv.org/abs/2507.20045
+https://arxiv.org/abs/2507.20100
+https://arxiv.org/abs/2507.20160
+https://arxiv.org/abs/2507.20317
+https://arxiv.org/abs/2507.20318
+https://arxiv.org/abs/2507.20387
+
+https://arxiv.org/abs/2507.20394
+https://arxiv.org/abs/2507.20422
+https://arxiv.org/abs/2507.20508
+* https://arxiv.org/abs/2507.20510 # Neural Importance Resampling: A Practical Sampling Strategy for Neural Quantum States, Eimantas Ledinauskas, Egidijus Anisimovas
+https://arxiv.org/abs/2507.20532
+https://arxiv.org/abs/2507.20537
+https://arxiv.org/abs/2507.20570
+https://arxiv.org/abs/2507.20583
+https://arxiv.org/abs/2507.20599
+https://arxiv.org/abs/2507.20600
+
+* https://arxiv.org/abs/2507.20625 # A digital Rydberg simulation of dynamical quantum phase transitions in the Schwinger model, Domenico Pomarico, Federico Dell'Anna, Riccardo Cioli, Saverio Pascazio, Francesco V. Pepe, Paolo Facchi, Elisa Ercolessi
+* https://arxiv.org/abs/2507.20667 # Optimizing Tensor Network Partitioning using Simulated Annealing, Manuel Geiger, Qunsheng Huang, Christian B. Mendl
+https://arxiv.org/abs/2507.20677
+https://arxiv.org/abs/2507.20679
+https://arxiv.org/abs/2507.20694
+https://arxiv.org/abs/2507.20722
+https://arxiv.org/abs/2507.20736
+https://arxiv.org/abs/2507.20777
+* https://arxiv.org/abs/2507.20813 # A Variational Quantum Algorithm for Entanglement Quantification, Lucas Friedrich, Marcos L. W. Basso, Alberto B. P. Junior, Joab M. Varela, Leandro Morais, Rafael Chaves, Jonas Maziero
+* https://arxiv.org/abs/2507.20947 # Entanglement negativity in free fermions: twisted characteristic polynomial, universal bounds, and area laws, Ryota Matsuda, Zongping Gong
+
+https://arxiv.org/abs/2507.21011
+https://arxiv.org/abs/2507.21036
+* https://arxiv.org/abs/2507.19576 # Cyclotron reonance in a kagome spin liquid candidate material, Byungmin Kang, Patrick A. Lee
+https://arxiv.org/abs/2507.19622
+https://arxiv.org/abs/2507.19920
+* https://arxiv.org/abs/2507.20106 # Absence of nontrivial local conserved quantities in the Hubbard model on the two or higher dimensional hypercubic lattice, Mahiro Futami
+* https://arxiv.org/abs/2507.20155 # Biorthogonal quench dynamics of entanglement and quantum geometry in PT-symmetric non-Hermitian systems, Hsueh-Hao Lu, Po-Yao Chang
+* https://arxiv.org/abs/2507.20430 # Entanglement Halos, Nadir Samos Saenz de Buruaga, Silvia N. Santalla, German Sierra, Javier Rodriguez-Laguna
+https://arxiv.org/abs/2507.20475
+https://arxiv.org/abs/2507.21002
+
 https://journals.aps.org/prl/abstract/10.1103/kbw2-fdqn
 https://journals.aps.org/prl/abstract/10.1103/29ht-pwyt
 https://journals.aps.org/prb/abstract/10.1103/xz77-pmy7
