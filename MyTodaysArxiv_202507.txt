@@ -1,5 +1,16 @@
 20250729
 
+https://arxiv.org/abs/2507.20556
+* https://arxiv.org/abs/2507.20561 # Vacancy induced expansion of spin-liquid regime in J1-J2 Heisenberg model, Soumyaranjan Dash, Anish Koley, Sanjeev Kumar
+https://arxiv.org/abs/2507.20660
+https://arxiv.org/abs/2507.20662
+https://arxiv.org/abs/2507.20675
+https://arxiv.org/abs/2507.20690
+https://arxiv.org/abs/2507.20819
+https://arxiv.org/abs/2507.21044
+https://arxiv.org/abs/2507.20299
+https://arxiv.org/abs/2507.20929
+
 https://arxiv.org/abs/2507.19562
 * https://arxiv.org/abs/2507.19588 # Real-Time Observation of Aharonov-Bohm Interference in a Z2 Lattice Gauge Theory on a Hybrid Qubit-Oscillator Quantum Computer, S. Saner, O. Bazavan, D. J. Webb, G. Araneda, C. J. Ballance, R. Srinivas, D. M. Lucas, A. Bermudez
 https://arxiv.org/abs/2507.19629
