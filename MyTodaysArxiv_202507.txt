@@ -1,5 +1,20 @@
 20250729
 
+https://arxiv.org/abs/2507.19572
+https://arxiv.org/abs/2507.19580
+https://arxiv.org/abs/2507.19591
+
+https://arxiv.org/abs/2507.19665
+* https://arxiv.org/abs/2507.19764 # Electron-phonon coupled Langevin dynamics for Mott insulators, Rico Pohle, Yukitoshi Motome, Terumasa Tadano, Shintaro Hoshino
+https://arxiv.org/abs/2507.19768
+https://arxiv.org/abs/2507.19779
+https://arxiv.org/abs/2507.19784
+https://arxiv.org/abs/2507.19903
+* https://arxiv.org/abs/2507.20308 # Variational study of the magnetization plateaus of the spin-12 kagome Heisenberg antiferromagnet and its implication on YCOB, Rong Cheng, Tao Li
+https://arxiv.org/abs/2507.20385
+https://arxiv.org/abs/2507.20391
+https://arxiv.org/abs/2507.20540
+
 https://arxiv.org/abs/2507.20556
 * https://arxiv.org/abs/2507.20561 # Vacancy induced expansion of spin-liquid regime in J1-J2 Heisenberg model, Soumyaranjan Dash, Anish Koley, Sanjeev Kumar
 https://arxiv.org/abs/2507.20660
