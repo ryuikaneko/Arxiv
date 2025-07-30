@@ -8,6 +8,12 @@ https://journals.aps.org/pra/abstract/10.1103/zfrn-53lz
 
 20250730
 
+https://arxiv.org/abs/2504.18360
+https://arxiv.org/abs/2507.21135
+https://arxiv.org/abs/2507.21209
+https://arxiv.org/abs/2507.21267
+* https://arxiv.org/abs/2507.21804 # Heating Dynamics of Correlated Fermions under Dephasing, Antonio Picano, Matthieu Vanhoecke, Marco Schiro
+
 https://arxiv.org/abs/2507.21192
 https://arxiv.org/abs/2507.21194
 * https://arxiv.org/abs/2507.21236 # The Augmented Tree Tensor Network Cookbook, Nora Reinic, Luka Pavesic, Daniel Jaschke, Simone Montangero
