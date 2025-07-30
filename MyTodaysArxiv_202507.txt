@@ -8,13 +8,13 @@ https://journals.aps.org/pra/abstract/10.1103/zfrn-53lz
 
 20250730
 
-https://arxiv.org/abs/2507.21226
+* https://arxiv.org/abs/2507.21226 # Magnetically ordered yet topologically robust phases emerging in concurrent Kitaev spin liquids, Muhammad Akram, Aayush Vijayvargia, Hae-Young Kee, Onur Erten
 https://arxiv.org/abs/2507.21286
 https://arxiv.org/abs/2507.21323
 https://arxiv.org/abs/2507.21343
 https://arxiv.org/abs/2507.21446
-https://arxiv.org/abs/2507.21621
-https://arxiv.org/abs/2507.21697
+* https://arxiv.org/abs/2507.21621 # What exactly is 'active matter'?, Michael te Vrugt, Benno Liebchen, Michael E. Cates
+* https://arxiv.org/abs/2507.21697 # Detecting the Largest Correlations using the Correlation Density Matrix: a Quantum Monte Carlo Approach, Aditya Chincholi, Sylvain Capponi, Fabien Alet
 https://arxiv.org/abs/2507.21717
 
 https://arxiv.org/abs/2507.21763
@@ -26,7 +26,7 @@ https://arxiv.org/abs/2507.21222
 https://arxiv.org/abs/2507.21313
 https://arxiv.org/abs/2507.21726
 https://arxiv.org/abs/2507.21760
-https://arxiv.org/abs/2507.21890
+* https://arxiv.org/abs/2507.21890 # Data-driven quantum Koopman method for simulating nonlinear dynamics, Baoyang Zhang, Zhen Lu, Yaomin Zhao, Yue Yang
 
 https://journals.aps.org/prl/abstract/10.1103/p7xt-s9nz
 https://journals.aps.org/prl/abstract/10.1103/pgnx-11ph
