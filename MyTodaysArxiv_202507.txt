@@ -8,6 +8,31 @@ https://journals.aps.org/pra/abstract/10.1103/zfrn-53lz
 
 20250730
 
+https://arxiv.org/abs/2507.21192
+https://arxiv.org/abs/2507.21194
+* https://arxiv.org/abs/2507.21236 # The Augmented Tree Tensor Network Cookbook, Nora Reinic, Luka Pavesic, Daniel Jaschke, Simone Montangero
+https://arxiv.org/abs/2507.21264
+https://arxiv.org/abs/2507.21289
+https://arxiv.org/abs/2507.21327
+https://arxiv.org/abs/2507.21337
+https://arxiv.org/abs/2507.21374
+* https://arxiv.org/abs/2507.21396 # Towards self-correcting quantum codes for neutral atom arrays, Jinkang Guo, Yifan Hong, Adam Kaufman, Andrew Lucas
+https://arxiv.org/abs/2507.21408
+
+* https://arxiv.org/abs/2507.21569 # An em algorithm for quantum Boltzmann machines, Takeshi Kimura, Kohtaro Kato, Masahito Hayashi
+https://arxiv.org/abs/2507.21630
+https://arxiv.org/abs/2507.21683
+https://arxiv.org/abs/2507.21687
+https://arxiv.org/abs/2507.21883
+https://arxiv.org/abs/2507.21907
+https://arxiv.org/abs/2507.21937
+https://arxiv.org/abs/2507.22001
+https://arxiv.org/abs/2507.22035
+https://arxiv.org/abs/2507.22039
+
+https://arxiv.org/abs/2507.22043
+https://arxiv.org/abs/2507.22054
+
 * https://arxiv.org/abs/2507.21226 # Magnetically ordered yet topologically robust phases emerging in concurrent Kitaev spin liquids, Muhammad Akram, Aayush Vijayvargia, Hae-Young Kee, Onur Erten
 https://arxiv.org/abs/2507.21286
 https://arxiv.org/abs/2507.21323
