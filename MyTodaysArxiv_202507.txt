@@ -1,5 +1,44 @@
 20250731
 
+https://arxiv.org/abs/2507.22117
+https://arxiv.org/abs/2507.22125
+https://arxiv.org/abs/2507.22132
+https://arxiv.org/abs/2507.22140
+https://arxiv.org/abs/2507.22150
+
+https://arxiv.org/abs/2507.22151
+https://arxiv.org/abs/2507.22253
+https://arxiv.org/abs/2507.22341
+https://arxiv.org/abs/2507.22413
+https://arxiv.org/abs/2507.22460
+https://arxiv.org/abs/2507.22535
+https://arxiv.org/abs/2507.22541
+https://arxiv.org/abs/2507.22550
+https://arxiv.org/abs/2507.22559
+https://arxiv.org/abs/2507.22562
+
+* https://arxiv.org/abs/2507.22583 # Non-Hermitian Quantum Many-Body Scar Phase, Keita Omiya, Yuya O Nakagawa
+https://arxiv.org/abs/2507.22590
+https://arxiv.org/abs/2507.22670
+https://arxiv.org/abs/2507.22686
+https://arxiv.org/abs/2507.22707
+https://arxiv.org/abs/2507.22728
+https://arxiv.org/abs/2507.22735
+https://arxiv.org/abs/2507.22761
+https://arxiv.org/abs/2507.22795
+https://arxiv.org/abs/2507.22845
+
+* https://arxiv.org/abs/2507.22846 # Digital Quantum Simulation of Spin Transport, Yi-Ting Lee, Bibek Pokharel, Jeffrey Cohn, Andre Schleife, Arnab Banerjee
+https://arxiv.org/abs/2507.22868
+* https://arxiv.org/abs/2507.22883 # Operational interpretation of the Stabilizer Entropy, Lennart Bittel, Lorenzo Leone
+* https://arxiv.org/abs/2507.22115 # Phases of Interacting Fibonacci Anyons on a Ladder at Half-Filling, Nico Kirchner, Roderich Moessner, Frank Pollmann, Adam Gammon-Smith
+https://arxiv.org/abs/2507.22118
+* https://arxiv.org/abs/2507.22119 # What is the topological dual of the XXZ spin Chain?, Yicheng Tang, Pradip Kattel, Natan Andrei
+https://arxiv.org/abs/2507.22318
+https://arxiv.org/abs/2507.22394
+* https://arxiv.org/abs/2507.22461 # Proposal for realizing Heisenberg-type quantum-spin models in Rydberg atom quantum simulators, Masaya Kunimi, Takafumi Tomita
+https://arxiv.org/abs/2507.22629
+
 https://journals.aps.org/pra/abstract/10.1103/zfrn-53lz
 https://journals.aps.org/prl/abstract/10.1103/mgy3-kr71
 https://journals.aps.org/prl/abstract/10.1103/d4dw-2v6k
