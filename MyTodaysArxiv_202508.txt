@@ -1,5 +1,57 @@
 20250801
 
+* https://arxiv.org/abs/2507.22982 # Dynamical freezing and enhanced magnetometry in an interacting spin ensemble, Ya-Nan Lu, Dong Yuan, Yixuan Ma, Yan-Qing Liu, Si Jiang, Xiang-Qian Meng, Yi-Jie Xu, Xiu-Ying Chang, Chong Zu, Hong-Zheng Zhao, Dong-Ling Deng, Lu-Ming Duan, Pan-Yu Hou
+
+https://arxiv.org/abs/2507.22992
+https://arxiv.org/abs/2507.23005
+https://arxiv.org/abs/2507.23011
+https://arxiv.org/abs/2507.23059
+https://arxiv.org/abs/2507.23117
+https://arxiv.org/abs/2507.23130
+https://arxiv.org/abs/2507.23142
+https://arxiv.org/abs/2507.23144
+https://arxiv.org/abs/2507.23165
+https://arxiv.org/abs/2507.23322
+
+https://arxiv.org/abs/2507.23346
+https://arxiv.org/abs/2507.23347
+https://arxiv.org/abs/2507.23366
+https://arxiv.org/abs/2507.23468
+https://arxiv.org/abs/2507.23582
+https://arxiv.org/abs/2507.23631
+https://arxiv.org/abs/2507.23716
+https://arxiv.org/abs/2507.23757
+https://arxiv.org/abs/2507.23618
+https://arxiv.org/abs/2507.23739
+
+https://arxiv.org/abs/2507.22971
+* https://arxiv.org/abs/2507.22989 # Tensor Network Representations for Intrinsically Mixed-State Topological Orders, Bader Aldossari, Sergey Blinov, Zhu-Xi Luo
+https://arxiv.org/abs/2507.22996
+https://arxiv.org/abs/2507.23028
+https://arxiv.org/abs/2507.23137
+
+https://arxiv.org/abs/2507.23160
+https://arxiv.org/abs/2507.23166
+https://arxiv.org/abs/2507.23169
+https://arxiv.org/abs/2507.23173
+https://arxiv.org/abs/2507.23260
+https://arxiv.org/abs/2507.23262
+https://arxiv.org/abs/2507.23369
+https://arxiv.org/abs/2507.23621
+https://arxiv.org/abs/2507.23626
+https://arxiv.org/abs/2507.23744
+
+* https://arxiv.org/abs/2507.23748 # Applying the Worldvolume Hybrid Monte Carlo method to the Hubbard model away from half filling, Masafumi Fukuma, Yusuke Namekawa
+https://arxiv.org/abs/2507.23753
+https://arxiv.org/abs/2507.23754
+https://arxiv.org/abs/2507.23775
+https://arxiv.org/abs/2507.23780
+* https://arxiv.org/abs/2507.22984 # Field digitization scaling in a Zn in U(1) symmetric model, Gabriele Calliari, Robert Ott, Hannes Pichler, Torsten V. Zache
+* https://arxiv.org/abs/2507.22988 # Probing Bound State Relaxation Dynamics in Systems Out-of-Equilibrium on Quantum Computers, Heba A. Labib, Goksu Can Toga, J. K. Freericks, A. F. Kemper
+https://arxiv.org/abs/2507.22999
+https://arxiv.org/abs/2507.23085
+https://arxiv.org/abs/2507.23612
+
 https://journals.aps.org/prx/abstract/10.1103/x5vj-8jq9
 https://journals.aps.org/prx/abstract/10.1103/y9ly-4kld
 https://journals.aps.org/rmp/abstract/10.1103/tkjh-lr83
