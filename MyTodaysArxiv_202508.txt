@@ -1,3 +1,14 @@
+20250802
+
+https://journals.aps.org/prl/abstract/10.1103/gwmm-6l57
+https://journals.aps.org/prb/abstract/10.1103/th2c-pdpw
+https://journals.aps.org/prb/abstract/10.1103/lg4b-152s
+https://journals.aps.org/pre/abstract/10.1103/w88d-7rqz
+
+
+====
+
+
 20250801
 
 * https://arxiv.org/abs/2507.22982 # Dynamical freezing and enhanced magnetometry in an interacting spin ensemble, Ya-Nan Lu, Dong Yuan, Yixuan Ma, Yan-Qing Liu, Si Jiang, Xiang-Qian Meng, Yi-Jie Xu, Xiu-Ying Chang, Chong Zu, Hong-Zheng Zhao, Dong-Ling Deng, Lu-Ming Duan, Pan-Yu Hou
