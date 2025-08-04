@@ -1,5 +1,16 @@
 20250804
 
+* https://arxiv.org/abs/2508.00068 # Double descent: When do neural quantum states generalize?, M. Schuyler Moss, Alev Orfi, Christopher Roth, Anirvan M. Sengupta, Antoine Georges, Dries Sels, Anna Dawid, Agnes Valenti
+* https://arxiv.org/abs/2508.00077 # Fragmented eigenstate thermalization versus robust integrability in long-range models, Soumya Kanti Pal, Lea F Santos
+* https://arxiv.org/abs/2508.00118 # Dynamical mean field theory with quantum computing, Thomas Ayral
+https://arxiv.org/abs/2508.00207
+https://arxiv.org/abs/2508.00277
+https://arxiv.org/abs/2508.00469
+https://arxiv.org/abs/2508.00486
+https://arxiv.org/abs/2508.00519
+https://arxiv.org/abs/2508.00571
+* https://arxiv.org/abs/2508.00573 # From Thermalization to Multifractality: Spin-Spin Correlation in Disordered SU(2)-Invariant 1D Heisenberg Spin Chains, Debasmita Giri, Julian Siegl, John Schliemann
+
 * https://arxiv.org/abs/2508.00051 # Free Independence and Unitary Design from Random Matrix Product Unitaries, Neil Dowling, Jacopo De Nardis, Markus Heinrich, Xhek Turkeshi, Silvia Pappalardi
 https://arxiv.org/abs/2508.00060
 * https://arxiv.org/abs/2508.00126 # Efficient and simple Gibbs state preparation of the 2D toric code via duality to classical Ising chains, Pablo Paez-Velasco (1 and 2), Niclas Schilling (3), Samuel O. Scalet (4 and 5), Frank Verstraete (4 and 6), Angela Capel (4 and 7) 
