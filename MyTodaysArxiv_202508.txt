@@ -1,5 +1,27 @@
 20250804
 
+* https://arxiv.org/abs/2508.00051 # Free Independence and Unitary Design from Random Matrix Product Unitaries, Neil Dowling, Jacopo De Nardis, Markus Heinrich, Xhek Turkeshi, Silvia Pappalardi
+https://arxiv.org/abs/2508.00060
+* https://arxiv.org/abs/2508.00126 # Efficient and simple Gibbs state preparation of the 2D toric code via duality to classical Ising chains, Pablo Paez-Velasco (1 and 2), Niclas Schilling (3), Samuel O. Scalet (4 and 5), Frank Verstraete (4 and 6), Angela Capel (4 and 7) 
+https://arxiv.org/abs/2508.00437
+https://arxiv.org/abs/2508.00484
+https://arxiv.org/abs/2508.00024
+https://arxiv.org/abs/2508.00048
+https://arxiv.org/abs/2508.00052
+https://arxiv.org/abs/2508.00055
+* https://arxiv.org/abs/2508.00061 # Truncation uncertainties for accurate quantum simulations of lattice gauge theories, Anthony N. Ciavarella, Siddharth Hariprakash, Jad C. Halimeh, Christian W. Bauer
+
+* https://arxiv.org/abs/2508.00065 # Imaginary Time Spectral Transforms for Excited State Preparation, D. A. Millar, L. W. Anderson, E. Altamura, O. Wallis, M. E. Sahin, J. Crain, S. J. Thomson
+https://arxiv.org/abs/2508.00072
+https://arxiv.org/abs/2508.00301
+* https://arxiv.org/abs/2508.00334 # Mixed State Entanglement Via the Cauchy-Schwarz Inequality, Nishaant Jacobus, Paul Brumer, Chern Chuang
+* https://arxiv.org/abs/2508.00338 # Truncating loopy tensor networks by zero-mode gauge fixing, Ihor Sokolov, Yintai Zhang, Jacek Dziarmaga
+https://arxiv.org/abs/2508.00634
+* https://arxiv.org/abs/2508.00648 # Uncertainty Relation for Pseudo-Hermitian Quantum Systems, Boubakeur Khantoul, Bilel Hamil, Amar Benchikha
+https://arxiv.org/abs/2508.00689
+https://arxiv.org/abs/2508.00809
+* https://arxiv.org/abs/2508.00111 # A logical implication between two conjectures on matrix permanents, Leo Pioge, Kamil K. Pietrasz, Benoit Seron, Leonardo Novo, Nicolas J. Cerf
+
 https://journals.aps.org/prl/abstract/10.1103/gwmm-6l57
 https://journals.aps.org/prb/abstract/10.1103/th2c-pdpw
 https://journals.aps.org/prb/abstract/10.1103/lg4b-152s
