@@ -1,5 +1,57 @@
 20250805
 
+* https://arxiv.org/abs/2508.00983 # Proof of Hiding Conjecture in Gaussian Boson Sampling, Laura Shou, Sarah H. Miller, Victor Galitski
+https://arxiv.org/abs/2508.01033
+https://arxiv.org/abs/2508.01071
+* https://arxiv.org/abs/2508.01072 # Biorthogonal Neural Network Approach to Two-Dimensional Non-Hermitian Systems, Massimo Solinas, Brandon Barton, Yuxuan Zhang, Jannes Nys, Juan Carrasquilla
+https://arxiv.org/abs/2508.01111
+https://arxiv.org/abs/2508.01116
+https://arxiv.org/abs/2508.01231
+
+https://arxiv.org/abs/2508.01356
+https://arxiv.org/abs/2508.01362
+https://arxiv.org/abs/2508.01383
+https://arxiv.org/abs/2508.01397
+https://arxiv.org/abs/2508.01461
+https://arxiv.org/abs/2508.01470
+https://arxiv.org/abs/2508.01496
+https://arxiv.org/abs/2508.01501
+https://arxiv.org/abs/2508.01516
+https://arxiv.org/abs/2508.01640
+
+https://arxiv.org/abs/2508.01690
+https://arxiv.org/abs/2508.01806
+https://arxiv.org/abs/2508.01879
+https://arxiv.org/abs/2508.01893
+https://arxiv.org/abs/2508.02199
+https://arxiv.org/abs/2508.02369
+https://arxiv.org/abs/2508.02377
+https://arxiv.org/abs/2508.02422
+https://arxiv.org/abs/2508.02459
+https://arxiv.org/abs/2508.02468
+
+https://arxiv.org/abs/2508.02567
+* https://arxiv.org/abs/2508.02578 # Quantum chemistry with provable convergence via randomized sample-based quantum diagonalization, Samuele Piccinelli, Alberto Baiardi, Max Rossmannek, Almudena Carrera Vazquez, Francesco Tacchino, Stefano Mensa, Edoardo Altamura, Ali Alavi, Mario Motta, Javier Robledo-Moreno, William Kirby, Kunal Sharma, Antonio Mezzacapo, Ivano Tavernelli
+https://arxiv.org/abs/2508.02590
+* https://arxiv.org/abs/2508.02670 # atommovr: An open-source simulation framework for rearrangement in atomic arrays, Nikhil K Harle, Bo-Yu Chen, Bob Bao, Hannes Bernien
+https://arxiv.org/abs/2508.00840
+* https://arxiv.org/abs/2508.00907 # Prime Factorization Equation from a Tensor Network Perspective, Alejandro Mata Ali, Jorge Martinez Martin, Sergio Muniz Subinas, Miguel Franco Hernando, Javier Sedano, Angel Miguel Garcia-Vico
+https://arxiv.org/abs/2508.01444
+https://arxiv.org/abs/2508.01692
+https://arxiv.org/abs/2508.01729
+https://arxiv.org/abs/2508.01783
+
+https://arxiv.org/abs/2508.01846
+https://arxiv.org/abs/2508.01958
+* https://arxiv.org/abs/2508.01991 # Path-Integral Formulation of Bosonic Markovian Open Quantum Dynamics with Monte Carlo stochastic trajectories using the Glauber-Sudarshan P, Wigner, and Husimi Q Functions and Hybrids, Toma Yoneya, Kazuya Fujimoto, Yuki Kawaguchi
+https://arxiv.org/abs/2508.02378
+https://arxiv.org/abs/2508.02388
+* https://arxiv.org/abs/2508.02398 # Quantum thermalization in a dimerized J1-J2 model, Smitarani Mishra, Shaon Sahoo
+https://arxiv.org/abs/2508.02424
+https://arxiv.org/abs/2508.01854
+https://arxiv.org/abs/2508.02633
+https://arxiv.org/abs/2508.01979
+
 https://journals.aps.org/prl/abstract/10.1103/kzf6-yx24
 https://journals.aps.org/prb/abstract/10.1103/mkll-nd46
 https://journals.aps.org/prb/abstract/10.1103/wf94-z249
