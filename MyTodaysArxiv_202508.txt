@@ -1,3 +1,11 @@
+20250805
+
+https://journals.aps.org/prl/abstract/10.1103/kzf6-yx24
+https://journals.aps.org/prb/abstract/10.1103/mkll-nd46
+https://journals.aps.org/prb/abstract/10.1103/wf94-z249
+https://journals.aps.org/prb/abstract/10.1103/973p-gphs
+
+
 20250804
 
 * https://arxiv.org/abs/2508.00068 # Double descent: When do neural quantum states generalize?, M. Schuyler Moss, Alev Orfi, Christopher Roth, Anirvan M. Sengupta, Antoine Georges, Dries Sels, Anna Dawid, Agnes Valenti
@@ -37,9 +45,6 @@ https://journals.aps.org/prl/abstract/10.1103/gwmm-6l57
 https://journals.aps.org/prb/abstract/10.1103/th2c-pdpw
 https://journals.aps.org/prb/abstract/10.1103/lg4b-152s
 https://journals.aps.org/pre/abstract/10.1103/w88d-7rqz
-
-
-====
 
 
 20250801
