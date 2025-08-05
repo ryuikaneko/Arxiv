@@ -1,5 +1,27 @@
 20250805
 
+https://arxiv.org/abs/2508.00940
+https://arxiv.org/abs/2508.00949
+https://arxiv.org/abs/2508.00964
+https://arxiv.org/abs/2508.00986
+* https://arxiv.org/abs/2508.00999 # Extraordinary transition at the edge of a correlated topological insulator, Francesco Parisen Toldin, Fakher F. Assaad, Max A. Metlitski
+https://arxiv.org/abs/2508.01004
+https://arxiv.org/abs/2508.01011
+https://arxiv.org/abs/2508.01367
+* https://arxiv.org/abs/2508.01564 # Unconventional Altermagnetism in Quasicrystals: A Hyperspatial Projective Construction, Yiming Li, Mingxiang Pan, Jun Leng, Yuxiao Chen, Huaqing Huang
+https://arxiv.org/abs/2508.01578
+
+https://arxiv.org/abs/2508.01584
+https://arxiv.org/abs/2508.01672
+* https://arxiv.org/abs/2508.01760 # Quantum Path-integral Method for Fictitious Particle Hubbard Model, Zhijie Fan, Tianning Xiao, Youjin Deng
+https://arxiv.org/abs/2508.02185
+https://arxiv.org/abs/2508.02201
+https://arxiv.org/abs/2508.02221
+https://arxiv.org/abs/2508.02250
+https://arxiv.org/abs/2508.02370
+* https://arxiv.org/abs/2508.02659 # Enhancing the ergodicity of Worldvolume HMC via embedding Generalized-thimble HMC, Masafumi Fukuma, Yusuke Namekawa
+* https://arxiv.org/abs/2508.01297 # Unified description of cuprate superconductors by fractionalized electrons emerging from integrated analyses of photoemission spectra and quasiparticle interference, Shiro Sakai, Youhei Yamaji, Fumihiro Imoto, Tsuyoshi Tamegai, Adam Kaminski, Takeshi Kondo, Yuhki Kohsaka, Tetsuo Hanaguri, Masatoshi Imada
+
 * https://arxiv.org/abs/2508.00983 # Proof of Hiding Conjecture in Gaussian Boson Sampling, Laura Shou, Sarah H. Miller, Victor Galitski
 https://arxiv.org/abs/2508.01033
 https://arxiv.org/abs/2508.01071
