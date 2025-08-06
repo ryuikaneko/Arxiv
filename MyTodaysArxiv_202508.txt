@@ -1,5 +1,27 @@
 20250806
 
+https://arxiv.org/abs/2508.02772
+* https://arxiv.org/abs/2508.02788 # Measurement-Induced Entanglement in Conformal Field Theory, Kabir Khanna, Romain Vasseur
+https://arxiv.org/abs/2508.02793
+https://arxiv.org/abs/2508.02815
+* https://arxiv.org/abs/2508.02822 # Quantum algorithm for linear matrix equations, Rolando D. Somma, Guang Hao Low, Dominic W. Berry, Ryan Babbush
+https://arxiv.org/abs/2508.02902
+https://arxiv.org/abs/2508.02915
+https://arxiv.org/abs/2508.03169
+https://arxiv.org/abs/2508.03188
+https://arxiv.org/abs/2508.03192
+
+https://arxiv.org/abs/2508.03193
+https://arxiv.org/abs/2508.03203
+https://arxiv.org/abs/2508.03376
+https://arxiv.org/abs/2508.03446
+* https://arxiv.org/abs/2508.03534 # Stabilizer Renyi Entropy for Translation-Invariant Matrix Product States, Lei-Yi-Nan Liu, Su Yi, Jian Cui
+https://arxiv.org/abs/2508.03597
+https://arxiv.org/abs/2508.03652
+https://arxiv.org/abs/2508.02781
+* https://arxiv.org/abs/2508.02819 # Signatures of quantum chaos and complexity in the Ising model on random graphs, GJ Sreejith, Sandipan Manna
+* https://arxiv.org/abs/2508.03126 # New computational methods in lattice gauge theory -- quantum computation and tensor networks, Etsuko Itou
+
 https://journals.aps.org/prl/abstract/10.1103/5vyx-k877
 https://journals.aps.org/prl/abstract/10.1103/fsg7-bs7q
 
