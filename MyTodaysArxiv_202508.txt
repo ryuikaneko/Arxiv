@@ -1,5 +1,18 @@
 20250807
 
+https://arxiv.org/abs/2508.03761
+https://arxiv.org/abs/2508.03791
+* https://arxiv.org/abs/2508.03899 # Longitudinal magnons in large-S easy-axis magnets, A. El Mendili, T. Ziman, M. E. Zhitomirsky
+https://arxiv.org/abs/2508.03915
+https://arxiv.org/abs/2508.03995
+https://arxiv.org/abs/2508.04095
+https://arxiv.org/abs/2508.04110
+https://arxiv.org/abs/2508.04385
+* https://arxiv.org/abs/2508.04433 # Nematic chiral Superconductivity driven by chiral loop current order in kagome metals, Rina Tazai, Youichi Yamakawa, Hiroshi Kontani
+* https://arxiv.org/abs/2508.04455 # Edge modes of topological Mott insulators and deconfined quantum critical points, Yuhai Liu, Toshihiro Sato, Disha Hou, Zhenjiu Wang, Wenan Guo, Fakher F. Assaad
+https://arxiv.org/abs/2508.04554
+https://arxiv.org/abs/2508.03976
+
 https://arxiv.org/abs/2508.03697
 https://arxiv.org/abs/2508.04348
 
