@@ -3,6 +3,15 @@
 
 20250806
 
+https://arxiv.org/abs/2508.02956
+https://arxiv.org/abs/2508.02990
+* https://arxiv.org/abs/2508.03208 # Topological band insulators without translational symmetry, Shuo Wang, Jing-Run Lin, Zheng-Wei Zuo
+https://arxiv.org/abs/2508.03278
+https://arxiv.org/abs/2508.03285
+https://arxiv.org/abs/2508.03344
+https://arxiv.org/abs/2508.03364
+* https://arxiv.org/abs/2508.03427 # Symmetry-breaking-induced topology in FeSe, Mikel Garcia-Diez, Jonas B. Profe, Augustin Davignon, Steffen Backes, Roser Valenti, Maia G. Vergniory
+
 https://arxiv.org/abs/2508.02772
 * https://arxiv.org/abs/2508.02788 # Measurement-Induced Entanglement in Conformal Field Theory, Kabir Khanna, Romain Vasseur
 https://arxiv.org/abs/2508.02793
