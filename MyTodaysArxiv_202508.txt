@@ -32,6 +32,14 @@ https://arxiv.org/abs/2508.03821
 https://arxiv.org/abs/2508.04048
 * https://arxiv.org/abs/2508.04580 # Unveiling quantum criticality of disordered Aubry-Andre-Harper models via typical fidelity susceptibility, Tian-Cheng Yi, Ying-Ying Fang, Wen Chen, Wen-Long You, Yunbo Zhang
 
+https://journals.aps.org/prresearch/abstract/10.1103/5469-njfq
+https://journals.aps.org/pra/abstract/10.1103/z463-7gqy
+https://journals.aps.org/prxquantum/abstract/10.1103/h1nh-thg9
+https://journals.aps.org/prl/abstract/10.1103/n5hb-l5p5
+https://journals.aps.org/prl/abstract/10.1103/5j5s-946k
+https://journals.aps.org/prb/abstract/10.1103/v2fm-zk8l
+https://journals.aps.org/prb/abstract/10.1103/mns1-l19c
+
 
 20250806
 
