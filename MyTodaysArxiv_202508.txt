@@ -1,8 +1,41 @@
 20250807
 
+https://arxiv.org/abs/2508.03697
+https://arxiv.org/abs/2508.04348
+
+https://arxiv.org/abs/2508.03781
+https://arxiv.org/abs/2508.03806
+https://arxiv.org/abs/2508.03917
+https://arxiv.org/abs/2508.03943
+https://arxiv.org/abs/2508.03976
+https://arxiv.org/abs/2508.03987
+
+https://arxiv.org/abs/2508.03993
+https://arxiv.org/abs/2508.04065
+https://arxiv.org/abs/2508.04092
+https://arxiv.org/abs/2508.04093
+https://arxiv.org/abs/2508.04098
+https://arxiv.org/abs/2508.04171
+https://arxiv.org/abs/2508.04217
+https://arxiv.org/abs/2508.04288
+https://arxiv.org/abs/2508.04296
+https://arxiv.org/abs/2508.04298
+
+https://arxiv.org/abs/2508.04483
+* https://arxiv.org/abs/2508.04486 # Quantum circuit complexity and unsupervised machine learning of topological order, Yanming Che, Clemens Gneiting, Xiaoguang Wang, Franco Nori
+https://arxiv.org/abs/2508.04498
+https://arxiv.org/abs/2508.04536
+https://arxiv.org/abs/2508.04578
+https://arxiv.org/abs/2508.04689
+https://arxiv.org/abs/2508.03802
+https://arxiv.org/abs/2508.03821
+https://arxiv.org/abs/2508.04048
+* https://arxiv.org/abs/2508.04580 # Unveiling quantum criticality of disordered Aubry-Andre-Harper models via typical fidelity susceptibility, Tian-Cheng Yi, Ying-Ying Fang, Wen Chen, Wen-Long You, Yunbo Zhang
+
 
 20250806
 
+https://arxiv.org/abs/2508.03421
 https://arxiv.org/abs/2508.02956
 https://arxiv.org/abs/2508.02990
 * https://arxiv.org/abs/2508.03208 # Topological band insulators without translational symmetry, Shuo Wang, Jing-Run Lin, Zheng-Wei Zuo
