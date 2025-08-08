@@ -1,5 +1,47 @@
 20250808
 
+https://arxiv.org/abs/2508.04774
+https://arxiv.org/abs/2508.04777
+* https://arxiv.org/abs/2508.04802 # Dissipative Dynamics and Symmetry Breaking in Bosonic Sachdev-Ye-Kitaev Lindbladian, Yifei Liu, Anish Kulkarni, Shinsei Ryu
+https://arxiv.org/abs/2508.04815
+https://arxiv.org/abs/2508.04819
+https://arxiv.org/abs/2508.04880
+https://arxiv.org/abs/2508.04892
+https://arxiv.org/abs/2508.04947
+
+https://arxiv.org/abs/2508.04967
+https://arxiv.org/abs/2508.04969
+https://arxiv.org/abs/2508.04974
+https://arxiv.org/abs/2508.04992
+https://arxiv.org/abs/2508.05036
+https://arxiv.org/abs/2508.05046
+https://arxiv.org/abs/2508.05169
+https://arxiv.org/abs/2508.05255
+* https://arxiv.org/abs/2508.05331 # Quantum Circuit Benchmarking on IBM Brisbane: Performance Insights from Superconducting Qubit Models, J. Thirunirai Selvam, S. Saravana Veni
+https://arxiv.org/abs/2508.05339
+
+https://arxiv.org/abs/2508.05355
+https://arxiv.org/abs/2508.05386
+* https://arxiv.org/abs/2508.05390 # Quantum State Preparation Of Multiconfigurational States For Quantum Chemistry, Gabriel Greene-Diniz, Georgia Prokopiou, David Zsolt Manrique, David Munoz Ramo
+https://arxiv.org/abs/2508.05421
+https://arxiv.org/abs/2508.05484
+https://arxiv.org/abs/2508.05523
+https://arxiv.org/abs/2508.05538
+https://arxiv.org/abs/2508.05559
+* https://arxiv.org/abs/2508.05588 # Quench dynamics of entanglement entropy under projective charge measurements: the free fermion case, Riccardo Travaglino, Colin Rylands, Pasquale Calabrese
+* https://arxiv.org/abs/2508.04763 # Unstable periodic orbits galore and quantum hyperscarring in highly frustrated magnets, Andrea Pizzi, Claudio Castelnovo, Johannes Knolle
+
+https://arxiv.org/abs/2508.04764
+https://arxiv.org/abs/2508.04788
+* https://arxiv.org/abs/2508.05403 # Quantum many-body scarring from Kramers-Wannier duality, Weslei B. Fontana, Fabrizio G. Oliviero, Yi-Ping Huang
+https://arxiv.org/abs/2508.05444
+https://arxiv.org/abs/2508.04765
+https://arxiv.org/abs/2508.05139
+https://arxiv.org/abs/2508.05607
+https://arxiv.org/abs/2508.04861
+https://arxiv.org/abs/2508.04982
+https://arxiv.org/abs/2508.05247
+
 https://journals.aps.org/prxquantum/abstract/10.1103/bq28-r2r7
 https://journals.aps.org/prb/abstract/10.1103/qcvd-n2yk
 https://journals.aps.org/prb/abstract/10.1103/8dnp-w7c6
