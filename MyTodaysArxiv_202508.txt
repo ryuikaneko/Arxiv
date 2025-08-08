@@ -1,5 +1,17 @@
 20250808
 
+https://arxiv.org/abs/2508.04803
+https://arxiv.org/abs/2508.04839
+https://arxiv.org/abs/2508.04973
+https://arxiv.org/abs/2508.04983
+* https://arxiv.org/abs/2508.05133 # Symmetry breaking and competing valence bond states in the star lattice Heisenberg antiferromagnet, Pratyay Ghosh, Jan Koziol, Samuel Nyckees, Kai Phillip Schmidt, Frederic Mila
+* https://arxiv.org/abs/2508.05196 # Electronic mean free path of the cuprate superconductor Bi2Sr2CaCu2O8+delta from thermal Hall conductivity, Emma Campillo, Manel Mezidi, Lu Chen, Ashvini Vallipuram, Jordan Baglo, Munkhtuguldur Altangerel, Gael Grissonnanche, Genda Gu, Louis Taillefer
+* https://arxiv.org/abs/2508.05216 # Quantum criticality and emergent orders in the spin-1 bilinear-biquadratic-Kitaev chain, Zhiling Wei, Zhengzhong Du, Xiaodong Cao, Wen-Long You, Yi Lu
+* https://arxiv.org/abs/2508.05381 # On Random Displacements in Critical Rydberg Atom Arrays, Xingyu Li, Shuyan Zhou, Xue Chen, Chengshu Li, Hanteng Wang
+* https://arxiv.org/abs/2508.05406 # Global Tensor Network Renormalization for 2D Quantum systems: A new window to probe universal data from thermal transitions, Atsushi Ueda, Sander De Meyer, Adwait Naravane, Victor Vanthilt, Frank Verstraete
+https://arxiv.org/abs/2508.05494
+https://arxiv.org/abs/2508.04990
+
 https://arxiv.org/abs/2508.04774
 https://arxiv.org/abs/2508.04777
 * https://arxiv.org/abs/2508.04802 # Dissipative Dynamics and Symmetry Breaking in Bosonic Sachdev-Ye-Kitaev Lindbladian, Yifei Liu, Anish Kulkarni, Shinsei Ryu
