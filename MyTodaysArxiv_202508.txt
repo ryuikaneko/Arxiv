@@ -5,7 +5,7 @@ https://arxiv.org/abs/2508.06410
 https://arxiv.org/abs/2508.06431
 https://arxiv.org/abs/2508.06441
 https://arxiv.org/abs/2508.06444
-https://arxiv.org/abs/2508.05737
+* https://arxiv.org/abs/2508.05737 # Quantum criticality and nonequilibrium dynamics on a Lieb lattice of Rydberg atoms, Mark R. Hirsbrunner, Milan Kornjaca, Rhine Samajdar, Siva Darbha, Majd Hamdan, Jan Balewski, Ermal Rrapaj, Sheng-Tao Wang, Daan Camps, Fangli Liu, Pedro L. S. Lopes, Katherine Klymko
 https://arxiv.org/abs/2508.05779
 https://arxiv.org/abs/2508.06018
 https://arxiv.org/abs/2508.06251
