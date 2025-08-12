@@ -1,4 +1,20 @@
+20250812
+
+https://journals.aps.org/pra/abstract/10.1103/wlcd-zrxm
+https://journals.aps.org/prl/abstract/10.1103/31p7-lcgh
+https://journals.aps.org/prb/abstract/10.1103/hsw7-7y3b
+https://journals.aps.org/prb/abstract/10.1103/thlq-h58t
+https://journals.aps.org/prb/abstract/10.1103/6dg8-5r1q
+
+
 20250811
+
+https://arxiv.org/abs/2508.05762
+https://arxiv.org/abs/2508.05912
+* https://arxiv.org/abs/2508.05964 # Topological Defect Formation Beyond the Kibble-Zurek Mechanism in Crossover Transitions with Approximate Symmetries, Peng Yang, Chuan-Yin Xia, Sebastian Grieninger, Hua-Bi Zeng, Matteo Baggioli
+* https://arxiv.org/abs/2508.05971 # Photodynamic melting of phase-reversed charge stripes and enhanced condensation, Jianhao Sun, Richard T. Scalettar, Rubem Mondaini
+https://arxiv.org/abs/2508.06397
+https://arxiv.org/abs/2508.05977
 
 https://arxiv.org/abs/2508.05697
 https://arxiv.org/abs/2508.05712
@@ -33,6 +49,7 @@ https://arxiv.org/abs/2508.06441
 https://arxiv.org/abs/2508.06444
 * https://arxiv.org/abs/2508.05737 # Quantum criticality and nonequilibrium dynamics on a Lieb lattice of Rydberg atoms, Mark R. Hirsbrunner, Milan Kornjaca, Rhine Samajdar, Siva Darbha, Majd Hamdan, Jan Balewski, Ermal Rrapaj, Sheng-Tao Wang, Daan Camps, Fangli Liu, Pedro L. S. Lopes, Katherine Klymko
 https://arxiv.org/abs/2508.05779
+
 https://arxiv.org/abs/2508.06018
 https://arxiv.org/abs/2508.06251
 https://arxiv.org/abs/2508.06442
