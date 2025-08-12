@@ -1,5 +1,31 @@
 20250811
 
+https://arxiv.org/abs/2508.05697
+https://arxiv.org/abs/2508.05712
+https://arxiv.org/abs/2508.05716
+
+* https://arxiv.org/abs/2508.05736 # Role of Plaquette Term in Genuine 2+1D String Dynamics on Quantum Simulators, Yizhuo Tian, N. S. Srivatsa, Kaidi Xu, Jesse J. Osborne, Umberto Borla, Jad C. Halimeh
+* https://arxiv.org/abs/2508.05738 # A quantum computing approach to efficiently simulating correlated materials using impurity models and dynamical mean field theory, Norman Hogan, Efekan Kokcu, Thomas Steckmann, Liam P. Doak, Carlos Mejuto-Zaera, Daan Camps, Roel Van Beeumen, Wibe A. de Jong, A. F. Kemper
+* https://arxiv.org/abs/2508.05745 # Classical simulation of noisy quantum circuits via locally entanglement-optimal unravelings, Simon Cichy, Paul K. Faehrmann, Lennart Bittel, Jens Eisert, Hakop Pashayan
+* https://arxiv.org/abs/2508.05751 # Generalized Holstein-Primakoff mapping and 1/N expansion of collective spin systems undergoing single particle dissipation, Diego Barberena
+* https://arxiv.org/abs/2508.05754 # Benchmarking quantum computers with any quantum algorithm, Stefan K. Seritan, Aditya Dhumuntarao, Aidan Q. Wilber-Gauthier, Kenneth M. Rudinger, Antonio E. Russo, Robin Blume-Kohout, Andrew D. Baczewski, Timothy Proctor
+https://arxiv.org/abs/2508.05805
+https://arxiv.org/abs/2508.05815
+https://arxiv.org/abs/2508.05854
+* https://arxiv.org/abs/2508.05883 # MPS-JuliQAOA: User-friendly, Scalable MPS-based Simulation for Quantum Optimization, Sean Feeney, Reuben Tate, John Golden, Stephan Eidenbenz
+https://arxiv.org/abs/2508.06011
+
+https://arxiv.org/abs/2508.06078
+https://arxiv.org/abs/2508.06121
+* https://arxiv.org/abs/2508.06130 # Quantum Optimization on Rydberg Atom Arrays with Arbitrary Connectivity: Gadgets Limitations and a Heuristic Approach, Pierre Cazals, Amalia Sorondo, Victor Onofre, Constantin Dalyac, Wesley da Silva Coelho, Vittorio Vitale
+https://arxiv.org/abs/2508.06131
+* https://arxiv.org/abs/2508.06159 # Diagonalizing large-scale quantum many-body Hamiltonians using variational quantum circuit and tensor network, Peng-Fei Zhou, Shuang Qiao, An-Chun Ji, Shi-Ju Ran
+* https://arxiv.org/abs/2508.06184 # Scalable Quantum State Preparation for Encoding Genomic Data with Matrix Product States, Floyd M. Creevey, Hitham T. Hassan, James McCafferty, Lloyd C. L. Hollenberg, Sergii Strelchuk
+https://arxiv.org/abs/2508.06193
+https://arxiv.org/abs/2508.06210
+https://arxiv.org/abs/2508.06238
+https://arxiv.org/abs/2508.06355
+
 https://arxiv.org/abs/2508.06358
 https://arxiv.org/abs/2508.06410
 https://arxiv.org/abs/2508.06431
