@@ -10,6 +10,46 @@ https://journals.aps.org/pre/abstract/10.1103/td2s-819q
 
 20250812
 
+* https://arxiv.org/abs/2508.06605 # Gapless fracton quantum spin liquid and emergent photons in a 2D spin-1 model, Nils Niggemann, Meghadeepa Adhikary, Yannik Schaden-Thillmann, Johannes Reuther
+* https://arxiv.org/abs/2508.06606 # Classical fracton spin liquid and Hilbert space fragmentation in a 2D spin-1/2 model, Nils Niggemann, Meghadeepa Adhikary, Yannik Schaden-Thillmann, Johannes Reuther
+https://arxiv.org/abs/2508.06604
+* https://arxiv.org/abs/2508.06639 # Real-time scattering and freeze-out dynamics in Rydberg-atom lattice gauge theory, De-Sheng Xiang, Peng Zhou, Chang Liu, Hao-Xiang Liu, Yao-Wen Zhang, Dong Yuan, Kuan Zhang, Biao Xu, Marcello Dalmonte, Dong-Ling Deng, Lin Li
+https://arxiv.org/abs/2508.06818
+https://arxiv.org/abs/2508.06887
+
+https://arxiv.org/abs/2508.06909
+* https://arxiv.org/abs/2508.06938 # Optically Tunable Spin Transport in Bilayer Altermagnetic Mott Insulators, Niklas Sicheler, Roberto Raimondi, Giorgio Sangiovanni, Lorenzo Del Re
+https://arxiv.org/abs/2508.07187
+https://arxiv.org/abs/2508.07215
+* https://arxiv.org/abs/2508.07277 # Bipartite entanglement and surface criticality, Yanzhang Zhu, Zenan Liu, Zhe Wang, Yan-Cheng Wang, Zheng Yan
+https://arxiv.org/abs/2508.07377
+https://arxiv.org/abs/2508.07397
+https://arxiv.org/abs/2508.07398
+* https://arxiv.org/abs/2508.07477 # Symmetry-breaking perturbations in the Jahn-Teller-Hubbard model, Natsuki Okada, Tatsuya Miki, Yusuke Nomura, Philipp Werner, Shintaro Hoshino
+https://arxiv.org/abs/2508.07639
+
+https://arxiv.org/abs/2508.07687
+* https://arxiv.org/abs/2508.07712 # Doping S=1 antiferromagnet in one-dimension, J. Prokopczyk, J. Herbrych
+https://arxiv.org/abs/2508.07813
+* https://arxiv.org/abs/2508.08142 # Straintronics across Lieb-Kagome interconversion and variable transport scaling exponents, Shashikant Singh Kunwar, Madhuparna Karmakar
+https://arxiv.org/abs/2508.06628
+https://arxiv.org/abs/2508.07379
+https://arxiv.org/abs/2508.07448
+https://arxiv.org/abs/2508.07645
+* https://arxiv.org/abs/2508.07652 # Estimating classical mutual information between quantum subsystems with neural networks, D. A. Konyshev, V. V. Mazurenko
+* https://arxiv.org/abs/2508.07707 # Observation and Modulation of the Quantum Mpemba Effect on a Superconducting Quantum Processor
+
+https://arxiv.org/abs/2508.07831
+* https://arxiv.org/abs/2508.08160 # Quantum Circuit Complexity of Matrix-Product Unitaries, Georgios Styliaris, Rahul Trivedi, J. Ignacio Cirac
+https://arxiv.org/abs/2508.08182
+https://arxiv.org/abs/2508.08255
+https://arxiv.org/abs/2508.07026
+https://arxiv.org/abs/2508.07150
+https://arxiv.org/abs/2508.07188
+https://arxiv.org/abs/2508.07593
+https://arxiv.org/abs/2508.07610
+https://arxiv.org/abs/2508.07933
+
 https://journals.aps.org/pra/abstract/10.1103/wlcd-zrxm
 https://journals.aps.org/prl/abstract/10.1103/31p7-lcgh
 https://journals.aps.org/prb/abstract/10.1103/hsw7-7y3b
