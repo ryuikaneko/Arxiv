@@ -1,5 +1,27 @@
 20250813
 
+* https://arxiv.org/abs/2508.08316 # Characterizing Topological Phase Transition in Non-Hermitian Systems, ZhaoXiang Fang, Yongxu Fu, Guang-Can Guo, Long Xiong
+https://arxiv.org/abs/2508.09048
+* https://arxiv.org/abs/2508.08964 # Neural quantum states for emitter dynamics in waveguide QED, Tatiana Vovk, Anka Van de Walle, Hannes Pichler, Annabelle Bohrdt
+* https://arxiv.org/abs/2508.08899 # Probing spin-motion coupling of two Rydberg atoms by a Stern-Gerlach-like experiment, abriel Emperauger, Mu Qiao, Guillaume Bornet, Yuki Torii Chew, Romain Martin, Bastien Gely, Lukas Klein, Daniel Barredo, Thierry Lahaye, Antoine Browaeys
+https://arxiv.org/abs/2508.08456
+https://arxiv.org/abs/2508.08439
+https://arxiv.org/abs/2508.08414
+https://arxiv.org/abs/2508.08375
+https://arxiv.org/abs/2508.08475
+* https://arxiv.org/abs/2508.08376 # Continuous topological phase transition between Z2 topologically ordered phases, Qi Zhang, Wen-Tao Xu
+
+* https://arxiv.org/abs/2508.09092 # Robust quantum computational advantage with programmable 3050-photon Gaussian boson sampling
+https://arxiv.org/abs/2508.09050
+https://arxiv.org/abs/2508.08869
+https://arxiv.org/abs/2508.08860
+https://arxiv.org/abs/2508.08802
+* https://arxiv.org/abs/2508.08799 # Measurement-Based Quantum Diffusion Models, Xinyu Liu, Jingze Zhuang, Wanda Hou, Yi-Zhuang You
+https://arxiv.org/abs/2508.08778
+https://arxiv.org/abs/2508.08734
+* https://arxiv.org/abs/2508.08704 # Detecting Entanglement via Split Spectroscopy in Many-Body Systems, Hao-Yue Qi, Wei Zheng
+https://arxiv.org/abs/2508.08584
+
 https://journals.aps.org/prxquantum/abstract/10.1103/kw39-yxq5
 https://journals.aps.org/prb/abstract/10.1103/gdxd-pw8v
 https://journals.aps.org/prb/abstract/10.1103/xbj1-hfyf
