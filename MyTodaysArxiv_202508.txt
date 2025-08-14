@@ -4,7 +4,7 @@ https://arxiv.org/abs/2508.09103
 https://arxiv.org/abs/2508.08548
 * https://arxiv.org/abs/2508.08366 # Deconfined quantum criticality on a triangular Rydberg array, Lisa Bombieri, Torsten V. Zache, Gabriele Calliari, Mikhail D. Lukin, Hannes Pichler, Daniel Gonzalez-Cuadra
 https://arxiv.org/abs/2508.08721
-https://arxiv.org/abs/2508.08528
+* https://arxiv.org/abs/2508.08528 # Emergent gauge flux in QED3 with flavor chemical potential: application to magnetized U(1) Dirac spin liquids, Chuang Chen, Urban F. P. Seifert, Kexin Feng, Oleg A. Starykh, Leon Balents, Zi Yang Meng
 https://arxiv.org/abs/2508.08372
 https://arxiv.org/abs/2508.08358
 https://arxiv.org/abs/2508.08349
