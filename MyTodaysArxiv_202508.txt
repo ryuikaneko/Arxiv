@@ -1,7 +1,7 @@
 20250815
 
 https://arxiv.org/abs/2508.10086
-https://arxiv.org/abs/2508.10096
+* https://arxiv.org/abs/2508.10096 # Quantum circuit simulation with a local time-dependent variational principle, Aaron Sander, Maximilian Froehlich, Mazen Ali, Martin Eigel, Jens Eisert, Michael Hintermueller, Christian B. Mendl, Richard M. Milbradt, Robert Wille
 https://arxiv.org/abs/2508.10107
 https://arxiv.org/abs/2508.10122
 https://arxiv.org/abs/2508.10167
@@ -15,16 +15,16 @@ https://arxiv.org/abs/2508.10526
 https://arxiv.org/abs/2508.10533
 https://arxiv.org/abs/2508.10593
 https://arxiv.org/abs/2508.10656
-https://arxiv.org/abs/2508.10666
+* https://arxiv.org/abs/2508.10666 # Deep Learning in Classical and Quantum Physics, Timothy Heightman, Marcin Plodzien
 https://arxiv.org/abs/2508.10707
 https://arxiv.org/abs/2508.10873
 https://arxiv.org/abs/2508.10041
-https://arxiv.org/abs/2508.10076
+* https://arxiv.org/abs/2508.10076 # TensorKit.jl: A Julia package for large-scale tensor computations, with a hint of category theory, Lukas Devos, Jutho Haegeman
 https://arxiv.org/abs/2508.10190
 
 https://arxiv.org/abs/2508.10228
 https://arxiv.org/abs/2508.10819
-https://arxiv.org/abs/2508.10822
+* https://arxiv.org/abs/2508.10822 # Gauging the variational optimization of projected entangled-pair states, Wei Tang, Laurens Vanderstraeten, Jutho Haegeman
 https://arxiv.org/abs/2508.10890
 
 
