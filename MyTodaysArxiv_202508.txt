@@ -1,7 +1,36 @@
 20250814
 
+https://arxiv.org/abs/2508.09270
+https://arxiv.org/abs/2508.09436
+https://arxiv.org/abs/2508.09465
+https://arxiv.org/abs/2508.09501
+https://arxiv.org/abs/2508.09542
+
+https://arxiv.org/abs/2508.09748
+https://arxiv.org/abs/2508.09775
+https://arxiv.org/abs/2508.09879
+https://arxiv.org/abs/2508.09881
+https://arxiv.org/abs/2508.09884
+https://arxiv.org/abs/2508.09916
+https://arxiv.org/abs/2508.09417
+https://arxiv.org/abs/2508.09557
+https://arxiv.org/abs/2508.09891
+https://arxiv.org/abs/2508.09209
+
+https://arxiv.org/abs/2508.09234
+https://arxiv.org/abs/2508.09236
+https://arxiv.org/abs/2508.09259
+https://arxiv.org/abs/2508.09267
+* https://arxiv.org/abs/2508.09485 # Lifshitz-like Metastability and Optimal Dephasing in Dissipative Bosonic Lattices, Stefano Longhi
+https://arxiv.org/abs/2508.09844
+https://arxiv.org/abs/2508.09237
+https://arxiv.org/abs/2508.09261
+https://arxiv.org/abs/2508.09270
+* https://arxiv.org/abs/2508.09870 # Learning complexity of many-body quantum sign structures through the lens of Boolean Fourier analysis, Ilya Schurov, Anna Kravchenko, Mikhail I. Katsnelson, Andrey A. Bagrov, Tom Westerhout
+
 https://journals.aps.org/prb/abstract/10.1103/wffk-7ycs
 https://journals.aps.org/prb/abstract/10.1103/cv5q-8t25
+https://journals.aps.org/prl/abstract/10.1103/glc5-hv2m
 
 
 20250813
