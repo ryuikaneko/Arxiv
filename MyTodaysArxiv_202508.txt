@@ -16,6 +16,8 @@ https://arxiv.org/abs/2508.10520
 https://arxiv.org/abs/2508.10671
 https://arxiv.org/abs/2508.10693
 
+* https://arxiv.org/abs/2508.09640 # Learning magic in the Schwinger model, Samuel Crew, Hsueh Hao Lu
+
 https://arxiv.org/abs/2508.10454
 https://arxiv.org/abs/2508.10237
 * https://arxiv.org/abs/2508.10418 # Variational boundary based tensor network renormalization group, Feng-Feng Song, Naoki Kawashima
