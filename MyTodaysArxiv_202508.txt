@@ -1,5 +1,21 @@
 20250815
 
+https://arxiv.org/abs/2508.10140
+https://arxiv.org/abs/2508.10267
+https://arxiv.org/abs/2508.10385
+* https://arxiv.org/abs/2508.10503 # Superconductivity in imbalanced bilayer Hubbard model, Ziying Jia, Xun Liu, Mi Jiang
+https://arxiv.org/abs/2508.10718
+https://arxiv.org/abs/2508.10726
+* https://arxiv.org/abs/2508.10792 # Reinforcement-Learning-Designed Field-Free Sub-Nanosecond Spin-Orbit-Torque Switching, Yuta Igarashi, Junji Fujimoto
+https://arxiv.org/abs/2508.10832
+https://arxiv.org/abs/2508.10847
+https://arxiv.org/abs/2508.10901
+
+https://arxiv.org/abs/2508.10106
+https://arxiv.org/abs/2508.10520
+https://arxiv.org/abs/2508.10671
+https://arxiv.org/abs/2508.10693
+
 https://arxiv.org/abs/2508.10454
 https://arxiv.org/abs/2508.10237
 * https://arxiv.org/abs/2508.10418 # Variational boundary based tensor network renormalization group, Feng-Feng Song, Naoki Kawashima
