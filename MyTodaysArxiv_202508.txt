@@ -1,5 +1,9 @@
 20250815
 
+https://arxiv.org/abs/2508.10454
+https://arxiv.org/abs/2508.10237
+* https://arxiv.org/abs/2508.10418 # Variational boundary based tensor network renormalization group, Feng-Feng Song, Naoki Kawashima
+
 https://arxiv.org/abs/2508.10086
 * https://arxiv.org/abs/2508.10096 # Quantum circuit simulation with a local time-dependent variational principle, Aaron Sander, Maximilian Froehlich, Mazen Ali, Martin Eigel, Jens Eisert, Michael Hintermueller, Christian B. Mendl, Richard M. Milbradt, Robert Wille
 https://arxiv.org/abs/2508.10107
@@ -25,7 +29,7 @@ https://arxiv.org/abs/2508.10190
 https://arxiv.org/abs/2508.10228
 https://arxiv.org/abs/2508.10819
 * https://arxiv.org/abs/2508.10822 # Gauging the variational optimization of projected entangled-pair states, Wei Tang, Laurens Vanderstraeten, Jutho Haegeman
-https://arxiv.org/abs/2508.10890
+* https://arxiv.org/abs/2508.10890 # Random Permutation Circuits are Quantum Chaotic, Bruno Bertini, Katja Klobas, Pavel Kos, Daniel Malz
 
 
 20250814
