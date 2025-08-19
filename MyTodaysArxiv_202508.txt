@@ -1,5 +1,43 @@
 20250819
 
+https://arxiv.org/abs/2508.11762
+https://arxiv.org/abs/2508.11848
+https://arxiv.org/abs/2508.11865
+https://arxiv.org/abs/2508.11914
+
+https://arxiv.org/abs/2508.11947
+https://arxiv.org/abs/2508.11962
+https://arxiv.org/abs/2508.11969
+https://arxiv.org/abs/2508.12006
+* https://arxiv.org/abs/2508.12011 # Preparation of the single-spinon wave function in a quantum computer, D. Failde, A. Gomez, J. Fernandez-Rossier
+https://arxiv.org/abs/2508.12160
+* https://arxiv.org/abs/2508.12191 # Simulating Quantum Turbulence with Matrix Product States, Felipe Gomez-Lozada, Nicolas Perico-Garcia, Nikita Gourianov, Hayder Salman, Juan Jose Mendoza-Arenas
+https://arxiv.org/abs/2508.12214
+https://arxiv.org/abs/2508.12245
+https://arxiv.org/abs/2508.12256
+
+* https://arxiv.org/abs/2508.12295 # Resonant dynamics of spin cluster in a periodically driven one-dimensional Rydberg lattice, Jin-Qiu Xiong, Yu-Hong Yan, Xun-Da Jiang, Yong-Yao Li, Kun-Liang Zhang
+https://arxiv.org/abs/2508.12307
+https://arxiv.org/abs/2508.12354
+https://arxiv.org/abs/2508.12383
+https://arxiv.org/abs/2508.12477
+https://arxiv.org/abs/2508.12515
+* https://arxiv.org/abs/2508.12724 # Adaptive-basis sample-based neural diagonalization for quantum many-body systems, Simone Cantori, Luca Brodoloni, Edoardo Recchi, Emanuele Costa, Bruno Julia-Diaz, Sebastiano Pilati
+https://arxiv.org/abs/2508.12821
+https://arxiv.org/abs/2508.12858
+https://arxiv.org/abs/2508.13010
+
+* https://arxiv.org/abs/2508.13045 # Dynamic syndrome decoder in volume-law phases of hybrid quantum circuits, Dawid Paszko, Marcin Szyniszewski, Arijeet Pal
+https://arxiv.org/abs/2508.13094
+https://arxiv.org/abs/2508.13150
+* https://arxiv.org/abs/2504.19786 # eta-pairing states in the Hubbard model with non-uniform Hubbard interaction, D. K. He, Z. Song
+* https://arxiv.org/abs/2508.13002 # Computing Exchange Coupling constants in Transition metal complexes with Tensor Product Selected Configuration Interaction, Arnab Bachhar, Nicholas J. Mayhall
+https://arxiv.org/abs/2508.13108
+* https://arxiv.org/abs/2508.13114 # SO(n) Affleck-Kennedy-Lieb-Tasaki states as conformal boundary states of integrable SU(n) spin chains, Yueshui Zhang, Ying-Hai Wu, Meng Cheng, Hong-Hao Tu
+https://arxiv.org/abs/2508.11701
+https://arxiv.org/abs/2508.11750
+https://arxiv.org/abs/2508.13011
+
 https://journals.aps.org/prb/abstract/10.1103/m4jf-7svp
 https://journals.aps.org/prb/abstract/10.1103/fv58-r3m8
 https://journals.aps.org/prb/abstract/10.1103/ygz9-xjyx
