@@ -1,3 +1,37 @@
+20250820
+
+https://arxiv.org/abs/2508.13194
+https://arxiv.org/abs/2508.13242
+https://arxiv.org/abs/2508.13332
+* https://arxiv.org/abs/2508.13455 # Autoregressive Typical Thermal States, Tarun Advaith Kumar, Leon Balents, Timothy H. Hsieh, Roger G. Melko
+https://arxiv.org/abs/2508.13463
+https://arxiv.org/abs/2508.13510
+https://arxiv.org/abs/2508.13557
+* https://arxiv.org/abs/2508.13574 # Thermalization and Many-Body Zeno Effect in monitored Hamiltonian Dynamics, Jia-Jin Feng, Quntao Zhuang
+https://arxiv.org/abs/2508.13615
+https://arxiv.org/abs/2508.13651
+
+https://arxiv.org/abs/2508.13734
+https://arxiv.org/abs/2508.13879
+https://arxiv.org/abs/2508.13884
+https://arxiv.org/abs/2508.13906
+* https://arxiv.org/abs/2508.13926 # Guided sampling ansaetzes for variational quantum computing, Daniel Gunlycke, John P. T. Stenger, Andrii Maksymov, Ananth Kaushik, Martin Roetteler, C. Stephen Hellberg
+https://arxiv.org/abs/2508.13275
+https://arxiv.org/abs/2508.13954
+https://arxiv.org/abs/2508.13959
+https://arxiv.org/abs/2508.13780
+https://arxiv.org/abs/2508.13883
+
+https://arxiv.org/abs/2508.13956
+
+https://journals.aps.org/prresearch/abstract/10.1103/8rlg-169g
+https://journals.aps.org/pra/abstract/10.1103/5sh7-cgyr
+https://journals.aps.org/prxquantum/abstract/10.1103/7x71-8j7k
+
+
+===
+
+
 20250819
 
 https://arxiv.org/abs/2508.12797
