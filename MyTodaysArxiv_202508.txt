@@ -1,5 +1,25 @@
 20250819
 
+https://arxiv.org/abs/2508.12797
+https://arxiv.org/abs/2508.12120
+https://arxiv.org/abs/2508.12362
+* https://arxiv.org/abs/2508.12370 # Charge-4e Anyon Superconductor from Doping SU(4)1 chiral spin liquid, Lu Zhang, Ya-Hui Zhang, Xue-Yang Song
+https://arxiv.org/abs/2508.12406
+https://arxiv.org/abs/2508.12414
+* https://arxiv.org/abs/2508.12444 # Non-Abelian Statistics for Bosonic Symmetry-Protected Topological Phases, Hong-Yu Wang, Bao-Zong Wang, Jian-Song Hong, Xiong-Jun Liu
+https://arxiv.org/abs/2508.12667
+https://arxiv.org/abs/2508.12809
+https://arxiv.org/abs/2508.12818
+
+https://arxiv.org/abs/2508.12825
+https://arxiv.org/abs/2508.12829
+https://arxiv.org/abs/2508.12974
+https://arxiv.org/abs/2508.13098
+* https://arxiv.org/abs/2508.12033 # Load-Balanced Diffusion Monte Carlo Method with Lattice Regularization, Kousuke Nakano, Sandro Sorella, Michele Casula
+https://arxiv.org/abs/2508.12323
+https://arxiv.org/abs/2508.12421
+https://arxiv.org/abs/2508.13061
+
 https://arxiv.org/abs/2508.11762
 https://arxiv.org/abs/2508.11848
 https://arxiv.org/abs/2508.11865
