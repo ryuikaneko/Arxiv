@@ -1,5 +1,20 @@
 20250820
 
+https://arxiv.org/abs/2508.13168
+https://arxiv.org/abs/2508.13290
+* https://arxiv.org/abs/2508.13314 # Engineering Hubbard models with gated two-dimensional moire systems, Yiqi Yang, Yubo Yang, Miguel A. Morales, Shiwei Zhang
+* https://arxiv.org/abs/2508.13535 # Unified description of spin-lattice coupling: application to thermodynamic properties of the pyrochlore Heisenberg antiferromagnet, Masaki Gen, Hidemaro Suwa, Shusaku Imajo, Chao Dong, Hiroaki Ueda, Makoto Tachibana, Akihiko Ikeda, Koichi Kindo, Yoshimitsu Kohama
+https://arxiv.org/abs/2508.13559
+https://arxiv.org/abs/2508.13570
+https://arxiv.org/abs/2508.13585
+https://arxiv.org/abs/2508.13719
+https://arxiv.org/abs/2508.13789
+https://arxiv.org/abs/2508.13799
+
+https://arxiv.org/abs/2508.13918
+https://arxiv.org/abs/2508.14003
+* https://arxiv.org/abs/2508.14034 # Photoinduced Frustration Modulation in kappa-type Quantum Spin Liquid Candidates, M. Tepie, F. Glerean, J. Ovcar, S. Priya, K. Miyagawa, H. Taniguchi, K. Kanoda, I. Loncaric, M. Dressel, M. Mitrano
+
 https://arxiv.org/abs/2508.13194
 https://arxiv.org/abs/2508.13242
 https://arxiv.org/abs/2508.13332
