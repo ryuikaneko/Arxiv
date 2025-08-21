@@ -1,5 +1,35 @@
 20250821
 
+https://arxiv.org/abs/2508.14142
+* https://arxiv.org/abs/2508.14152 # Importance of Correlations for Neural Quantum States, Fabian Doeschl, Annabelle Bohrdt
+https://arxiv.org/abs/2508.14183
+https://arxiv.org/abs/2508.14200
+https://arxiv.org/abs/2508.14233
+https://arxiv.org/abs/2508.14262
+https://arxiv.org/abs/2508.14326
+https://arxiv.org/abs/2508.14337
+https://arxiv.org/abs/2508.14382
+https://arxiv.org/abs/2508.14389
+
+https://arxiv.org/abs/2508.14409
+* https://arxiv.org/abs/2508.14418 # Adaptive Interpolating Quantum Transform: A Quantum-Native Framework for Efficient Transform Learning, Gekko Budiutama, Shunsuke Daimon, Hirofumi Nishi, Ryui Kaneko, Tomi Ohtsuki, Yu-ichiro Matsushita
+https://arxiv.org/abs/2508.14470
+https://arxiv.org/abs/2508.14533
+https://arxiv.org/abs/2508.14546
+https://arxiv.org/abs/2508.14549
+https://arxiv.org/abs/2508.14560
+https://arxiv.org/abs/2508.14674
+https://arxiv.org/abs/2508.14750
+https://arxiv.org/abs/2508.14761
+
+https://arxiv.org/abs/2508.14790
+https://arxiv.org/abs/2508.14847
+https://arxiv.org/abs/2508.14084
+* https://arxiv.org/abs/2508.14145 # Matrix Product Operator Constructions for Gauge Theories in the Thermodynamic Limit, Nicholas Godfrey, Ian P. McCulloch
+* https://arxiv.org/abs/2508.14213 # Non-invertible symmetries out of equilibrium, Yabo Li, Aditi Mitra
+https://arxiv.org/abs/2508.14478
+https://arxiv.org/abs/2508.14755
+
 https://journals.aps.org/prresearch/abstract/10.1103/nqg9-788r
 
 
