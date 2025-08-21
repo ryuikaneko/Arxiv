@@ -1,9 +1,25 @@
 20250822
 
+https://journals.aps.org/pre/abstract/10.1103/mdpw-lvcy
+https://journals.aps.org/pre/abstract/10.1103/32g1-nvbt
 
+
+====
 
 
 20250821
+
+* https://arxiv.org/abs/2508.14172 # Average weighted ratio of consecutive level spacings for infinite-dimensional orthogonal random matrices, Wouter Buijsman
+https://arxiv.org/abs/2508.14551
+https://arxiv.org/abs/2508.14569
+https://arxiv.org/abs/2508.14630
+https://arxiv.org/abs/2508.14632
+https://arxiv.org/abs/2508.14666
+https://arxiv.org/abs/2508.14724
+https://arxiv.org/abs/2508.14745
+* https://arxiv.org/abs/2508.14772 # Gauge flux generations of weakly magnetized Dirac spin liquid in a kagome lattice, Si-Yu Pan, Jiahao Yang, Gang V. Chen
+https://arxiv.org/abs/2508.14642
+https://arxiv.org/abs/2508.14872
 
 https://arxiv.org/abs/2508.14142
 * https://arxiv.org/abs/2508.14152 # Importance of Correlations for Neural Quantum States, Fabian Doeschl, Annabelle Bohrdt
@@ -34,6 +50,7 @@ https://arxiv.org/abs/2508.14084
 * https://arxiv.org/abs/2508.14213 # Non-invertible symmetries out of equilibrium, Yabo Li, Aditi Mitra
 https://arxiv.org/abs/2508.14478
 https://arxiv.org/abs/2508.14755
+https://arxiv.org/abs/2508.14110
 
 https://journals.aps.org/prresearch/abstract/10.1103/nqg9-788r
 
