@@ -1,7 +1,38 @@
 20250822
 
+https://arxiv.org/abs/2508.14961
+https://arxiv.org/abs/2508.14962
+https://arxiv.org/abs/2508.14964
+https://arxiv.org/abs/2508.14993
+https://arxiv.org/abs/2508.15318
+https://arxiv.org/abs/2508.15566
+https://arxiv.org/abs/2508.15614
+
+* https://arxiv.org/abs/2508.15702 # Classification of Magnetism and Altermagnetism in Quasicrystals, Zhi-Yan Shao, Chen Lu, Zhiming Pan, Yu-Bo Liu, Fan Yang
+https://arxiv.org/abs/2508.14963
+https://arxiv.org/abs/2508.15116
+https://arxiv.org/abs/2508.15448
+https://arxiv.org/abs/2508.15540
+https://arxiv.org/abs/2508.15666
+https://arxiv.org/abs/2508.15681
+https://arxiv.org/abs/2508.14975
+https://arxiv.org/abs/2508.14979
+https://arxiv.org/abs/2508.15170
+
+https://arxiv.org/abs/2508.15186
+https://arxiv.org/abs/2508.15230
+https://arxiv.org/abs/2508.15267
+https://arxiv.org/abs/2508.15580
+https://arxiv.org/abs/2508.15759
+https://arxiv.org/abs/2508.15765
+https://arxiv.org/abs/2508.14955
+https://arxiv.org/abs/2508.15697
+https://arxiv.org/abs/2508.15710
+https://arxiv.org/abs/2508.15691
+
 https://journals.aps.org/pre/abstract/10.1103/mdpw-lvcy
 https://journals.aps.org/pre/abstract/10.1103/32g1-nvbt
+https://journals.aps.org/prd/abstract/10.1103/qsyk-m3sg
 
 
 ====
