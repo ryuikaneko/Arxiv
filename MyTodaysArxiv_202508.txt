@@ -1,3 +1,52 @@
+20250825
+
+https://arxiv.org/abs/2508.15933
+https://arxiv.org/abs/2508.15983
+https://arxiv.org/abs/2508.16009
+https://arxiv.org/abs/2508.16012
+https://arxiv.org/abs/2508.16115
+https://arxiv.org/abs/2508.16142
+https://arxiv.org/abs/2508.16290
+* https://arxiv.org/abs/2508.16298 # Scalable Hybrid quantum Monte Carlo simulation of U(1) gauge field coupled to fermions on GPU, Kexin Feng, Chuang Chen, Zi Yang Meng
+https://arxiv.org/abs/2508.16412
+https://arxiv.org/abs/2508.16497
+
+* https://arxiv.org/abs/2508.16363 # Infinite matrix product states for (1+1)-dimensional gauge theories, Ross Dempsey, Anna-Maria E. Glueck, Silviu S. Pufu, Benjamin T. Sogaard
+* https://arxiv.org/abs/2508.16509 # ML-PWS: Estimating the Mutual Information Between Experimental Time Series Using Neural Networks, Manuel Reinhardt, Gasper Tkacik, Pieter Rein ten Wolde
+
+https://arxiv.org/abs/2508.15892
+* https://arxiv.org/abs/2508.15895 # Learning measurement-induced phase transitions using attention, Hyejin Kim, Abhishek Kumar, Yiqing Zhou, Yichen Xu, Romain Vasseur, Eun-Ah Kim
+https://arxiv.org/abs/2508.15896
+https://arxiv.org/abs/2508.15906
+https://arxiv.org/abs/2508.15908
+https://arxiv.org/abs/2508.15936
+https://arxiv.org/abs/2508.15981
+https://arxiv.org/abs/2508.16064
+https://arxiv.org/abs/2508.16101
+
+https://arxiv.org/abs/2508.16136
+https://arxiv.org/abs/2508.16205
+https://arxiv.org/abs/2508.16253
+https://arxiv.org/abs/2508.16275
+* https://arxiv.org/abs/2508.16286 # Statistics-encoded tensor network approach in disordered quantum many-body spin chains, Hao Zhu, Ding-Zu Wang, Shi-Ju Ran, Guo-Feng Zhang
+https://arxiv.org/abs/2508.16294
+https://arxiv.org/abs/2508.16297
+https://arxiv.org/abs/2508.16309
+https://arxiv.org/abs/2508.16413
+https://arxiv.org/abs/2508.16486
+
+* https://arxiv.org/abs/2508.16570 # Emergent statistical mechanics in holographic random tensor networks, Shozab Qasim, Jens Eisert, Alexander Jahn
+https://arxiv.org/abs/2508.16575
+https://arxiv.org/abs/2508.14670
+https://arxiv.org/abs/2508.15871
+https://arxiv.org/abs/2508.15897
+https://arxiv.org/abs/2508.15907
+* https://arxiv.org/abs/2508.16418 # Universal Entanglement Pattern Formation via a Quantum Quench, Lihui Pan, Jie Chen, Chun Chen, Xiaoqun Wang
+https://arxiv.org/abs/2508.16547
+https://arxiv.org/abs/2508.16304
+https://arxiv.org/abs/2508.16554
+
+
 20250822
 
 https://arxiv.org/abs/2508.14961
