@@ -1,6 +1,6 @@
 20250826
 
-arxiv.org/abs/2508.16720
+* arxiv.org/abs/2508.16720 # Hunting for superconductivity in doped triangular lattice Kitaev magnets, Andrew Hardy, Ryan Levy, Arun Paramekanti
 
 https://journals.aps.org/prb/abstract/10.1103/pfzr-tc95
 https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.97.030501
