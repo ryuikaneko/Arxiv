@@ -1,5 +1,55 @@
 20250827
 
+https://arxiv.org/abs/2508.16784
+https://arxiv.org/abs/2508.16831
+* https://arxiv.org/abs/2508.16890 # Unitary network: Tensor network unitaries with local unitarity, Wenqing Xie, Seishiro Ono, Hoi Chun Po
+https://arxiv.org/abs/2508.16895
+https://arxiv.org/abs/2508.16985
+
+https://arxiv.org/abs/2508.17030
+https://arxiv.org/abs/2508.17040
+* https://arxiv.org/abs/2508.17067 # Particle creation from entanglement entropy, Michael R. R. Good, Evgenii Ievlev, Eric V. Linder
+https://arxiv.org/abs/2508.17105
+https://arxiv.org/abs/2508.17133
+https://arxiv.org/abs/2508.17170
+https://arxiv.org/abs/2508.17190
+https://arxiv.org/abs/2508.17197
+https://arxiv.org/abs/2508.17471
+https://arxiv.org/abs/2508.17513
+
+https://arxiv.org/abs/2508.17514
+https://arxiv.org/abs/2508.17575
+https://arxiv.org/abs/2508.17594
+https://arxiv.org/abs/2508.17606
+https://arxiv.org/abs/2508.17688
+https://arxiv.org/abs/2508.18024
+https://arxiv.org/abs/2508.18056
+https://arxiv.org/abs/2508.18131
+* https://arxiv.org/abs/2508.18141 # Simulating Electron Transfer on Noisy Quantum Computers: A Scalable Approach to Open Quantum Systems, Marvin Gajewski, Alejandro D. Somoza, Gary Schmiedinghoff, Pascal Stadler, Michael Marthaler, Birger Horstmann
+https://arxiv.org/abs/2508.18147
+
+https://arxiv.org/abs/2508.18161
+* https://arxiv.org/abs/2508.18197 # Observation of hysteresis in an isolated quantum system of disordered Heisenberg spins, Moritz Hornung, Eduard J. Braun, Sebastian Geier, Titus Franz, Gerhard Zuern, Matthias Weidemueller
+https://arxiv.org/abs/2508.17084
+https://arxiv.org/abs/2508.17115
+https://arxiv.org/abs/2508.17535
+https://arxiv.org/abs/2508.17898
+https://arxiv.org/abs/2508.17947
+https://arxiv.org/abs/2508.16835
+* https://arxiv.org/abs/2508.17292 # Spectral Functions of an Extended Antiferromagnetic S=1/2 Heisenberg Model on the Triangular Lattice, Markus Drescher, Laurens Vanderstraeten, Roderich Moessner, Frank Pollmann
+https://arxiv.org/abs/2508.17264
+
+https://arxiv.org/abs/2508.17454
+https://arxiv.org/abs/2508.17498
+* https://arxiv.org/abs/2508.17668 # Non-Fermi-liquid transport phenomena in bilayer nickelates: Impact of quasi-quantum metric, Seiichiro Onari, Daisuke Inoue, Rina Tazai, Youichi Yamakawa, Hiroshi Kontani
+* https://arxiv.org/abs/2508.17766 # Mapping of Fermionic Lattice Models for Ising Solvers, Lakshya Nagpal, Aditya Kumar, S. R. Hassan
+* https://arxiv.org/abs/2508.17834 # Zeeman Ladders in Frustrated XYZ Spin Chains, Catalin-Mihai Halati, Viola Romerio, Paul Steffens, J. Ross Stewart, Andrey Zheludev, Thierry Giamarchi
+https://arxiv.org/abs/2508.17908
+* https://arxiv.org/abs/2508.18041 # Numerical validation of an ultracold Hubbard quantum simluator, Ben Currie, John Sturt, Evgeny Kozik
+https://arxiv.org/abs/2508.18184
+https://arxiv.org/abs/2508.18194
+https://arxiv.org/abs/2508.17055
+
 https://journals.aps.org/prb/abstract/10.1103/f573-rmbl
 https://journals.aps.org/prb/abstract/10.1103/ttny-t2gs
 
