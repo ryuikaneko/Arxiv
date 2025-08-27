@@ -1,5 +1,16 @@
 20250827
 
+https://journals.aps.org/prb/abstract/10.1103/f573-rmbl
+https://journals.aps.org/prb/abstract/10.1103/ttny-t2gs
+https://journals.aps.org/pra/abstract/10.1103/1nml-xjqw
+
+
+====
+
+
+20250826
+
+* arxiv.org/abs/2508.16720 # Hunting for superconductivity in doped triangular lattice Kitaev magnets, Andrew Hardy, Ryan Levy, Arun Paramekanti
 https://arxiv.org/abs/2508.16784
 https://arxiv.org/abs/2508.16831
 * https://arxiv.org/abs/2508.16890 # Unitary network: Tensor network unitaries with local unitarity, Wenqing Xie, Seishiro Ono, Hoi Chun Po
@@ -49,17 +60,6 @@ https://arxiv.org/abs/2508.17908
 https://arxiv.org/abs/2508.18184
 https://arxiv.org/abs/2508.18194
 https://arxiv.org/abs/2508.17055
-
-https://journals.aps.org/prb/abstract/10.1103/f573-rmbl
-https://journals.aps.org/prb/abstract/10.1103/ttny-t2gs
-
-
-====
-
-
-20250826
-
-* arxiv.org/abs/2508.16720 # Hunting for superconductivity in doped triangular lattice Kitaev magnets, Andrew Hardy, Ryan Levy, Arun Paramekanti
 
 https://journals.aps.org/prb/abstract/10.1103/pfzr-tc95
 https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.97.030501
