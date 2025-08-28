@@ -1,8 +1,50 @@
+20250828
+
+https://journals.aps.org/prl/abstract/10.1103/jf2f-wqkx
+https://journals.aps.org/prl/abstract/10.1103/2gwz-65w1
+
+
 20250827
+
+https://arxiv.org/abs/2508.18360
+
+* https://arxiv.org/abs/2508.18372 # Multiple Dirac Spin-Orbital Liquids in SU(4) Heisenberg Antiferromagnets on the Honeycomb Lattice, Manoj Gupta, Arijit Haldar, Subhro Bhattacharjee, Tanusri Saha-Dasgupta
+https://arxiv.org/abs/2508.18657
+https://arxiv.org/abs/2508.18795
+https://arxiv.org/abs/2508.18801
+https://arxiv.org/abs/2508.18936
+https://arxiv.org/abs/2508.19084
+https://arxiv.org/abs/2508.19063
+https://arxiv.org/abs/2508.18532
+https://arxiv.org/abs/2508.18622
+* https://arxiv.org/abs/2508.18906 # Quantum Mpemba Effect in Dissipative Spin Chains at Criticality, Zijun Wei, Mingdi Xu, Xiang-Ping Jiang, Lei Pan
+
+https://arxiv.org/abs/2508.19233
+* https://arxiv.org/abs/2508.19245 # New Twists on Topological Quantum Error Correcting Codes, Mohamad Mousa, Amit Jamadagni, Eugene Dumitrescu
+https://arxiv.org/abs/2508.18326
+https://arxiv.org/abs/2508.18390
+* https://arxiv.org/abs/2508.18464 # Vectorized Attention with Learnable Encoding for Quantum Transformer, Ziqing Guo, Ziwen Pan, Alex Khan, Jan Balewski
+https://arxiv.org/abs/2508.18497
+* https://arxiv.org/abs/2508.18552 # Anisotropic Heisenberg Su-Schrieffer-Heeger spin chain as a quantum channel, Lautaro Moragues, Diego Acosta Coden, Omar Osenda, Alejandro Ferron
+https://arxiv.org/abs/2508.18625
+https://arxiv.org/abs/2508.18626
+https://arxiv.org/abs/2508.18644
+
+https://arxiv.org/abs/2508.18654
+https://arxiv.org/abs/2508.18811
+https://arxiv.org/abs/2508.18835
+https://arxiv.org/abs/2508.18931
+https://arxiv.org/abs/2508.18996
+https://arxiv.org/abs/2508.19075
+https://arxiv.org/abs/2508.19238
+https://arxiv.org/abs/2508.17766
+https://arxiv.org/abs/2508.18324
+https://arxiv.org/abs/2508.18514
 
 https://journals.aps.org/prb/abstract/10.1103/f573-rmbl
 https://journals.aps.org/prb/abstract/10.1103/ttny-t2gs
 https://journals.aps.org/pra/abstract/10.1103/1nml-xjqw
+https://journals.aps.org/prb/abstract/10.1103/f118-wk1t
 
 
 ====
