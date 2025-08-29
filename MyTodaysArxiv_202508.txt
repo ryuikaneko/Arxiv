@@ -1,5 +1,38 @@
 20250828
 
+https://arxiv.org/abs/2508.19329
+https://arxiv.org/abs/2508.19330
+https://arxiv.org/abs/2508.19334
+https://arxiv.org/abs/2508.19491
+https://arxiv.org/abs/2508.19534
+https://arxiv.org/abs/2508.19536
+https://arxiv.org/abs/2508.19602
+https://arxiv.org/abs/2508.19732
+https://arxiv.org/abs/2508.19734
+https://arxiv.org/abs/2508.20027
+
+https://arxiv.org/abs/2508.20084
+https://arxiv.org/abs/2508.19406
+* https://arxiv.org/abs/2508.19556 # Quantum Chaos, Thermalization, and Non-locality, Masataka Matsumoto, Shuta Nakajima, Masahiro Nozaki, Ryosuke Yoshii
+https://arxiv.org/abs/2508.19276
+https://arxiv.org/abs/2508.19280
+https://arxiv.org/abs/2508.19327
+https://arxiv.org/abs/2508.19343
+https://arxiv.org/abs/2508.19437
+https://arxiv.org/abs/2508.19538
+https://arxiv.org/abs/2508.19596
+
+https://arxiv.org/abs/2508.19783
+https://arxiv.org/abs/2508.19793
+https://arxiv.org/abs/2508.19877
+https://arxiv.org/abs/2508.19890
+* https://arxiv.org/abs/2508.19959 # Direct probing of the simulation complexity of open quantum many-body dynamics, Lucia Vilchez-Estevez, Alexander Yosifov, Jinzhao Sun
+* https://arxiv.org/abs/2508.20028 # Microscopic Origin of Domain Wall Reconfiguration Dynamics in a Quantum Material via Quantum Simulation, Jaka Vodeb
+https://arxiv.org/abs/2508.19409
+https://arxiv.org/abs/2508.19857
+https://arxiv.org/abs/2410.19628
+https://arxiv.org/abs/2508.19410
+
 https://journals.aps.org/prl/abstract/10.1103/jf2f-wqkx
 https://journals.aps.org/prl/abstract/10.1103/2gwz-65w1
 https://journals.aps.org/pra/abstract/10.1103/v7gb-5gq8
