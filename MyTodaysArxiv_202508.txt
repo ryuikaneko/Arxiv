@@ -1,5 +1,47 @@
 20250829
 
+https://arxiv.org/abs/2508.20166
+https://arxiv.org/abs/2508.20174
+https://arxiv.org/abs/2508.20185
+https://arxiv.org/abs/2508.20235
+* https://arxiv.org/abs/2508.20252 # Classical Simulations of Low Magic Quantum Dynamics, Kemal Aziz, Haining Pan, Michael J. Gullans, J. H. Pixley
+https://arxiv.org/abs/2508.20261
+https://arxiv.org/abs/2508.20310
+https://arxiv.org/abs/2508.20329
+
+https://arxiv.org/abs/2508.20377
+https://arxiv.org/abs/2508.20111
+* https://arxiv.org/abs/2508.20512 # Optimal Work Extraction from Finite-Time Closed Quantum Dynamics, Shoki Sugimoto, Takahiro Sagawa, Ryusuke Hamazaki
+https://arxiv.org/abs/2508.20529
+https://arxiv.org/abs/2508.20601
+https://arxiv.org/abs/2508.20647
+https://arxiv.org/abs/2508.20720
+https://arxiv.org/abs/2508.20759
+https://arxiv.org/abs/2508.20770
+https://arxiv.org/abs/2508.20868
+
+https://arxiv.org/abs/2508.20972
+* https://arxiv.org/abs/2508.20974 # Classical fractional time series from quantum XXZ spin chains, Zoltan Udvarnoki, Gabor Fath, Miklos Werner, Ors Legeza
+https://arxiv.org/abs/2508.20975
+https://arxiv.org/abs/2508.20992
+https://arxiv.org/abs/2508.21002
+https://arxiv.org/abs/2508.21067
+* https://arxiv.org/abs/2508.20116 # Experimental observation of multimode quantum phase transitions in a superconducting Bose-Hubbard simulator, Claudia Castillo-Moreno, Theo Sepulcre, Timo Hillmann, Kazi Rafsanjani Amin, Mikael Kervinen, Simone Gasparinetti
+* https://arxiv.org/abs/2508.20154 # Probing disorder-driven topological phase transitions via topological edge modes with ultracold atoms in Floquet-engineered honeycomb lattices, Alexander Hesse, Johannes Arceri, Moritz Hornung, Christoph Braun, Monika Aidelsburger
+* https://arxiv.org/abs/2508.20167 # Bosonization and Kramers-Wannier dualities in general dimensions, Lei Su, Ivar Martin
+https://arxiv.org/abs/2508.20171
+
+https://arxiv.org/abs/2508.20397
+https://arxiv.org/abs/2508.20429
+https://arxiv.org/abs/2508.20533
+https://arxiv.org/abs/2508.20698
+* https://arxiv.org/abs/2508.20713 # Integrability from a Single Conservation Law in Quantum Spin Chains, Akihiro Hokkyo
+https://arxiv.org/abs/2508.20163
+* https://arxiv.org/abs/2508.20164 # Critical quantum liquids and the cuprate high temperature superconductors, Pietro M. Bonetti, Maine Christos, Alexander Nikolaenko, Aavishkar A. Patel, Subir Sachdev
+https://arxiv.org/abs/2508.20184
+* https://arxiv.org/abs/2508.20347 # Machine learning topological defect formation, Fumika Suzuki, Ying Wai Li, Wojciech H. Zurek
+https://arxiv.org/abs/2508.20422
+
 https://journals.aps.org/prd/abstract/10.1103/bpzx-kdgq
 https://journals.aps.org/prl/abstract/10.1103/7p5x-7yqb
 https://journals.aps.org/prl/abstract/10.1103/cslt-x32n
