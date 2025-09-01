@@ -1,5 +1,37 @@
 20250901
 
+https://arxiv.org/abs/2508.21073
+https://arxiv.org/abs/2508.21122
+https://arxiv.org/abs/2508.21123
+https://arxiv.org/abs/2508.21178
+https://arxiv.org/abs/2508.21200
+https://arxiv.org/abs/2508.21217
+https://arxiv.org/abs/2508.21246
+https://arxiv.org/abs/2508.21252
+https://arxiv.org/abs/2508.21253
+
+https://arxiv.org/abs/2508.21332
+https://arxiv.org/abs/2508.21346
+https://arxiv.org/abs/2508.21369
+* https://arxiv.org/abs/2508.21504 # Digital quantum simulation of many-body systems: Making the most of intermediate-scale, noisy quantum computers, Alexander Miessen
+https://arxiv.org/abs/2508.21567
+https://arxiv.org/abs/2508.21578
+https://arxiv.org/abs/2508.21651
+https://arxiv.org/abs/2508.21667
+https://arxiv.org/abs/2508.21679
+https://arxiv.org/abs/2508.21686
+
+https://arxiv.org/abs/2508.21718
+https://arxiv.org/abs/2508.21756
+https://arxiv.org/abs/2508.21798
+* https://arxiv.org/abs/2508.21093 # Floquet-engineered moire quasicrystal patterns of ultracold atoms in twisted bilayer optical lattices, Zhenze Fan, Meiling Wang, Juan Wang, Yan Li
+https://arxiv.org/abs/2508.21276
+https://arxiv.org/abs/2508.21388
+https://arxiv.org/abs/2508.21390
+* https://arxiv.org/abs/2508.21623 # Observation of universal non-Gaussian statistics of the order parameter across a continuous phase transition, Maxime Allemand, Geraud Dupuy, Paul Paquiez, Nicolas Dupuis, Adam Rancon, Tommaso Roscilde, Thomas Chalopin, David Clement
+https://arxiv.org/abs/2508.21643
+* https://arxiv.org/abs/2508.21729 # Bayesian perspectives for quantum states and application to ab initio quantum chemistry, Yannic Rath, Massimo Bortone, George H. Booth
+
 https://journals.aps.org/prx/abstract/10.1103/b9hf-gx4f
 https://journals.aps.org/prresearch/abstract/10.1103/3l96-41xf
 https://journals.aps.org/pra/abstract/10.1103/gwzr-cjp6
