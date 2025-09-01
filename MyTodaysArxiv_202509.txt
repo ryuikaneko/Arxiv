@@ -1,5 +1,19 @@
 20250901
 
+* https://arxiv.org/abs/2508.21115 # Unconventional superconducting correlations in fermionic many-body scars, Kiryl Pakrouski, K. V. Samokhin
+https://arxiv.org/abs/2508.21117
+* https://arxiv.org/abs/2508.21127 # Exact models of chiral flat-band superconductors, Zhaoyu Han, Jonah Herzog-Arbeitman, Qiang Gao, Eslam Khalaf
+* https://arxiv.org/abs/2508.21129 # Anyon polarons as a window into the competing phases of the Kitaev-Gamma-Gamma' model, Chuan Chen, Inti Sodemann Villadiego
+* https://arxiv.org/abs/2508.21142 # Nonperturbative Semiclassical Spin Dynamics for Ordered Quantum Magnets, Hao Zhang, Tianyue Huang, Allen O. Scheie, Mengze Zhu, Tao Xie, N. Murai, S. Ohira-Kawamura, Andrey Zheludev, Andreas M. Laeuchli, Cristian D. Batista
+* https://arxiv.org/abs/2508.21298 # Critical photoinduced reflectivity relaxation dynamics in single-layer Bi-based cuprates near the pseudogap end point, T. Shimizu, R. Tobise, T. Kurosawa, S. Tsuchiya, M. Oda, Y. Toda, V. V. Kabanov, D. Mihailovic, T. Mertelj
+* https://arxiv.org/abs/2508.21405 # Determination of ground states of one-dimensional quantum systems using the cluster iTEBD method, Tao Yang, Rui Wang, Z. Y. Xie, Baigeng Wang
+https://arxiv.org/abs/2508.21544
+https://arxiv.org/abs/2508.21639
+https://arxiv.org/abs/2508.21711
+
+https://arxiv.org/abs/2508.21768
+https://arxiv.org/abs/2508.21791
+
 https://arxiv.org/abs/2508.21073
 https://arxiv.org/abs/2508.21122
 https://arxiv.org/abs/2508.21123
