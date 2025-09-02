@@ -1,3 +1,8 @@
+20250902
+
+
+
+
 20250901
 
 * https://arxiv.org/abs/2508.21115 # Unconventional superconducting correlations in fermionic many-body scars, Kiryl Pakrouski, K. V. Samokhin
