@@ -1,5 +1,52 @@
 20250903
 
+* https://arxiv.org/abs/2509.00147 # High-Distance Error-Correcting Codes for Fermion-to-Qubit Mappings in 2D and 3D, Ruby Wei, Aqua Chung, Luke Coffman, Su-Kuan Chu, Xun Gao
+https://arxiv.org/abs/2509.00161
+
+https://arxiv.org/abs/2509.00171
+https://arxiv.org/abs/2509.00222
+https://arxiv.org/abs/2509.00386
+https://arxiv.org/abs/2509.00417
+https://arxiv.org/abs/2509.00424
+https://arxiv.org/abs/2509.00637
+https://arxiv.org/abs/2509.00771
+https://arxiv.org/abs/2509.00746
+https://arxiv.org/abs/2509.00819
+https://arxiv.org/abs/2509.00825
+
+https://arxiv.org/abs/2509.00854
+https://arxiv.org/abs/2509.00913
+https://arxiv.org/abs/2509.00916
+https://arxiv.org/abs/2509.01049
+https://arxiv.org/abs/2509.01224
+https://arxiv.org/abs/2509.01261
+https://arxiv.org/abs/2509.01359
+* https://arxiv.org/abs/2509.01422 # Exploring Quantum Machine Learning for Weather Forecasting, Maria Heloisa F. da Silva, Gleydson F. de Jesus, Christiano M. S. Nascimento, Valeria L. da Silva, Clebson Cruz
+https://arxiv.org/abs/2509.01451
+https://arxiv.org/abs/2509.01474
+
+https://arxiv.org/abs/2509.01496
+https://arxiv.org/abs/2509.01633
+* https://arxiv.org/abs/2509.01637 # Phase-Sensitive Measurements on a Fermi-Hubbard Quantum Processor, Alberto R. Cavallar, Luis Escalera-Moreno, Titus Franz, Timon Hilker, J. Ignacio Cirac, Philipp M. Preiss, Benjamin F. Schiffer
+https://arxiv.org/abs/2509.01851
+https://arxiv.org/abs/2509.01960
+https://arxiv.org/abs/2509.02058
+https://arxiv.org/abs/2509.02085
+https://arxiv.org/abs/2509.02112
+https://arxiv.org/abs/2509.02180
+* https://arxiv.org/abs/2509.02268 # Optimizing digital quantum simulation of open quantum lattice models, Xie-Hang Yu, Hongchao Li, J. Ignacio Cirac, Rahul Trivedi
+
+* https://arxiv.org/abs/2509.02525 # Evidence of Compact Wavefunctions from Quantum-Selected Configuration Interaction, Tim Weaving, Angus Mingare, Alexis Ralli, Peter V. Coveney
+https://arxiv.org/abs/2509.00104
+https://arxiv.org/abs/2509.00341
+https://arxiv.org/abs/2509.00456
+https://arxiv.org/abs/2509.01585
+* https://arxiv.org/abs/2509.01608 # Reduced fidelities for free fermions out of equilibrium: From dynamical quantum phase transitions to Mpemba effect, Gilles Parez, Vincenzo Alba
+https://arxiv.org/abs/2509.01853
+https://arxiv.org/abs/2509.01928
+* https://arxiv.org/abs/2509.01931 # Eigenstate Thermalization Hypothesis with Projective Representation, Soma Onoda, Osamu Fukushima, Ryusuke Hamazaki, Okuto Morikawa
+https://arxiv.org/abs/2509.02272
+
 https://journals.aps.org/prxquantum/abstract/10.1103/dtlf-2q82
 https://journals.aps.org/prresearch/abstract/10.1103/pvn4-ct5m
 https://journals.aps.org/prresearch/abstract/10.1103/b5vs-ldpm
