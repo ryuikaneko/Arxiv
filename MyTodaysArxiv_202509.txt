@@ -1,5 +1,24 @@
 20250903
 
+https://arxiv.org/abs/2509.01711
+https://arxiv.org/abs/2509.00225
+* https://arxiv.org/abs/2509.00281 # Strange diffusivity of incoherent metal in half-filled two-dimensional Hubbard model, Youngmin Eom, Igor S. Tupitsyn, Nikolay V. Prokof'ev, Boris Svistunov, Evgeny Kozik, Aaram J. Kim
+https://arxiv.org/abs/2509.00299
+https://arxiv.org/abs/2509.00430
+https://arxiv.org/abs/2509.00494
+https://arxiv.org/abs/2509.00523
+* https://arxiv.org/abs/2509.01230 # Phase Diagram and Spectral Function of the Two-Dimensional Disordered Bose-Hubbard Model: A Real-Space Dynamical Mean-Field Theory Analysis, Bastian Schindler, Renan da Silva Souza, Walter Hofstetter
+https://arxiv.org/abs/2509.01335
+https://arxiv.org/abs/2509.01349
+
+https://arxiv.org/abs/2509.01465
+https://arxiv.org/abs/2509.01472
+https://arxiv.org/abs/2509.01522
+* https://arxiv.org/abs/2509.02044 # Boundary Renormalization Group Flow of Entanglement Entropy at a (2+1)-Dimensional Quantum Critical Point, Zhiyan Wang, Zhe Wang, Yi-Ming Ding, Zenan Liu, Zheng Yan, Long Zhang
+https://arxiv.org/abs/2509.02505
+https://arxiv.org/abs/2509.00288
+https://arxiv.org/abs/2509.02383
+
 * https://arxiv.org/abs/2509.00147 # High-Distance Error-Correcting Codes for Fermion-to-Qubit Mappings in 2D and 3D, Ruby Wei, Aqua Chung, Luke Coffman, Su-Kuan Chu, Xun Gao
 https://arxiv.org/abs/2509.00161
 
