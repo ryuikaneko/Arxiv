@@ -1,5 +1,46 @@
 20250904
 
+* https://arxiv.org/abs/2509.02663 # Semi-Dirac spin liquids and frustrated quantum magnetism on the trellis lattice, Sourin Chatterjee, Atanu Maity, Janik Potten, Tobias Mueller, Andreas Feuerpfeil, Ronny Thomale, Karlo Penc, Harald O. Jeschke, Rhine Samajdar, Yasir Iqbal
+* https://arxiv.org/abs/2509.02673 # Doping a spin-one Mott insulator: possible application to bilayer nickelate, Hanbit Oh, Hui Yang, Ya-Hui Zhang
+* https://arxiv.org/abs/2509.02675 # Robust superconductivity upon doping chiral spin liquid and Chern insulators in a Hubbard-Hofstadter model, Clemens Kuhlenkamp, Stefan Divic, Michael P. Zaletel, Tomohiro Soejima, Ashvin Vishwanath
+* https://arxiv.org/abs/2509.02688 # In search of exotic pairing in the Hubbard model: many-body computation and quantum gas microscopy, Chunhan Feng, Thomas Hartke, Yuan-Yao He, Botond Oreg, Carter Turnbaugh, Ningyuan Jia, Martin Zwierlein, Shiwei Zhang
+* https://arxiv.org/abs/2509.02705 # Competing Dirac masses in one dimension: Symmetry-enhanced pseudo-first-order transition and deconfined criticality, Manuel Weber
+https://arxiv.org/abs/2509.02723
+* https://arxiv.org/abs/2509.02757 # Topological Chiral Superconductivity in the Triangular-Lattice Hofstadter-Hubbard Model, Feng Chen, Wen O. Wang, Jia-Xin Zhang, Leon Balents, D. N. Sheng
+https://arxiv.org/abs/2509.02872
+https://arxiv.org/abs/2509.02900
+https://arxiv.org/abs/2509.02938
+
+https://arxiv.org/abs/2509.02976
+https://arxiv.org/abs/2509.03072
+* https://arxiv.org/abs/2509.03079 # Deconfined Quantum Critical Point in Quantum Hall Bilayers, Guangyu Yu, Tao Xiang, Zheng Zhu
+* https://arxiv.org/abs/2509.03177 # Ab initio spin Hamiltonians and magnetism of Ce and Yb triangular-lattice compounds, Leonid V. Pourovskii, Rafael D. Soares, Alexander Wietek
+https://arxiv.org/abs/2509.03247
+https://arxiv.org/abs/2509.03320
+https://arxiv.org/abs/2509.03344
+
+* https://arxiv.org/abs/2509.03355 # Controlled Buildup of Half-Quantized Thermal Conductance in an Engineered Chiral Spin Liquid Platform, Bo-Ye Sun, Baptiste Bermond, Lucila Peralta Gavensky, Marin Bukov, Zheng-Wei Zhou, Nathan Goldman
+* https://arxiv.org/abs/2509.03387 # Topology meets superconductivity in a one-dimensional t-J model of magnetic atoms, Leonardo Bellinato Giacomelli, Thomas Bland, Louis Lafforgue, Francesca Ferlaino, Manfred J. Mark, Luca Barbiero
+* https://arxiv.org/abs/2509.03489 # Dissipationless dynamics of spin supersolid states in a spin-1/2 triangular antiferromagnet with impurities, Yixuan Huang, Yuan Gao, Wei Li, Seiji Yunoki, Sadamichi Maekawa
+https://arxiv.org/abs/2509.03502
+https://arxiv.org/abs/2509.03514
+https://arxiv.org/abs/2508.21502
+https://arxiv.org/abs/2509.02661
+* https://arxiv.org/abs/2509.02702 # Scattering and induced false vacuum decay in the two-dimensional quantum Ising model, Luka Pavesic, Marco Di Liberto, Simone Montanger
+https://arxiv.org/abs/2509.02843
+https://arxiv.org/abs/2509.02850
+
+https://arxiv.org/abs/2509.02927
+https://arxiv.org/abs/2509.03033
+https://arxiv.org/abs/2509.03067
+https://arxiv.org/abs/2509.03422
+* https://arxiv.org/abs/2509.02658 # Simultaneous approximation of multiple degenerate states using a single neural network quantum state, Waleed Sherif
+https://arxiv.org/abs/2509.02668
+https://arxiv.org/abs/2509.02683
+https://arxiv.org/abs/2509.02827
+https://arxiv.org/abs/2509.02944
+https://arxiv.org/abs/2509.03239
+
 https://journals.aps.org/pra/abstract/10.1103/79h3-jspt
 https://journals.aps.org/prl/abstract/10.1103/mwy1-v9hk
 https://journals.aps.org/prl/abstract/10.1103/5vnl-w9p4
