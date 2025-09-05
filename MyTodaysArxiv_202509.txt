@@ -1,5 +1,24 @@
 20250905
 
+https://arxiv.org/abs/2509.03542
+* https://arxiv.org/abs/2509.03555 # Another formula for calculating Clebsch Gordan coefficients, Everardo Rivera-Oliva
+https://arxiv.org/abs/2509.03561
+https://arxiv.org/abs/2509.03617
+https://arxiv.org/abs/2509.03619
+https://arxiv.org/abs/2509.03639
+* https://arxiv.org/abs/2509.03699 # The ITransverse.jl library for transverse tensor network contractions, Stefano Carignano
+https://arxiv.org/abs/2509.03766
+https://arxiv.org/abs/2509.03815
+https://arxiv.org/abs/2509.03864
+
+https://arxiv.org/abs/2509.03952
+https://arxiv.org/abs/2509.03954
+https://arxiv.org/abs/2509.03974
+https://arxiv.org/abs/2509.04057
+https://arxiv.org/abs/2509.04327
+* https://arxiv.org/abs/2509.04401 # Monte Carlo simulation of random circuit sampling in quantum computing, Andreas Raab
+https://arxiv.org/abs/2509.04436
+
 https://arxiv.org/abs/2509.03538
 https://arxiv.org/abs/2509.03539
 https://arxiv.org/abs/2509.03546
