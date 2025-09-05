@@ -1,5 +1,47 @@
 20250905
 
+https://arxiv.org/abs/2509.03538
+https://arxiv.org/abs/2509.03539
+https://arxiv.org/abs/2509.03546
+https://arxiv.org/abs/2509.03547
+https://arxiv.org/abs/2509.03567
+https://arxiv.org/abs/2509.03572
+* https://arxiv.org/abs/2509.03574 # A new rung on the ladder: exploring topological frustration towards two dimensions, Alberto Giuseppe Catalano, Nora Reinic, Gianpaolo Torre, Sven Benjamin Kozic, Karlo Delic, Simone Montangero, Fabio Franchini, Salvatore Marco Gianpaolo
+https://arxiv.org/abs/2509.03575
+* https://arxiv.org/abs/2509.03583 # Magic continuum in multi-moire twisted trilayer graphene, Li-Qiao Xia, Aviram Uri, Jiaojie Yan, Aaron Sharpe, Filippo Gaggioli, Nicole S. Ticea, Julian May-Mann, Kenji Watanabe, Takashi Taniguchi, Liang Fu, Trithep Devakul, Jurgen H. Smet, Pablo Jarillo-Herrero
+* https://arxiv.org/abs/2509.03588 # Dissociation of bulk and entanglement phase transitions in the Haldane phase, Yu-Chin Tzeng, Gunnar Moeller
+
+https://arxiv.org/abs/2509.03604
+* https://arxiv.org/abs/2509.03683 # Attention is all you need to solve chiral superconductivity, Chun-Tse Li, Tzen Ong, Max Geier, Hsin Lin, Liang Fu
+https://arxiv.org/abs/2509.03708
+* https://arxiv.org/abs/2509.03750 # Lattice dynamics of the infinite-layer nickelate LaNiO2. Shohei Hayashida, Vignesh Sundaramurthy, Wenfeng Wu, Pascal Puphal, Thomas Keller, Bjoern Fak, Masahiko Isobe, Bernhard Keimer, Karsten Held, Liang Si, Matthias Hepting
+https://arxiv.org/abs/2509.03774
+https://arxiv.org/abs/2509.03781
+https://arxiv.org/abs/2509.03908
+https://arxiv.org/abs/2509.04045
+* https://arxiv.org/abs/2509.04098 # Ergodicity and hydrodynamics: from quantum to classical spin systems, Jiaozi Wang, Luca Capizzi, Dario Poletti, Leonardo Mazza
+* https://arxiv.org/abs/2509.04141 # Emergence of quantum spin liquid and spin-flop phase in Kitaev antiferromagnets in a [111] magnetic field, Shuai Liu, Hao Wu, Jinbin Li, Xiaoqun Wang, Qiang Luo
+
+https://arxiv.org/abs/2509.04228
+https://arxiv.org/abs/2509.04242
+https://arxiv.org/abs/2509.04420
+https://arxiv.org/abs/2509.04447
+https://arxiv.org/abs/2509.01235
+https://arxiv.org/abs/2509.02686
+* https://arxiv.org/abs/2509.03570 # Dynamical Quantum Phase Transitions and Many-Body Backflow in Open Quantum Systems, Kai Zhang, Chang Shu, Kai Sun
+* https://arxiv.org/abs/2509.03586 # Quantum simulation of out-of-equilibrium dynamics in gauge theories, Jad C. Halimeh, Niklas Mueller, Johannes Knolle, Zlatko Papic, Zohreh Davoudi
+https://arxiv.org/abs/2509.03589
+https://arxiv.org/abs/2509.03600
+
+https://arxiv.org/abs/2509.03605
+* https://arxiv.org/abs/2509.04006 # Forecasting Low-Dimensional Turbulence via Multi-Dimensional Hybrid Quantum Reservoir Computing, L. Salatino, L. Mariani, A. Giordano, F. D'Amore, C. Mastroianni, L. Pontieri, A. Vinci, C. Gencarelli, L. Primavera, F. Plastina, J. Settino, F. Carbone
+* https://arxiv.org/abs/2509.04075 # Complexity of Quadratic Quantum Chaos, Pallab Basu, Suman Das, Pratik Nandy
+https://arxiv.org/abs/2509.04106
+https://arxiv.org/abs/2509.04300
+https://arxiv.org/abs/2509.04391
+* https://arxiv.org/abs/2509.04410 # Infinite temperature at zero energy, Matteo Ippoliti, David M. Long
+https://arxiv.org/abs/2509.04321
+
 https://journals.aps.org/prl/abstract/10.1103/43nq-ntqm
 https://journals.aps.org/prxquantum/abstract/10.1103/5sq4-r7dk
 https://journals.aps.org/prresearch/abstract/10.1103/hzl3-hjnl
