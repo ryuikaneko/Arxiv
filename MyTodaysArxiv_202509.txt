@@ -1,3 +1,8 @@
+20250905
+
+https://journals.aps.org/prl/abstract/10.1103/43nq-ntqm
+
+
 20250904
 
 * https://arxiv.org/abs/2509.02663 # Semi-Dirac spin liquids and frustrated quantum magnetism on the trellis lattice, Sourin Chatterjee, Atanu Maity, Janik Potten, Tobias Mueller, Andreas Feuerpfeil, Ronny Thomale, Karlo Penc, Harald O. Jeschke, Rhine Samajdar, Yasir Iqbal
@@ -47,9 +52,6 @@ https://journals.aps.org/prl/abstract/10.1103/5vnl-w9p4
 https://journals.aps.org/prb/abstract/10.1103/jmgz-dsk9
 https://journals.aps.org/prb/abstract/10.1103/gkh9-lgrk
 https://journals.aps.org/prresearch/abstract/10.1103/msdd-ckq7
-
-
-====
 
 
 20250903
