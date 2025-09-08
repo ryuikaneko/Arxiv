@@ -1,5 +1,26 @@
 20250908
 
+https://arxiv.org/abs/2509.04526
+https://arxiv.org/abs/2509.04727
+https://arxiv.org/abs/2509.04754
+https://arxiv.org/abs/2509.04761
+https://arxiv.org/abs/2509.04808
+* https://arxiv.org/abs/2509.04838 # Nonintegrability of the Fredkin spin chain and its truncated versions, Wen-Ming Fan, Kun Hao, Yang-Yang Chen, Kun Zhang, Xiao-Hui Wang, Vladimir Korepin
+https://arxiv.org/abs/2509.04849
+https://arxiv.org/abs/2509.04891
+https://arxiv.org/abs/2509.04955
+
+https://arxiv.org/abs/2509.05010
+https://arxiv.org/abs/2509.05036
+https://arxiv.org/abs/2509.05206
+https://arxiv.org/abs/2509.05232
+https://arxiv.org/abs/2509.05257
+* https://arxiv.org/abs/2509.05264 # Magic for Hybrid Boson-Fermion Systems: A Grassmann Phase-Space Approach, Matthieu Sarkis, Pablo Martinez-Azcona, Alexandre Tkatchenko
+https://arxiv.org/abs/2509.05295
+https://arxiv.org/abs/2508.12444
+https://arxiv.org/abs/2509.04596
+https://arxiv.org/abs/2509.04453
+
 https://arxiv.org/abs/2509.05041
 https://arxiv.org/abs/2509.04556
 
