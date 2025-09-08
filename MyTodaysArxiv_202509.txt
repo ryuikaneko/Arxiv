@@ -1,7 +1,31 @@
 20250908
 
-https://journals.aps.org/prl/abstract/10.1103/d9c2-yr7j
+https://arxiv.org/abs/2509.05041
+https://arxiv.org/abs/2509.04556
 
+* https://arxiv.org/abs/2509.04561 # Dirac quantum criticality in twisted double bilayer transition metal dichalcogenides, Jan Biedermann, Lukas Janssen
+* https://arxiv.org/abs/2509.04571 # Superconducting pairing symmetries in charge-ordered kagome metals, Pujita Das, Parth Bahuguna, Tulika Maitra, Narayan Mohanta
+https://arxiv.org/abs/2509.04581
+https://arxiv.org/abs/2509.04599
+https://arxiv.org/abs/2509.04641
+https://arxiv.org/abs/2509.04686
+https://arxiv.org/abs/2509.04724
+https://arxiv.org/abs/2509.04738
+https://arxiv.org/abs/2509.04826
+https://arxiv.org/abs/2509.04840
+
+https://arxiv.org/abs/2509.04934
+https://arxiv.org/abs/2509.04947
+https://arxiv.org/abs/2509.05049
+* https://arxiv.org/abs/2509.05058 # Supersolidity induced flux magnetism with magnetic atoms in an anti-magic wavelength optical lattice, Michele Miotto, Pietro Lombardi, Giovanni Ferioli, Joana Fraxanet, Maciej Lewenstein, Luca Tanzi, Luca Barbiero
+* https://arxiv.org/abs/2509.05090 # Efficient iPEPS Simulation on the Honeycomb Lattice via QR-based CTMRG, Qi Yang, Philippe Corboz
+https://arxiv.org/abs/2509.05114
+https://arxiv.org/abs/2509.05138
+https://arxiv.org/abs/2509.05195
+https://arxiv.org/abs/2509.05200
+https://arxiv.org/abs/2509.05250
+
+https://journals.aps.org/prl/abstract/10.1103/d9c2-yr7j
 
 
 20250905
