@@ -1,4 +1,81 @@
+20250910
+
+https://journals.aps.org/prx/abstract/10.1103/611k-yxb9
+
+
 20250909
+
+https://arxiv.org/abs/2509.05377
+https://arxiv.org/abs/2509.05395
+https://arxiv.org/abs/2509.05404
+https://arxiv.org/abs/2509.05454
+https://arxiv.org/abs/2509.05573
+
+https://arxiv.org/abs/2509.05646
+https://arxiv.org/abs/2509.05704
+https://arxiv.org/abs/2509.05710
+https://arxiv.org/abs/2509.05804
+https://arxiv.org/abs/2509.05816
+https://arxiv.org/abs/2509.05924
+https://arxiv.org/abs/2509.05972
+https://arxiv.org/abs/2509.05988
+https://arxiv.org/abs/2509.06054
+https://arxiv.org/abs/2509.06086
+
+https://arxiv.org/abs/2509.06205
+https://arxiv.org/abs/2509.06218
+https://arxiv.org/abs/2509.06255
+https://arxiv.org/abs/2509.06305
+https://arxiv.org/abs/2509.06373
+https://arxiv.org/abs/2509.06455
+https://arxiv.org/abs/2509.06497
+https://arxiv.org/abs/2509.06560
+* https://arxiv.org/abs/2509.06653 # Classical Neural Networks on Quantum Devices via Tensor Network Disentanglers: A Case Study in Image Classification, Borja Aizpurua, Sukhbinder Singh, Roman Orus
+https://arxiv.org/abs/2509.06711
+
+https://arxiv.org/abs/2509.06726
+https://arxiv.org/abs/2509.06756
+https://arxiv.org/abs/2509.06865
+https://arxiv.org/abs/2509.06871
+https://arxiv.org/abs/2509.06873
+https://arxiv.org/abs/2509.06879
+https://arxiv.org/abs/2509.06881
+* https://arxiv.org/abs/2509.05411 # Interacting many-body non-Hermitian systems as Markov chains, Zichang Hao, Wei Jie Chan, Ching Hua Lee
+https://arxiv.org/abs/2509.05597
+https://arxiv.org/abs/2509.05727
+
+https://arxiv.org/abs/2509.05756
+* https://arxiv.org/abs/2509.06028 # Path integral approach to quantum thermalization, Alexander Altland, Kun Woo Kim, Tobias Micklitz
+* https://arxiv.org/abs/2509.06109 # Persistent Charge and Spin Currents in a Ferromagnetic Hatano-Nelson Ring, Sourav Karmakar, Sudin Ganguly, Santanu K. Maiti
+* https://arxiv.org/abs/2509.06241 # Site Basis Excitation Ansatz for Matrix Product States, Steven R. White
+* https://arxiv.org/abs/2509.06937 # Quantum Mpemba effect in a four-site Bose-Hubbard model, Asad Ali, M.I. Hussain, Hamid Arian Zad, H. Kuniyil, M. T. Rahim, Saif Al-Kuwari, Saeed Haddadi
+https://arxiv.org/abs/2509.05339
+https://arxiv.org/abs/2509.05558
+https://arxiv.org/abs/2509.05640
+* https://arxiv.org/abs/2509.05655 # Quantum Phases in a Two-Dimensional Generalized interacting SSH Model, Rahul Ghosh
+https://arxiv.org/abs/2509.05774
+
+https://arxiv.org/abs/2509.05793
+https://arxiv.org/abs/2509.05842
+https://arxiv.org/abs/2509.05868
+* https://arxiv.org/abs/2509.05876 # Self-learning QMC: application to the classical Holstein-Spin-Fermion model, Shaozhi Li
+https://arxiv.org/abs/2509.05909
+* https://arxiv.org/abs/2509.05950 # Theory of Localized States in Quasiperiodic Lattices, Jin-Rong Chen, Xin-Yu Guo, Shi-Ping Ding, Tian-Le Wu, Miao Liang, Jin-Hua Gao, X. C. Xie
+https://arxiv.org/abs/2509.05960
+https://arxiv.org/abs/2509.06265
+https://arxiv.org/abs/2509.06281
+* https://arxiv.org/abs/2509.06358 # Driven dynamics of localization phase transition in the Aubry-Andre model with initial gapless extended states, Xin-Yu Wang, Wen-Jing Yu, Yue-Mei Sun, Liang-Jun Zhai
+
+https://arxiv.org/abs/2509.06386
+* https://arxiv.org/abs/2509.06720 # Confinement, deconfinement, and bound states in the spin-1 and spin-3/2 generalizations of the Majumdar--Ghosh chain, Aman Sharma, Mithilesh Nayak, Natalia Chepiga, Henrik M. Ronnow, Frederic Mila
+https://arxiv.org/abs/2509.06746
+https://arxiv.org/abs/2509.06889
+https://arxiv.org/abs/2509.06906
+https://arxiv.org/abs/2509.06946
+* https://arxiv.org/abs/2509.06254 # Observation of the influence of anomalous tunneling on collective excitations using a cloud-accessible experiment platform of Bose-Einstein condensates, Daichi Kagamihara, Hironori Kazuta, Yewei Wu, Noah Fitch, Ippei Danshita
+https://arxiv.org/abs/2509.05435
+https://arxiv.org/abs/2509.06523
+* https://arxiv.org/abs/2509.06642 # Dissipation-Enhanced Localization in a Disorder-Free Z2 Lattice Gauge System, Xuanpu Yang, Xiang-Ping Jiang, Lei Pan
 
 https://journals.aps.org/prb/abstract/10.1103/swvs-l34d
 https://journals.aps.org/prxquantum/abstract/10.1103/1wwv-k7hg
