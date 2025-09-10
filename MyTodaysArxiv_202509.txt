@@ -13,7 +13,62 @@ https://journals.aps.org/prxquantum/abstract/10.1103/21vm-bz3t
 
 20250910
 
+https://arxiv.org/abs/2509.06963
+* https://arxiv.org/abs/2509.07062 # Transient localization from fractionalization: vanishingly small heat conductivity in gapless quantum magnets, Shi Feng, Penghao Zhu, Johannes Knolle, Michael Knap
+https://arxiv.org/abs/2509.07079
+https://arxiv.org/abs/2509.07089
+https://arxiv.org/abs/2509.07117
+https://arxiv.org/abs/2509.07151
+https://arxiv.org/abs/2509.07173
+https://arxiv.org/abs/2509.07180
+* https://arxiv.org/abs/2509.07219 # Examining density wave correlations in high pressure La3Ni2O7 through variational Monte Carlo, Yanxin Chen, Haoxiang Chen, Tonghuan Jiang, Ji Chen
+https://arxiv.org/abs/2509.07273
 
+https://arxiv.org/abs/2509.07284
+https://arxiv.org/abs/2509.07312
+https://arxiv.org/abs/2509.07326
+https://arxiv.org/abs/2509.07349
+https://arxiv.org/abs/2509.07366
+https://arxiv.org/abs/2509.07394
+* https://arxiv.org/abs/2509.07428 # Electronic modes induced by spin and charge perturbations in Mott and Kondo insulators, Masanori Kohno
+* https://arxiv.org/abs/2509.07778 # Quantum Transport Reservoir Computing, Yecheng Jing, Pengfei Wang, Shuai Zhang, Zhoujie Zeng, Shi-Jun Liang, Wei Chen
+https://arxiv.org/abs/2509.07784
+https://arxiv.org/abs/2509.07826
+
+https://arxiv.org/abs/2509.07865
+* https://arxiv.org/abs/2509.07931 # Subbaths Cluster Dynamical Mean-Field Theory (SB-CDMFT), A. de Lagrave, D. Senechal, M. Charlebois
+https://arxiv.org/abs/2509.07977
+https://arxiv.org/abs/2509.07150
+
+https://arxiv.org/abs/2509.07005
+https://arxiv.org/abs/2509.07015
+https://arxiv.org/abs/2509.07041
+https://arxiv.org/abs/2509.07084
+https://arxiv.org/abs/2509.07086
+https://arxiv.org/abs/2509.07155
+https://arxiv.org/abs/2509.07196
+
+* https://arxiv.org/abs/2509.07228 # Time evolution of controlled many-body quantum systems with matrix product operators, Llorenc Balada Gaggioli, Jakub Marecek
+https://arxiv.org/abs/2509.07255
+https://arxiv.org/abs/2509.07271
+https://arxiv.org/abs/2509.07279
+https://arxiv.org/abs/2509.07452
+https://arxiv.org/abs/2509.07460
+https://arxiv.org/abs/2509.07514
+https://arxiv.org/abs/2509.07573
+https://arxiv.org/abs/2509.07633
+https://arxiv.org/abs/2509.07661
+
+* https://arxiv.org/abs/2509.07709 # A Tensor Network Framework for Lindbladian Spectra and Steady States, Philipp Westhoff, Mattia Moroder, Ulrich Schollwoeck, Sebastian Paeckel
+https://arxiv.org/abs/2509.07716
+https://arxiv.org/abs/2509.07841
+https://arxiv.org/abs/2509.07855
+https://arxiv.org/abs/2509.07182
+* https://arxiv.org/abs/2509.07468 # Quantum Fisher Information as a Measure of Symmetry Breaking in Quantum Many-Body Systems, Shion Yamashika, Shimpei Endo, Hiroyasu Tajima
+https://arxiv.org/abs/2509.07469
+https://arxiv.org/abs/2509.07528
+https://arxiv.org/abs/2509.07583
+https://arxiv.org/abs/2509.07773
 
 https://journals.aps.org/prx/abstract/10.1103/611k-yxb9
 https://journals.aps.org/prb/abstract/10.1103/ykgv-y1y4
