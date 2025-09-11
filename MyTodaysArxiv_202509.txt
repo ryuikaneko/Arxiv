@@ -1,5 +1,50 @@
 20250911
 
+https://arxiv.org/abs/2509.08036
+https://arxiv.org/abs/2509.08211
+https://arxiv.org/abs/2509.08250
+https://arxiv.org/abs/2509.08254
+
+https://arxiv.org/abs/2509.08352
+https://arxiv.org/abs/2509.08370
+* https://arxiv.org/abs/2509.08386 # Recent progress in nickelate superconductors, Yuxin Wang, Kun Jiang, Jianjun Ying, Tao Wu, Jinguang Cheng, Jiangping Hu, Xianhui Chen
+https://arxiv.org/abs/2509.08557
+https://arxiv.org/abs/2509.08741
+* https://arxiv.org/abs/2509.08821 # Kitaev-derived Gapless Spin Liquid in the K-J-Gamma-Gamma' Quantum Magnet Na2Co2TeO6, Han Li, Xu-Guang Zhou, Gang Su, Wei Li
+* https://arxiv.org/abs/2509.08823 # Absence of two-orbital superconductivity in cuprate family: A DFT+DMFT perspective, Jian-Hong She, Jing-Xuan Wang, Rong-Qiang He, Zhong-Yi Lu
+https://arxiv.org/abs/2509.08038
+https://arxiv.org/abs/2509.08073
+https://arxiv.org/abs/2509.08164
+
+https://arxiv.org/abs/2509.08030
+* https://arxiv.org/abs/2509.08053 # Quantum complexity of topological phases. Or lack thereof, Alberto Giuseppe Catalano, Sven Benjamin Kozic, Gianpaolo Torre, Carola Ciaramelletti, Simone Paganelli, Fabio Franchini, Salvatore Marco Giampaolo
+https://arxiv.org/abs/2509.08059
+https://arxiv.org/abs/2509.08060
+https://arxiv.org/abs/2509.08074
+https://arxiv.org/abs/2509.08141
+
+https://arxiv.org/abs/2509.08196
+https://arxiv.org/abs/2509.08276
+https://arxiv.org/abs/2509.08284
+https://arxiv.org/abs/2509.08288
+https://arxiv.org/abs/2509.08323
+https://arxiv.org/abs/2509.08351
+https://arxiv.org/abs/2509.08385
+https://arxiv.org/abs/2509.08411
+https://arxiv.org/abs/2509.08481
+https://arxiv.org/abs/2509.08520
+
+https://arxiv.org/abs/2509.08556
+* https://arxiv.org/abs/2509.08584 # Spectral Transitions of the Entanglement Hamiltonian in Monitored Free Fermions, Karim Chahine, Michael Buchhold
+https://arxiv.org/abs/2509.08623
+https://arxiv.org/abs/2509.08658
+https://arxiv.org/abs/2509.08691
+https://arxiv.org/abs/2509.08718
+https://arxiv.org/abs/2509.08807
+* https://arxiv.org/abs/2509.08011 # Machine learning applications in cold atom quantum simulators, Henning Schloemer, Annabelle Bohrdt
+https://arxiv.org/abs/2509.08209
+https://arxiv.org/abs/2509.08479
+
 https://journals.aps.org/prx/abstract/10.1103/k9p6-c649
 https://journals.aps.org/prapplied/abstract/10.1103/dq7w-7hnl
 https://journals.aps.org/pra/abstract/10.1103/5xrr-x2rm
