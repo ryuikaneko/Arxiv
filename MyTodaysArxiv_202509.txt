@@ -15,6 +15,41 @@ https://journals.aps.org/prxquantum/abstract/10.1103/gr4t-b1w5
 
 20250912
 
+https://arxiv.org/abs/2509.09209
+https://arxiv.org/abs/2509.09449
+* https://arxiv.org/abs/2509.08877 # Demystifying quantum escapism on the honeycomb lattice, A. L. Chernyshev
+https://arxiv.org/abs/2509.08879
+* https://arxiv.org/abs/2509.08889 # Anomalously fast transport in non-integrable lattice gauge theories, Devendra Singh Bhakuni, Roberto Verdel, Jean-Yves Desaules, Maksym Serbyn, Marko Ljubotina, Marcello Dalmonte
+https://arxiv.org/abs/2509.08945
+https://arxiv.org/abs/2509.08955
+https://arxiv.org/abs/2509.09060
+https://arxiv.org/abs/2509.09077
+https://arxiv.org/abs/2509.09080
+
+https://arxiv.org/abs/2509.09083
+* https://arxiv.org/abs/2509.09184 # Surfaces and interfaces of infinite-layer nickelates studied by dynamical mean-field theory, Leonard M. Verhoff, Liang Si, Karsten Held
+https://arxiv.org/abs/2509.09205
+https://arxiv.org/abs/2509.09244
+https://arxiv.org/abs/2509.09253
+* https://arxiv.org/abs/2509.09275 # Neural Transformer Backflow for Solving Momentum-Resolved Ground States of Strongly Correlated Materials, Lixing Zhang, Di luo
+* https://arxiv.org/abs/2509.09330 # Superconductivity in hyperbolic spaces: Regular hyperbolic lattices and Ginzburg-Landau theory, Vladimir Bashmakov, Askar Iliasov, Tomas Bzdusek, Andrey A. Bagrov
+https://arxiv.org/abs/2509.09344
+https://arxiv.org/abs/2509.09399
+https://arxiv.org/abs/2509.09542
+
+https://arxiv.org/abs/2509.09567
+* https://arxiv.org/abs/2509.09604 # Reconstructing the Hamiltonian from the local density of states using neural networks, Nisarga Paul, Andrew Ma, Kevin P. Nuckolls
+https://arxiv.org/abs/2509.09659
+* https://arxiv.org/abs/2509.09664 # Prediction of several Co-based La3Ni2O7-like superconducting materials, Jing-Xuan Wang, Yi-Heng Tian, Jian-Hong She, Rong-Qiang He, Zhong-Yi Lu
+* https://arxiv.org/abs/2509.08868 # Real-Time String Dynamics in a 2+1D Non-Abelian Lattice Gauge Theory: String Breaking, Glueball Formation, Baryon Blockade, and Tension Reduction, Giovanni Cataldi, Simone Orlando, Jad C. Halimeh
+* https://arxiv.org/abs/2509.08890 # Machine learning the effects of many quantum measurements, Wanda Hou, Samuel J. Garratt, Norhan M. Eassa, Eliott Rosenberg, Pedram Roushan, Yi-Zhuang You, Ehud Altman
+https://arxiv.org/abs/2509.09216
+https://arxiv.org/abs/2509.09366
+https://arxiv.org/abs/2509.09382
+* https://arxiv.org/abs/2509.09587 # PT symmetry-enriched non-unitary criticality, Kuang-Hung Chou, Xue-Jia Yu, Po-Yao Chang
+
+https://arxiv.org/abs/2509.09640
+
 https://journals.aps.org/prb/abstract/10.1103/y5vc-3t6q
 https://journals.aps.org/prl/abstract/10.1103/dc2s-94gv
 
