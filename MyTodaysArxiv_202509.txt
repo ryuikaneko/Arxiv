@@ -15,6 +15,33 @@ https://journals.aps.org/prxquantum/abstract/10.1103/gr4t-b1w5
 
 20250912
 
+https://arxiv.org/abs/2509.08892
+* https://arxiv.org/abs/2509.08898 # Fast simulation of fermions with reconfigurable qubits, Nishad Maskara, Marcin Kalinowski, Daniel Gonzalez-Cuadra, Mikhail D. Lukin
+https://arxiv.org/abs/2509.08899
+https://arxiv.org/abs/2509.08924
+https://arxiv.org/abs/2509.08943
+https://arxiv.org/abs/2509.08984
+* https://arxiv.org/abs/2509.09033 # Generative quantum advantage for classical and quantum problems, Hsin-Yuan Huang, Michael Broughton, Norhan Eassa, Hartmut Neven, Ryan Babbush, Jarrod R. McClean
+https://arxiv.org/abs/2509.09092
+https://arxiv.org/abs/2509.09148
+https://arxiv.org/abs/2509.09217
+
+https://arxiv.org/abs/2509.09271
+https://arxiv.org/abs/2509.09320
+https://arxiv.org/abs/2509.09374
+https://arxiv.org/abs/2509.09421
+https://arxiv.org/abs/2509.09464
+https://arxiv.org/abs/2509.09465
+https://arxiv.org/abs/2509.09517
+* https://arxiv.org/abs/2509.09538 # Entanglement phases and phase transitions in monitored free fermion system due to localizations, Yu-Jun Zhao, Xuyang Huang, Yi-Rui Zhang, Han-Ze Li, Jian-Xin Zhong
+https://arxiv.org/abs/2509.09603
+https://arxiv.org/abs/2509.09642
+
+https://arxiv.org/abs/2509.08911
+https://arxiv.org/abs/2509.08948
+https://arxiv.org/abs/2509.09047
+https://arxiv.org/abs/2509.09129
+
 https://arxiv.org/abs/2509.09209
 https://arxiv.org/abs/2509.09449
 * https://arxiv.org/abs/2509.08877 # Demystifying quantum escapism on the honeycomb lattice, A. L. Chernyshev
