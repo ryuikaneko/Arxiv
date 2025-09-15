@@ -3,6 +3,28 @@
 
 20250915
 
+https://arxiv.org/abs/2509.09743
+https://arxiv.org/abs/2509.09779
+https://arxiv.org/abs/2509.09807
+https://arxiv.org/abs/2509.09813
+https://arxiv.org/abs/2509.09900
+https://arxiv.org/abs/2509.10070
+https://arxiv.org/abs/2509.10100
+https://arxiv.org/abs/2509.10131
+https://arxiv.org/abs/2509.10141
+https://arxiv.org/abs/2509.10158
+
+https://arxiv.org/abs/2509.10196
+https://arxiv.org/abs/2509.10239
+https://arxiv.org/abs/2509.10286
+https://arxiv.org/abs/2509.10347
+https://arxiv.org/abs/2509.10425
+https://arxiv.org/abs/2509.10430
+https://arxiv.org/abs/2509.10164
+https://arxiv.org/abs/2509.10170
+https://arxiv.org/abs/2509.10418
+https://arxiv.org/abs/2509.10450
+
 https://journals.aps.org/prb/abstract/10.1103/9jbn-nxwz
 https://journals.aps.org/prb/abstract/10.1103/bn2y-tw49
 https://journals.aps.org/pra/abstract/10.1103/lpz2-j7vg
@@ -11,9 +33,6 @@ https://journals.aps.org/pra/abstract/10.1103/ypts-6z4p
 https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.030001
 https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.030002
 https://journals.aps.org/prxquantum/abstract/10.1103/gr4t-b1w5
-
-
-====
 
 
 20250912
