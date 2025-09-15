@@ -3,6 +3,16 @@
 
 20250915
 
+https://arxiv.org/abs/2509.09766
+https://arxiv.org/abs/2509.09783
+https://arxiv.org/abs/2509.09825
+https://arxiv.org/abs/2509.09875
+https://arxiv.org/abs/2509.09938
+https://arxiv.org/abs/2509.09976
+* https://arxiv.org/abs/2509.09983 # Entanglement architecture of beyond-Landau quantum criticality, Menghan Song, Ting-Tung Wang, Liuke Lyu, William Witczak-Krempa, Zi Yang Meng
+https://arxiv.org/abs/2509.09999
+https://arxiv.org/abs/2509.10000
+
 https://arxiv.org/abs/2509.09697
 https://arxiv.org/abs/2509.09698
 https://arxiv.org/abs/2509.10270
