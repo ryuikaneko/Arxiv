@@ -1,5 +1,27 @@
 20250916
 
+https://arxiv.org/abs/2509.10672
+* https://arxiv.org/abs/2509.10700 # Stabilizer-Shannon Renyi Equivalence: Exact Results for Quantum Critical Chains, M. A. Rajabpour
+* https://arxiv.org/abs/2509.10756 # Parameter estimation with uncertainty quantification from continuous measurement data using neural network ensembles, Amanuel Anteneh
+https://arxiv.org/abs/2509.10811
+https://arxiv.org/abs/2509.10821
+https://arxiv.org/abs/2509.10840
+https://arxiv.org/abs/2509.11074
+https://arxiv.org/abs/2509.11110
+https://arxiv.org/abs/2509.11190
+https://arxiv.org/abs/2509.11198
+
+https://arxiv.org/abs/2509.11350
+* https://arxiv.org/abs/2509.11370 # Neural Decoders for Universal Quantum Algorithms, J. Pablo Bonilla Ataides, Andi Gu, Susanne F. Yelin, Mikhail D. Lukin
+https://arxiv.org/abs/2509.11390
+https://arxiv.org/abs/2509.11450
+https://arxiv.org/abs/2509.11509
+* https://arxiv.org/abs/2509.11535 # Combinatorial optimization enhanced by shallow quantum circuits with 104 superconducting qubits, Xuhao Zhu, Zuoheng Zou, Feitong Jin, Pavel Mosharev, Maolin Luo, Yaozu Wu, Jiachen Chen, Chuanyu Zhang, Yu Gao, Ning Wang, Yiren Zou, Aosai Zhang, Fanhao Shen, Zehang Bao, Zitian Zhu, Jiarun Zhong, Zhengyi Cui, Yihang Han, Yiyang He, Han Wang, Jia-Nan Yang, Yanzhe Wang, Jiayuan Shen, Gongyu Liu, Zixuan Song, Jinfeng Deng, Hang Dong, Pengfei Zhang, Chao Song, Zhen Wang, Hekang Li, Qiujiang Guo, Man-Hong Yung, H. Wang
+* https://arxiv.org/abs/2509.11861 # Optimizing Quantum Photonic Integrated Circuits using Differentiable Tensor Networks, Mathias Van Regemortel, Thomas Van Vaerenbergh
+https://arxiv.org/abs/2509.11872
+https://arxiv.org/abs/2509.11900
+https://arxiv.org/abs/2509.11911
+
 https://arxiv.org/abs/2509.11980
 https://arxiv.org/abs/2509.10539
 https://arxiv.org/abs/2509.12014
