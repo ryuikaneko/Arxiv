@@ -1,5 +1,27 @@
 20250916
 
+https://arxiv.org/abs/2509.11217
+https://arxiv.org/abs/2509.11223
+* https://arxiv.org/abs/2509.11392 # Phases and phase transitions of an S=3/2 chain on metallic and semi-metallic surfaces, Bimla Danu, Fakher F. Assaad
+* https://arxiv.org/abs/2509.11537 # Generalization of the Affleck-Kennedy-Lieb-Tasaki Model for Quantum Ferromagnetism, Isao Maruyama, Shin Miyahara
+https://arxiv.org/abs/2509.11722
+https://arxiv.org/abs/2509.11747
+https://arxiv.org/abs/2509.11765
+https://arxiv.org/abs/2509.11780
+https://arxiv.org/abs/2509.12172
+https://arxiv.org/abs/2509.12198
+
+https://arxiv.org/abs/2509.10603
+* https://arxiv.org/abs/2509.10927 # Erasing Classical Memory with Quantum Fluctuations: Shannon Information Entropy of Reverse Quantum Annealing, Elijah Pelofske, Cristiano Nisoli
+https://arxiv.org/abs/2509.11437
+https://arxiv.org/abs/2509.11505
+https://arxiv.org/abs/2509.11703
+https://arxiv.org/abs/2509.11797
+https://arxiv.org/abs/2509.11812
+* https://arxiv.org/abs/2509.12202 # High-capacity associative memory in a quantum-optical spin glass, Brendan P. Marsh, David Atri Schuller, Yunpeng Ji, Henry S. Hunt, Surya Ganguli, Sarang Gopalakrishnan, Jonathan Keeling, Benjamin L. Lev
+https://arxiv.org/abs/2509.10634
+https://arxiv.org/abs/2509.10657
+
 https://arxiv.org/abs/2509.10672
 * https://arxiv.org/abs/2509.10700 # Stabilizer-Shannon Renyi Equivalence: Exact Results for Quantum Critical Chains, M. A. Rajabpour
 * https://arxiv.org/abs/2509.10756 # Parameter estimation with uncertainty quantification from continuous measurement data using neural network ensembles, Amanuel Anteneh
