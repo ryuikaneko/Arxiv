@@ -3,12 +3,11 @@
 https://arxiv.org/abs/2509.11980
 https://arxiv.org/abs/2509.10539
 https://arxiv.org/abs/2509.12014
-https://arxiv.org/abs/2509.12075
-https://arxiv.org/abs/2509.12109
-https://arxiv.org/abs/2509.10808
-https://arxiv.org/abs/2509.12127
-https://arxiv.org/abs/2509.12184
-https://arxiv.org/abs/2309.10856
+* https://arxiv.org/abs/2509.12075 # Adiabatically driven dissipative many-body quantum spin systems, Paulo J. Paulino, Stefan Teufel, Federico Carollo, Igor Lesanovsky
+* https://arxiv.org/abs/2509.12109 # Spatial structure of multipartite entanglement at measurement induced phase transitions, James Allen, William Witczak-Krempa
+* https://arxiv.org/abs/2509.10808 # Gaussian fixed lines of S=1/2 XXZ chain with next-nearest neighbor interaction and sl2 loop algebra, Daiki Yomatsu, Kiyohide Nomura
+* https://arxiv.org/abs/2509.12127 # QEDtool: a Python package for numerical quantum information in quantum electrodynamics, Jesse Smeets, Preslav Asenov, Alessio Serafini
+* https://arxiv.org/abs/2509.12184 # From hidden order to skyrmions: Quantum Hall states in an extended Hofstadter-Fermi-Hubbard model, Fabian J. Pauw, Ulrich Schollwoeck, Nathan Goldman, Sebastian Paeckel, Felix A. Palm
 https://arxiv.org/abs/2509.11616
 
 https://journals.aps.org/prx/abstract/10.1103/p8dn-glcw
