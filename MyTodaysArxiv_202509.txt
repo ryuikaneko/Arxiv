@@ -4,7 +4,7 @@ https://arxiv.org/abs/2509.12260
 https://arxiv.org/abs/2509.12280
 https://arxiv.org/abs/2509.12338
 https://arxiv.org/abs/2509.12341
-https://arxiv.org/abs/2509.12365
+* https://arxiv.org/abs/2509.12365 # Entanglement and optimization within autoregressive neural quantum states, Andrew Jreissaty, Hang Zhang, Jairo C. Quijano, Juan Carrasquilla, Roeland Wiersema
 https://arxiv.org/abs/2509.12370
 https://arxiv.org/abs/2509.12465
 https://arxiv.org/abs/2509.12502
@@ -12,10 +12,10 @@ https://arxiv.org/abs/2509.12509
 https://arxiv.org/abs/2509.12529
 
 https://arxiv.org/abs/2509.12579
-https://arxiv.org/abs/2509.12621
+* https://arxiv.org/abs/2509.12621 # Stabilizer Perturbation Theory: A Systematic Construction via Schrieffer-Wolff Transformation, Xuzhe Ying, Kangle Li, Hoi Chun Po
 https://arxiv.org/abs/2509.12670
 https://arxiv.org/abs/2509.12703
-https://arxiv.org/abs/2509.12717
+* https://arxiv.org/abs/2509.12717 # Ancilla-train quantum algorithm for simulating non-Markovian open quantum systems, Hans Michael Christensen, Johannes Agerskov, Frederik Nathan
 https://arxiv.org/abs/2509.12749
 https://arxiv.org/abs/2509.12782
 https://arxiv.org/abs/2509.12832
@@ -23,7 +23,7 @@ https://arxiv.org/abs/2509.12835
 https://arxiv.org/abs/2509.12933
 
 https://arxiv.org/abs/2509.12949
-https://arxiv.org/abs/2509.13017
+* https://arxiv.org/abs/2509.13017 # Mitigating the sign problem by quantum computing, Kwai-Kong Ng, Min-Fong Yang
 https://arxiv.org/abs/2509.13034
 https://arxiv.org/abs/2509.13082
 https://arxiv.org/abs/2509.13094
@@ -31,10 +31,10 @@ https://arxiv.org/abs/2509.13096
 https://arxiv.org/abs/2509.13280
 https://arxiv.org/abs/2509.12304
 https://arxiv.org/abs/2509.12305
-https://arxiv.org/abs/2509.12323
+* https://arxiv.org/abs/2509.12323 # Accurate ground states of SU(2) lattice gauge theory in 2+1D and 3+1D, Thomas Spriggs, Eliska Greplova, Juan Carrasquilla, Jannes Nys
 
-https://arxiv.org/abs/2509.12355
-https://arxiv.org/abs/2509.12431
+* https://arxiv.org/abs/2509.12355 # A graphical diagnostic of topological order using ZX calculus, Sergi Mas-Mendoza, Richard D. P. East, Michele Filippone, Adolfo G. Grushin
+* https://arxiv.org/abs/2509.12431 # Neural-Quantum-States Impurity Solver for Quantum Embedding Problems, Yinzhanghao Zhou, Tsung-Han Lee, Ao Chen, Nicola Lanata, Hong Guo
 https://arxiv.org/abs/2509.12679
 https://arxiv.org/abs/2509.12992
 https://arxiv.org/abs/2509.13298
