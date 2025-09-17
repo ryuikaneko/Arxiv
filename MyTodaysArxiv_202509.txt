@@ -1,5 +1,16 @@
 20250916
 
+https://arxiv.org/abs/2509.12180
+* https://arxiv.org/abs/2509.10610 # Finite-Size Spectral Signatures of Order by Quantum Disorder: A Perspective from Anderson's Tower of States, Subhankar Khatua, Griffin C. Howson, Michel J. P. Gingras, Jeffrey G. Rau
+https://arxiv.org/abs/2509.10630
+* https://arxiv.org/abs/2509.10797 # An Orbit-qubit Quantum Processor of Ultracold Atoms, Ming-Gen He, Wei-Yong Zhang, Zhen-Sheng Yuan, Jian-Wei Pan
+https://arxiv.org/abs/2509.10876
+https://arxiv.org/abs/2509.10907
+* https://arxiv.org/abs/2509.10930 # Correlated interlayer quantum Hall state in alternating twisted trilayer graphene, Dohun Kim, Gyeoul Lee, Nicolas Leconte, Seyoung Jin, Takashi Taniguchi, Kenji Watanabe, Jeil Jung, Gil Young Cho, Youngwook Kim
+https://arxiv.org/abs/2509.10976
+https://arxiv.org/abs/2509.10985
+https://arxiv.org/abs/2509.11028
+
 https://arxiv.org/abs/2509.11217
 https://arxiv.org/abs/2509.11223
 * https://arxiv.org/abs/2509.11392 # Phases and phase transitions of an S=3/2 chain on metallic and semi-metallic surfaces, Bimla Danu, Fakher F. Assaad
