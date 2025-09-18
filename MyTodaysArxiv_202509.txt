@@ -1,5 +1,22 @@
 20250918
 
+https://arxiv.org/abs/2509.13362
+https://arxiv.org/abs/2509.13407
+* https://arxiv.org/abs/2509.13420 # Thermal states emerging from low-entanglement background in disordered spin models, Yule Ma, Qianqian Chen, Mingyang Li, Zlatko Papic, Zheng Zhu
+https://arxiv.org/abs/2509.13479
+https://arxiv.org/abs/2509.13495
+
+https://arxiv.org/abs/2509.13500
+https://arxiv.org/abs/2509.13502
+https://arxiv.org/abs/2509.13542
+https://arxiv.org/abs/2509.13543
+https://arxiv.org/abs/2509.13551
+https://arxiv.org/abs/2509.13554
+* https://arxiv.org/abs/2509.13746 # Hierarchical structures in the ground state of the spin-12 antiferromagnetic Heisenberg model on the pyrochlore lattice: a large scale unrestricted variational study, Rong Cheng, Tao Li
+https://arxiv.org/abs/2509.13781
+* https://arxiv.org/abs/2509.13900 # Fate of Topological Dirac Magnons in van der Waals Ferromagnets at Finite Temperature, Rintaro Eto, Ignacio Salgado-Linares, Masahito Mochizuki, Johannes Knolle, Alexander Mook
+https://arxiv.org/abs/2509.13953
+
 https://arxiv.org/abs/2509.13977
 https://arxiv.org/abs/2509.14027
 https://arxiv.org/abs/2509.14207
