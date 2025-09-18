@@ -7,7 +7,7 @@ https://arxiv.org/abs/2509.13451
 https://arxiv.org/abs/2509.13453
 https://arxiv.org/abs/2509.13519
 https://arxiv.org/abs/2509.13705
-https://arxiv.org/abs/2509.13821
+* https://arxiv.org/abs/2509.13821 # Learning Minimal Representations of Many-Body Physics from Snapshots of a Quantum Simulator, Frederik Moller, Gabriel Fernandez-Fernandez, Thomas Schweigler, Paulin de Schoulepnikoff, Joerg Schmiedmayer, Gorka Munoz-Gil
 https://arxiv.org/abs/2509.14026
 https://arxiv.org/abs/2509.14098
 
