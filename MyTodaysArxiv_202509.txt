@@ -1,5 +1,16 @@
 20250918
 
+https://arxiv.org/abs/2509.13977
+https://arxiv.org/abs/2509.14027
+https://arxiv.org/abs/2509.14207
+https://arxiv.org/abs/2509.13404
+https://arxiv.org/abs/2509.13528
+https://arxiv.org/abs/2509.13904
+https://arxiv.org/abs/2509.13928
+* https://arxiv.org/abs/2509.14196 # Quantum Utility in Simulating the Real-time Dynamics of the Fermi-Hubbard Model using Superconducting Quantum Computers, Talal Ahmed Chowdhury, Vladimir Korepin, Vincent R. Pascuzzi, Kwangmin Yu
+https://arxiv.org/abs/2509.13367
+https://arxiv.org/abs/2509.13406
+
 https://arxiv.org/abs/2509.13410
 https://arxiv.org/abs/2509.13423
 https://arxiv.org/abs/2509.13440
