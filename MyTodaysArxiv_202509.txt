@@ -6,13 +6,13 @@ https://journals.aps.org/prl/abstract/10.1103/dqyf-kl8x
 
 20250917
 
-https://arxiv.org/abs/2509.12311
-https://arxiv.org/abs/2509.12320
-https://arxiv.org/abs/2509.12373
+* https://arxiv.org/abs/2509.12311 # Antiferromagnetism and Stripe Channel Order in the SU(N)-Symmetric Two-Channel Kondo Lattice Model, Elyasaf Y. Cohen, Fakher F. Assaad, Snir Gazit
+* https://arxiv.org/abs/2509.12320 # Putting a new spin on the incommensurate Kekule spiral: from spin-valley locking and collective modes to fermiology and implications for superconductivity, Ziwei Wang, Glenn Wagner, Yves H. Kwan, Nick Bultinck, Steven H. Simon, S.A. Parameswaran
+* https://arxiv.org/abs/2509.12373 # Topological Phase Diagram of Generalized SSH Models with Interactions, Yuxiao Hang, Stephan Haas
 https://arxiv.org/abs/2509.12401
 https://arxiv.org/abs/2509.12601
 https://arxiv.org/abs/2509.12731
-https://arxiv.org/abs/2509.13057
+* https://arxiv.org/abs/2509.13057 # Nature of the Topological Transition of the Kitaev Model in [111] Magnetic Field, S. Thiagarajan, C. Watson, T. Yzeiri, H. Hu, B. Uchoa, F. Krueger
 https://arxiv.org/abs/2509.13147
 https://arxiv.org/abs/2509.13159
 https://arxiv.org/abs/2509.13180
@@ -20,7 +20,7 @@ https://arxiv.org/abs/2509.13180
 https://arxiv.org/abs/2504.02576
 https://arxiv.org/abs/2509.08556
 https://arxiv.org/abs/2509.12326
-https://arxiv.org/abs/2509.13140
+* https://arxiv.org/abs/2509.13140 # From higher-order moments to time correlation functions in strongly correlated systems: A DMRG-based memory kernel coupling theory, Yunhao Liu, Wenjie Dou
 
 https://arxiv.org/abs/2509.12260
 https://arxiv.org/abs/2509.12280
