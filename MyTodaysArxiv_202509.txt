@@ -6,18 +6,18 @@ https://arxiv.org/abs/2509.14605
 https://arxiv.org/abs/2509.14696
 https://arxiv.org/abs/2509.14716
 https://arxiv.org/abs/2509.14923
-https://arxiv.org/abs/2509.15028
+* https://arxiv.org/abs/2509.15028 # A causality-based divide-and-conquer algorithm for nonequilibrium Green's function calculations with quantics tensor trains, Ken Inayoshi, Maksymilian Sroda, Anna Kauch, Philipp Werner, Hiroshi Shinaoka
 https://arxiv.org/abs/2509.15094
 https://arxiv.org/abs/2509.15102
 https://arxiv.org/abs/2509.15118
 
-https://arxiv.org/abs/2509.15215
+* https://arxiv.org/abs/2509.15215 # Competing and Intertwined Orders in Boson-Doped Mott Antiferromagnets, Xin Lu, Jia-Xin Zhang, Lukas Homeier, Hong-Chen Jiang, Shou-Shu Gong, D. N. Sheng, Zheng-Yu Weng
 https://arxiv.org/abs/2509.14701
 https://arxiv.org/abs/2509.14742
 https://arxiv.org/abs/2509.15064
 https://arxiv.org/abs/2509.15204
 https://arxiv.org/abs/2407.05243
-https://arxiv.org/abs/2509.14329
+* https://arxiv.org/abs/2509.14329 # Generation of Volume-Law Entanglement by Local-Measurement-Only Quantum Dynamics, Surajit Bera, Igor V. Gornyi, Sumilan Banerjee, Yuval Gefen
 https://arxiv.org/abs/2509.14794
 https://arxiv.org/abs/2509.14763
 https://arxiv.org/abs/2509.14810
