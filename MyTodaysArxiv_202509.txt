@@ -1,5 +1,81 @@
 20250923
 
+https://arxiv.org/abs/2509.16242
+* https://arxiv.org/abs/2509.16244 # How Can Quantum Deep Learning Improve Large Language Models?, Emily Jimin Roh, Hyojun Ahn, Samuel Yen-Chi Chen, Soohyun Park, Joongheon Kim
+https://arxiv.org/abs/2509.16247
+https://arxiv.org/abs/2509.16258
+https://arxiv.org/abs/2509.16263
+https://arxiv.org/abs/2509.16265
+https://arxiv.org/abs/2509.16272
+https://arxiv.org/abs/2509.16333
+https://arxiv.org/abs/2509.16371
+https://arxiv.org/abs/2509.16377
+
+https://arxiv.org/abs/2509.16410
+https://arxiv.org/abs/2509.16439
+https://arxiv.org/abs/2509.16556
+https://arxiv.org/abs/2509.16563
+https://arxiv.org/abs/2509.16576
+https://arxiv.org/abs/2509.16640
+https://arxiv.org/abs/2509.16653
+https://arxiv.org/abs/2509.16675
+https://arxiv.org/abs/2509.16699
+https://arxiv.org/abs/2509.16751
+
+* https://arxiv.org/abs/2509.16758 # Error stabilized logical qubits in qudit generalizations of the monitored Kitaev model, Aayush Vijayvargia, Ezra Day-Roberts, Onur Erten
+https://arxiv.org/abs/2509.16777
+https://arxiv.org/abs/2509.16792
+* https://arxiv.org/abs/2509.16799 # A Study on Stabilizer Renyi Entropy Estimation using Machine Learning, Vincenzo Lipardi, Domenica Dibenedetto, Georgios Stamoulis, Mark H.M. Winands
+https://arxiv.org/abs/2509.16817
+https://arxiv.org/abs/2509.16819
+https://arxiv.org/abs/2509.16841
+https://arxiv.org/abs/2509.16852
+https://arxiv.org/abs/2509.16887
+https://arxiv.org/abs/2509.16951
+
+https://arxiv.org/abs/2509.16993
+https://arxiv.org/abs/2509.17014
+https://arxiv.org/abs/2509.17032
+https://arxiv.org/abs/2509.17043
+https://arxiv.org/abs/2509.17060
+https://arxiv.org/abs/2509.17081
+https://arxiv.org/abs/2509.17085
+https://arxiv.org/abs/2509.17106
+https://arxiv.org/abs/2509.17108
+https://arxiv.org/abs/2509.17127
+
+https://arxiv.org/abs/2509.17148
+https://arxiv.org/abs/2509.17261
+https://arxiv.org/abs/2509.17296
+https://arxiv.org/abs/2509.17298
+https://arxiv.org/abs/2509.17332
+https://arxiv.org/abs/2509.17343
+* https://arxiv.org/abs/2509.17417 # Stabilizer Renyi Entropy and its Transition in the Coupled Sachdev-Ye-Kitaev Model, Pengfei Zhang, Shuyan Zhou, Ning Sun
+* https://arxiv.org/abs/2509.17473 # Entanglement manifestation of knot topology in a non-Hermitian lattice, Guoying Zhang, Li Wang, Shu Chen
+https://arxiv.org/abs/2509.17576
+* https://arxiv.org/abs/2509.17579 # Noise robustness of problem-to-simulator mappings for quantum many-body physics, Rahul Trivedi, J. Ignacio Cirac
+
+https://arxiv.org/abs/2509.17580
+https://arxiv.org/abs/2509.17700
+https://arxiv.org/abs/2509.17715
+https://arxiv.org/abs/2509.17723
+* https://arxiv.org/abs/2509.17754 # Digital controllability of transverse field Ising chains, Vincenzo Roberto Arezzo, Ruiyi Wang, Kiran Thengil, Giovanni Pecci, Giuseppe Santoro
+https://arxiv.org/abs/2509.17758
+https://arxiv.org/abs/2509.17822
+https://arxiv.org/abs/2509.17837
+https://arxiv.org/abs/2509.17893
+https://arxiv.org/abs/2509.17896
+
+* https://arxiv.org/abs/2509.18023 # Open-system quantum many-body scars: a theory, Lorenzo Gotta
+* https://arxiv.org/abs/2509.18029 # Probing the Ground State of the Antiferromagnetic Heisenberg Model on the Kagome Lattice using Geometrically Informed Variational Quantum Eigensolver, Abdellah Tounsi, Nacer Eddine Belaloui, Abdelmouheymen Rabah Khamadja, Takei Eddine Fadi Lalaoui, Mohamed Messaoud Louamri, David E. Bernal Neira, Mohamed Taha Rouabah
+https://arxiv.org/abs/2509.16253
+https://arxiv.org/abs/2509.16367
+https://arxiv.org/abs/2509.17322
+https://arxiv.org/abs/2509.17324
+* https://arxiv.org/abs/2509.17414 # Dimensionality effect on exceptional fermionic superfluidity with spin-dependent asymmetric hopping, Soma Takemori, Kazuki Yamamoto, Akihisa Koga
+* https://arxiv.org/abs/2509.17975 # Optimal local basis truncation of lattice quantum many-body systems, Peter Majcen, Giovanni Cataldi, Pietro Silvi, Simone Montangero
+* https://arxiv.org/abs/2509.18075 # Pseudogap in a Fermi-Hubbard quantum simulator, Lev Haldar Kendrick, Anant Kale, Youqi Gang, Alexander Dennisovich Deters, Martin Lebrat, Aaron W. Young, Markus Greiner
+https://arxiv.org/abs/2509.17601
 
 https://journals.aps.org/prl/abstract/10.1103/jnzl-r8rm
 https://journals.aps.org/prb/abstract/10.1103/1mr2-s6s8
