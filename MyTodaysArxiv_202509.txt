@@ -1,5 +1,23 @@
 20250923
 
+https://arxiv.org/abs/2509.16309
+https://arxiv.org/abs/2509.16312
+https://arxiv.org/abs/2509.16335
+https://arxiv.org/abs/2509.16708
+https://arxiv.org/abs/2509.16880
+https://arxiv.org/abs/2509.17113
+https://arxiv.org/abs/2509.17368
+https://arxiv.org/abs/2509.17403
+https://arxiv.org/abs/2509.17408
+https://arxiv.org/abs/2509.17648
+
+https://arxiv.org/abs/2509.17742
+https://arxiv.org/abs/2509.17798
+https://arxiv.org/abs/2509.17813
+https://arxiv.org/abs/2509.17828
+https://arxiv.org/abs/2509.18098
+https://arxiv.org/abs/2509.16455
+
 https://arxiv.org/abs/2509.16242
 * https://arxiv.org/abs/2509.16244 # How Can Quantum Deep Learning Improve Large Language Models?, Emily Jimin Roh, Hyojun Ahn, Samuel Yen-Chi Chen, Soohyun Park, Joongheon Kim
 https://arxiv.org/abs/2509.16247
