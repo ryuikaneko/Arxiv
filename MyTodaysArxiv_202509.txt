@@ -1,6 +1,6 @@
 20250923
 
-https://arxiv.org/abs/2509.16309
+* https://arxiv.org/abs/2509.16309 # Asymptotically exact solution of the non-Hermitian disordered interacting Hatano-Nelson chain, Valeria M. Mattiello, Victor L. Quito, Eduardo Miranda
 https://arxiv.org/abs/2509.16312
 https://arxiv.org/abs/2509.16335
 https://arxiv.org/abs/2509.16708
