@@ -1,7 +1,7 @@
 20250923
 
 * https://arxiv.org/abs/2509.16309 # Asymptotically exact solution of the non-Hermitian disordered interacting Hatano-Nelson chain, Valeria M. Mattiello, Victor L. Quito, Eduardo Miranda
-https://arxiv.org/abs/2509.16312
+* https://arxiv.org/abs/2509.16312 # Berry Trashcan With Short Range Attraction:Exact px+ipy Superconductivity in Rhombohedral Graphene, Ming-Rui Li, Yves H. Kwan, Hong Yao, B. Andrei Bernevig
 https://arxiv.org/abs/2509.16335
 https://arxiv.org/abs/2509.16708
 https://arxiv.org/abs/2509.16880
@@ -14,7 +14,7 @@ https://arxiv.org/abs/2509.17648
 https://arxiv.org/abs/2509.17742
 https://arxiv.org/abs/2509.17798
 https://arxiv.org/abs/2509.17813
-https://arxiv.org/abs/2509.17828
+* https://arxiv.org/abs/2509.17828 # Strong Disorder Renormalization Group Method for Bond Disordered Antiferromagnetic Quantum Spin Chains with Long Range Interactions: Excited States and Finite Temperature Properties, Stefan Kettemann
 https://arxiv.org/abs/2509.18098
 https://arxiv.org/abs/2509.16455
 
