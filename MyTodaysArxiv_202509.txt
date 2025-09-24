@@ -1,3 +1,9 @@
+20250924
+
+https://journals.aps.org/prl/abstract/10.1103/3m3j-ds18
+https://journals.aps.org/prl/abstract/10.1103/q87n-5xhz
+
+
 20250923
 
 * https://arxiv.org/abs/2509.16309 # Asymptotically exact solution of the non-Hermitian disordered interacting Hatano-Nelson chain, Valeria M. Mattiello, Victor L. Quito, Eduardo Miranda
