@@ -1,5 +1,27 @@
 20250924
 
+https://arxiv.org/abs/2509.18238
+* https://arxiv.org/abs/2509.18247 # SU(4) Kondo Lattice in Semiconductor Moire Materials, Sunghoon Kim
+https://arxiv.org/abs/2509.18256
+https://arxiv.org/abs/2509.18321
+https://arxiv.org/abs/2509.18332
+https://arxiv.org/abs/2509.18363
+https://arxiv.org/abs/2509.18453
+https://arxiv.org/abs/2509.18524
+https://arxiv.org/abs/2509.18563
+https://arxiv.org/abs/2509.18590
+
+https://arxiv.org/abs/2509.18604
+https://arxiv.org/abs/2509.18828
+* https://arxiv.org/abs/2509.18845 # Interacting-cluster spin liquids with robust flat bands evolving into higher-rank half-moon phases and topological Lifshitz transitions, Naimo Davier, Ludovic D.C. Jaubert
+https://arxiv.org/abs/2509.18922
+https://arxiv.org/abs/2509.18923
+* https://arxiv.org/abs/2509.19006 # BatchTNMC: Efficient sampling of two-dimensional spin glasses using tensor network Monte Carlo, Tao Chen, Jingtong Zhang, Jing Liu, Youjin Deng, Pan Zhang
+https://arxiv.org/abs/2509.19075
+https://arxiv.org/abs/2509.19137
+https://arxiv.org/abs/2509.19262
+https://arxiv.org/abs/2509.19180
+
 https://arxiv.org/abs/2509.18204
 https://arxiv.org/abs/2509.18205
 * https://arxiv.org/abs/2509.18259 # Order from chaos with adaptive circuits on quantum hardware, Bibek Pokharel, Haining Pan, Kemal Aziz, Luke C. G. Govia, Sriram Ganeshan, Thomas Iadecola, Justin H. Wilson, Barbara A. Jones, Abhinav Deshpande, Jedediah H. Pixley, Maika Takita
@@ -38,6 +60,7 @@ https://arxiv.org/abs/2509.18952
 https://journals.aps.org/prl/abstract/10.1103/3m3j-ds18
 https://journals.aps.org/prl/abstract/10.1103/q87n-5xhz
 https://journals.aps.org/prapplied/abstract/10.1103/yqj3-hyxv
+https://journals.aps.org/pre/abstract/10.1103/wvpl-jdgk
 
 
 20250923
