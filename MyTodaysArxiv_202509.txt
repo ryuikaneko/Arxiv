@@ -1,5 +1,40 @@
 20250924
 
+https://arxiv.org/abs/2509.18204
+https://arxiv.org/abs/2509.18205
+* https://arxiv.org/abs/2509.18259 # Order from chaos with adaptive circuits on quantum hardware, Bibek Pokharel, Haining Pan, Kemal Aziz, Luke C. G. Govia, Sriram Ganeshan, Thomas Iadecola, Justin H. Wilson, Barbara A. Jones, Abhinav Deshpande, Jedediah H. Pixley, Maika Takita
+* https://arxiv.org/abs/2509.18262 # Training the classification capability of large-scale quantum cellular automata, Mario Boneberg, Simon Kochsiek, Gabriele Perfetto, Igor Lesanovsky
+https://arxiv.org/abs/2509.18294
+https://arxiv.org/abs/2509.18312
+https://arxiv.org/abs/2509.18324
+https://arxiv.org/abs/2509.18329
+https://arxiv.org/abs/2509.18340
+* https://arxiv.org/abs/2509.18379 # Scalable Steady-State Entanglement with Floquet-Engineered Stabilizer Pumping in Neutral Atom Arrays, F. Q. Guo, Shi-Lei Su, Weibin Li, X. Q. Shao
+
+* https://arxiv.org/abs/2509.18474 # Shift of quantum critical point of discrete time crystal on a noisy quantum simulator, Yuta Hirasaki, Toshinari Itoko, Naoki Kanazawa, Eiji Saitoh
+https://arxiv.org/abs/2509.18479
+https://arxiv.org/abs/2509.18482
+https://arxiv.org/abs/2509.18533
+https://arxiv.org/abs/2509.18614
+https://arxiv.org/abs/2509.18674
+https://arxiv.org/abs/2509.18803
+https://arxiv.org/abs/2509.18879
+https://arxiv.org/abs/2509.18925
+https://arxiv.org/abs/2509.19062
+
+https://arxiv.org/abs/2509.19157
+https://arxiv.org/abs/2509.19195
+https://arxiv.org/abs/2509.19223
+https://arxiv.org/abs/2509.19241
+https://arxiv.org/abs/2509.19299
+https://arxiv.org/abs/2509.12680
+https://arxiv.org/abs/2509.18248
+* https://arxiv.org/abs/2509.18269 # Eigenstate Thermalization in 1+1-Dimensional SU(2) Lattice Gauge Theory Coupled with Dynamical Fermions, Diptarka Das, Lukas Ebner, Saurabh V. Kadam, Indrakshi Raychowdhury, Andreas Schaefer, Xiaojun Yao
+* https://arxiv.org/abs/2509.18483 # Physics-informed time series analysis with Kolmogorov-Arnold Networks under Ehrenfest constraints, Abhijit Sen, Illya V. Lukin, Kurt Jacobs, Lev Kaplan, Andrii G. Sotnikov, Denys I. Bondar
+https://arxiv.org/abs/2509.18943
+
+https://arxiv.org/abs/2509.18952
+
 https://journals.aps.org/prl/abstract/10.1103/3m3j-ds18
 https://journals.aps.org/prl/abstract/10.1103/q87n-5xhz
 https://journals.aps.org/prapplied/abstract/10.1103/yqj3-hyxv
