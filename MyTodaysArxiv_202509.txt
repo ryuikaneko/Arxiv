@@ -1,5 +1,14 @@
 20250925
 
+https://arxiv.org/abs/2509.19709
+https://arxiv.org/abs/2509.19862
+https://arxiv.org/abs/2509.19887
+* https://arxiv.org/abs/2509.19944 # Local reminiscence in the PXP model, Francesco Perciavalle, Gian Marco Rizzo, Francesco Plastina, Nicola Lo Gullo
+* https://arxiv.org/abs/2509.19963 # Computational complexity of injective projected entangled pair states, Dylan Harley, Freek Witteveen, Daniel Malz
+* https://arxiv.org/abs/2509.20173 # AI-enhanced Quantum Simulation of Schwinger Model, Ao-Ning Wang, Min-Quan He, Z. D. Wang
+https://arxiv.org/abs/2509.19441
+https://arxiv.org/abs/2509.19578
+
 * https://arxiv.org/abs/2509.19320 # Introduction to some of the simplest topological phases of matter, Frank Schindler
 https://arxiv.org/abs/2509.19394
 * https://arxiv.org/abs/2509.19421 # Dynamical localization of interacting ultracold atoms in one-dimensional quasi-periodic potentials, Attis V. M. Marino, M. A. Caracanhas, V. S. Bagnato, B. Chakrabarti
