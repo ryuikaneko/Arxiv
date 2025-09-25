@@ -1,5 +1,37 @@
 20250925
 
+* https://arxiv.org/abs/2509.19320 # Introduction to some of the simplest topological phases of matter, Frank Schindler
+https://arxiv.org/abs/2509.19394
+* https://arxiv.org/abs/2509.19421 # Dynamical localization of interacting ultracold atoms in one-dimensional quasi-periodic potentials, Attis V. M. Marino, M. A. Caracanhas, V. S. Bagnato, B. Chakrabarti
+* https://arxiv.org/abs/2509.19433 # Unifying framework for non-Hermitian and Hermitian topology in driven-dissipative systems, Clara C. Wanjura, Andreas Nunnenkamp
+https://arxiv.org/abs/2509.19436
+https://arxiv.org/abs/2509.19437
+https://arxiv.org/abs/2509.19440
+https://arxiv.org/abs/2509.19537
+https://arxiv.org/abs/2509.19606
+https://arxiv.org/abs/2509.19675
+
+* https://arxiv.org/abs/2509.19704 # Holographic Aspects of Dynamical Mean-Field Theory, Kouichi Okunishi, Akihisa Koga
+https://arxiv.org/abs/2509.19735
+https://arxiv.org/abs/2509.19764
+https://arxiv.org/abs/2509.19796
+https://arxiv.org/abs/2509.19825
+* https://arxiv.org/abs/2509.19868 # Building cluster systems, Naimo Davier
+* https://arxiv.org/abs/2509.20054 # Generalized Li-Haldane Correspondence in Critical Free-Fermion Systems, Yuxuan Guo, Sheng Yang, Xue-Jia Yu
+* https://arxiv.org/abs/2509.20078 # Hierarchy of timescales in a disordered spin-1/2 XX ladder, Kadir Ceven, Lukas Peinemann, Fabian Heidrich-Meisner
+https://arxiv.org/abs/2509.20163
+https://arxiv.org/abs/2509.20188
+
+https://arxiv.org/abs/2509.20199
+https://arxiv.org/abs/2509.20224
+* https://arxiv.org/abs/2509.20352 # Superfluid-Mott transition in a frustrated triangular optical lattice, Mehedi Hasan, Luca Donini, Sompob Shanokprasith, Daniel Braund, Tobias Marozsak, Moritz Epping, Daniel Reed, Max Melchner, Tiffany Harte, Ulrich Schneider
+https://arxiv.org/abs/2509.19877
+https://arxiv.org/abs/2509.19983
+* https://arxiv.org/abs/2509.19991 # Exact Solvability and Integrability Signatures in a Periodically Driven Infinite-Range Spin Chain: The Case of Floquet interval pi/2, Harshit Sharma, Sashmita Rout, Avadhut V. Purohit, Udaysinh T. Bhosale
+* https://arxiv.org/abs/2509.20258 # Fidelity zeros and Lee-Yang theory of quantum phase transitions, Tian-Yi Gu, Gaoyong Sun
+https://arxiv.org/abs/2509.20276
+https://arxiv.org/abs/2509.19715
+
 https://journals.aps.org/prb/abstract/10.1103/pbrk-3zgd
 https://journals.aps.org/prb/abstract/10.1103/wdfh-hhq1
 https://journals.aps.org/prb/abstract/10.1103/vyvq-chlt
