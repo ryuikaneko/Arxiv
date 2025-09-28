@@ -1,5 +1,30 @@
 20250926
 
+https://arxiv.org/abs/2509.20431
+https://arxiv.org/abs/2509.20435
+
+https://arxiv.org/abs/2509.20445
+https://arxiv.org/abs/2509.20462
+* https://arxiv.org/abs/2509.20498 # Quantum Coherence in a Maximally Hot Hubbard Chain, Catalin Pascu Moca, Ovidiu I. Patu, Balazs Dora, Gergely Zarand
+* https://arxiv.org/abs/2509.20504 # Hot but Coherent: Doublons at Infinite Temperature in the Hubbard chain, Catalin Pascu Moca, Balazs Dora, Gergely Zarand
+https://arxiv.org/abs/2509.20626
+https://arxiv.org/abs/2509.20647
+https://arxiv.org/abs/2509.20687
+https://arxiv.org/abs/2509.20759
+* https://arxiv.org/abs/2509.20772 # Super-Solid phase in a U(2) symmetric S = 1 Magnet on the Triangular Lattice, Si-Cheng Wang, Zheng-Xin Liu
+https://arxiv.org/abs/2509.20545
+
+https://arxiv.org/abs/2509.20610
+https://arxiv.org/abs/2509.20663
+https://arxiv.org/abs/2509.20665
+https://arxiv.org/abs/2509.20697
+https://arxiv.org/abs/2509.20922
+https://arxiv.org/abs/2509.21308
+* https://arxiv.org/abs/2509.20558 # (2+1)D Quantum Electrodynamics at Finite Density on a Quantum Computer, Emil Otis Rosanowski, Arianna Crippa, Lena Funcke, Paulo Vitor Itaborai, Karl Jansen, Simran Singh
+https://arxiv.org/abs/2509.20604
+https://arxiv.org/abs/2509.21248
+https://arxiv.org/abs/2509.20944
+
 https://journals.aps.org/prb/abstract/10.1103/yzjd-pk8h
 https://journals.aps.org/prb/abstract/10.1103/lwrz-jxrr
 https://journals.aps.org/prb/abstract/10.1103/tjcf-yryh
