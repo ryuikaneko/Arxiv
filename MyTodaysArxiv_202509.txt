@@ -1,3 +1,49 @@
+20250929
+
+* https://arxiv.org/abs/2509.21338 # Dimer-driven multiple reentrant localization with composite potential, Pei-Jie Chang, Dong Ruan, Gui-Lu Long
+https://arxiv.org/abs/2509.21372
+https://arxiv.org/abs/2509.21374
+https://arxiv.org/abs/2509.21512
+https://arxiv.org/abs/2509.21540
+https://arxiv.org/abs/2509.21558
+* https://arxiv.org/abs/2509.21585 # Smearing of dynamical quantum phase transitions in dissipative free-fermion systems, Gilles Parez, Vincenzo Alba
+https://arxiv.org/abs/2509.21591
+https://arxiv.org/abs/2509.21599
+
+https://arxiv.org/abs/2509.21638
+https://arxiv.org/abs/2509.21647
+https://arxiv.org/abs/2509.21759
+* https://arxiv.org/abs/2509.21771 # Spin-basis wavefunctions for the one-dimensional Kitaev model, Alwyn Jose Raja, Rajesh Narayanan, R. Ganesh
+* https://arxiv.org/abs/2509.21813 # Low-energy photoexcitation inside the Mott gap in doped Hubbard and t-J ladders, Sumal Chandra, Kazuya Shinjo, Shigetoshi Sota, Seiji Yunoki, Takami Tohyama
+* https://arxiv.org/abs/2509.21901 # Gapless and ordered phases in spin-1/2 Kitaev-XX-Gamma chain, Zebin Zhuang, Wang Yang
+https://arxiv.org/abs/2509.21985
+https://arxiv.org/abs/2509.22051
+* https://arxiv.org/abs/2509.22177 # Predictor-corrector method based on dynamic mode decomposition for tensor-train nonequilibrium Green's function calculations, Maksymilian Sroda, Ken Inayoshi, Michael Schueler, Hiroshi Shinaoka, Philipp Werner
+https://arxiv.org/abs/2509.22226
+
+https://arxiv.org/abs/2509.22274
+https://arxiv.org/abs/2509.22368
+* https://arxiv.org/abs/2509.22473 # Competing s-wave pairing in overdoped t-J model, Wayne Zheng, Tao Cheng, Zheng-Yuan Yue, Fu-Chun Zhang, Wei-Qiang Chen, Zheng-Cheng Gu
+* https://arxiv.org/abs/2509.22515 # Metric response of relative entropy: a universal indicator of quantum criticality, Pritam Sarkar, Diptiman Sen, Arnab Sen
+https://arxiv.org/abs/2509.22649
+https://arxiv.org/abs/2509.21410
+https://arxiv.org/abs/2509.21441
+https://arxiv.org/abs/2509.21582
+* https://arxiv.org/abs/2509.21683 # Fast mixing of operator-loop path-integral quantum Monte Carlo for stoquastic XY Hamiltonians, Chaithanya Rayudu, Jun Takahashi
+https://arxiv.org/abs/2509.21706
+
+https://arxiv.org/abs/2509.21936
+https://arxiv.org/abs/2509.21974
+https://arxiv.org/abs/2509.22096
+https://arxiv.org/abs/2509.22103
+https://arxiv.org/abs/2509.22104
+* https://arxiv.org/abs/2509.22176 # Mpemba Effects in Quantum Complexity, Sreemayee Aditya, Alessandro Summer, Piotr Sierant, Xhek Turkeshi
+https://arxiv.org/abs/2509.22182
+https://arxiv.org/abs/2509.22270
+https://arxiv.org/abs/2509.22585
+https://arxiv.org/abs/2509.22586
+
+
 20250926
 
 https://arxiv.org/abs/2509.20431
