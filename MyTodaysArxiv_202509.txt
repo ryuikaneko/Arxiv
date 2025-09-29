@@ -1,5 +1,25 @@
 20250929
 
+https://arxiv.org/abs/2509.21462
+https://arxiv.org/abs/2509.21555
+https://arxiv.org/abs/2509.21639
+https://arxiv.org/abs/2509.21709
+https://arxiv.org/abs/2509.21720
+https://arxiv.org/abs/2509.21804
+https://arxiv.org/abs/2509.21988
+https://arxiv.org/abs/2509.22152
+https://arxiv.org/abs/2509.22355
+https://arxiv.org/abs/2509.22372
+
+https://arxiv.org/abs/2509.22385
+https://arxiv.org/abs/2509.22401
+https://arxiv.org/abs/2509.22438
+https://arxiv.org/abs/2509.22503
+https://arxiv.org/abs/2509.22591
+https://arxiv.org/abs/2509.22604
+https://arxiv.org/abs/2509.22640
+https://arxiv.org/abs/2509.21846
+
 * https://arxiv.org/abs/2509.21338 # Dimer-driven multiple reentrant localization with composite potential, Pei-Jie Chang, Dong Ruan, Gui-Lu Long
 https://arxiv.org/abs/2509.21372
 https://arxiv.org/abs/2509.21374
