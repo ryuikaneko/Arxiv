@@ -1,5 +1,62 @@
 20250930
 
+https://arxiv.org/abs/2509.22682
+
+https://arxiv.org/abs/2509.22960
+* https://arxiv.org/abs/2509.22975 # Monte Carlo Diagonalization for Hubbard Model, B. Bernard, M. Charlebois
+* https://arxiv.org/abs/2509.22977 # Sachdev-Ye-Kitaev Model in a Quantum Glassy Landscape, Surajit Bera, Jorge Kurchan, Marco Schiro
+https://arxiv.org/abs/2509.23017
+https://arxiv.org/abs/2509.23018
+https://arxiv.org/abs/2509.23033
+* https://arxiv.org/abs/2509.23036 # Delocalization Induced by Enhanced Hyperuniformity in One-Dimensional Disordered Systems, Junmo Jeon, Harukuni Ikeda, Shiro Sakai
+https://arxiv.org/abs/2509.23096
+https://arxiv.org/abs/2509.23117
+* https://arxiv.org/abs/2509.23142 # Exploring Magnetic Phases in Dual-Species Mott insulating Spinor Lattice Gases, Rui-Shan Li, Zong-Zhen Pan, Shi-Jie Yang, Yi Zheng
+
+https://arxiv.org/abs/2509.23177
+https://arxiv.org/abs/2509.23266
+https://arxiv.org/abs/2509.23300
+https://arxiv.org/abs/2509.23390
+https://arxiv.org/abs/2509.23396
+https://arxiv.org/abs/2509.23622
+https://arxiv.org/abs/2509.23758
+https://arxiv.org/abs/2509.23932
+* https://arxiv.org/abs/2509.23945 # Tensor Network Markov Chain Monte Carlo: Efficient Sampling of Three-Dimensional Spin Glasses and Beyond, Tao Chen, Jing Liu, Youjin Deng, Pan Zhang
+https://arxiv.org/abs/2509.23954
+
+https://arxiv.org/abs/2509.23985
+https://arxiv.org/abs/2509.24071
+* https://arxiv.org/abs/2509.24415 # Strong enhancement of d-wave superconductivity in an extended checkerboard Hubbard ladder, Xichen Huang, Saisai He, Jize Zhao, Zhong-Bing Huang
+* https://arxiv.org/abs/2509.24439 # Spin-stripes in the Hubbard model: a combined DMFT and Bethe-Salpeter analysis, Ruslan Mushkaev, Francesco Petocchi, Shintaro Hoshino, Philipp Werner
+https://arxiv.org/abs/2509.24554
+https://arxiv.org/abs/2509.24581
+https://arxiv.org/abs/2509.24648
+* https://arxiv.org/abs/2509.24670 # Strong Correlations and Superconductivity in the Supermoire Lattice, Zekang Zhou, Cheng Shen, Krystof Kolar, Kenji Watanabe, Takashi Taniguchi, Cyprian Lewandowski, Mitali Banerjee
+https://arxiv.org/abs/2509.24672
+https://arxiv.org/abs/2509.24682
+
+* https://arxiv.org/abs/2509.24692 # Griffiths phase emerging from strong mutualistic disorder in high-dimensional interacting systems, Tommaso Jack Leonardi, Amos Maritan, Sandro Azaele
+https://arxiv.org/abs/2509.25060
+https://arxiv.org/abs/2509.25130
+https://arxiv.org/abs/2509.25186
+*https://arxiv.org/abs/2509.18259
+* https://arxiv.org/abs/2509.22773 # Universality of Shallow Global Quenches in Critical Spin Chains, Julia Wei, Meabh Allen, Jack Kemp, Chenbing Wang, Zixia Wei, Joel E. Moore, Norman Y. Yao
+* https://arxiv.org/abs/2509.22774 # Entanglement and apparent thermality in simulated black holes, Iason A. Sofos, Andrew Hallam, Jiannis K. Pachos
+https://arxiv.org/abs/2509.22892
+* https://arxiv.org/abs/2509.23043 # IsingFormer: Augmenting Parallel Tempering With Learned Proposals, Saleh Bunaiyan, Corentin Delacour, Shuvro Chowdhury, Kyle Lee, Kerem Y. Camsari
+https://arxiv.org/abs/2509.23144
+
+https://arxiv.org/abs/2509.23170
+https://arxiv.org/abs/2509.23431
+https://arxiv.org/abs/2509.23629
+https://arxiv.org/abs/2509.23734
+https://arxiv.org/abs/2509.23869
+* https://arxiv.org/abs/2509.24520 # Measurement-induced phase transition in interacting bosons from most likely quantum trajectory, Anna Delmonte, Zejian Li, Rosario Fazio, Alessandro Romito
+https://arxiv.org/abs/2509.24691
+https://arxiv.org/abs/2509.24882
+https://arxiv.org/abs/2509.25039
+https://arxiv.org/abs/2509.25109
+
 https://journals.aps.org/pra/abstract/10.1103/7dz3-2wlk
 https://journals.aps.org/pra/abstract/10.1103/fvny-58kf
 https://journals.aps.org/prb/abstract/10.1103/134x-s54f
