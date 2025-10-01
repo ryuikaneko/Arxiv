@@ -1,17 +1,17 @@
 20251001
 
-https://arxiv.org/abs/2509.25326
+* https://arxiv.org/abs/2509.25326 # Error detection without post-selection in adaptive quantum circuits, Eli Chertkov, Andrew C. Potter, David Hayes, Michael Foss-Feig
 https://arxiv.org/abs/2509.25327
 https://arxiv.org/abs/2509.25331
 https://arxiv.org/abs/2509.25342
 https://arxiv.org/abs/2509.25345
-https://arxiv.org/abs/2509.25404
-https://arxiv.org/abs/2509.25572
+* https://arxiv.org/abs/2509.25404 # Experimental demonstration of boson sampling as a hardware accelerator for monte carlo integration, Malaquias Correa Anguita, Teun Roelink, Sara Marzban, Wim Briels, Claudia Filippi, Jelmer Renema
+* https://arxiv.org/abs/2509.25572 # Long-Range Bosonic Systems at Thermal Equilibrium: Computational Complexity and Clustering of Correlations, Xin-Hai Tong, Tomotaka Kuwahara
 https://arxiv.org/abs/2509.25587
 https://arxiv.org/abs/2509.25702
-https://arxiv.org/abs/2509.25720
+* https://arxiv.org/abs/2509.25720 # Transformer-Based Neural Networks Backflow for Strongly Correlated Electronic Structure, Huan Ma, Bowen Kan, Honghui Shang, Jinlong Yang
 
-https://arxiv.org/abs/2509.25790
+* https://arxiv.org/abs/2509.25790 # Nonstabilizerness without Magic: Classically Simulatable Quantum States That Are Indistinguishable by Classically Simulatable Quantum Circuits, Hyukjoon Kwon
 https://arxiv.org/abs/2509.25815
 https://arxiv.org/abs/2509.25825
 https://arxiv.org/abs/2509.25829
@@ -20,14 +20,14 @@ https://arxiv.org/abs/2509.25953
 https://arxiv.org/abs/2509.26134
 https://arxiv.org/abs/2509.26229
 https://arxiv.org/abs/2509.26310
-https://arxiv.org/abs/2509.26342
+* https://arxiv.org/abs/2509.26342 # Advantage of utilizing nonlocal magic resource in Haar-random circuits, Xiao Huang, Guanhua Chen, Yao Yao
 
 https://arxiv.org/abs/2509.26602
-https://arxiv.org/abs/2509.26623
-https://arxiv.org/abs/2509.25703
+* https://arxiv.org/abs/2509.26623 # Quantum Simulation of Random Unitaries from Clebsch-Gordan Transforms, Dmitry Grinko, Satoshi Yoshida
+* https://arxiv.org/abs/2509.25703 # Probing phase transitions in non-Hermitian systems with quantum entanglement, Ling-Feng Zhang, Wing Chi Yu
 https://arxiv.org/abs/2509.25865
 https://arxiv.org/abs/2509.25980
-https://arxiv.org/abs/2509.26256
+* https://arxiv.org/abs/2509.26256 # Observation of non-Hermitian topology in cold Rydberg quantum gases, Jun Zhang, Ya-Jun Wang, Shi-Yao Shao, Bang Liu, Li-Hua Zhang, Zheng-Yuan Zhang, Xin Liu, Chao Yu, Qing Li, Han-Chao Chen, Yu Ma, Tian-Yu Han, Qi-Feng Wang, Jia-Dou Nan, Yi-Ming Yin, Dong-Yang Zhu, Qiao-Qiao Fang, Dong-Sheng Ding, Bao-Sen Shi
 https://arxiv.org/abs/2509.26479
 https://arxiv.org/abs/2509.26574
 https://arxiv.org/abs/2509.26615
