@@ -1,5 +1,37 @@
 20251001
 
+https://arxiv.org/abs/2509.25251
+https://arxiv.org/abs/2509.25318
+https://arxiv.org/abs/2509.25322
+https://arxiv.org/abs/2509.25344
+https://arxiv.org/abs/2509.25486
+https://arxiv.org/abs/2509.25490
+https://arxiv.org/abs/2509.25511
+https://arxiv.org/abs/2509.25635
+https://arxiv.org/abs/2509.25707
+https://arxiv.org/abs/2509.25761
+
+https://arxiv.org/abs/2509.25823
+https://arxiv.org/abs/2509.26022
+https://arxiv.org/abs/2509.26176
+https://arxiv.org/abs/2509.26206
+https://arxiv.org/abs/2509.26261
+https://arxiv.org/abs/2509.26285
+https://arxiv.org/abs/2509.26288
+https://arxiv.org/abs/2509.26318
+https://arxiv.org/abs/2509.26320
+https://arxiv.org/abs/2509.26387
+
+https://arxiv.org/abs/2509.26447
+https://arxiv.org/abs/2509.26472
+https://arxiv.org/abs/2509.26478
+https://arxiv.org/abs/2509.26596
+https://arxiv.org/abs/2509.26607
+https://arxiv.org/abs/2509.26608
+https://arxiv.org/abs/2509.26269
+https://arxiv.org/abs/2509.26372
+https://arxiv.org/abs/2509.26561
+
 * https://arxiv.org/abs/2509.26309 # TBPLaS 2.0: a Tight-Binding Package for Large-scale Simulation, Yunhai Li, Zewen Wu, Miao Zhang, Junyi Wang, Shengjun Yuan
 
 * https://arxiv.org/abs/2509.25326 # Error detection without post-selection in adaptive quantum circuits, Eli Chertkov, Andrew C. Potter, David Hayes, Michael Foss-Feig
