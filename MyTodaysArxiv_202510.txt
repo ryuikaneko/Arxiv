@@ -3,19 +3,19 @@
 https://arxiv.org/abs/2509.25251
 https://arxiv.org/abs/2509.25318
 https://arxiv.org/abs/2509.25322
-https://arxiv.org/abs/2509.25344
+* https://arxiv.org/abs/2509.25344 # Origin of Spin Stripes in Bilayer Nickelate La3Ni2O7, Hao-Xin Wang, Hanbit Oh, Tobias Helbig, Bai Yang Wang, Jiarui Li, Yijun Yu, Harold Y. Hwang, Hong-Chen Jiang, Yi-Ming Wu, S. Raghu
 https://arxiv.org/abs/2509.25486
 https://arxiv.org/abs/2509.25490
 https://arxiv.org/abs/2509.25511
-https://arxiv.org/abs/2509.25635
+* https://arxiv.org/abs/2509.25635 # Quantum geometric origins of the orbital degrees of freedom of hybrid bosonic quasiparticles in magnetic systems, D. Quang To, Dai Q. Ho, Joshua M. O. Zide, Lars Gundlach, M. Benjamin Jungfleisch, Garnett W. Bryant, Anderson Janotti, Matthew F. Doty
 https://arxiv.org/abs/2509.25707
-https://arxiv.org/abs/2509.25761
+* https://arxiv.org/abs/2509.25761 # Schwinger boson theory for S=1 Kitaev quantum spin liquids, Daiki Sasamoto, Joji Nasu
 
 https://arxiv.org/abs/2509.25823
 https://arxiv.org/abs/2509.26022
-https://arxiv.org/abs/2509.26176
-https://arxiv.org/abs/2509.26206
-https://arxiv.org/abs/2509.26261
+* https://arxiv.org/abs/2509.26176 # Symmetry restoration in a fast scrambling system, Sizheng Cao, Xian-Hui Ge
+* https://arxiv.org/abs/2509.26206 # Anderson localization: a density matrix approach, Ziyue Qi, Yi Zhang, Mingpu Qin, Hongming Weng, Kun Jiang
+* https://arxiv.org/abs/2509.26261 # Why is topology hard to learn?, D. O. Oriekhov, Stan Bergkamp, Guliuxin Jin, Juan Daniel Torres Luna, Badr Zouggari, Sibren van der Meer, Naoual El Yazidi, Eliska Greplova
 https://arxiv.org/abs/2509.26285
 https://arxiv.org/abs/2509.26288
 https://arxiv.org/abs/2509.26318
@@ -24,9 +24,9 @@ https://arxiv.org/abs/2509.26387
 
 https://arxiv.org/abs/2509.26447
 https://arxiv.org/abs/2509.26472
-https://arxiv.org/abs/2509.26478
-https://arxiv.org/abs/2509.26596
-https://arxiv.org/abs/2509.26607
+* https://arxiv.org/abs/2509.26478 # YbCu1.14Se2: an exchange disordered 2D triangular random singlet phase?, Caitlin S. Kengle, Sean M. Thomas, Roman Movshovich, Shengzhi Zhang, Eun Sang Choi, Minseong Lee, Priscila F. S. Rosa, Allen O. Scheie
+* https://arxiv.org/abs/2509.26596 # Orbital altermagnetism on the kagome lattice and possible application to AV3Sb5, Anzumaan R. Chakraborty, Fan Yang, Turan Birol, Rafael M. Fernandes
+* https://arxiv.org/abs/2509.26607 # Projected Holstein-Primakoff boson representation of quantum spins for spin wave theory, Ke Liu, Fangyu Xiong, Fa Wang
 https://arxiv.org/abs/2509.26608
 https://arxiv.org/abs/2509.26269
 https://arxiv.org/abs/2509.26372
