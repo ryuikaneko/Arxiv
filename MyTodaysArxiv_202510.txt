@@ -1,5 +1,7 @@
 20251001
 
+* https://arxiv.org/abs/2509.26309 # TBPLaS 2.0: a Tight-Binding Package for Large-scale Simulation, Yunhai Li, Zewen Wu, Miao Zhang, Junyi Wang, Shengjun Yuan
+
 * https://arxiv.org/abs/2509.25326 # Error detection without post-selection in adaptive quantum circuits, Eli Chertkov, Andrew C. Potter, David Hayes, Michael Foss-Feig
 https://arxiv.org/abs/2509.25327
 https://arxiv.org/abs/2509.25331
