@@ -1,5 +1,33 @@
 20251002
 
+https://arxiv.org/abs/2510.00056
+https://arxiv.org/abs/2510.00064
+https://arxiv.org/abs/2510.00108
+https://arxiv.org/abs/2510.00132
+https://arxiv.org/abs/2510.00145
+
+https://arxiv.org/abs/2510.00157
+https://arxiv.org/abs/2510.00168
+https://arxiv.org/abs/2510.00171
+https://arxiv.org/abs/2510.00203
+https://arxiv.org/abs/2510.00230
+https://arxiv.org/abs/2510.00443
+* https://arxiv.org/abs/2510.00497 # Exploiting Translational Symmetry for Quantum Computing with Squeezed Cat Qubits, Tomohiro Shitara, Gabriel Mintzer, Yuuki Tokunaga, Suguru Endo
+https://arxiv.org/abs/2510.00534
+* https://arxiv.org/abs/2510.00548 # Phase Transitions and Noise Robustness of Quantum Graph States, Tatsuya Numajiri, Shion Yamashika, Tomonori Tanizawa, Ryosuke Yoshii, Yuki Takeuchi, Shunji Tsuchiya
+https://arxiv.org/abs/2510.00649
+
+https://arxiv.org/abs/2510.00752
+https://arxiv.org/abs/2510.00791
+* https://arxiv.org/abs/2510.00804 # Pre-Distillation of Magic States via Composite Schemes, Muhammad Erew, Moshe Goldstein, Yaron Oz, Haim Suchowski
+https://arxiv.org/abs/2510.00874
+https://arxiv.org/abs/2510.00895
+* https://arxiv.org/abs/2510.00930 # Probing quantum advantage for solving the Fermi-Hubbard model with entropy benchmarking, Pauline Besserve, Raul Garcia-Patron
+https://arxiv.org/abs/2510.00935
+https://arxiv.org/abs/2510.00941
+https://arxiv.org/abs/2510.00970
+https://arxiv.org/abs/2510.01104
+
 https://arxiv.org/abs/2510.01117
 https://arxiv.org/abs/2510.01154
 https://arxiv.org/abs/2510.01156
