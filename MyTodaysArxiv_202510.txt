@@ -1,13 +1,13 @@
 20251002
 
-https://arxiv.org/abs/2510.00134
+* https://arxiv.org/abs/2510.00134 # Interplay of competing bond-order and loop-current fluctuations as a possible mechanism for superconductivity in kagome metals, Asimpunya Mitra, Daniel J. Schultz, Yong Baek Kim
 https://arxiv.org/abs/2510.00204
-https://arxiv.org/abs/2510.00284
+* https://arxiv.org/abs/2510.00284 # Dimerization in the SU(4) Heisenberg model on the cubic lattice: iPEPS study, Illia Lukin, Andrii Sotnikov
 https://arxiv.org/abs/2510.00509
 https://arxiv.org/abs/2510.00513
 https://arxiv.org/abs/2510.00587
 https://arxiv.org/abs/2510.00610
-https://arxiv.org/abs/2510.00614
+* https://arxiv.org/abs/2510.00614 # Breakdown of Stoner Ferromagnetism by Intrinsic Altermagnetism, Chen Lu, Chao Cao, Huiqiu Yuan, Piers Coleman, Lun-Hui Hu
 https://arxiv.org/abs/2510.00653
 https://arxiv.org/abs/2510.00659
 
