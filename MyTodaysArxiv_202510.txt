@@ -1,5 +1,49 @@
 20251003
 
+https://arxiv.org/abs/2510.01306
+* https://arxiv.org/abs/2510.01319 # A robust phase of continuous transversal gates in quantum stabilizer codes, Eric Huang, Pierre-Gabriel Rozon, Arpit Dua, Sarang Gopalakrishnan, Michael J. Gullans
+https://arxiv.org/abs/2510.01333
+https://arxiv.org/abs/2510.01334
+* https://arxiv.org/abs/2510.01380 # Non-stabilizerness in quantum-enhanced metrological protocols, Tanausu Hernandez-Yanes, Piotr Sierant, Jakub Zakrzewski, Marcin Plodzien
+https://arxiv.org/abs/2510.01416
+https://arxiv.org/abs/2510.01504
+* https://arxiv.org/abs/2510.01543 # Variational approach to open quantum systems with long-range competing interactions, Dawid A. Hryniuk, Marzena H. Szymanska
+https://arxiv.org/abs/2510.01557
+https://arxiv.org/abs/2510.01563
+
+https://arxiv.org/abs/2510.01584
+https://arxiv.org/abs/2510.01596
+https://arxiv.org/abs/2510.01610
+https://arxiv.org/abs/2510.01710
+https://arxiv.org/abs/2510.01756
+https://arxiv.org/abs/2510.01797
+https://arxiv.org/abs/2510.01918
+https://arxiv.org/abs/2510.01923
+https://arxiv.org/abs/2510.01953
+* https://arxiv.org/abs/2510.01983 # Digital quantum simulation of many-body localization crossover in a disordered kicked Ising model, Tomoya Hayata, Kazuhiro Seki, Seiji Yunoki
+
+https://arxiv.org/abs/2510.01993
+https://arxiv.org/abs/2510.02015
+https://arxiv.org/abs/2510.02035
+* https://arxiv.org/abs/2510.02051 # Improving neural network performance for solving quantum sign structure, Xiaowei Ou, Tianshu Huang, Vidvuds Ozolins
+https://arxiv.org/abs/2510.02071
+https://arxiv.org/abs/2510.02122
+https://arxiv.org/abs/2510.02138
+* https://arxiv.org/abs/2510.02141 # Quantum speed-up for solving the one-dimensional Hubbard model using quantum annealing, Kunal Vyas, Fengping Jin, Hans De Raedt, Kristel Michielsen
+https://arxiv.org/abs/2510.02151
+https://arxiv.org/abs/2510.02198
+
+https://arxiv.org/abs/2510.02218
+* https://arxiv.org/abs/2510.02246 # The (PXP)2 model: long-range quantum scars in optical cavities, Hossein Hosseinabadi, Riccardo J. Valencia-Tortora, Aleksandr N. Mikheev, Darrick E. Chang, Johannes Zeiher, Roderich Moessner, Jamir Marino
+https://arxiv.org/abs/2510.02251
+https://arxiv.org/abs/2510.02275
+https://arxiv.org/abs/2510.02290
+https://arxiv.org/abs/2510.01335
+https://arxiv.org/abs/2510.01356
+https://arxiv.org/abs/2510.01497
+https://arxiv.org/abs/2510.01626
+https://arxiv.org/abs/2510.02231
+
 https://journals.aps.org/prb/abstract/10.1103/7dbj-w7cn
 https://journals.aps.org/prb/abstract/10.1103/p1cm-9z8n
 https://journals.aps.org/prl/abstract/10.1103/c8n5-l11j
