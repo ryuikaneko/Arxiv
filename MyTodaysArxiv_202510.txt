@@ -1,5 +1,24 @@
 20251003
 
+https://arxiv.org/abs/2510.01273
+https://arxiv.org/abs/2510.01400
+https://arxiv.org/abs/2510.01465
+https://arxiv.org/abs/2510.01727
+https://arxiv.org/abs/2510.01738
+https://arxiv.org/abs/2510.01802
+* https://arxiv.org/abs/2510.01909 # Strong-coupling functional renormalization group: Nagaoka ferromagnetism and non-Fermi liquid physics in the Hubbard model at U=infty, Jonas Arnold, Peter Kopietz, Andreas Rueckriegel
+
+* https://arxiv.org/abs/2510.02042 # The Finite-Temperature Behavior of a Triangular Heisenberg Antiferromagnet, Cecilie Glittum, Olav F. Syljuasen
+https://arxiv.org/abs/2510.02064
+https://arxiv.org/abs/2510.02090
+https://arxiv.org/abs/2510.02098
+* https://arxiv.org/abs/2510.02256 # Fate of entanglement in open quantum spin liquid: Time evolution of its genuine multipartite negativity upon sudden coupling to a dissipative bosonic environment, Federico Garcia-Gaitan, Branislav K. Nikolic
+* https://arxiv.org/abs/2510.02289 # Charge order through crystallization of Frenkel excitons: realization in kagome metals, Ruoshi Jiang, Bartomeu Monserrat, Wei Ku
+https://arxiv.org/abs/2510.02304
+https://arxiv.org/abs/2510.01235
+https://arxiv.org/abs/2510.01328
+https://arxiv.org/abs/2510.01930
+
 https://arxiv.org/abs/2510.01306
 * https://arxiv.org/abs/2510.01319 # A robust phase of continuous transversal gates in quantum stabilizer codes, Eric Huang, Pierre-Gabriel Rozon, Arpit Dua, Sarang Gopalakrishnan, Michael J. Gullans
 https://arxiv.org/abs/2510.01333
