@@ -1,5 +1,34 @@
 20251006
 
+https://arxiv.org/abs/2510.02399
+https://arxiv.org/abs/2510.02402
+https://arxiv.org/abs/2510.02428
+https://arxiv.org/abs/2510.02430
+https://arxiv.org/abs/2510.02454
+* https://arxiv.org/abs/2510.02466 # Computational access to lattice and long-wavelength physics in quantum mutual information, Patrick M. Lenggenhager, M. Michael Denner, Doruk Efe Goekmen, Maciej Koch-Janusz, Titus Neupert, Mark H. Fischer
+https://arxiv.org/abs/2510.02494
+https://arxiv.org/abs/2510.02497
+https://arxiv.org/abs/2510.02685
+https://arxiv.org/abs/2510.02710
+
+https://arxiv.org/abs/2510.02784
+* https://arxiv.org/abs/2510.02825 # Quantum sensing with discrete time crystals in the Lipkin-Meshkov-Glick Model, Rahul Ghosh, Bandita Das, Victor Mukherjee
+https://arxiv.org/abs/2510.02877
+https://arxiv.org/abs/2510.02926
+* https://arxiv.org/abs/2510.03024 # Non-reciprocal Synchronization in Thermal Rydberg Ensembles, Yunlong Xue, Zhengyang Bai
+* https://arxiv.org/abs/2510.03028 # Boundary Time Crystals: Beyond Mean-Field Theory, Zeping Liu, Yaotian Li, Zhaoyu Fei, Xiaoguang Wang
+https://arxiv.org/abs/2510.03077
+* https://arxiv.org/abs/2510.03083 # To break, or not to break: Symmetries in adaptive quantum simulations, a case study on the Schwinger model, Karunya Shailesh Shirali, Kyle Sherbert, Yanzhu Chen, Adrien Florio, Andreas Weichselbaum, Robert D. Pisarski, Sophia E. Economou
+https://arxiv.org/abs/2510.03090
+https://arxiv.org/abs/2510.03227
+
+* https://arxiv.org/abs/2510.02440 # Statistical Signatures of Integrable and Non-Integrable Quantum Hamiltonians, Feng He, Arthur Hutsalyuk, Giuseppe Mussardo, Andrea Stampiggi
+* https://arxiv.org/abs/2510.02725 # Congestion bounds via Laplacian eigenvalues and their application to tensor networks with arbitrary geometry, Sayan Mukherjee, Shinichiro Akiyama
+https://arxiv.org/abs/2510.02863
+https://arxiv.org/abs/2510.02888
+https://arxiv.org/abs/2510.03057
+https://arxiv.org/abs/2510.03112
+
 https://journals.aps.org/prb/abstract/10.1103/wlzf-xy92
 https://journals.aps.org/prb/abstract/10.1103/v9zy-rrf7
 https://journals.aps.org/prl/abstract/10.1103/1pty-fvpf
