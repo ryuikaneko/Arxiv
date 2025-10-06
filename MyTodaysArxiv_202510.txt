@@ -1,5 +1,22 @@
 20251006
 
+https://arxiv.org/abs/2510.02413
+* https://arxiv.org/abs/2510.02444 # Four Moire materials at One Magic Angle in Helical Quadrilayer Graphene, Manato Fujimoto, Naoto Nakatsuji, Ashvin Vishwanath, Patrick Ledwith
+https://arxiv.org/abs/2510.02451
+https://arxiv.org/abs/2510.02452
+https://arxiv.org/abs/2510.02458
+* https://arxiv.org/abs/2510.02460 # Detecting quantum spin liquid on Kitaev model through a superconducting junction, A. R. Moura, L. V. Santos
+https://arxiv.org/abs/2510.02474
+https://arxiv.org/abs/2510.02559
+https://arxiv.org/abs/2510.02593
+https://arxiv.org/abs/2510.02644
+
+https://arxiv.org/abs/2510.02684
+https://arxiv.org/abs/2510.02961
+https://arxiv.org/abs/2510.03018
+https://arxiv.org/abs/2510.03063
+* https://arxiv.org/abs/2510.03159 # Slow dynamics from a nested hierarchy of frozen states, Vanja Maric, Luka Paljk, Lenart Zadnik
+
 https://arxiv.org/abs/2510.02399
 https://arxiv.org/abs/2510.02402
 https://arxiv.org/abs/2510.02428
