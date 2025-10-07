@@ -1,5 +1,16 @@
 20251007
 
+https://arxiv.org/abs/2510.05072
+https://arxiv.org/abs/2510.05082
+https://arxiv.org/abs/2510.05089
+* https://arxiv.org/abs/2510.05099 # Simulating fermions with exponentially lower overhead, Nathan Constantinides, Jeffery Yu, Dhruv Devulapalli, Ali Fahimniya, Andrew M. Childs, Michael J. Gullans, Alexander Schuckert, Alexey V. Gorshkov
+* https://arxiv.org/abs/2510.03530 # Bloch Oscillations and Landau-Zener Transitions in Flat-Band Lattices with Quadratic and Linear Band Touchings, Chenhaoyue Wang, Carlos J. Garcia-Cervera, Amartya S. Banerjee
+* https://arxiv.org/abs/2510.04047 # Operator dependence and robustness of spacetime-localized response in a quantum critical spin chain, Daichi Imagawa, Keiju Murata, Daisuke Yamamoto
+https://arxiv.org/abs/2510.04085
+https://arxiv.org/abs/2510.04326
+* https://arxiv.org/abs/2510.04756 # Finite temperature dopant-induced spin reorganization explored via tensor networks in the two-dimensional t-J model, Yintati Zhang, Aritra Sinha, Marek M. Rams, Jacek Dziarmaga
+* https://arxiv.org/abs/2510.04907 # Variational optimization of projected entangled-pair states on the triangular lattice, Jan Naumann, Jens Eisert, Philipp Schmoll
+
 https://journals.aps.org/prb/abstract/10.1103/d8kg-h1t7
 https://journals.aps.org/prb/abstract/10.1103/ztny-z9yb
 https://journals.aps.org/prb/abstract/10.1103/8f7r-pj8g
