@@ -1,5 +1,35 @@
 20251007
 
+https://arxiv.org/abs/2510.03305
+https://arxiv.org/abs/2510.03385
+https://arxiv.org/abs/2510.03389
+* https://arxiv.org/abs/2510.03421 # Optimizing and benchmarking the computation of the permanent of general matrices, Cassandra Masschelein, Michelle Richer, Paul W. Ayers
+https://arxiv.org/abs/2510.03596
+https://arxiv.org/abs/2510.03622
+https://arxiv.org/abs/2510.03645
+
+https://arxiv.org/abs/2510.03647
+https://arxiv.org/abs/2510.04059
+https://arxiv.org/abs/2510.04061
+* https://arxiv.org/abs/2510.04164 # Clifford Circuits Augmented Grassmann Matrix Product States, Atis Yosprakob, Wei-Lin Tu, Tsuyoshi Okubo, Kouichi Okunishi, Donghoon Kim
+* https://arxiv.org/abs/2510.04267 # Turning Down the Noise: Power-Law Decay and Temporal Phase Transitions, Lieuwe Bakker, Suvendu Barik, Vladimir Gritsev, Emil A. Yuzbashyan
+https://arxiv.org/abs/2510.04288
+https://arxiv.org/abs/2510.04294
+* https://arxiv.org/abs/2510.04447 # FewBodyToolkit.jl: a Julia package for solving quantum few-body problems, Lucas Happ
+https://arxiv.org/abs/2510.04449
+https://arxiv.org/abs/2510.04453
+
+https://arxiv.org/abs/2510.04462
+https://arxiv.org/abs/2510.04511
+https://arxiv.org/abs/2510.04534
+https://arxiv.org/abs/2510.04594
+https://arxiv.org/abs/2510.04766
+https://arxiv.org/abs/2510.04788
+https://arxiv.org/abs/2510.04866
+https://arxiv.org/abs/2510.04929
+https://arxiv.org/abs/2510.04954
+https://arxiv.org/abs/2510.04967
+
 https://arxiv.org/abs/2510.05072
 https://arxiv.org/abs/2510.05082
 https://arxiv.org/abs/2510.05089
