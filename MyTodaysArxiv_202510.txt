@@ -1,5 +1,25 @@
 20251007
 
+https://arxiv.org/abs/2510.03322
+https://arxiv.org/abs/2510.03756
+https://arxiv.org/abs/2510.03889
+https://arxiv.org/abs/2510.03967
+https://arxiv.org/abs/2510.03983
+https://arxiv.org/abs/2510.04015
+* https://arxiv.org/abs/2510.04132 # Ground state and excitations of quasiperiodic 1D narrow-band moire systems: a mean field approach, Nicolau Sobrosa, Miguel Goncalves, Bruno Amorim, Eduardo V. Castro, Pedro Ribeiro
+https://arxiv.org/abs/2510.04148
+https://arxiv.org/abs/2510.04149
+* https://arxiv.org/abs/2510.04224 # Variation Monte Carlo Study on the bilayer t-J_||-J_\perp model for La3Ni2O7, Zeyu Chen, Yu-Bo Liu, Fan Yang
+
+* https://arxiv.org/abs/2510.04485 # Identifying non-equilibrium fluctuations in Intracellular Motion Using Recurrent Neural Networks, Tomas Basile, Natascha Leijnse, Malte Slot Lauridsen, Younes Farhangi Barooji, Amin Doostmohammadi, Karel Proesmans
+https://arxiv.org/abs/2510.04548
+https://arxiv.org/abs/2510.04700
+https://arxiv.org/abs/2510.04704
+https://arxiv.org/abs/2510.04830
+* https://arxiv.org/abs/2510.05088 # Casimir Stabilization of Fluctuating Electronic Nematic Order, Ola Carlsson, Sambuddha Chattopadhyay, Jonathan B. Curtis, Frieder Lindel, Lorenzo Graziotto, Jerome Faist, Eugene Demler
+https://arxiv.org/abs/2510.03416
+* https://arxiv.org/abs/2510.04795 # Mixed-precision ab initio tensor network state methods adapted for NVIDIA Blackwell technology via emulated FP64 arithmetic, Cole Brower, Samuel Rodriguez Bernabeu, Jeff Hammond, John Gunnels, Sotiris S. Xanthea, Martin Ganahl, Andor Menczer, Oers Legeza
+
 https://arxiv.org/abs/2510.03305
 https://arxiv.org/abs/2510.03385
 https://arxiv.org/abs/2510.03389
