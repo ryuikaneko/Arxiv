@@ -1,5 +1,9 @@
 20251009
 
+* https://arxiv.org/abs/2510.06486 # Systematic improvement of trial states in phaseless auxiliary-field quantum Monte Carlo, Eirik F. Kjonstad, Yann Damour, Sandeep Sharma, Garnet Kin-Lic Chan
+https://arxiv.org/abs/2510.06873
+https://arxiv.org/abs/2510.06992
+
 https://arxiv.org/abs/2510.06221
 https://arxiv.org/abs/2510.06228
 https://arxiv.org/abs/2510.06256
