@@ -1,5 +1,70 @@
 20251009
 
+https://arxiv.org/abs/2510.06221
+https://arxiv.org/abs/2510.06228
+https://arxiv.org/abs/2510.06256
+https://arxiv.org/abs/2510.06257
+https://arxiv.org/abs/2510.06271
+https://arxiv.org/abs/2510.06300
+https://arxiv.org/abs/2510.06316
+https://arxiv.org/abs/2510.06317
+* https://arxiv.org/abs/2510.06318 # An efficient algorithm to compute entanglement in states with low magic, ChunJun Cao, Gong Cheng, Tianci Zhou
+
+https://arxiv.org/abs/2510.06321
+https://arxiv.org/abs/2510.06324
+https://arxiv.org/abs/2510.06328
+* https://arxiv.org/abs/2510.06333 # Symmetry Fragmentation, Thomas Iadecola
+https://arxiv.org/abs/2510.06337
+https://arxiv.org/abs/2510.06346
+https://arxiv.org/abs/2510.06360
+https://arxiv.org/abs/2510.06384
+https://arxiv.org/abs/2510.06385
+https://arxiv.org/abs/2510.06389
+
+https://arxiv.org/abs/2510.06418
+https://arxiv.org/abs/2510.06522
+https://arxiv.org/abs/2510.06563
+https://arxiv.org/abs/2510.06602
+https://arxiv.org/abs/2510.06702
+https://arxiv.org/abs/2510.06725
+* https://arxiv.org/abs/2510.06759 # Fast-forwardable Lindbladians imply quantum phase estimation, Zhong-Xia Shang, Naixu Guo, Patrick Rebentrost, Alan Aspuru-Guzik, Tongyang Li, Qi Zhao
+https://arxiv.org/abs/2510.06764
+https://arxiv.org/abs/2510.06775
+https://arxiv.org/abs/2510.06796
+
+https://arxiv.org/abs/2510.06798
+https://arxiv.org/abs/2510.06837
+https://arxiv.org/abs/2510.06848
+https://arxiv.org/abs/2510.06851
+https://arxiv.org/abs/2510.06863
+https://arxiv.org/abs/2510.06890
+https://arxiv.org/abs/2510.06923
+https://arxiv.org/abs/2510.06929
+https://arxiv.org/abs/2510.06938
+https://arxiv.org/abs/2510.07051
+
+* https://arxiv.org/abs/2510.07125 # Preparation of initial states with open and periodic boundary conditions on quantum devices using matrix product states, Yibin Guo, Manuel Schneider, Takis Angelides, Karl Jansen, C.-J. David Lin, Yao Ting Su
+https://arxiv.org/abs/2510.07158
+https://arxiv.org/abs/2510.07164
+https://arxiv.org/abs/2510.07193
+https://arxiv.org/abs/2510.07195
+https://arxiv.org/abs/2510.07196
+* https://arxiv.org/abs/2510.07211 # Efficient tensor-network simulations of weakly-measured quantum circuits, Darren Pereira, Leonardo Banchi
+https://arxiv.org/abs/2510.07223
+https://arxiv.org/abs/2510.07246
+* https://arxiv.org/abs/2510.07247 # From Quantum Circuits with Ultraslow Dynamics to Classical Plaquette Models, Vikram Ravindranath, Hanchen Liu, Xiao Chen
+
+https://arxiv.org/abs/2510.07264
+https://arxiv.org/abs/2510.07273
+https://arxiv.org/abs/2510.07278
+https://arxiv.org/abs/2510.07280
+https://arxiv.org/abs/2510.07291
+* https://arxiv.org/abs/2510.07305 # Is it Gaussian? Testing bosonic quantum states, Filippo Girardi, Freek Witteveen, Francesco Anna Mele, Lennart Bittel, Salvatore F. E. Oliviero, David Gross, Michael Walter
+https://arxiv.org/abs/2510.06338
+https://arxiv.org/abs/2510.06376
+https://arxiv.org/abs/2510.06555
+https://arxiv.org/abs/2510.07029
+
 https://journals.aps.org/prb/abstract/10.1103/kzmz-dsmg
 https://journals.aps.org/prb/abstract/10.1103/tz4v-s5m5
 https://journals.aps.org/prb/abstract/10.1103/6msp-vbbm
