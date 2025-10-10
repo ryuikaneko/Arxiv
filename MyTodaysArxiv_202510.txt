@@ -1,9 +1,9 @@
 20251010
 
-https://arxiv.org/abs/2510.07373
-https://arxiv.org/abs/2510.07383
+* https://arxiv.org/abs/2510.07373 # Learning to predict superconductivity, Omri Lesser, Yanjun Liu, Natalie Maus, Aaditya Panigrahi, Krishnanand Mallayya, Leslie M. Schoop, Jacob R. Gardner, Eun-Ah Kim
+* https://arxiv.org/abs/2510.07383 # Emergent spacetime supersymmetry at 2D fractionalized quantum criticality, Zhengzhi Wu, Zhou-Quan Wan, Shao-Kai Jian, Hong Yao
 https://arxiv.org/abs/2510.07398
-https://arxiv.org/abs/2510.07401
+* https://arxiv.org/abs/2510.07401 # Attention to Order: Transformers Discover Phase Transitions via Learnability, Sener Ozonder
 https://arxiv.org/abs/2510.07410
 https://arxiv.org/abs/2510.07425
 https://arxiv.org/abs/2510.07498
@@ -26,7 +26,6 @@ https://arxiv.org/abs/2510.08334
 https://arxiv.org/abs/2510.08490
 https://arxiv.org/abs/2510.07381
 https://arxiv.org/abs/2510.07384
-https://arxiv.org/abs/2510.07616
 https://arxiv.org/abs/2510.07863
 
 https://arxiv.org/abs/2510.07334
