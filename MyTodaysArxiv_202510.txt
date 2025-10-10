@@ -1,5 +1,71 @@
 20251010
 
+https://arxiv.org/abs/2510.07334
+https://arxiv.org/abs/2510.07352
+https://arxiv.org/abs/2510.07354
+https://arxiv.org/abs/2510.07372
+https://arxiv.org/abs/2510.07380
+* https://arxiv.org/abs/2510.07385 # Quantum Resources in Non-Abelian Lattice Gauge Theories: Nonstabilizerness, Multipartite Entanglement, and Fermionic Non-Gaussianity, Gopal Chandra Santra, Julius Mildenberger, Edoardo Ballini, Alberto Bottarelli, Matteo M. Wauters, Philipp Hauke
+* https://arxiv.org/abs/2510.07396 # Spectral properties and coding transitions of Haar-random quantum codes, Grace M. Sommers, J. Alexander Jacoby, Zack Weinstein, David A. Huse, Sarang Gopalakrishnan
+https://arxiv.org/abs/2510.07439
+https://arxiv.org/abs/2510.07481
+https://arxiv.org/abs/2510.07495
+
+* https://arxiv.org/abs/2510.07512 # Error correction phase transition in noisy random quantum circuits, Jon Nelson, Joel Rajakumar, Michael J. Gullans
+https://arxiv.org/abs/2510.07547
+https://arxiv.org/abs/2510.07561
+https://arxiv.org/abs/2510.07563
+https://arxiv.org/abs/2510.07616
+https://arxiv.org/abs/2510.07628
+https://arxiv.org/abs/2510.07699
+https://arxiv.org/abs/2510.07798
+https://arxiv.org/abs/2510.07802
+https://arxiv.org/abs/2510.07818
+
+https://arxiv.org/abs/2510.07945
+https://arxiv.org/abs/2510.07995
+https://arxiv.org/abs/2510.08088
+https://arxiv.org/abs/2510.08129
+https://arxiv.org/abs/2510.08133
+https://arxiv.org/abs/2510.08142
+https://arxiv.org/abs/2510.08153
+https://arxiv.org/abs/2510.08154
+https://arxiv.org/abs/2510.08155
+https://arxiv.org/abs/2510.08312
+
+* https://arxiv.org/abs/2510.08344 # Entanglement Growth from Entangled States: A Unified Perspective on Entanglement Generation and Transport, Chun-Yue Zhang, Zi-Xiang Li, Shi-Xin Zhang
+https://arxiv.org/abs/2510.08371
+https://arxiv.org/abs/2510.08391
+https://arxiv.org/abs/2510.08402
+* https://arxiv.org/abs/2510.08430 # When Less is More: Approximating the Quantum Geometric Tensor with Block Structures, Ahmedeo Shokry, Alessandro Santini, Filippo Vicentini
+https://arxiv.org/abs/2510.08434
+https://arxiv.org/abs/2510.08446
+https://arxiv.org/abs/2510.08448
+https://arxiv.org/abs/2510.08451
+https://arxiv.org/abs/2510.08462
+
+https://arxiv.org/abs/2510.08463
+https://arxiv.org/abs/2510.08467
+https://arxiv.org/abs/2510.08471
+https://arxiv.org/abs/2510.08472
+https://arxiv.org/abs/2510.08477
+https://arxiv.org/abs/2510.08500
+https://arxiv.org/abs/2510.08501
+* https://arxiv.org/abs/2510.08503 # Hardness of recognizing phases of matter, Thomas Schuster, Dominik Kufel, Norman Y. Yao, Hsin-Yuan Huang
+https://arxiv.org/abs/2510.08509
+https://arxiv.org/abs/2510.08518
+
+https://arxiv.org/abs/2510.08528
+https://arxiv.org/abs/2510.08533
+https://arxiv.org/abs/2510.08538
+https://arxiv.org/abs/2510.08542
+https://arxiv.org/abs/2510.08545
+https://arxiv.org/abs/2510.07504
+https://arxiv.org/abs/2510.07795
+https://arxiv.org/abs/2510.07804
+* https://arxiv.org/abs/2510.08277 # Non-Hermitian many-body localization in asymmetric chains with long-range interaction, Wen Wang, Han-Ze Li, Jian-Xin Zhong
+https://arxiv.org/abs/2510.08336
+
 https://journals.aps.org/prl/abstract/10.1103/4vy2-8cnk
 https://journals.aps.org/prl/abstract/10.1103/g94p-7421
 https://journals.aps.org/prb/abstract/10.1103/1lkl-775k
