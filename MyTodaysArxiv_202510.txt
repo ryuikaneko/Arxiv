@@ -1,3 +1,12 @@
+20251013
+
+https://journals.aps.org/prb/abstract/10.1103/99ck-qnqs
+https://journals.aps.org/prb/abstract/10.1103/jfxt-9r1c
+
+
+====
+
+
 20251010
 
 * https://arxiv.org/abs/2510.07373 # Learning to predict superconductivity, Omri Lesser, Yanjun Liu, Natalie Maus, Aaditya Panigrahi, Krishnanand Mallayya, Leslie M. Schoop, Jacob R. Gardner, Eun-Ah Kim
