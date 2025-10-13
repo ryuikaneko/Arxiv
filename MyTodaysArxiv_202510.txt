@@ -1,5 +1,26 @@
 20251013
 
+https://arxiv.org/abs/2510.08678
+https://arxiv.org/abs/2510.08690
+https://arxiv.org/abs/2510.08733
+https://arxiv.org/abs/2510.08738
+https://arxiv.org/abs/2510.08740
+https://arxiv.org/abs/2510.08903
+* https://arxiv.org/abs/2510.09170 # Altermagnetism and Superconductivity: A Short Historical Review, Zhao Liu, Hui Hu, Xia-Ji Liu
+https://arxiv.org/abs/2510.09191
+https://arxiv.org/abs/2510.09234
+https://arxiv.org/abs/2510.09235
+
+https://arxiv.org/abs/2510.09264
+https://arxiv.org/abs/2510.09300
+* https://arxiv.org/abs/2510.09363 # Superconductivity in the repulsive Hubbard model on different geometries induced by density-assisted hopping, Franco T. Lisandrini, Edmond Orignac, Roberta Citro, Ameneh Sheikhan, Corinna Kollath
+https://arxiv.org/abs/2510.09386
+https://arxiv.org/abs/2510.09412
+https://arxiv.org/abs/2510.09467
+https://arxiv.org/abs/2510.09548
+https://arxiv.org/abs/2510.08298
+https://arxiv.org/abs/2510.08781
+
 https://arxiv.org/abs/2510.08634
 https://arxiv.org/abs/2510.09111
 https://arxiv.org/abs/2510.09398
