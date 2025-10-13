@@ -1,5 +1,10 @@
 20251013
 
+https://arxiv.org/abs/2510.08634
+https://arxiv.org/abs/2510.09111
+https://arxiv.org/abs/2510.09398
+https://arxiv.org/abs/2510.09532
+
 https://arxiv.org/abs/2510.08644
 https://arxiv.org/abs/2510.08650
 * https://arxiv.org/abs/2510.08680 # Tensor-network representation of excitations in Josephson junction arrays, Emilio Rui, Joachim Cohen, Alexandru Petrescu
