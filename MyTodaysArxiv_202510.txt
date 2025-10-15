@@ -19,7 +19,7 @@ https://arxiv.org/abs/2510.10629
 https://arxiv.org/abs/2510.10632
 https://arxiv.org/abs/2510.10699
 https://arxiv.org/abs/2510.10707
-https://arxiv.org/abs/2510.10835
+* https://arxiv.org/abs/2510.10835 # Error thresholds of toric codes with transversal logical gates, Yichen Xu, Yiqing Zhou, James P. Sethna, Eun-Ah Kim
 
 https://arxiv.org/abs/2510.10888
 https://arxiv.org/abs/2510.10905
