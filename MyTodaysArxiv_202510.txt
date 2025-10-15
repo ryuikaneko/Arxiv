@@ -1,3 +1,21 @@
+20251014
+
+https://journals.aps.org/prl/abstract/10.1103/c7k1-xcwy
+https://journals.aps.org/prl/abstract/10.1103/cjkh-1z6c
+https://journals.aps.org/prl/abstract/10.1103/gyvf-s5bd
+https://journals.aps.org/prl/abstract/10.1103/jpms-v3kw
+https://journals.aps.org/prl/abstract/10.1103/km2j-3zy2
+https://journals.aps.org/prb/abstract/10.1103/q5l5-517x
+https://journals.aps.org/prb/abstract/10.1103/77j6-g4jz
+https://journals.aps.org/prb/abstract/10.1103/s2fc-3d18
+https://journals.aps.org/prb/abstract/10.1103/hxhj-7tvt
+https://journals.aps.org/prb/abstract/10.1103/cxvd-mp2h
+https://journals.aps.org/prb/abstract/10.1103/nbjt-hlvx
+https://journals.aps.org/prb/abstract/10.1103/dl7m-8qyt
+https://journals.aps.org/prb/abstract/10.1103/7bc3-3jz9
+https://journals.aps.org/prb/abstract/10.1103/ldl4-d4sw
+
+
 20251013
 
 https://arxiv.org/abs/2510.08678
@@ -46,9 +64,6 @@ https://arxiv.org/abs/2510.09515
 
 https://journals.aps.org/prb/abstract/10.1103/99ck-qnqs
 https://journals.aps.org/prb/abstract/10.1103/jfxt-9r1c
-
-
-====
 
 
 20251010
