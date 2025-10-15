@@ -1,5 +1,16 @@
 20251014
 
+https://arxiv.org/abs/2510.11707
+* https://arxiv.org/abs/2510.11710 # Comparing Symmetrized Determinant Neural Quantum States for the Hubbard Model, Louis Sharma, Ahmedeo Shokry, Rajah Nutakki, Olivier Simard, Michel Ferrero, Filippo Vicentini
+https://arxiv.org/abs/2510.09749
+https://arxiv.org/abs/2510.10345
+https://arxiv.org/abs/2510.11562
+https://arxiv.org/abs/2510.11681
+https://arxiv.org/abs/2109.11478
+https://arxiv.org/abs/2510.11634
+https://arxiv.org/abs/2510.10298
+https://arxiv.org/abs/2510.10483
+
 https://journals.aps.org/prl/abstract/10.1103/c7k1-xcwy
 https://journals.aps.org/prl/abstract/10.1103/cjkh-1z6c
 https://journals.aps.org/prl/abstract/10.1103/gyvf-s5bd
