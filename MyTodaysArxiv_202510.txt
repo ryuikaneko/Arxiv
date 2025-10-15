@@ -1,11 +1,76 @@
 20251014
 
+https://arxiv.org/abs/2510.09765
+https://arxiv.org/abs/2510.09813
+https://arxiv.org/abs/2510.09824
+https://arxiv.org/abs/2510.09911
+https://arxiv.org/abs/2510.09919
+https://arxiv.org/abs/2510.09931
+https://arxiv.org/abs/2510.10058
+https://arxiv.org/abs/2510.10064
+https://arxiv.org/abs/2510.10091
+
+https://arxiv.org/abs/2510.10137
+https://arxiv.org/abs/2510.10167
+https://arxiv.org/abs/2510.10394
+https://arxiv.org/abs/2510.10501
+https://arxiv.org/abs/2510.10566
+https://arxiv.org/abs/2510.10629
+https://arxiv.org/abs/2510.10632
+https://arxiv.org/abs/2510.10699
+https://arxiv.org/abs/2510.10707
+https://arxiv.org/abs/2510.10835
+
+https://arxiv.org/abs/2510.10888
+https://arxiv.org/abs/2510.10905
+https://arxiv.org/abs/2510.10957
+https://arxiv.org/abs/2510.11037
+https://arxiv.org/abs/2510.11045
+https://arxiv.org/abs/2510.11200
+https://arxiv.org/abs/2510.11201
+https://arxiv.org/abs/2510.11376
+https://arxiv.org/abs/2510.11526
+* https://arxiv.org/abs/2510.11593 # Hierarchical Qubit-Merging Transformer for Quantum Error Correction, Seong-Joon Park, Hee-Youl Kwak, Yongjune Kim
+
+* https://arxiv.org/abs/2510.11621 # A Monte Carlo approach to bound Trotter error, Nick S. Blunt, Aleksei V. Ivanov, Andreas Juul Bay-Smidt
+* https://arxiv.org/abs/2510.11706 # Probing emergent prethermal dynamics and resonant melting on a programmable quantum simulator, Siva Darbha, Alexey Khudorozhkov, Pedro L. S. Lopes, Fangli Liu, Ermal Rrapaj, Jan Balewski, Majd Hamdan, Pavel E. Dolgirev, Alexander Schuckert, Katherine Klymko, Sheng-Tao Wang, Mikhail D. Lukin, Daan Camps, Milan Kornjaca
+https://arxiv.org/abs/2510.09693
+https://arxiv.org/abs/2510.09999
+https://arxiv.org/abs/2510.10118
+https://arxiv.org/abs/2510.11009
+https://arxiv.org/abs/2510.11075
+https://arxiv.org/abs/2510.11416
+https://arxiv.org/abs/2510.11420
+* https://arxiv.org/abs/2510.11431 # A minimal and universal representation of fermionic wavefunctions (fermions = bosons + one), Liang Fu
+
+https://arxiv.org/abs/2510.11432
+https://arxiv.org/abs/2510.11451
+https://arxiv.org/abs/2510.11634
+https://arxiv.org/abs/2510.09777
+https://arxiv.org/abs/2510.10050
+https://arxiv.org/abs/2510.10255
+https://arxiv.org/abs/2510.10309
+https://arxiv.org/abs/2510.10543
+https://arxiv.org/abs/2510.10610
+https://arxiv.org/abs/2510.10643
+
+* https://arxiv.org/abs/2510.10684 # Integrable Model of a Superconductor with non-Fermi liquid and Mott Phases, Santhosh M, Jorge Dukelsky, Gerardo Ortiz
+https://arxiv.org/abs/2510.10723
+https://arxiv.org/abs/2510.10958
+* https://arxiv.org/abs/2510.11134 # Spinon band flattening by its emergent gauge field in quantum kagome ice, Masafumi Udagawa, Roderich Moessner
+https://arxiv.org/abs/2510.11355
+https://arxiv.org/abs/2510.11450
+* https://arxiv.org/abs/2510.11459 # Efficient and accurate tensor network algorithm for Anderson impurity problems, Zhijie Sun, Zhenyu Li, Chu Guo
+https://arxiv.org/abs/2510.11580
+https://arxiv.org/abs/2510.11607
+* https://arxiv.org/abs/2510.11678 # Spinon Mediation of Witness-Spin Dynamics and Ground State in Herbertsmithite, Hiroto Takahashi, Jack Murphy, Mitikorn Wood-Thanan, Pascal Puphal, Miguel Angel Sanchez-Martinez, Fabian Jerzembeck, Chun-Chih Hsu, Jonathan Ward, Masahiko Isobe, Yosuke Matsumoto, Hidenori Takagi, Stephen J. Blundell, Michael R. Norman, Felix Flicker, J. C. Seamus Davis
+
 https://arxiv.org/abs/2510.11707
 * https://arxiv.org/abs/2510.11710 # Comparing Symmetrized Determinant Neural Quantum States for the Hubbard Model, Louis Sharma, Ahmedeo Shokry, Rajah Nutakki, Olivier Simard, Michel Ferrero, Filippo Vicentini
 https://arxiv.org/abs/2510.09749
 https://arxiv.org/abs/2510.10345
 https://arxiv.org/abs/2510.11562
-https://arxiv.org/abs/2510.11681
+* https://arxiv.org/abs/2510.11681 # The Magic Barrier before Thermalization, Lukas Ebner, Berndt Mueller, Andreas Schaefer, Leonhard Schmotzer, Clemens Seidl, Xiaojun Yao
 https://arxiv.org/abs/2109.11478
 https://arxiv.org/abs/2510.11634
 https://arxiv.org/abs/2510.10298
