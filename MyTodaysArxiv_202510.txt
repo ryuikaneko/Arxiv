@@ -11,10 +11,59 @@ https://journals.aps.org/prl/abstract/10.1103/ccjj-6ksn
 https://journals.aps.org/prl/abstract/10.1103/yls4-kdvj
 
 
-====
-
-
 20251015
+
+https://arxiv.org/abs/2510.11735
+https://arxiv.org/abs/2510.11744
+https://arxiv.org/abs/2510.11766
+https://arxiv.org/abs/2510.11773
+https://arxiv.org/abs/2510.11786
+* https://arxiv.org/abs/2510.11797 # Bound on entanglement in neural quantum states, Nisarga Paul
+https://arxiv.org/abs/2510.11818
+
+https://arxiv.org/abs/2510.11845
+https://arxiv.org/abs/2510.11932
+https://arxiv.org/abs/2510.12043
+https://arxiv.org/abs/2510.12237
+https://arxiv.org/abs/2510.12247
+https://arxiv.org/abs/2510.12291
+https://arxiv.org/abs/2510.12336
+* https://arxiv.org/abs/2510.12415 # Snapshot renormalization group for quantum matter, Laurin Brunner, Tobias Wiener, Tiago Mendes-Santos, Reyhaneh Khasseh, Markus Heyl
+https://arxiv.org/abs/2510.12430
+https://arxiv.org/abs/2510.12457
+
+https://arxiv.org/abs/2510.12502
+https://arxiv.org/abs/2510.12507
+https://arxiv.org/abs/2510.12517
+https://arxiv.org/abs/2510.12656
+https://arxiv.org/abs/2510.12677
+* https://arxiv.org/abs/2510.12737 # Time-dependent Variational Principles for Hybrid Non-Unitary Dynamics: Application to Driven-Dissipative Superconductors, Pasquale Filice, Marco Schiro, Giacomo Mazza
+* https://arxiv.org/abs/2510.12743 # Measurement-induced entanglement in noisy 2D random Clifford circuits, Zhi-Yuan Wei, Jon Nelson, Joel Rajakumar, Esther Cruz, Alexey V. Gorshkov, Michael J. Gullans, Daniel Malz
+https://arxiv.org/abs/2510.12771
+https://arxiv.org/abs/2510.12774
+* https://arxiv.org/abs/2510.12800 # Prethermal gauge structure and surface growth in Z2 lattice gauge theories, Lukas Homeier, Andrea Pizzi, Hongzheng Zhao, Jad C. Halimeh, Fabian Grusdt, Ana Maria Rey
+
+https://arxiv.org/abs/2510.11777
+https://arxiv.org/abs/2510.11831
+https://arxiv.org/abs/2510.12582
+https://arxiv.org/abs/2510.12696
+https://arxiv.org/abs/2510.11825
+https://arxiv.org/abs/2510.11860
+https://arxiv.org/abs/2510.11945
+https://arxiv.org/abs/2510.12250
+https://arxiv.org/abs/2510.12329
+https://arxiv.org/abs/2510.12349
+
+https://arxiv.org/abs/2510.12359
+https://arxiv.org/abs/2510.12599
+https://arxiv.org/abs/2510.12602
+https://arxiv.org/abs/2510.12610
+* https://arxiv.org/abs/2510.12667 # The anisotropic Heisenberg model close to the Ising limit: triangular lattice vs. effective models, Martin Ulaga, Jure Kokalj, Takami Tohyama, Peter Prelovsek
+https://arxiv.org/abs/2510.12682
+https://arxiv.org/abs/2510.12731
+https://arxiv.org/abs/2510.12770
+https://arxiv.org/abs/2510.12786
+* https://arxiv.org/abs/2510.10835 # Error thresholds of toric codes with transversal logical gates, Yichen Xu, Yiqing Zhou, James P. Sethna, Eun-Ah Kim
 
 https://journals.aps.org/prx/abstract/10.1103/dck4-x9c2
 https://journals.aps.org/prresearch/abstract/10.1103/75pv-hbrx
