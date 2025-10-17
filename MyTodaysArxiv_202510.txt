@@ -1,11 +1,27 @@
 20251017
 
+https://journals.aps.org/prl/abstract/10.1103/4yyv-hggz
+https://journals.aps.org/prl/abstract/10.1103/1hlj-h6t9
+https://journals.aps.org/prl/abstract/10.1103/gkwd-8477
+https://journals.aps.org/prl/abstract/10.1103/1c1k-bv7z
+https://journals.aps.org/prb/abstract/10.1103/ljj8-tkpc
+https://journals.aps.org/prb/abstract/10.1103/yxcy-spp5
+https://journals.aps.org/prb/abstract/10.1103/yghs-p5mg
+https://journals.aps.org/prb/abstract/10.1103/qctl-hwvh
+
 https://journals.aps.org/pra/abstract/10.1103/5289-8kz5
 https://journals.aps.org/prxquantum/abstract/10.1103/4vs5-l54f
 https://journals.aps.org/pra/abstract/10.1103/wr3n-v85k
 
 
 20251016
+
+https://arxiv.org/abs/2510.12880
+https://arxiv.org/abs/2510.12888
+https://arxiv.org/abs/2510.12918
+https://arxiv.org/abs/2510.13045
+https://arxiv.org/abs/2510.13055
+https://arxiv.org/abs/2510.13056
 
 https://arxiv.org/abs/2510.13086
 https://arxiv.org/abs/2510.13319
@@ -14,7 +30,7 @@ https://arxiv.org/abs/2510.13530
 https://arxiv.org/abs/2510.13555
 https://arxiv.org/abs/2510.13667
 https://arxiv.org/abs/2510.13699
-https://arxiv.org/abs/2510.12875
+* https://arxiv.org/abs/2510.12875 # Tunable quantum Mpemba effect in long-range interacting systems, Andrew Hallam, Matthew Yusuf, Aashish A. Clerk, Ivar Martin, Zlatko Papic
 https://arxiv.org/abs/2510.13581
 https://arxiv.org/abs/2510.13618
 
