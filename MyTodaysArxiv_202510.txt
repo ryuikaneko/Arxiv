@@ -1,5 +1,7 @@
 20251017
 
+https://arxiv.org/abs/2510.13989
+
 * https://arxiv.org/abs/2510.13866 # FFT-Accelerated Auxiliary Variable MCMC for Fermionic Lattice Models: A Determinant-Free Approach with O(NlogN) Complexity, Deqian Kong, Shi Feng, Jianwen Xie, Ying Nian Wu
 https://arxiv.org/abs/2510.13874
 * https://arxiv.org/abs/2510.13943 # Yamaji effect in models of underdoped cuprates, Jing-Yu Zhao, Shubhayu Chatterjee, Subir Sachdev, Ya-Hui Zhang
