@@ -1,5 +1,32 @@
 20251017
 
+* https://arxiv.org/abs/2510.13866 # FFT-Accelerated Auxiliary Variable MCMC for Fermionic Lattice Models: A Determinant-Free Approach with O(NlogN) Complexity, Deqian Kong, Shi Feng, Jianwen Xie, Ying Nian Wu
+https://arxiv.org/abs/2510.13874
+* https://arxiv.org/abs/2510.13943 # Yamaji effect in models of underdoped cuprates, Jing-Yu Zhao, Shubhayu Chatterjee, Subir Sachdev, Ya-Hui Zhang
+* https://arxiv.org/abs/2510.13960 # Unconventional criticality in O(D)-invariant loop-constrained Landau theory, Svitlana Kondovych, Asle Sudbo, Flavio S. Nogueira
+https://arxiv.org/abs/2510.14157
+https://arxiv.org/abs/2510.14193
+https://arxiv.org/abs/2510.14216
+https://arxiv.org/abs/2510.14322
+https://arxiv.org/abs/2510.14404
+* https://arxiv.org/abs/2510.14405 # First-Principles Approach to Spin Excitations in Noncollinear Magnetic Systems,vHsiao-Yi Chen, Ryotaro Arita, Yusuke Nomura
+
+* https://arxiv.org/abs/2510.14446 # Evidence of de Almeida--Thouless line below six dimensions, M. Aguilar-Janita, V. Martin-Mayor, J. Moreno-Gordo, J.J. Ruiz-Lorenzo
+* https://arxiv.org/abs/2510.14492 # Emergent Shastry-Sutherland network from square-kagome Heisenberg antiferromagnet with trimerization, Tomonari Mizoguchi
+https://arxiv.org/abs/2510.14556
+* https://arxiv.org/abs/2510.14567 # The fate of disorder in twisted bilayer graphene near the magic angle, Zhe Hou, Hailong Li, Qing Yan, Yu-Hang Li, Hua Jiang
+https://arxiv.org/abs/2510.14578
+* https://arxiv.org/abs/2510.14685 # Bosonic Laughlin and Moore-Read states from non-Chern flat bands, Hongyu Lu, Wang Yao
+https://arxiv.org/abs/2510.14689
+https://arxiv.org/abs/2510.14724
+https://arxiv.org/abs/2510.14784
+https://arxiv.org/abs/2510.14951
+
+https://arxiv.org/abs/2509.21432
+https://arxiv.org/abs/2510.14028
+https://arxiv.org/abs/2510.14500
+https://arxiv.org/abs/2510.14659
+
 * https://arxiv.org/abs/2510.13947 # Universal Growth of Krylov Complexity Across A Quantum Phase Transition, Andras Grabarits, Adolfo del Campo
 * https://arxiv.org/abs/2510.13950 # Quantum State Designs via Magic Teleportation, Hugo Loio, Guglielmo Lami, Lorenzo Leone, Max McGinley, Xhek Turkeshi, Jacopo De Nardis
 * https://arxiv.org/abs/2510.13970 # Temporal Entanglement Transitions in the Periodically Driven Ising Chain, Karun Gadge, Abhinav Prem, Rishabh Jha
