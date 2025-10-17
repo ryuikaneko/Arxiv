@@ -1,8 +1,8 @@
 20251017
 
-https://arxiv.org/abs/2510.13947
-https://arxiv.org/abs/2510.13950
-https://arxiv.org/abs/2510.13970
+* https://arxiv.org/abs/2510.13947 # Universal Growth of Krylov Complexity Across A Quantum Phase Transition, Andras Grabarits, Adolfo del Campo
+* https://arxiv.org/abs/2510.13950 # Quantum State Designs via Magic Teleportation, Hugo Loio, Guglielmo Lami, Lorenzo Leone, Max McGinley, Xhek Turkeshi, Jacopo De Nardis
+* https://arxiv.org/abs/2510.13970 # Temporal Entanglement Transitions in the Periodically Driven Ising Chain, Karun Gadge, Abhinav Prem, Rishabh Jha
 https://arxiv.org/abs/2510.13980
 https://arxiv.org/abs/2510.13983
 https://arxiv.org/abs/2510.13987
@@ -15,22 +15,22 @@ https://arxiv.org/abs/2510.14121
 https://arxiv.org/abs/2510.14160
 https://arxiv.org/abs/2510.14533
 https://arxiv.org/abs/2510.14595
-https://arxiv.org/abs/2510.14742
-https://arxiv.org/abs/2510.14817
+* https://arxiv.org/abs/2510.14742 # Unsupervised Learning to Recognize Quantum Phases of Matter, Mehran Khosrojerdi, Alessandro Cuccoli, Paola Verrucchi, Leonardo Banchi
+* https://arxiv.org/abs/2510.14817 # Signatures of Topological Symmetries on a Noisy Quantum Simulator, Christopher Lamb, Robert M. Konik, Hubert Saleur, Ananda Roy
 https://arxiv.org/abs/2510.14886
 https://arxiv.org/abs/2510.14895
 https://arxiv.org/abs/2510.14897
 https://arxiv.org/abs/2510.14905
 
 https://arxiv.org/abs/2510.14912
-https://arxiv.org/abs/2510.14926
+* https://arxiv.org/abs/2510.14926 # Current fluctuations in nonequilibrium open quantum systems beyond weak coupling: a reaction coordinate approach, Khalak Mahadeviya, Saulo V. Moreira, Sheikh Parvez Mandal, Mahasweta Pandit, Javier Prior, Mark T. Mitchison
 https://arxiv.org/abs/2510.14963
 https://arxiv.org/abs/2510.13941
 https://arxiv.org/abs/2510.13986
-https://arxiv.org/abs/2510.14593
+* https://arxiv.org/abs/2510.14593 # Interplay of ferromagnetism, nematicity and Fermi surface nesting in kagome flat band, Yuman He, Wentao Jiang, Siqi Wu, Xuzhe Ying, Berthold Jack, Xi Dai, Hoi Chun Po
 https://arxiv.org/abs/2510.14679
-https://arxiv.org/abs/2510.14740
-https://arxiv.org/abs/2510.14813
+* https://arxiv.org/abs/2510.14740 # On Krylov Complexity as a Probe of the Quantum Mpemba Effect, Mohsen Alishahiha, Mohammad Javad Vasli
+* https://arxiv.org/abs/2510.14813 # Quantum Fisher Information as a Thermal and Dynamical Probe in Frustrated Magnets: Insights from Quantum Spin Ice, Chengkang Zhou, Zhengbang Zhou, Felix Desrochers, Yong Baek Kim, Zi Yang Meng
 
 https://journals.aps.org/prl/abstract/10.1103/4yyv-hggz
 https://journals.aps.org/prl/abstract/10.1103/1hlj-h6t9
