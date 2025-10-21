@@ -45,6 +45,8 @@ https://arxiv.org/abs/2510.15052
 https://arxiv.org/abs/2510.15067
 
 * https://arxiv.org/abs/2510.15766 # Subdimensional entanglement entropy: from virtual response to mixed-state holography, Meng-Yuan Li, Peng Ye
+https://arxiv.org/abs/2510.15053
+https://arxiv.org/abs/2510.15852
 
 https://journals.aps.org/prb/abstract/10.1103/kj16-sqcm
 https://journals.aps.org/prb/abstract/10.1103/x7c2-x8p6
