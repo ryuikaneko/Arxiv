@@ -1,5 +1,21 @@
 20251020
 
+https://arxiv.org/abs/2510.15027
+https://arxiv.org/abs/2510.15078
+https://arxiv.org/abs/2510.15080
+* https://arxiv.org/abs/2510.15111 # Unusual critical points between atomic insulating phases, Yunchao Zhang, T. Senthil
+https://arxiv.org/abs/2510.15124
+https://arxiv.org/abs/2510.15158
+https://arxiv.org/abs/2510.15163
+https://arxiv.org/abs/2510.15224
+https://arxiv.org/abs/2510.15357
+https://arxiv.org/abs/2510.15410
+
+https://arxiv.org/abs/2510.15525
+https://arxiv.org/abs/2510.15536
+https://arxiv.org/abs/2510.15294
+https://arxiv.org/abs/2510.15500
+
 https://arxiv.org/abs/2510.15029
 * https://arxiv.org/abs/2510.15030 # Adiabatic transport of neural network quantum states, Matija Medvidovic, Alev Orfi, Juan Carrasquilla, Dries Sels
 https://arxiv.org/abs/2510.15059
