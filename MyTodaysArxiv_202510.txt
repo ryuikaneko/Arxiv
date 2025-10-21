@@ -1,9 +1,9 @@
 20251020
 
 https://arxiv.org/abs/2510.15029
-https://arxiv.org/abs/2510.15030
+* https://arxiv.org/abs/2510.15030 # Adiabatic transport of neural network quantum states, Matija Medvidovic, Alev Orfi, Juan Carrasquilla, Dries Sels
 https://arxiv.org/abs/2510.15059
-https://arxiv.org/abs/2510.15107
+* https://arxiv.org/abs/2510.15107 # Efficient encoding of the 2D toric code logical state using local Clifford gates, Ivan H.C. Shum
 https://arxiv.org/abs/2510.15140
 https://arxiv.org/abs/2510.15143
 https://arxiv.org/abs/2510.15175
@@ -15,7 +15,7 @@ https://arxiv.org/abs/2510.15287
 https://arxiv.org/abs/2510.15316
 https://arxiv.org/abs/2510.15334
 https://arxiv.org/abs/2510.15340
-https://arxiv.org/abs/2510.15370
+* https://arxiv.org/abs/2510.15370 # Entanglement complexification transition driven by a single non-Hermitian impurity, Yao Zhou, Peng Ye
 https://arxiv.org/abs/2510.15375
 https://arxiv.org/abs/2510.15486
 https://arxiv.org/abs/2510.15506
@@ -24,7 +24,7 @@ https://arxiv.org/abs/2510.15554
 
 https://arxiv.org/abs/2510.15584
 https://arxiv.org/abs/2510.15628
-https://arxiv.org/abs/2510.15630
+* https://arxiv.org/abs/2510.15630 # Distributed Quantum Information Processing: A Review of Recent Progress, Johannes Knoerzer, Xiaoyu Liu, Benjamin F. Schiffer, Jordi Tura
 https://arxiv.org/abs/2510.15645
 https://arxiv.org/abs/2510.15675
 https://arxiv.org/abs/2510.15678
@@ -33,18 +33,18 @@ https://arxiv.org/abs/2510.15721
 https://arxiv.org/abs/2510.15730
 https://arxiv.org/abs/2510.15760
 
-https://arxiv.org/abs/2510.15776
+* https://arxiv.org/abs/2510.15776 # Flexible Qubit Allocation of Network Resource States, Francesco Mazza, Jorge Miguel-Ramiro, Jessica Illiano, Alexander Pirker, Marcello Caleffi, Angela Sara Cacciapuoti, Wolfgang Duer
 https://arxiv.org/abs/2510.15781
-https://arxiv.org/abs/2510.15793
+* https://arxiv.org/abs/2510.15793 # Role of exceptional points in the dynamics of the Lindblad Sachdev-Ye-Kitaev model, Jie-ping Zheng, Jorge Dukelsky, Rafael A. Molina, Antonio M. Garcia-Garcia
 https://arxiv.org/abs/2510.15806
 https://arxiv.org/abs/2510.15829
-https://arxiv.org/abs/2510.15034
-https://arxiv.org/abs/2510.15035
+* https://arxiv.org/abs/2510.15034 # Reconstructing Spin Hamiltonians of 2D Gutzwiller-Projected Wavefunctions, Lucas Z. Brito, J. B. Marston
+* https://arxiv.org/abs/2510.15035 # Entanglement Entropy from Correlation Functions of Scalar Fields in and out of Equilibrium, Mrinal Kanti Sarkar, Saranyo Moitra, Rajdeep Sensarma
 https://arxiv.org/abs/2510.15044
 https://arxiv.org/abs/2510.15052
 https://arxiv.org/abs/2510.15067
 
-https://arxiv.org/abs/2510.15766
+* https://arxiv.org/abs/2510.15766 # Subdimensional entanglement entropy: from virtual response to mixed-state holography, Meng-Yuan Li, Peng Ye
 
 https://journals.aps.org/prb/abstract/10.1103/kj16-sqcm
 https://journals.aps.org/prb/abstract/10.1103/x7c2-x8p6
