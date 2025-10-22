@@ -11,7 +11,7 @@ https://arxiv.org/abs/2510.16855
 https://arxiv.org/abs/2510.16878
 https://arxiv.org/abs/2510.16884
 
-https://arxiv.org/abs/2510.16929
+* https://arxiv.org/abs/2510.16929 # Impact of Random Bond Disorder on Quantum Skyrmions in a spin-half Quantum Heisenberg Model, Amit Kumar, Kalpataru Pradhan
 https://arxiv.org/abs/2510.17011
 https://arxiv.org/abs/2510.17050
 https://arxiv.org/abs/2510.17123
