@@ -1,5 +1,44 @@
 20251021
 
+https://arxiv.org/abs/2510.16027
+https://arxiv.org/abs/2510.16101
+https://arxiv.org/abs/2510.16117
+https://arxiv.org/abs/2510.16149
+https://arxiv.org/abs/2510.16301
+https://arxiv.org/abs/2510.16401
+https://arxiv.org/abs/2510.16420
+https://arxiv.org/abs/2510.16498
+* https://arxiv.org/abs/2510.16570 # Quantum Complexity in Constrained Many-Body Models: Scars, Fragmentation, and Chaos, Arkaprava Sil, Sudipto Singha Roy
+https://arxiv.org/abs/2510.16602
+
+https://arxiv.org/abs/2510.16623
+https://arxiv.org/abs/2510.16625
+https://arxiv.org/abs/2510.16628
+https://arxiv.org/abs/2510.16634
+https://arxiv.org/abs/2510.16739
+https://arxiv.org/abs/2510.16754
+https://arxiv.org/abs/2510.16784
+https://arxiv.org/abs/2510.16788
+https://arxiv.org/abs/2510.16810
+https://arxiv.org/abs/2510.16836
+
+https://arxiv.org/abs/2510.16918
+* https://arxiv.org/abs/2510.17183 # Kinetically-induced bound states in a frustrated Rydberg tweezer array, Mu Qiao, Romain Martin, Lukas Homeier, Ivan Morera, Bastien Gely, Lukas Klein, Yuki Torii Chew, Daniel Barredo, Thierry Lahaye, Eugene Demler, Antoine Browaeys
+https://arxiv.org/abs/2510.17224
+https://arxiv.org/abs/2510.17231
+https://arxiv.org/abs/2510.17248
+https://arxiv.org/abs/2510.17275
+https://arxiv.org/abs/2510.17286
+https://arxiv.org/abs/2510.17317
+https://arxiv.org/abs/2510.17375
+https://arxiv.org/abs/2510.17490
+
+https://arxiv.org/abs/2510.17513
+https://arxiv.org/abs/2510.17642
+https://arxiv.org/abs/2510.17689
+https://arxiv.org/abs/2510.17692
+https://arxiv.org/abs/2510.15935
+
 https://journals.aps.org/prresearch/abstract/10.1103/g5cx-1vhj
 https://journals.aps.org/prresearch/abstract/10.1103/557f-6tpb
 
