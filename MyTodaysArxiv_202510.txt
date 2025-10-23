@@ -1,4 +1,26 @@
-e20251022
+20251023
+
+
+
+
+20251022
+
+https://arxiv.org/abs/2510.17805
+https://arxiv.org/abs/2510.17936
+https://arxiv.org/abs/2510.17969
+https://arxiv.org/abs/2510.17982
+https://arxiv.org/abs/2510.18086
+https://arxiv.org/abs/2510.18092
+https://arxiv.org/abs/2510.18144
+https://arxiv.org/abs/2510.18323
+https://arxiv.org/abs/2510.18435
+https://arxiv.org/abs/2510.18447
+
+https://arxiv.org/abs/2510.18469
+https://arxiv.org/abs/2510.18532
+https://arxiv.org/abs/2510.18536
+https://arxiv.org/abs/2510.18875
+https://arxiv.org/abs/2510.17886
 
 * https://arxiv.org/abs/2510.17974 # Experimental preparation of W states through many-body physics on a quantum simulator, Alberto Giuseppe Catalano, Ceren Dag, Gianpaolo Torre, Salvatore Marco Giampaolo, Fabio Franchini
 https://arxiv.org/abs/2510.17976
