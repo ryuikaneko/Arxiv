@@ -1,4 +1,40 @@
-20251022
+e20251022
+
+* https://arxiv.org/abs/2510.17974 # Experimental preparation of W states through many-body physics on a quantum simulator, Alberto Giuseppe Catalano, Ceren Dag, Gianpaolo Torre, Salvatore Marco Giampaolo, Fabio Franchini
+https://arxiv.org/abs/2510.17976
+https://arxiv.org/abs/2510.17978
+https://arxiv.org/abs/2510.18000
+https://arxiv.org/abs/2510.18005
+https://arxiv.org/abs/2510.18105
+https://arxiv.org/abs/2510.18116
+https://arxiv.org/abs/2510.18150
+https://arxiv.org/abs/2510.18186
+https://arxiv.org/abs/2510.18208
+
+* https://arxiv.org/abs/2510.18286 # Information geometry of nonmonotonic quantum natural gradient, Hideyuki Miyahara
+https://arxiv.org/abs/2510.18350
+* https://arxiv.org/abs/2510.18369 # Coherence-induced deep thermalization transition in random permutation quantum dynamics, Chang Liu, Matteo Ippoliti, Wen Wei Ho
+https://arxiv.org/abs/2510.18427
+https://arxiv.org/abs/2510.18453
+https://arxiv.org/abs/2510.18512
+https://arxiv.org/abs/2510.18540
+* https://arxiv.org/abs/2510.18594 # Renormalized dual basis for scalable simulations of 2+1D compact quantum electrodynamics, Marc Miranda-Riaza, Pierpaolo Fontana, Alessio Celi
+* https://arxiv.org/abs/2510.18621 # An integrated neural wavefunction solver for spinful Fermi systems, Alexander Avdoshkin, Max Geier, Liang Fu
+* https://arxiv.org/abs/2510.18652 # Measurement-Based Fault-Tolerant Quantum Computation on High-Connectivity Devices: A Resource-Efficient Approach toward Early FTQC, Yohei Ibe, Yutaka Hirano, Yasuo Ozu, Toru Kawakubo, Keisuke Fujii
+
+https://arxiv.org/abs/2510.18732
+https://arxiv.org/abs/2510.18753
+https://arxiv.org/abs/2510.18805
+https://arxiv.org/abs/2510.18809
+https://arxiv.org/abs/2510.18833
+https://arxiv.org/abs/2510.18847
+https://arxiv.org/abs/2510.18864
+https://arxiv.org/abs/2510.17984
+https://arxiv.org/abs/2510.18447
+* https://arxiv.org/abs/2510.18545 # Large deviations in the many-body localization transition: The case of the random-field XXZ chain, Greivin Alfaro Miranda, Fabien Alet, Giulio Biroli, Leticia F. Cugliandolo, Nicolas Laflorencie, Marco Tarzia
+
+* https://arxiv.org/abs/2510.18689 # Modulated symmetries from generalized Lieb-Schultz-Mattis anomalies, Hiromi Ebisu, Bo Han, Weiguang Cao
+https://arxiv.org/abs/2510.18832
 
 https://journals.aps.org/prl/abstract/10.1103/tx71-1cd9
 https://journals.aps.org/prxquantum/abstract/10.1103/j2z3-s6d6
