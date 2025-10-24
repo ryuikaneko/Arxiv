@@ -9,9 +9,9 @@ https://journals.aps.org/pra/abstract/10.1103/pkdf-tf5r
 20251023
 
 https://arxiv.org/abs/2510.18926
-https://arxiv.org/abs/2510.18954
+* https://arxiv.org/abs/2510.18954 # Haerter-Shastry kinetic magnetism and metallicity in the triangular Hubbard model, Sogoud Sherif, Prakash Sharma, Aman Kumar, Hitesh J. Changlani
 https://arxiv.org/abs/2510.18963
-https://arxiv.org/abs/2510.18973
+* https://arxiv.org/abs/2510.18973 # Ferro-spinetic Altermagnets from Electronic Correlations, Toshihiro Sato, Mengli Hu, Ion Cosma Fulga, Oleg Janson, Jorge I. Facio, Alessandro Stroppa, Fakher F. Assaad, Jeroen van den Brink
 https://arxiv.org/abs/2510.18974
 https://arxiv.org/abs/2510.18992
 https://arxiv.org/abs/2510.19083
@@ -19,8 +19,7 @@ https://arxiv.org/abs/2510.19091
 https://arxiv.org/abs/2510.19313
 https://arxiv.org/abs/2510.19406
 
-https://arxiv.org/abs/2510.19504
-https://arxiv.org/abs/2510.19510
+* https://arxiv.org/abs/2510.19504 # Practical algorithm for simulating thermal pure quantum states, Wei-Bo He, Yun-Tong Yang, Hong-Gang Luo
 https://arxiv.org/abs/2510.19533
 https://arxiv.org/abs/2510.19544
 https://arxiv.org/abs/2510.19588
