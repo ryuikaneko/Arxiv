@@ -4,6 +4,44 @@
 
 20251023
 
+https://arxiv.org/abs/2510.18977
+https://arxiv.org/abs/2510.18984
+https://arxiv.org/abs/2510.19027
+https://arxiv.org/abs/2510.19039
+https://arxiv.org/abs/2510.19045
+https://arxiv.org/abs/2510.19062
+https://arxiv.org/abs/2510.19073
+https://arxiv.org/abs/2510.19092
+https://arxiv.org/abs/2510.19111
+https://arxiv.org/abs/2510.19157
+
+https://arxiv.org/abs/2510.19219
+https://arxiv.org/abs/2510.19230
+https://arxiv.org/abs/2510.19362
+https://arxiv.org/abs/2510.19397
+https://arxiv.org/abs/2510.19436
+https://arxiv.org/abs/2510.19442
+https://arxiv.org/abs/2510.19445
+* https://arxiv.org/abs/2510.19459 # Absence of measurement- and unraveling-induced entanglement transitions in continuously monitored one-dimensional free fermions, Clemens Niederegger, Tatiana Vovk, Elias Starchl, Lukas M. Sieberer
+https://arxiv.org/abs/2510.19467
+https://arxiv.org/abs/2510.19494
+
+https://arxiv.org/abs/2510.19522
+https://arxiv.org/abs/2510.19651
+https://arxiv.org/abs/2510.19657
+https://arxiv.org/abs/2510.19714
+https://arxiv.org/abs/2510.19715
+https://arxiv.org/abs/2510.19730
+https://arxiv.org/abs/2510.19751
+https://arxiv.org/abs/2510.19809
+https://arxiv.org/abs/2510.18950
+https://arxiv.org/abs/2510.18967
+
+https://arxiv.org/abs/2510.19189
+* https://arxiv.org/abs/2510.19428 # Lattice-reflection symmetry in tensor-network renormalization group with entanglement filtering in two and three dimensions, Xinliang Lyu, Naoki Kawashima
+https://arxiv.org/abs/2510.19510
+https://arxiv.org/abs/2510.19816
+
 https://journals.aps.org/prb/abstract/10.1103/vc7b-15sf
 https://journals.aps.org/prb/abstract/10.1103/1wb4-df6c
 https://journals.aps.org/prb/abstract/10.1103/4hpw-6mq3
