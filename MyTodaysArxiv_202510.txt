@@ -13,6 +13,42 @@ https://journals.aps.org/prb/abstract/10.1103/gvw1-xk98
 
 20251024
 
+https://arxiv.org/abs/2510.19846
+https://arxiv.org/abs/2510.19855
+
+https://arxiv.org/abs/2510.19928
+https://arxiv.org/abs/2510.19969
+https://arxiv.org/abs/2510.19983
+https://arxiv.org/abs/2510.19987
+https://arxiv.org/abs/2510.19989
+https://arxiv.org/abs/2510.20030
+* https://arxiv.org/abs/2510.20046 # Exact State Evolution and Energy Spectrum in Solvable Bosonic Models, Valery Shchesnovich
+* https://arxiv.org/abs/2510.20118 # Variational quantum simulation of many-body dissipative dynamics on a superconducting quantum processor, Huan-Yu Liu, Tai-Ping Sun, Zhao-Yun Chen, Cheng Xue, Chao Wang, Xi-Ning Zhuang, Jin-Peng Liu, Wei Yi, Yu-Chun Wu, Guo-Ping Guo
+* https://arxiv.org/abs/2510.20145 # Efficient Floating-Point Arithmetic on Fault-Tolerant Quantum Computers, Jose E. Cruz Serralles, Oluwadara Ogunkoya, Doga Murat Kuerkcueoglu, Nicholas Bornman, Norm M. Tubman, Anna Grassellino, Silvia Zorzetti, Riccardo Lattanzi
+https://arxiv.org/abs/2510.20160
+
+https://arxiv.org/abs/2510.20192
+* https://arxiv.org/abs/2510.20224 # Non-Markovianity in Quantum Information Processing: Interplay with Quantum Error Mitigation, Suguru Endo, Hideaki Hakoshima, Tomohiro Shitara
+https://arxiv.org/abs/2510.20444
+https://arxiv.org/abs/2510.20445
+https://arxiv.org/abs/2510.20489
+https://arxiv.org/abs/2510.20530
+https://arxiv.org/abs/2510.20557
+https://arxiv.org/abs/2510.20581
+https://arxiv.org/abs/2510.20630
+https://arxiv.org/abs/2510.20675
+
+https://arxiv.org/abs/2510.20713
+https://arxiv.org/abs/2510.20730
+https://arxiv.org/abs/2510.20789
+https://arxiv.org/abs/2510.20798
+https://arxiv.org/abs/2510.19835
+https://arxiv.org/abs/2510.19922
+* https://arxiv.org/abs/2510.19937 # Dimensionality-Changing Transition from a Non-Fermi Liquid to a Spin-Solid in a Multichannel Kondo Lattice, Simon Martin, Marcin Raczkowski, Fakher F. Assaad, Tarun Grover
+https://arxiv.org/abs/2510.20128
+* https://arxiv.org/abs/2510.20186 # Kondo breakdown induced by the non-Hermitian complex hybridization, Kazuki Yamamoto, Masaya Nakagawa, Norio Kawakami
+https://arxiv.org/abs/2510.20538
+
 https://journals.aps.org/prxquantum/abstract/10.1103/fbgh-rq3l
 https://journals.aps.org/pra/abstract/10.1103/fcjk-qbwh
 https://journals.aps.org/pra/abstract/10.1103/r2dc-qcrx
