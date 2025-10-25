@@ -13,6 +13,35 @@ https://journals.aps.org/prb/abstract/10.1103/gvw1-xk98
 
 20251024
 
+https://arxiv.org/abs/2510.19831
+https://arxiv.org/abs/2510.19880
+https://arxiv.org/abs/2510.19881
+https://arxiv.org/abs/2510.19891
+https://arxiv.org/abs/2510.19902
+* https://arxiv.org/abs/2510.19907 # Quantum Hall to Chiral Spin Liquid transition in a Triangular Lattice Hofstadter-Hubbard Model, Cesar A. Gallegos, Rafael M. Magaldi, Andrew Millis, Steven R. White
+
+https://arxiv.org/abs/2510.19943
+https://arxiv.org/abs/2510.20004
+https://arxiv.org/abs/2510.20034
+https://arxiv.org/abs/2510.20204
+https://arxiv.org/abs/2510.20230
+https://arxiv.org/abs/2510.20309
+https://arxiv.org/abs/2510.20312
+https://arxiv.org/abs/2510.20352
+https://arxiv.org/abs/2510.20360
+https://arxiv.org/abs/2510.20520
+
+https://arxiv.org/abs/2510.20575
+* https://arxiv.org/abs/2510.20577 # Monte Carlo Sampling for Wave Functions Requiring (Anti)Symmetrization, Koyena Bose, Steven H. Simon, Ajit C. Balram
+https://arxiv.org/abs/2510.20592
+* https://arxiv.org/abs/2510.20633 # Systematic study of multi-magnon binding energies in the FM-AFM J1-J2 chain, Satoshi Nishimoto
+https://arxiv.org/abs/2510.20659
+https://arxiv.org/abs/2510.20790
+* https://arxiv.org/abs/2510.20816 # Charge-density waves and stripes in quarter metals of graphene heterostructures, Sk Asrap Murshed, Bitan Roy
+https://arxiv.org/abs/1911.06397
+https://arxiv.org/abs/2510.19816
+https://arxiv.org/abs/2510.19914
+
 https://arxiv.org/abs/2510.19846
 https://arxiv.org/abs/2510.19855
 
