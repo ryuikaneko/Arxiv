@@ -1,5 +1,38 @@
 20251027
 
+https://arxiv.org/abs/2510.20893
+https://arxiv.org/abs/2510.20901
+https://arxiv.org/abs/2510.20939
+https://arxiv.org/abs/2510.21005
+https://arxiv.org/abs/2510.21109
+https://arxiv.org/abs/2510.21240
+* https://arxiv.org/abs/2510.21269 # Tensor Renormalization-Group study of the surface critical behavior of a frustrated two-layer Ising model, Christophe Chatelain (LPCT)
+* https://arxiv.org/abs/2510.21291 # Altermagnetism in an interacting model of Kagome materials, Alejandro Blanco Peces, Jaime Merino
+https://arxiv.org/abs/2510.21382
+* https://arxiv.org/abs/2510.21578 # Critical Exponent of Dynamical Quantum Phase Transition in One-Dimensional Bose-Hubbard Model in the Strong Interacting Limit, Jia Li, Yajiang Hao
+
+* https://arxiv.org/abs/2510.20865 # Philip Warren Anderson, Premala Chandra, Piers Coleman, Clare C. Yu
+https://arxiv.org/abs/2510.20902
+* https://arxiv.org/abs/2510.20908 # Local-to-Global Entanglement Dynamics by Periodically Driving Impurities, Zhi-Xing Lin, Abhinav Prem, Shinsei Ryu, Bastien Lapierre
+* https://arxiv.org/abs/2510.21217 # Scrambling Without Chaos in Random Free-Fermionic Systems, Ali Mollabashi, Mohammad-Javad Vasli
+https://arxiv.org/abs/2510.21268
+https://arxiv.org/abs/2510.20873
+https://arxiv.org/abs/2510.20890
+https://arxiv.org/abs/2510.20908
+https://arxiv.org/abs/2510.20950
+https://arxiv.org/abs/2510.21075
+
+https://arxiv.org/abs/2510.21168
+https://arxiv.org/abs/2510.21255
+https://arxiv.org/abs/2510.21476
+https://arxiv.org/abs/2510.21544
+https://arxiv.org/abs/2510.21554
+https://arxiv.org/abs/2510.21600
+https://arxiv.org/abs/2510.21599
+https://arxiv.org/abs/2510.21295
+https://arxiv.org/abs/2510.21620
+https://arxiv.org/abs/2510.21628
+
 https://journals.aps.org/prresearch/abstract/10.1103/ybgv-35jm
 https://journals.aps.org/pra/abstract/10.1103/3dng-3jhl
 https://journals.aps.org/pra/abstract/10.1103/bzvn-sp2h
