@@ -8,14 +8,70 @@ https://journals.aps.org/prb/abstract/10.1103/6ccd-wzhz
 
 20251028
 
+https://arxiv.org/abs/2510.21803
+https://arxiv.org/abs/2510.21913
+https://arxiv.org/abs/2510.21928
+https://arxiv.org/abs/2510.21955
+https://arxiv.org/abs/2510.21963
+https://arxiv.org/abs/2510.21968
+* https://arxiv.org/abs/2510.22148 # Berezinskii-Kosterlitz-Thouless Transition and Multifractal Critical Phase in Two-Dimensional Quantum Percolation, W. S. Oliveira, J. Pimentel de Lima, F. A. Pinheiro, R. R. dos Santos
+https://arxiv.org/abs/2510.22195
+https://arxiv.org/abs/2510.22203
+https://arxiv.org/abs/2510.22424
+
+https://arxiv.org/abs/2510.22580
+https://arxiv.org/abs/2510.22615
+https://arxiv.org/abs/2510.22645
+* https://arxiv.org/abs/2510.22668 # Hilbert Space Fragmentation in Hardcore Bose and Fermi Hubbard Models on Generalized Lieb Lattices, D. K. He, Z. Song
+https://arxiv.org/abs/2510.22719
+https://arxiv.org/abs/2510.22745
+https://arxiv.org/abs/2510.22867
+https://arxiv.org/abs/2510.23138
+https://arxiv.org/abs/2510.23159
+https://arxiv.org/abs/2510.23181
+https://arxiv.org/abs/2510.23302
+
+* https://arxiv.org/abs/2510.23376 # Ground-state phase diagram of S = 1/2 Heisenberg model on 2D square-hexagon-octagon lattice, Yumeng Luo, Yuehong Li, Mengfan Jiang, Muwei Wu, Jian-Jian Yang, Dao-Xin Yao, Han-Qing Wu
+https://arxiv.org/abs/2510.23412
+https://arxiv.org/abs/2510.23419
+https://arxiv.org/abs/2510.23439
+https://arxiv.org/abs/2510.23445
+https://arxiv.org/abs/2510.23493
+https://arxiv.org/abs/2510.23600
+* https://arxiv.org/abs/2510.23604 # Solution to a Quantum Impurity Model for Moire Systems: Fermi Liquid, Pairing, and Pseudogap, Yi-Jie Wang, Geng-Dong Zhou, Hyunsung Jung, Seongyeon Youn, Seung-Sup B. Lee, Zhi-Da Song
+https://arxiv.org/abs/2510.21742
+https://arxiv.org/abs/2510.21756
+
+* https://arxiv.org/abs/2510.22542 # Krylov Complexity and Mixed-State Phase Transition, Hung-Hsuan Teh, Takahiro Orito
+https://arxiv.org/abs/2510.22545
+* https://arxiv.org/abs/2510.23089 # Tensor network methods for quantum-inspired image processing and classical optics, Nicolas Allegra
+https://arxiv.org/abs/2510.21766
+https://arxiv.org/abs/2510.21901
+* https://arxiv.org/abs/2510.21927 # Temporal Complexity Hierarchies in Solvable Quantum Many-Body Dynamics, He-Ran Wang, Ilya Vilkoviskiy, Dmitry A. Abanin
+https://arxiv.org/abs/2510.22227
+https://arxiv.org/abs/2510.22233
+https://arxiv.org/abs/2510.22253
+https://arxiv.org/abs/2510.22311
+
+https://arxiv.org/abs/2510.22481
+https://arxiv.org/abs/2510.22516
+https://arxiv.org/abs/2510.22540
+https://arxiv.org/abs/2510.22724
+https://arxiv.org/abs/2510.23154
+* https://arxiv.org/abs/2510.23162 # Measurement-only circuit of perturbed toric code on triangular lattice: Topological entanglement, 1-form symmetry and logical qubits, Keisuke Kataoka, Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose
+https://arxiv.org/abs/2510.23171
+https://arxiv.org/abs/2510.23212
+https://arxiv.org/abs/2510.23480
+https://arxiv.org/abs/2510.23519
+
 https://arxiv.org/abs/2510.23489
 https://arxiv.org/abs/2510.23572
-https://arxiv.org/abs/2510.23546
+* https://arxiv.org/abs/2510.23546 # Variational Thermal State Preparation on Digital Quantum Processors Assisted by Matrix Product States, Rui-Hao Li, Semeon Valgushev, Khadijeh Najafi
 https://arxiv.org/abs/2510.23591
 https://arxiv.org/abs/2510.21844
 https://arxiv.org/abs/2510.22615
 https://arxiv.org/abs/2510.22658
-https://arxiv.org/abs/2510.23135
+* https://arxiv.org/abs/2510.23135 # Universal Relations in Long-range Quantum Spin Chains, Ning Sun, Lei Feng, Pengfei Zhang
 https://arxiv.org/abs/2510.23247
 https://arxiv.org/abs/2510.23501
 
