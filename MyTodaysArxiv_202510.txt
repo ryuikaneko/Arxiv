@@ -1,4 +1,23 @@
+20251029
+
+https://journals.aps.org/prl/abstract/10.1103/llbb-pcgk
+https://journals.aps.org/prb/abstract/10.1103/821h-8yjz
+https://journals.aps.org/prb/abstract/10.1103/nh89-6jmf
+https://journals.aps.org/prb/abstract/10.1103/6ccd-wzhz
+
+
 20251028
+
+https://arxiv.org/abs/2510.23489
+https://arxiv.org/abs/2510.23572
+https://arxiv.org/abs/2510.23546
+https://arxiv.org/abs/2510.23591
+https://arxiv.org/abs/2510.21844
+https://arxiv.org/abs/2510.22615
+https://arxiv.org/abs/2510.22658
+https://arxiv.org/abs/2510.23135
+https://arxiv.org/abs/2510.23247
+https://arxiv.org/abs/2510.23501
 
 https://journals.aps.org/prb/abstract/10.1103/k9jx-1tgs
 https://journals.aps.org/prb/abstract/10.1103/n4vy-dl5v
@@ -8,6 +27,9 @@ https://journals.aps.org/prb/abstract/10.1103/q8qm-1ttf
 https://journals.aps.org/prb/abstract/10.1103/lcvj-ksct
 https://journals.aps.org/prxquantum/abstract/10.1103/mlmy-yskj
 https://journals.aps.org/prresearch/abstract/10.1103/kjcv-919d
+
+
+====
 
 
 20251027
