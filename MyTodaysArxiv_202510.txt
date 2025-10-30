@@ -10,6 +10,39 @@ https://journals.aps.org/prb/abstract/10.1103/yc85-b7tz
 
 20251029
 
+https://arxiv.org/abs/2510.24521
+https://arxiv.org/abs/2510.24624
+* https://arxiv.org/abs/2510.24630 # Accelerated relaxation and Mpemba-like effect for operators in open quantum systems, Pitambar Bagui, Arijit Chatterjee, Bijay Kumar Agarwalla
+* https://arxiv.org/abs/2510.24686 # A light-induced charge order mode in a metastable cuprate ladder, Hari Padma, Prakash Sharma, Sophia F. R. TenHuisen, Filippo Glerean, Antoine Roll, Pan Zhou, Sarbajaya Kundu, Arnau Romaguera, Elizabeth Skoropata, Hiroki Ueda, Biaolong Liu, Eugenio Paris, Yu Wang, Seng Huat Lee, Zhiqiang Mao, Mark P. M. Dean, Edwin W. Huang, Elia Razzoli, Yao Wang, Matteo Mitrano
+https://arxiv.org/abs/2510.23725
+* https://arxiv.org/abs/2510.24713 # Distinct Types of Parent Hamiltonians for Quantum States: Insights from the W State as a Quantum Many-Body Scar, Lei Gioia, Sanjay Moudgalya, Olexei I. Motrunich
+https://arxiv.org/abs/2510.23654
+https://arxiv.org/abs/2510.23719
+https://arxiv.org/abs/2510.23726
+https://arxiv.org/abs/2510.23827
+
+https://arxiv.org/abs/2510.23923
+https://arxiv.org/abs/2510.24047
+* https://arxiv.org/abs/2510.24059 # Fock space prethermalization and time-crystalline order on a quantum processor, Zehang Bao, Zitian Zhu, Yang-Ren Liu, Zixuan Song, Feitong Jin, Xuhao Zhu, Yu Gao, Chuanyu Zhang, Ning Wang, Yiren Zou, Ziqi Tan, Aosai Zhang, Zhengyi Cui, Fanhao Shen, Jiarun Zhong, Yiyang He, Han Wang, Jia-Nan Yang, Yanzhe Wang, Jiayuan Shen, Gongyu Liu, Yihang Han, Yaozu Wu, Jinfeng Deng, Hang Dong, Pengfei Zhang, Hekang Li, Zhen Wang, Chao Song, Chen Cheng, Rubem Mondaini, Qiujiang Guo, Biao Huang, H. Wang
+* https://arxiv.org/abs/2510.24137 # Matrix product state approach to lossy boson sampling and noisy IQP sampling, Sojeong Park, Changhun Oh
+https://arxiv.org/abs/2510.24181
+https://arxiv.org/abs/2510.24275
+https://arxiv.org/abs/2510.24348
+* https://arxiv.org/abs/2510.24509 # Quantum Combinatorial Reasoning for Large Language Models, Carlos Flores-Garrigos, Gaurav Dev, Michael Falkenthal, Alejandro Gomez Cadavid, Anton Simen, Shubham Kumar, Enrique Solano, Narendra N. Hegade
+* https://arxiv.org/abs/2510.24681 # Renormalization-group-based preparation of matrix product states on up to 80 qubits, Moritz Scheer, Alberto Baiardi, Elisa Baeumer Marty, Zhi-Yuan Wei, Daniel Malz
+* https://arxiv.org/abs/2510.23618 # Repulsively Bound Hadrons in a Z2 Lattice Gauge Theory, Sayak Guha Roy, Vaibhav Sharma, Kaidi Xu, Umberto Borla, Jad C. Halimeh, Kaden R. A. Hazzard
+
+https://arxiv.org/abs/2510.23701
+* https://arxiv.org/abs/2510.23706 # Free-Fermion Measurement-Induced Volume- to Area-Law Entanglement Transition in the Presence of Fermion Interactions, Matthew S. Foster, Haoyu Guo, Chao-Ming Jian, Andreas W. W. Ludwig
+* https://arxiv.org/abs/2510.23716 # Group word dynamics from local random matrix Hamiltonians and beyond, Klee Pollock, Jonathan D. Kroth, Jonathon Riddell, Thomas Iadecola
+https://arxiv.org/abs/2510.23720
+https://arxiv.org/abs/2510.23790
+https://arxiv.org/abs/2510.24054
+* https://arxiv.org/abs/2510.24704 # Long-range resonances in quasiperiodic many-body localization, Ashirbad Padhan, Jeanne Colbois, Fabien Alet, Nicolas Laflorencie
+* https://arxiv.org/abs/2510.23661 # Ashkin-Teller model with antiferromagnetic four-spin interactions: Interference effect between two conflicting issues, Cook Hyun Kim, Hoyun Choi, Joonsung Jung, B. Kahng
+https://arxiv.org/abs/2510.23810
+https://arxiv.org/abs/2510.24050
+
 https://journals.aps.org/prl/abstract/10.1103/llbb-pcgk
 https://journals.aps.org/prb/abstract/10.1103/821h-8yjz
 https://journals.aps.org/prb/abstract/10.1103/nh89-6jmf
