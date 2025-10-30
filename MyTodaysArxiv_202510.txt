@@ -1,3 +1,7 @@
+20251031
+
+
+
 20251030
 
 https://journals.aps.org/prl/abstract/10.1103/4my3-vk6c
@@ -8,6 +12,7 @@ https://journals.aps.org/prb/abstract/10.1103/sqhp-6192
 https://journals.aps.org/prb/abstract/10.1103/yc85-b7tz
 https://journals.aps.org/prxquantum/abstract/10.1103/wbbs-s8fs
 https://journals.aps.org/prresearch/abstract/10.1103/t1hr-y7c8
+https://journals.aps.org/pre/abstract/10.1103/c84g-cdcx
 
 
 20251029
