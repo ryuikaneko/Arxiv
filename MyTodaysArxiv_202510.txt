@@ -10,6 +10,21 @@ https://journals.aps.org/prb/abstract/10.1103/yc85-b7tz
 
 20251029
 
+* https://arxiv.org/abs/2510.23704 # Exact nematic and mixed magnetic phases driven by competing orders on the pyrochlore lattice, Niccolo Francini, Lukas Schmidt, Lukas Janssen, Daniel Lozano-Gomez
+https://arxiv.org/abs/2510.23710
+https://arxiv.org/abs/2510.23743
+
+https://arxiv.org/abs/2510.23784
+https://arxiv.org/abs/2510.23855
+https://arxiv.org/abs/2510.24237
+https://arxiv.org/abs/2510.24270
+https://arxiv.org/abs/2510.24277
+https://arxiv.org/abs/2510.24343
+https://arxiv.org/abs/2510.24309
+https://arxiv.org/abs/2510.24405
+https://arxiv.org/abs/2510.24465
+https://arxiv.org/abs/2510.24520
+
 https://arxiv.org/abs/2510.24521
 https://arxiv.org/abs/2510.24624
 * https://arxiv.org/abs/2510.24630 # Accelerated relaxation and Mpemba-like effect for operators in open quantum systems, Pitambar Bagui, Arijit Chatterjee, Bijay Kumar Agarwalla
