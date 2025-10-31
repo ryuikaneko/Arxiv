@@ -4,6 +4,61 @@
 
 20251030
 
+https://arxiv.org/abs/2510.24867
+https://arxiv.org/abs/2510.24903
+https://arxiv.org/abs/2510.24930
+https://arxiv.org/abs/2510.25009
+* https://arxiv.org/abs/2510.25022 # Finite-Temperature Study of the Hubbard Model via Enhanced Exponential Tensor Renormalization Group, Changkai Zhang, Jan von Delft
+https://arxiv.org/abs/2510.25056
+https://arxiv.org/abs/2510.25071
+https://arxiv.org/abs/2510.25082
+https://arxiv.org/abs/2510.25136
+* https://arxiv.org/abs/2510.25169 # Monte Carlo study on critical exponents of the classical Heisenberg model in ferromagnetic icosahedral quasicrystal, Shinji Watanabe, Tsunetomo Yamada, Hiroyuki Takakura, Nobuhisa Fujita
+
+https://arxiv.org/abs/2510.25177
+* https://arxiv.org/abs/2510.25358 # Entanglement-enhanced correlation propagation in the one-dimensional SU(N) Fermi-Hubbard model, Mathias Mikkelsen, Ippei Danshita
+https://arxiv.org/abs/2510.25415
+https://arxiv.org/abs/2510.25429
+https://arxiv.org/abs/2510.25519
+https://arxiv.org/abs/2510.25537
+* https://arxiv.org/abs/2510.25539 # Quantum Spin Liquids Stabilized by Disorder in Non-Kramers Pyrochlores, Marcus V. Marinho, Eric C. Andrade
+https://arxiv.org/abs/2510.25553
+https://arxiv.org/abs/2510.25711
+* https://arxiv.org/abs/2510.25767 # Superconductivity in overdoped cuprates can be understood from a BCS perspective!, B.J. Ramshaw, Steven A. Kivelson
+
+https://arxiv.org/abs/2510.24230
+https://arxiv.org/abs/2510.24834
+https://arxiv.org/abs/2510.24851
+https://arxiv.org/abs/2510.24896
+* https://arxiv.org/abs/2510.25249 # Encoding computationally hard problems in triangular Rydberg atom arrays, Xi-Wei Pan, Huan-Hai Zhou, Yi-Ming Lu, Jin-Guo Liu
+https://arxiv.org/abs/2510.25344
+https://arxiv.org/abs/2510.25459
+https://arxiv.org/abs/2510.25719
+* https://arxiv.org/abs/2510.24845 # Frustration-Free Control and Absorbing-State Transport in Entangled State Preparation, T. Doerstel, T. Iadecola, J. H. Wilson, M. Buchhold
+https://arxiv.org/abs/2510.24880
+
+* https://arxiv.org/abs/2510.24911 # Classically Prepared, Quantumly Evolved: Hybrid Algorithm for Molecular Spectra, Alessandro Santini, Stefano Barison, Filippo Vicentini
+https://arxiv.org/abs/2510.24950
+* https://arxiv.org/abs/2510.25222 # Decoder Switching: Breaking the Speed-Accuracy Tradeoff in Real-Time Quantum Error Correction, Riki Toshio, Kaito Kishi, Jun Fujisaki, Hirotaka Oshima, Shintaro Sato, Keisuke Fujii
+https://arxiv.org/abs/2510.25253
+https://arxiv.org/abs/2510.25294
+https://arxiv.org/abs/2510.25457
+https://arxiv.org/abs/2510.25466
+https://arxiv.org/abs/2510.25545
+https://arxiv.org/abs/2510.25546
+https://arxiv.org/abs/2510.25661
+
+https://arxiv.org/abs/2510.25675
+https://arxiv.org/abs/2510.25750
+https://arxiv.org/abs/2510.24755
+https://arxiv.org/abs/2510.24875
+https://arxiv.org/abs/2510.25474
+* https://arxiv.org/abs/2510.25735 # Universal Random Matrix Behavior of a Fermionic Quantum Gas, Maxime Dixmerias, Giuseppe Del Vecchio Del Vecchio, Cyprien Daix, Joris Verstraten, Tim de Jongh, Bruno Peaudecerf, Pierre Le Doussal, Gregory Schehr, Tarik Yefsah
+https://arxiv.org/abs/2510.25196
+https://arxiv.org/abs/2510.25625
+https://arxiv.org/abs/2510.25133
+* https://arxiv.org/abs/2510.25449 # Variational quantum computing for quantum simulation: principles, implementations, and challenges, Lucas Q. Galvao, Anna Beatriz M. de Souza, Marcelo A. Moret, Clebson Cruz
+
 https://journals.aps.org/prl/abstract/10.1103/4my3-vk6c
 https://journals.aps.org/prl/abstract/10.1103/glch-3385
 https://journals.aps.org/prl/abstract/10.1103/5f9f-bsqw
