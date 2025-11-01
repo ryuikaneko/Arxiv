@@ -1,5 +1,60 @@
 20251031
 
+* https://arxiv.org/abs/2510.25840 # Scaling of the disorder operator at (3+1)D O(3) quantum criticality, Xuyang Liang, Xiao-Chuan Wu, Zenan Liu, Zhe Wang, Zheng Yan, Dao-Xin Yao
+https://arxiv.org/abs/2510.25845
+https://arxiv.org/abs/2510.25899
+https://arxiv.org/abs/2510.25919
+https://arxiv.org/abs/2510.25966
+https://arxiv.org/abs/2510.26074
+https://arxiv.org/abs/2510.26221
+* https://arxiv.org/abs/2510.26288 # Laser-Induced Commensurate-Incommensurate Transition of Charge Order in a Hubbard Superlattice, Hua Chai, Zhenyu Cheng, Qinxin Hu, Zhongbing Huang, Xiang Hu, Xuedong Tian, Liang Du
+https://arxiv.org/abs/2510.26319
+
+https://arxiv.org/abs/2510.26468
+* https://arxiv.org/abs/2510.26528 # Superconductivity in hyperbolic spaces: Cayley trees, hyperbolic continuum, and BCS theory, Mykhailo Pavliuk, Tomas Bzdusek, Askar Iliasov
+* https://arxiv.org/abs/2510.26671 # Fractional Chern insulators on cylinders: Tao-Thouless states and beyond, Felix A. Palm, Chloe Van Bastelaere, Laurens Vanderstraeten
+* https://arxiv.org/abs/2510.26713 # Probing Topological Phases in a Strongly Correlated Ladder Model via Entanglement, Aminul Hussain, Nisa Ara, Rudranil Basu, Sudeshna Sen
+https://arxiv.org/abs/2510.26720
+https://arxiv.org/abs/2510.26763
+* https://arxiv.org/abs/2510.26801 # Resonating-valence-bond superconductor from small Fermi surface in twisted bilayer graphene, Jing-Yu Zhao, Ya-Hui Zhang
+* https://arxiv.org/abs/2510.26798 # Spin Polarons in Flat Band Ferromagnets, Saranesh Prembabu, Rahul Sahay, Stefan Divic, Ashvin Vishwanath
+https://arxiv.org/abs/2510.25996
+* https://arxiv.org/abs/2510.26300 # Fermionic dynamics on a trapped-ion quantum computer beyond exact classical simulation,
+Faisal Alam, Jan Lukas Bosse, Ieva Cepaite, Adrian Chapman, Laura Clinton, Marcos Crichigno, Elizabeth Crosson, Toby Cubitt, Charles Derby, Oliver Dowinton, Paul K. Faehrmann, Steve Flammia, Brian Flynn, Filippo Maria Gambetta, Raul Garcia-Patron, Max Hunter-Gordon, Glenn Jones, Abhishek Khedkar, Joel Klassen, Michael Kreshchuk, Edward Harry McMullan, Lana Mineh, Ashley Montanaro, Caterina Mora, John J. L. Morton, Dhrumil Patel, Pete Rolph, Raul A. Santos, James R. Seddon, Evan Sheridan, Wilfrid Somogyi, Marika Svensson, Niam Vaishnav, Sabrina Yue Wang, Gethin Wright
+
+https://arxiv.org/abs/2510.26351
+https://arxiv.org/abs/2510.26535
+* https://arxiv.org/abs/2510.26696 # Witnessing Short- and Long-Range Nonstabilizerness via the Information Lattice, Yuliya Bilinskaya, Miguel F. Martinez, Soumi Ghosh, Thomas Klein Kvorning, Claudia Artiaco, Jens H. Bardarson
+* https://arxiv.org/abs/2510.26735 # Digitized Counterdiabatic Quantum Sampling, Narendra N. Hegade, Nachiket L. Kortikar, Balaganchi A. Bhargava, Juan F. R. Hernandez, Alejandro Gomez Cadavid, Pranav Chandarana, Sebastian V. Romero, Shubham Kumar, Anton Simen, Anne-Maria Visuri, Enrique Solano, Paolo A. Erdman
+* https://arxiv.org/abs/2510.26792 # Learning Pseudorandom Numbers with Transformers: Permuted Congruential Generators, Curricula, and Interpretability, Tao Tao, Maissam Barkeshli
+https://arxiv.org/abs/2510.25838
+https://arxiv.org/abs/2510.25854
+https://arxiv.org/abs/2510.25910
+https://arxiv.org/abs/2510.25982
+https://arxiv.org/abs/2510.26078
+
+https://arxiv.org/abs/2510.26189
+https://arxiv.org/abs/2510.26255
+https://arxiv.org/abs/2510.26295
+https://arxiv.org/abs/2510.26373
+https://arxiv.org/abs/2510.26379
+https://arxiv.org/abs/2510.26448
+https://arxiv.org/abs/2510.26506
+https://arxiv.org/abs/2510.26497
+* https://arxiv.org/abs/2510.26530 # An introduction to Markovian open quantum systems, Shovan Dutta
+https://arxiv.org/abs/2510.26547
+
+* https://arxiv.org/abs/2510.26651 # Accelerated calculation of impurity Green's functions exploiting the extreme Mpemba effect, David J. Strachan, Archak Purkayastha, Stephen R. Clark
+https://arxiv.org/abs/2510.26758
+https://arxiv.org/abs/2510.26760
+https://arxiv.org/abs/2510.26761
+https://arxiv.org/abs/2510.26762
+https://arxiv.org/abs/2510.26789
+* https://arxiv.org/abs/2510.25868 # Spatially Structured Entanglement from Nonequilibrium Thermal Pure States, Chen Bai, Mao Tian Tan, Bastien Lapierre, Shinsei Ryu
+https://arxiv.org/abs/2510.25925
+https://arxiv.org/abs/2510.26751
+https://arxiv.org/abs/2510.26678
+
 https://journals.aps.org/prl/abstract/10.1103/yyzf-jjc6
 https://journals.aps.org/pra/abstract/10.1103/ss3t-j4y5
 
