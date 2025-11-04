@@ -1,5 +1,42 @@
 20251104
 
+https://arxiv.org/abs/2510.26864
+https://arxiv.org/abs/2510.26873
+https://arxiv.org/abs/2510.26876
+
+https://arxiv.org/abs/2510.26880
+https://arxiv.org/abs/2510.26886
+https://arxiv.org/abs/2510.26894
+* https://arxiv.org/abs/2510.26897 # Superdiffusion and anomalous fluctuations in chiral integrable dynamics, Cristiano Muzzi, Devendra Singh Bhakuni, Marcello Dalmonte, Lenart Zadnik, Hernan B. Xavier
+* https://arxiv.org/abs/2510.26906 # Enhancing Neural Network Backflow, Kieran Loehr, Bryan K. Clark
+* https://arxiv.org/abs/2510.26920 # The Anderson transition -- a view from Krylov space, J. Clayton Peacock, Vadim Oganesyan, Dries Sels
+https://arxiv.org/abs/2510.26956
+https://arxiv.org/abs/2510.26958
+https://arxiv.org/abs/2510.26966
+https://arxiv.org/abs/2510.27089
+
+https://arxiv.org/abs/2510.27115
+* https://arxiv.org/abs/2510.27260 # Ground states of a family of frustrated spin models for quasicrystals and their approximants, Anuradha Jagannathan
+https://arxiv.org/abs/2510.27268
+https://arxiv.org/abs/2510.27376
+https://arxiv.org/abs/2510.27483
+https://arxiv.org/abs/2510.27507
+https://arxiv.org/abs/2510.27685
+* https://arxiv.org/abs/2510.26845 # Programmable digital quantum simulation of 2D Fermi-Hubbard dynamics using 72 superconducting qubits
+https://arxiv.org/abs/2510.26872
+https://arxiv.org/abs/2510.27471
+
+https://arxiv.org/abs/2510.26856
+https://arxiv.org/abs/2510.26951
+https://arxiv.org/abs/2510.27264
+https://arxiv.org/abs/2510.27310
+https://arxiv.org/abs/2510.27374
+* https://arxiv.org/abs/2510.27511 # Area-Law Entanglement in Quantum Chaotic System, Chunyin Chen, Sizhe Yan, Biao Wu
+https://arxiv.org/abs/2510.27654
+https://arxiv.org/abs/2510.27661
+https://arxiv.org/abs/2510.27665
+https://arxiv.org/abs/2510.27006
+
 https://journals.aps.org/prl/abstract/10.1103/p6n8-n1rx
 https://journals.aps.org/prb/abstract/10.1103/bdfg-djbs
 https://journals.aps.org/prb/abstract/10.1103/9cbp-7tvv
