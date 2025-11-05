@@ -1,5 +1,31 @@
 20251105
 
+https://arxiv.org/abs/2511.00224
+https://arxiv.org/abs/2511.00323
+https://arxiv.org/abs/2511.00406
+https://arxiv.org/abs/2511.00454
+https://arxiv.org/abs/2511.00538
+* https://arxiv.org/abs/2511.00968 # Adiabatic theorem for non-Hermitian quantum systems with non-degenerate real eigenvalues: A proof following Kato's approach, Minyi Huang, Ray-Kuang Lee
+https://arxiv.org/abs/2511.01062
+* https://arxiv.org/abs/2511.01085 # Robust Quantum State Generation in Symmetric Spin Networks, Andre Luiz P. de Lima, Luke S. Baker, Anatoly Zlotnik, Andrew K. Harter, Michael J. Martin, Jr-Shin Li
+https://arxiv.org/abs/2511.01179
+https://arxiv.org/abs/2511.01217
+
+https://arxiv.org/abs/2511.01220
+https://arxiv.org/abs/2511.01260
+https://arxiv.org/abs/2511.01300
+https://arxiv.org/abs/2511.01312
+https://arxiv.org/abs/2511.01387
+https://arxiv.org/abs/2511.01514
+https://arxiv.org/abs/2511.01518
+https://arxiv.org/abs/2511.01657
+https://arxiv.org/abs/2511.01709
+https://arxiv.org/abs/2511.01762
+
+https://arxiv.org/abs/2511.00092
+* https://arxiv.org/abs/2511.00154 # Hadronic scattering in (1+1)D SU(2) lattice gauge theory from tensor networks, Joao Barata, Juan Hormaza, Zhong-Bo Kang, Wenyang Qian
+* https://arxiv.org/abs/2511.00905 # Symmetry-resolved genuine multi-entropy: Haar random and graph states, Norihiro Iizuka, Simon Lin
+
 https://arxiv.org/abs/2511.00284
 https://arxiv.org/abs/2511.00150
 https://arxiv.org/abs/2511.00128
