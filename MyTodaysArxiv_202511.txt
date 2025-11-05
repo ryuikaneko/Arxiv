@@ -1,5 +1,49 @@
 20251105
 
+https://arxiv.org/abs/2511.00284
+https://arxiv.org/abs/2511.00150
+https://arxiv.org/abs/2511.00128
+https://arxiv.org/abs/2511.00146
+https://arxiv.org/abs/2511.00155
+https://arxiv.org/abs/2511.00156
+https://arxiv.org/abs/2511.00234
+https://arxiv.org/abs/2511.00350
+https://arxiv.org/abs/2511.00384
+https://arxiv.org/abs/2511.00451
+
+https://arxiv.org/abs/2511.00498
+https://arxiv.org/abs/2511.00559
+https://arxiv.org/abs/2511.00608
+https://arxiv.org/abs/2511.00625
+https://arxiv.org/abs/2511.00746
+https://arxiv.org/abs/2511.00770
+https://arxiv.org/abs/2511.00803
+https://arxiv.org/abs/2511.00950
+https://arxiv.org/abs/2511.00979
+* https://arxiv.org/abs/2511.01030 # Superlinear Hall angle and carrier mobility from non-Boltzmann magnetotransport in the spatially disordered Yukawa-SYK model on a square lattice, Davide Valentinis, Joerg Schmalian, Subir Sachdev, Aavishkar A. Patel
+
+* https://arxiv.org/abs/2511.01039 # Improved contraction of finite projected entangled pair states, Markus Scheb
+https://arxiv.org/abs/2511.01049
+https://arxiv.org/abs/2511.01068
+https://arxiv.org/abs/2511.01094
+https://arxiv.org/abs/2511.01105
+* https://arxiv.org/abs/2511.01115 # A microscopic model of fractionalized Fermi liquid, P. Coleman, A. Panigrahi, A. Tsvelik
+https://arxiv.org/abs/2511.01238
+https://arxiv.org/abs/2511.01339
+https://arxiv.org/abs/2511.01543
+https://arxiv.org/abs/2511.01551
+
+https://arxiv.org/abs/2511.01569
+https://arxiv.org/abs/2511.01646
+https://arxiv.org/abs/2511.01647
+https://arxiv.org/abs/2511.01661
+https://arxiv.org/abs/2511.01691
+* https://arxiv.org/abs/2511.01742 # Emergence of charge-2e bosonic carriers and pseudogaps in the dynamics of residual electrons, Muhammad Gaffar, Wei Ku
+https://arxiv.org/abs/2511.01776
+https://arxiv.org/abs/2511.01801
+https://arxiv.org/abs/2511.01822
+https://arxiv.org/abs/2511.00233
+
 https://journals.aps.org/prx/abstract/10.1103/xct1-7kf2
 https://journals.aps.org/prx/abstract/10.1103/2jt7-c8cq
 https://journals.aps.org/prresearch/abstract/10.1103/v6rg-q49v
