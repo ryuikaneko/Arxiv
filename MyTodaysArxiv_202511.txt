@@ -1,3 +1,7 @@
+20251106
+
+
+
 20251105
 
 https://arxiv.org/abs/2511.02039
@@ -37,6 +41,8 @@ https://arxiv.org/abs/2511.02739
 https://arxiv.org/abs/2511.02546
 
 https://journals.aps.org/prresearch/abstract/10.1103/n92p-xrhl
+https://journals.aps.org/pra/abstract/10.1103/c97b-my2w
+https://journals.aps.org/pra/abstract/10.1103/1f85-k2wm
 
 
 20251104
