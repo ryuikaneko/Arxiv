@@ -1,9 +1,45 @@
-20251106
+20251105
+
+https://arxiv.org/abs/2511.02039
+* https://arxiv.org/abs/2511.02218 # Quasi-Solid and Supersolid from Quasiperiodic Long-Range Interactions, Chao Zhang
+
+https://arxiv.org/abs/2511.02292
+* https://arxiv.org/abs/2511.02343 # Multi-Particle Quantum Walks in a Dipole-Conserving Bose-Hubbard Model, Sooshin Kim, Byungmin Kang, Perrin Segura, Yanfei Li, Ethan Lake, Brice Bakkali-Hassani, Markus Greiner
+* https://arxiv.org/abs/2511.02380 # Charge glass from supercooling topological-ordered liquid, Kouki Kimata, Harukuni Ikeda, Masafumi Udagawa
+https://arxiv.org/abs/2511.02566
+https://arxiv.org/abs/2511.02590
+* https://arxiv.org/abs/2511.02618 # Post-quench relaxation dynamics of Gross-Neveu lattice fermions, Domenico Giuliano, Reinhold Egger, Bidyut Dey, Andrea Nava
+* https://arxiv.org/abs/2511.02707 # The two-dimensional optical Su-Schrieffer-Heeger model: ground state and thermodynamic properties, Jadson L. Portela e Silva, Gabriel Rein, Sebastiao dos A. Sousa-Junior, Fakher F. Assaad, Natanael C. Costa
+https://arxiv.org/abs/2511.02787
+* https://arxiv.org/abs/2511.02809 # Majorana string simulation of nonequilibrium dynamics in two-dimensional lattice fermion systems, Matteo D'Anna, Jannes Nys, Juan Carrasquilla
+* https://arxiv.org/abs/2511.01966 # Entanglement asymmetry in gauge theories: chiral anomaly in the finite temperature massless Schwinger model, Adrien Florio, Sara Murciano
+
+* https://arxiv.org/abs/2511.02003 # Bulk-boundary decomposition of neural networks, Donghee Lee, Hye-Sung Lee, Jaeok Yi
+https://arxiv.org/abs/2511.02004
+https://arxiv.org/abs/2511.02118
+* https://arxiv.org/abs/2511.02125 # Superconducting pairing correlations on a trapped-ion quantum computer
+* https://arxiv.org/abs/2511.01988 # Entropy-based random quantum states, Harry J. D. Miller
+https://arxiv.org/abs/2511.02051
+https://arxiv.org/abs/2511.02076
+https://arxiv.org/abs/2511.02115
+https://arxiv.org/abs/2511.02134
+https://arxiv.org/abs/2511.02160
+
+https://arxiv.org/abs/2511.02307
+https://arxiv.org/abs/2511.02337
+https://arxiv.org/abs/2511.02413
+https://arxiv.org/abs/2511.02583
+https://arxiv.org/abs/2511.02602
+https://arxiv.org/abs/2511.02613
+https://arxiv.org/abs/2511.02636
+https://arxiv.org/abs/2511.02739
+* https://arxiv.org/abs/2511.02800 # On the origin of exponential operator growth in Hilbert space, Vijay Ganesh Sadhasivam, Jan M. Rost, Stuart C. Althorpe
+https://arxiv.org/abs/2511.02546
 
 https://journals.aps.org/prresearch/abstract/10.1103/n92p-xrhl
 
 
-20251105
+20251104
 
 https://arxiv.org/abs/2511.00224
 https://arxiv.org/abs/2511.00323
@@ -84,7 +120,7 @@ https://journals.aps.org/prb/abstract/10.1103/n28s-ggzc
 https://journals.aps.org/pre/abstract/10.1103/j589-dszc
 
 
-20251104
+20251103
 
 https://arxiv.org/abs/2510.26864
 https://arxiv.org/abs/2510.26873
