@@ -3,6 +3,23 @@
 
 20251106
 
+https://arxiv.org/abs/2511.02899
+* https://arxiv.org/abs/2511.02907 # Revisiting Nishimori multicriticality through the lens of information measures, Zhou-Quan Wan, Xu-Dong Dai, Guo-Yi Zhu
+https://arxiv.org/abs/2511.03151
+https://arxiv.org/abs/2511.03208
+https://arxiv.org/abs/2511.03254
+https://arxiv.org/abs/2511.03436
+* https://arxiv.org/abs/2511.03456 # Unraveling Deconfined Quantum Criticality in Non-Hermitian Easy-Plane J-Q Model, Xuan Zou, Shuai Yin, Zi-Xiang Li, Hong Yao
+* https://arxiv.org/abs/2511.03460 # Integrability of a family of clean SYK models from the critical Ising chain, Kohei Fukai, Hosho Katsura
+https://arxiv.org/abs/2511.03683
+https://arxiv.org/abs/2511.03698
+
+https://arxiv.org/abs/2511.02900
+https://arxiv.org/abs/2511.02904
+https://arxiv.org/abs/2511.02912
+https://arxiv.org/abs/2511.03613
+https://arxiv.org/abs/2511.03654
+
 https://journals.aps.org/prxquantum/abstract/10.1103/8ypw-c8t4
 https://journals.aps.org/prxquantum/abstract/10.1103/1gjs-2rhx
 https://journals.aps.org/prresearch/abstract/10.1103/nx97-zjdf
