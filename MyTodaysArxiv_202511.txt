@@ -1,5 +1,40 @@
 20251107
 
+* https://arxiv.org/abs/2511.03782 # Expert Evaluation of LLM World Models: A High-Tc Superconductivity Case Study, Haoyu Guo, Maria Tikhanovskaya, Paul Raccuglia, Alexey Vlaskin, Chris Co, Daniel J. Liebling, Scott Ellsworth, Matthew Abraham, Elizabeth Dorfman, N. P. Armitage, Chunhan Feng, Antoine Georges, Olivier Gingras, Dominik Kiese, Steven A. Kivelson, Vadim Oganesyan, B. J. Ramshaw, Subir Sachdev, T. Senthil, J. M. Tranquada, Michael P. Brenner, Subhashini Venugopalan, Eun-Ah Kim
+* https://arxiv.org/abs/2511.03783 # Krylov Complexity Meets Confinement, Xuhao Jiang, Jad C. Halimeh, N. S. Srivatsa
+https://arxiv.org/abs/2511.03790
+https://arxiv.org/abs/2511.03792
+https://arxiv.org/abs/2511.03858
+* https://arxiv.org/abs/2511.04101 # Phase diagrams of S=1/2 bilayer Models of SU(2) symmetric antiferromagnets, Fan Zhang, Nisheeta Desai, Wenan Guo, Ribhu K. Kaul
+https://arxiv.org/abs/2511.04141
+https://arxiv.org/abs/2511.04209
+https://arxiv.org/abs/2511.04222
+https://arxiv.org/abs/2511.04223
+
+https://arxiv.org/abs/2511.04324
+https://arxiv.org/abs/2511.04360
+https://arxiv.org/abs/2511.04430
+https://arxiv.org/abs/2511.04475
+https://arxiv.org/abs/2511.04468
+https://arxiv.org/abs/2511.04480
+https://arxiv.org/abs/2511.04551
+* https://arxiv.org/abs/2511.04575 # Superfluid Fraction of a 2D Bose-Einstein Condensate in a Triangular Lattice, F. Rabec, G. Brochier, S. Wattellier, G. Chauveau, Y. Li, S. Nascimbene, J. Dalibard, J. Beugnon
+https://arxiv.org/abs/2511.04629
+https://arxiv.org/abs/2511.04640
+
+* https://arxiv.org/abs/2511.04674 # XYZ integrability the easy way, Paul Fendley, Sascha Gehrmann, Eric Vernier, Frank Verstraete
+https://arxiv.org/abs/2511.03775
+https://arxiv.org/abs/2511.03796
+https://arxiv.org/abs/2511.03846
+* https://arxiv.org/abs/2511.03947 # Non-invertible Kramers-Wannier duality-symmetry in the trotterized critical Ising chain, Akash Sinha, Pramod Padmanabhan, Vladimir Korepin
+* https://arxiv.org/abs/2511.04354 # A General Strategy for Realizing Mpemba Effects in Open Quantum Systems, Yaru Liu, Yucheng Wang
+https://arxiv.org/abs/2511.04371
+* https://arxiv.org/abs/2511.04402 # Mixed-State Measurement-Induced Phase Transitions in Imaginary-Time Dynamics, Yi-Ming Ding, Zenan Liu, Xu Tian, Zhe Wang, Yanzhang Zhu, Zheng Yan
+* https://arxiv.org/abs/2511.04434 # Estimating ground-state properties in quantum simulators with global control, Cristian Tabares, Dominik S. Wild, J. Ignacio Cirac, Peter Zoller, Alejandro Gonzalez-Tudela, Daniel Gonzalez-Cuadra
+* https://arxiv.org/abs/2511.04545 # Continuous matrix product operators for quantum fields, Erickson Tjoa, J. Ignacio Cirac
+
+https://arxiv.org/abs/2511.04597
+
 https://journals.aps.org/prresearch/abstract/10.1103/nbfx-x8f6
 https://journals.aps.org/prx/abstract/10.1103/qlsv-gp22
 https://journals.aps.org/prx/abstract/10.1103/b9s1-6r44
@@ -9,9 +44,6 @@ https://journals.aps.org/pra/abstract/10.1103/jhkz-84dz
 https://journals.aps.org/pre/abstract/10.1103/51b7-xhs4
 https://journals.aps.org/pre/abstract/10.1103/wdrv-v6pj
 https://journals.aps.org/prl/abstract/10.1103/3rw4-mhz8
-
-
-====
 
 
 20251106
