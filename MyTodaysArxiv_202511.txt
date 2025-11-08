@@ -1,5 +1,10 @@
 20251107
 
+https://arxiv.org/abs/2511.04297
+https://arxiv.org/abs/2511.03779
+https://arxiv.org/abs/2511.03982
+https://arxiv.org/abs/2511.04061
+
 * https://arxiv.org/abs/2511.03782 # Expert Evaluation of LLM World Models: A High-Tc Superconductivity Case Study, Haoyu Guo, Maria Tikhanovskaya, Paul Raccuglia, Alexey Vlaskin, Chris Co, Daniel J. Liebling, Scott Ellsworth, Matthew Abraham, Elizabeth Dorfman, N. P. Armitage, Chunhan Feng, Antoine Georges, Olivier Gingras, Dominik Kiese, Steven A. Kivelson, Vadim Oganesyan, B. J. Ramshaw, Subir Sachdev, T. Senthil, J. M. Tranquada, Michael P. Brenner, Subhashini Venugopalan, Eun-Ah Kim
 * https://arxiv.org/abs/2511.03783 # Krylov Complexity Meets Confinement, Xuhao Jiang, Jad C. Halimeh, N. S. Srivatsa
 https://arxiv.org/abs/2511.03790
