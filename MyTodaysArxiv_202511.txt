@@ -1,5 +1,16 @@
 20251110
 
+https://arxiv.org/abs/2511.04967
+https://arxiv.org/abs/2511.05237
+https://arxiv.org/abs/2511.05254
+https://arxiv.org/abs/2511.05274
+* https://arxiv.org/abs/2511.05433 # Quantum advantage from effective 200-qubit holographic random circuit sampling, Bingzhi Zhang, Quntao Zhuang
+https://arxiv.org/abs/2511.05465
+https://arxiv.org/abs/2511.04856
+* https://arxiv.org/abs/2511.05490 # Exact strong zero modes in quantum circuits and spin chains with non-diagonal boundary conditions, Sascha Gehrmann, Fabian H. L. Essler
+https://arxiv.org/abs/2511.04767
+https://arxiv.org/abs/2511.05479
+
 https://arxiv.org/abs/2511.04695
 https://arxiv.org/abs/2511.04739
 https://arxiv.org/abs/2511.04866
