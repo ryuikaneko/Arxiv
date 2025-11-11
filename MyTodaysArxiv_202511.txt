@@ -4,7 +4,7 @@ https://arxiv.org/abs/2511.04695
 https://arxiv.org/abs/2511.04739
 https://arxiv.org/abs/2511.04866
 https://arxiv.org/abs/2511.04899
-https://arxiv.org/abs/2511.05105
+* https://arxiv.org/abs/2511.05105 # Compact localized fermions and Ising anyons in a chiral spin liquid, Tim Bauer, Johannes Reuther
 https://arxiv.org/abs/2511.05153
 https://arxiv.org/abs/2511.05188
 https://arxiv.org/abs/2511.05190
@@ -15,12 +15,12 @@ https://arxiv.org/abs/2511.05303
 https://arxiv.org/abs/2511.05344
 https://arxiv.org/abs/2511.05358
 https://arxiv.org/abs/2511.05390
-https://arxiv.org/abs/2511.04762
+* https://arxiv.org/abs/2511.04762 # From single-particle to many-body chaos in Yukawa--SYK: theory and a cavity-QED proposal, David Pascual Solis, Alex Windey, Soumik Bandyopadhyay, Andrea Legramandi, Philipp Hauke
 https://arxiv.org/abs/2511.04916
-https://arxiv.org/abs/2511.04932
+* https://arxiv.org/abs/2511.04932 # Representational power of selected neural network quantum states in second quantization, Zhendong Li, Tong Zhao, Bohan Zhang
 https://arxiv.org/abs/2511.05042
-https://arxiv.org/abs/2511.05220
-https://arxiv.org/abs/2511.05222
+* https://arxiv.org/abs/2511.05220 # Scaling behavior of dissipative systems with imaginary gap closing, Jinghui Pi, Xingli Li, Yangqian Yan
+* https://arxiv.org/abs/2511.05222 # Fast and Scalable Evaluation of Unbiased Atomic Forces in ab initio Variational Monte Carlo via the Lagrangian Technique, Kousuke Nakano, Stefano Battaglia, Juerg Hutter
 
 https://arxiv.org/abs/2511.05261
 https://arxiv.org/abs/2511.05328
