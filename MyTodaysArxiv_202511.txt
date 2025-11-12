@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2511.05648
 https://arxiv.org/abs/2511.05727
-https://arxiv.org/abs/2511.05748
+* https://arxiv.org/abs/2511.05748 # Cluster percolation in the three-dimensional +-J random-bond Ising model, Lambert Muenster, Martin Weigel
 https://arxiv.org/abs/2511.05846
 https://arxiv.org/abs/2511.05896
 https://arxiv.org/abs/2511.05905
@@ -12,11 +12,11 @@ https://arxiv.org/abs/2511.06093
 https://arxiv.org/abs/2511.06287
 https://arxiv.org/abs/2511.06366
 https://arxiv.org/abs/2511.06389
-https://arxiv.org/abs/2511.06423
+* https://arxiv.org/abs/2511.06423 # Phase transitions in the spin-1/2 Heisenberg antiferromagnet on the square lattice, Jie Qiao, Shu-Hao Zhang, Jing-Bo Qin, Xiao-Long Zhao, Qiang Cheng
 https://arxiv.org/abs/2511.06442
 https://arxiv.org/abs/2511.06630
 https://arxiv.org/abs/2511.06631
-https://arxiv.org/abs/2511.06995
+* https://arxiv.org/abs/2511.06995 # Microscopic origin of period-four stripe charge-density-wave in kagome metal CsV3Sb5, Yuma Murata, Rina Tazai, Youichi Yamakawa, Seiichiro Onari, Hiroshi Kontani
 * https://arxiv.org/abs/2511.07042 # Chiral phases and dynamics of dipoles in triangular optical ladders, Arjo Dasgupta, Mateusz Lacki, Henning Korbmacher, Gustavo A. Dominguez-Castro, Jakub Zakrzewski, Luis Santos
 https://arxiv.org/abs/2511.07130
 
