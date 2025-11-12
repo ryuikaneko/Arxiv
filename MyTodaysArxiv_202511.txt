@@ -1,7 +1,51 @@
 20251111
 
+https://arxiv.org/abs/2511.05648
+https://arxiv.org/abs/2511.05727
+https://arxiv.org/abs/2511.05748
+https://arxiv.org/abs/2511.05846
+https://arxiv.org/abs/2511.05896
+https://arxiv.org/abs/2511.05905
+https://arxiv.org/abs/2511.05948
+https://arxiv.org/abs/2511.06093
+
+https://arxiv.org/abs/2511.06287
+https://arxiv.org/abs/2511.06366
+https://arxiv.org/abs/2511.06389
+https://arxiv.org/abs/2511.06423
+https://arxiv.org/abs/2511.06442
+https://arxiv.org/abs/2511.06630
+https://arxiv.org/abs/2511.06631
+https://arxiv.org/abs/2511.06995
+https://arxiv.org/abs/2511.07042
+https://arxiv.org/abs/2511.07130
+
+----
+
+https://arxiv.org/abs/2511.07252
+* https://arxiv.org/abs/2511.07303 # Thermal Tensor Network Simulations of Fermions with a Fixed Filling, Qiaoyi Li, Dai-Wei Qu, Bin-Bin Chen, Tao Shi, Wei Li
+* https://arxiv.org/abs/2511.07305 # Persistence of the Berezinskii-Kosterlitz-Thouless transition with long-range couplings, Luis Walther, Josef Willsher, Johannes Knolle
+https://arxiv.org/abs/2511.07331
+* https://arxiv.org/abs/2511.07415 # Topological and Trivial Valence-Bond Orders in Higher-Spin Kitaev Models, Xing-Yu Zhang, Qi Yang, Philippe Corboz, Jutho Haegeman, Yuchi He
+https://arxiv.org/abs/2511.06198
+https://arxiv.org/abs/2511.06915
+https://arxiv.org/abs/2511.07180
+https://arxiv.org/abs/2511.07212
+https://arxiv.org/abs/2511.07319
+
+https://arxiv.org/abs/2511.05689
+https://arxiv.org/abs/2511.05827
+https://arxiv.org/abs/2511.05957
+https://arxiv.org/abs/2511.06012
+https://arxiv.org/abs/2511.06097
+https://arxiv.org/abs/2511.06127
+https://arxiv.org/abs/2511.06167
+* https://arxiv.org/abs/2511.06280 # Hybrid Real-Imaginary Time Evolution for Low-Depth Hamiltonian Simulation in Quantum Optimization, Fei Li, Xiao-Wei Li
+https://arxiv.org/abs/2511.06364
+https://arxiv.org/abs/2511.06620
+
 https://arxiv.org/abs/2511.06623
-https://arxiv.org/abs/2511.06706
+* https://arxiv.org/abs/2511.06706 # Dynamics of number entropy for free fermionic systems in presence of defects and stochastic processes, Atharva Naik, Bijay Kumar Agarwalla, Manas Kulkarni
 https://arxiv.org/abs/2511.06835
 https://arxiv.org/abs/2511.06940
 https://arxiv.org/abs/2511.07216
