@@ -7,8 +7,8 @@ https://arxiv.org/abs/2511.08285
 https://arxiv.org/abs/2511.08289
 https://arxiv.org/abs/2511.08349
 https://arxiv.org/abs/2511.08362
-https://arxiv.org/abs/2511.08407
-https://arxiv.org/abs/2511.08493
+* https://arxiv.org/abs/2511.08407 # Exploring the performance of superposition of product states: from 1D to 3D quantum spin systems, Apimuk Sornsaeng, Itai Arad, Dario Poletti
+* https://arxiv.org/abs/2511.08493 # Reinforcement Learning Control of Quantum Error Correction
 https://arxiv.org/abs/2511.07502
 https://arxiv.org/abs/2511.07433
 https://arxiv.org/abs/2511.07439
@@ -17,31 +17,31 @@ https://arxiv.org/abs/2511.07686
 https://arxiv.org/abs/2511.07537
 https://arxiv.org/abs/2511.07617
 https://arxiv.org/abs/2511.07676
-https://arxiv.org/abs/2511.07769
-https://arxiv.org/abs/2511.07853
+* https://arxiv.org/abs/2511.07769 # Local spreading of stabilizer Renyi entropy in a brickwork random Clifford circuit, Somnath Maity, Ryusuke Hamazaki
+* https://arxiv.org/abs/2511.07853 # Sufficient conditions for hardness of lossy Gaussian boson sampling, Byeongseon Go, Changhun Oh, Hyunseok Jeong
 https://arxiv.org/abs/2511.07872
 https://arxiv.org/abs/2511.08069
 https://arxiv.org/abs/2511.08096
 https://arxiv.org/abs/2511.08096
 https://arxiv.org/abs/2511.08205
 
-https://arxiv.org/abs/2511.08179
+* https://arxiv.org/abs/2511.08179 # Non-linear spin wave theory in the strong easy-axis limit of the triangular XXZ model, Achille Mauri, Siebe Roose, Frederic Mila
 https://arxiv.org/abs/2511.08357
 https://arxiv.org/abs/2511.08584
 https://arxiv.org/abs/2511.06577
-https://arxiv.org/abs/2511.08336
+* https://arxiv.org/abs/2511.08336 # Quantum annealing for lattice models with competing long-range interactions, Jan Alexander Koziol, Kai Phillip Schmidt
 https://arxiv.org/abs/2511.08374
 https://arxiv.org/abs/2511.08450
-https://arxiv.org/abs/2511.08452
+* https://arxiv.org/abs/2511.08452 # Comment on "Role of Matter Interactions in Superradiant Phenomena", Max Hoermann, Anja Langheld, Jonas Leibig, Andreas Schellenberger, Kai Phillip Schmidt
 https://arxiv.org/abs/2511.08543
 https://arxiv.org/abs/2511.08560
 
 https://arxiv.org/abs/2511.07489
 https://arxiv.org/abs/2511.07527
-https://arxiv.org/abs/2511.07566
-https://arxiv.org/abs/2511.07606
+* https://arxiv.org/abs/2511.07566 # Superconductivity in the two-dimensional Hubbard model revealed by neural quantum states, Christopher Roth, Ao Chen, Anirvan Sengupta, Antoine Georges
+* https://arxiv.org/abs/2511.07606 # Hidden symmetry-breaking in a kagome Ising ferromagnet, Tianxiong Han, Tyler J. Slade, Liqin Ke, Qing-Ping Ding, Minseong Lee, Ryan D. McKenzie, Bing Li, Durba R. Jaishi, Yongbin Lee, Daniel M. Pajerowski, Qiang Zhang, Tao Hong, Paul C. Canfield, Yuji Furukawa, Komalavalli Thirunavukkuarasu, Aashish Sapkota, Rebecca Flint, Robert J. McQueeney
 https://arxiv.org/abs/2511.07625
-https://arxiv.org/abs/2511.07726
+* https://arxiv.org/abs/2511.07726 # The pseudogap and strange metal states in the square-lattice Hubbard model: a comprehensive study, Arata Tanaka
 https://arxiv.org/abs/2511.07855
 https://arxiv.org/abs/2511.08167
 
