@@ -1,3 +1,19 @@
+20251113
+
+
+20251112
+
+https://journals.aps.org/prl/abstract/10.1103/qpyp-1mfj
+https://journals.aps.org/prl/abstract/10.1103/1xzd-g9s5
+https://journals.aps.org/prl/abstract/10.1103/qh8p-4bxs
+https://journals.aps.org/prl/abstract/10.1103/19td-1k9s
+https://journals.aps.org/prb/abstract/10.1103/1g16-kvpb
+https://journals.aps.org/prb/abstract/10.1103/4ng4-vzz6
+https://journals.aps.org/prb/abstract/10.1103/9737-qhm5
+https://journals.aps.org/pre/abstract/10.1103/2cgx-y8v5
+https://journals.aps.org/pre/abstract/10.1103/xbtc-hlxw
+
+
 20251111
 
 https://arxiv.org/abs/2511.05648
@@ -19,8 +35,6 @@ https://arxiv.org/abs/2511.06631
 * https://arxiv.org/abs/2511.06995 # Microscopic origin of period-four stripe charge-density-wave in kagome metal CsV3Sb5, Yuma Murata, Rina Tazai, Youichi Yamakawa, Seiichiro Onari, Hiroshi Kontani
 * https://arxiv.org/abs/2511.07042 # Chiral phases and dynamics of dipoles in triangular optical ladders, Arjo Dasgupta, Mateusz Lacki, Henning Korbmacher, Gustavo A. Dominguez-Castro, Jakub Zakrzewski, Luis Santos
 https://arxiv.org/abs/2511.07130
-
-----
 
 https://arxiv.org/abs/2511.07252
 * https://arxiv.org/abs/2511.07303 # Thermal Tensor Network Simulations of Fermions with a Fixed Filling, Qiaoyi Li, Dai-Wei Qu, Bin-Bin Chen, Tao Shi, Wei Li
