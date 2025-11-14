@@ -15,6 +15,24 @@ https://journals.aps.org/prl/abstract/10.1103/d5sw-qdfp
 
 20251113
 
+* https://arxiv.org/abs/2511.08754 # Exact Floquet dynamics of strongly damped driven quantum systems, Konrad Mickiewicz, Valentin Link, Walter T. Strunz
+https://arxiv.org/abs/2511.08848
+https://arxiv.org/abs/2511.09204
+* https://arxiv.org/abs/2511.09233 # Tensor Network Framework for Forecasting Nonlinear and Chaotic Dynamics, Jia-Bin You, Jian Feng Kong, Jun Ye
+https://arxiv.org/abs/2511.09291
+https://arxiv.org/abs/2511.09314
+https://arxiv.org/abs/2511.09369
+https://arxiv.org/abs/2511.09382
+https://arxiv.org/abs/2511.09415
+https://arxiv.org/abs/2511.09428
+
+https://arxiv.org/abs/2511.09430
+https://arxiv.org/abs/2511.09461
+* https://arxiv.org/abs/2511.09463 # Physics-Informed Neural Networks for Gate Design using Quantum Optimal Control, Sofiia Lauten, Matthew Otten
+https://arxiv.org/abs/2511.09491
+https://arxiv.org/abs/2511.09494
+https://arxiv.org/abs/2511.09507
+
 * https://arxiv.org/abs/2511.08687 # Universality and weak-ergodicity breaking in quantum quenches, Guido Giachetti, Andrea Solfanelli, Nicolo Defenu
 https://arxiv.org/abs/2511.08857
 https://arxiv.org/abs/2511.08953
