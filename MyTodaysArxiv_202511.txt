@@ -1,4 +1,36 @@
+20251114
+
+https://journals.aps.org/prb/abstract/10.1103/yntc-7fvx
+https://journals.aps.org/prb/abstract/10.1103/2tx2-7z18
+https://journals.aps.org/prb/abstract/10.1103/jpt3-xjjf
+
+
+====
+
+
 20251113
+
+* https://arxiv.org/abs/2511.08687 # Universality and weak-ergodicity breaking in quantum quenches, Guido Giachetti, Andrea Solfanelli, Nicolo Defenu
+https://arxiv.org/abs/2511.08857
+https://arxiv.org/abs/2511.08953
+https://arxiv.org/abs/2511.08955
+* https://arxiv.org/abs/2511.09097 # Evidence for spontaneous breaking of a continuous symmetry at a non-conformal quantum critical point, R. Flores-Calderon, M. Zuendel
+https://arxiv.org/abs/2511.09349
+* https://arxiv.org/abs/2511.09356 # Probing the Critical Behavior of a Sign-Problematic Model with Monte Carlo Simulations, Ye Ling, Yuting Wang, Wenan Guo, Yhhai Liu
+* https://arxiv.org/abs/2511.09358 # Tree-graph based construction of quantum spin models with exact ground state, Toshiya Hikihara
+* https://arxiv.org/abs/2511.09401 # Emergent long-tail dynamics in driven magnets with dynamical frustration, Chenyue Guo, Hongzheng Zhao, Zi Cai
+https://arxiv.org/abs/2511.09402
+
+https://arxiv.org/abs/2511.09413
+* https://arxiv.org/abs/2511.09460 # Impact of Electron Correlations on Infinite-Layer Cuprates and Nickelates, Xunyang Hong, Yuetong Wu, Ying Chan, Sze Tung Li, I. Bialo, L. Martinelli, A. Drewanowski, Qiang Gao, Xiaolin Ren, Xingjiang Zhou, Zhihai Zhu, A. Galdi, D. G. Schlom, K. M. Shen, J. Choi, M. Garcia Fernandez, Ke-Jin Zhou, N. B. Brookes, H. M. Ronnow, Qisi Wang, J. Chang
+* https://arxiv.org/abs/2511.09546 # Accelerating two-dimensional tensor network optimization by preconditioning, Xing-Yu Zhang, Qi Yang, Philippe Corboz, Jutho Haegeman, Wei Tang
+https://arxiv.org/abs/2511.09550
+* https://arxiv.org/abs/2511.07769 # Local spreading of stabilizer Renyi entropy in a brickwork random Clifford circuit, Somnath Maity, Ryusuke Hamazaki
+https://arxiv.org/abs/2511.08686
+https://arxiv.org/abs/2511.08689
+* https://arxiv.org/abs/2511.08690 # Fractal structure of multipartite entanglement in monitored quantum circuits, Vaibhav Sharma, Erich J Mueller
+https://arxiv.org/abs/2511.08743
+https://arxiv.org/abs/2511.08858
 
 https://journals.aps.org/pra/abstract/10.1103/5slc-qj5n
 https://journals.aps.org/pra/abstract/10.1103/j8nb-by4l
