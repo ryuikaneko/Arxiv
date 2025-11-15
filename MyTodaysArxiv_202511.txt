@@ -10,6 +10,42 @@ https://journals.aps.org/prxquantum/abstract/10.1103/k4cm-pp9p
 
 20251114
 
+https://arxiv.org/abs/2511.09639
+https://arxiv.org/abs/2511.09643
+https://arxiv.org/abs/2511.09650
+https://arxiv.org/abs/2511.09745
+https://arxiv.org/abs/2511.09751
+https://arxiv.org/abs/2511.09860
+https://arxiv.org/abs/2511.10115
+https://arxiv.org/abs/2511.10140
+https://arxiv.org/abs/2511.10156
+https://arxiv.org/abs/2511.10163
+
+https://arxiv.org/abs/2511.10236
+* https://arxiv.org/abs/2511.10393 # Backbone three-point correlation function in the two-dimensional Potts model, Ming Li, Youjin Deng, Jesper Lykke Jacobsen, Jesus Salas
+https://arxiv.org/abs/2511.10437
+https://arxiv.org/abs/2511.10471
+* https://arxiv.org/abs/2511.10489 # Spin Liquids on the Tetratrillium Lattice, Matias G. Gonzalez, Johannes Reuther
+https://arxiv.org/abs/2511.10493
+* https://arxiv.org/abs/2511.10503 # From One to Two Dimensions: Magnetic Phases in Weakly Coupled Spin Ladders, Mateo Cardenes Wuttig, Andrew J. Millis
+https://arxiv.org/abs/2511.10600
+* https://arxiv.org/abs/2511.10605 # Competition of fermion pairing, magnetism, and charge order in the spin-doped attractive Hubbard gas, Thomas Hartke, Botond Oreg, Chunhan Feng, Carter Turnbaugh, Jens Hertkorn, Yuan-Yao He, Ningyuan Jia, Ehsan Khatami, Shiwei Zhang, Martin Zwierlein
+* https://arxiv.org/abs/2511.10642 # Supernematic, Dan Mao, Eun-Ah Kim
+
+* https://arxiv.org/abs/2511.09620 # Cooling the Sachdev-Ye-Kitaev model using thermofield double states, Thomas Schuster, Bryce Kobrin, Vincent P. Su, Hugo Marrochio, Norman Y. Yao
+https://arxiv.org/abs/2511.09625
+* https://arxiv.org/abs/2511.09633 # Temporal quantum interference in many-body programmable atom arrays, Madhumita Sarkar, Ben Zindorf, Bhaskar Mukherjee, Sougato Bose, Roopayan Ghosh
+https://arxiv.org/abs/2511.09651
+https://arxiv.org/abs/2511.09714
+* https://arxiv.org/abs/2511.09758 # Local arrows of time in quantum many-body systems, Andrew G. Yates, Jordan Cotler, Nishad Maskara, Mikhail D. Lukin
+* https://arxiv.org/abs/2511.10189 # Continuum limit of gauged tensor network states, Gertian Roose, Erez Zohar
+https://arxiv.org/abs/2511.10305
+https://arxiv.org/abs/2511.10444
+https://arxiv.org/abs/2511.10508
+
+https://arxiv.org/abs/2511.10561
+https://arxiv.org/abs/2511.10595
+
 https://journals.aps.org/prb/abstract/10.1103/yntc-7fvx
 https://journals.aps.org/prb/abstract/10.1103/2tx2-7z18
 https://journals.aps.org/prb/abstract/10.1103/jpt3-xjjf
