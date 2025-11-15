@@ -17,15 +17,15 @@ https://arxiv.org/abs/2511.09657
 https://arxiv.org/abs/2511.09684
 https://arxiv.org/abs/2511.09821
 https://arxiv.org/abs/2511.09852
-https://arxiv.org/abs/2511.09939
+* https://arxiv.org/abs/2511.09939 # Provably Efficient Quantum Algorithms for Solving Nonlinear Differential Equations Using Multiple Bosonic Modes Coupled with Qubits, Yu Gan, Hirad Alipanah, Jinglei Cheng, Zeguan Wu, Guangyi Li, Juan Jose Mendoza-Arenas, Peyman Givi, Mujeeb R. Malik, Brian J. McDermott, Junyu Liu
 https://arxiv.org/abs/2511.09951
 https://arxiv.org/abs/2511.09990
 
-https://arxiv.org/abs/2511.10124
+* https://arxiv.org/abs/2511.10124 # First and second quantized digital quantum simulations of bosonic systems, Mathias Mikkelsen, Hubert Okadome Valencia
 https://arxiv.org/abs/2511.10179
 https://arxiv.org/abs/2511.10253
 https://arxiv.org/abs/2511.10267
-https://arxiv.org/abs/2511.10410
+* https://arxiv.org/abs/2511.10410 # Entanglement Phase Transition in Chaotic non-Hermitian Systems, Zhen-Tao Zhang, Feng Mei
 https://arxiv.org/abs/2511.10470
 https://arxiv.org/abs/2511.10472
 https://arxiv.org/abs/2511.10550
