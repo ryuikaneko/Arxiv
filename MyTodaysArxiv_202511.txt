@@ -2,6 +2,31 @@
 
 20251117
 
+https://arxiv.org/abs/2511.10802
+https://arxiv.org/abs/2511.10891
+* https://arxiv.org/abs/2511.10934 # Probing universal imaginary-time relaxation critical dynamics with infinite projected entangled pair states, He-Yu Lin, Shuai Yin, Z. Y. Xie, Zhong-Yi Lu
+https://arxiv.org/abs/2511.10972
+https://arxiv.org/abs/2511.10977
+https://arxiv.org/abs/2511.11150
+https://arxiv.org/abs/2511.11200
+https://arxiv.org/abs/2511.11259
+* https://arxiv.org/abs/2511.11261 # Topological states and flat bands in exactly solvable decorated Cayley trees, Wanda P. Duss, Askar Iliasov, Tomas Bzdusek
+https://arxiv.org/abs/2511.11263
+
+https://arxiv.org/abs/2511.11349
+https://arxiv.org/abs/2511.11540
+* https://arxiv.org/abs/2511.11547 # Coherent-state path integrals in quantum thermodynamics, Luca Salasnich, Cesare Vianello
+https://arxiv.org/abs/2511.11558
+https://arxiv.org/abs/2511.10673
+https://arxiv.org/abs/2511.10807
+https://arxiv.org/abs/2511.10838
+https://arxiv.org/abs/2511.11059
+https://arxiv.org/abs/2511.11343
+https://arxiv.org/abs/2511.11454
+
+https://arxiv.org/abs/2511.11508
+https://arxiv.org/abs/2511.11521
+
 https://journals.aps.org/prxquantum/abstract/10.1103/lkk1-v6wp
 https://journals.aps.org/prb/abstract/10.1103/rz86-47h3
 https://journals.aps.org/prxquantum/abstract/10.1103/k4cm-pp9p
