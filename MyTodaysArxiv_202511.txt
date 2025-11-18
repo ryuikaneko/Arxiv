@@ -2,6 +2,24 @@
 
 20251117
 
+https://arxiv.org/abs/2511.10709
+https://arxiv.org/abs/2511.10711
+https://arxiv.org/abs/2511.10729
+https://arxiv.org/abs/2511.10756
+https://arxiv.org/abs/2511.10789
+* https://arxiv.org/abs/2511.10839 # Efficient quantum Gibbs sampling of stabilizer codes using hybrid computation, Ivan H.C. Shum, Angela Capel
+https://arxiv.org/abs/2511.10847
+https://arxiv.org/abs/2511.10921
+* https://arxiv.org/abs/2511.11199 # The Riemann Hypothesis Emerges in Dynamical Quantum Phase Transitions, ShiJie Wei, Yue Zhai, Quanfeng Lu, Wentao Yang, Pan Gao, Chao Wei, Junda Song, Franco Nori, Tao Xin, GuiLu Long
+https://arxiv.org/abs/2511.11201
+
+https://arxiv.org/abs/2511.11227
+https://arxiv.org/abs/2511.11342
+https://arxiv.org/abs/2511.11374
+https://arxiv.org/abs/2511.11397
+https://arxiv.org/abs/2511.11404
+https://arxiv.org/abs/2511.10653
+
 https://arxiv.org/abs/2511.10802
 https://arxiv.org/abs/2511.10891
 * https://arxiv.org/abs/2511.10934 # Probing universal imaginary-time relaxation critical dynamics with infinite projected entangled pair states, He-Yu Lin, Shuai Yin, Z. Y. Xie, Zhong-Yi Lu
