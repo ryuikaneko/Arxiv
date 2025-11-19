@@ -39,7 +39,7 @@ https://arxiv.org/abs/2511.13574
 
 https://arxiv.org/abs/2511.13594
 https://arxiv.org/abs/2511.13652
-https://arxiv.org/abs/2511.13667
+* https://arxiv.org/abs/2511.13667 # Quantum complexity across thermal phase transition in the transverse field Ising chain with long-range couplings, Meghadeepa Adhikary, Nishan Ranabhat, Mario Collura
 https://arxiv.org/abs/2511.12246
 https://arxiv.org/abs/2511.12666
 https://arxiv.org/abs/2511.12700
