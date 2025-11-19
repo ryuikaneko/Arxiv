@@ -1,4 +1,17 @@
+20251119
+
+
+
 20251118
+
+https://journals.aps.org/prresearch/abstract/10.1103/x7x4-kn4n
+https://journals.aps.org/prxquantum/abstract/10.1103/8sbs-t24w
+https://journals.aps.org/pra/abstract/10.1103/jd4l-qy2j
+https://journals.aps.org/pre/abstract/10.1103/x84b-6yhv
+https://journals.aps.org/pre/abstract/10.1103/b8xy-nq85
+https://journals.aps.org/prb/abstract/10.1103/3sv9-2tkw
+https://journals.aps.org/prb/abstract/10.1103/p8qz-p45d
+
 
 20251117
 
@@ -79,8 +92,6 @@ https://arxiv.org/abs/2511.10584
 https://arxiv.org/abs/2511.09664
 
 https://arxiv.org/abs/2511.09943
-
-----
 
 https://arxiv.org/abs/2511.09639
 https://arxiv.org/abs/2511.09643
