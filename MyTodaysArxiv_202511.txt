@@ -10,7 +10,7 @@ https://arxiv.org/abs/2511.11747
 https://arxiv.org/abs/2511.11802
 https://arxiv.org/abs/2511.11941
 https://arxiv.org/abs/2511.11987
-https://arxiv.org/abs/2511.12000
+* https://arxiv.org/abs/2511.12000 # Measurement-Based Quantum Computation Using the Spin-1 XXZ Model with Uniaxial Anisotropy, Hiroki Ohta, Aaron Merlin Mueller, Shunji Tsuchiya
 https://arxiv.org/abs/2511.12062
 https://arxiv.org/abs/2511.12168
 https://arxiv.org/abs/2511.12176
@@ -31,7 +31,7 @@ https://arxiv.org/abs/2511.12983
 https://arxiv.org/abs/2511.13033
 https://arxiv.org/abs/2511.13038
 https://arxiv.org/abs/2511.13038
-https://arxiv.org/abs/2511.13173
+* https://arxiv.org/abs/2511.13173 # Quantum Mpemba Effect Induced by Non-Markovian Exceptional Point, Ze-Zhou Zhang, Hong-Gang Luo, Wei Wu
 https://arxiv.org/abs/2511.13194
 https://arxiv.org/abs/2511.13231
 https://arxiv.org/abs/2511.13256
@@ -48,7 +48,7 @@ https://arxiv.org/abs/2511.13683
 https://arxiv.org/abs/2511.13687
 https://arxiv.org/abs/2511.13721
 
-https://arxiv.org/abs/2511.10163
+* https://arxiv.org/abs/2511.10163 # Measurement protocol for detecting correlated topological insulators in synthetic quantum systems, Yixin Ma, Chao Xu, Shenghan Jiang
 https://arxiv.org/abs/2511.11609
 https://arxiv.org/abs/2511.11752
 https://arxiv.org/abs/2511.12012
