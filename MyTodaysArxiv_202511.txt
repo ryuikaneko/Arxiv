@@ -6,35 +6,35 @@
 
 https://arxiv.org/abs/2511.11645
 https://arxiv.org/abs/2511.11771
-https://arxiv.org/abs/2511.11798
-https://arxiv.org/abs/2511.11905
+* https://arxiv.org/abs/2511.11798 # Floquet Engineering Magnetism and Superconductivity in the Square-Lattice Hubbard Model, Jan-Niklas Herre, Takuya Okugawa, Ammon Fischer, Christoph Karrasch, Dante M. Kennes
+* https://arxiv.org/abs/2511.11905 # Quantum Heisenberg antiferromagnet in a field on the Tasaki square lattice, Maksym Parymuda, Taras Krokhmalskii, Oleg Derzhko
 https://arxiv.org/abs/2511.11919
-https://arxiv.org/abs/2511.11972
+* https://arxiv.org/abs/2511.11972 # Spin-orbit coupled periodic Anderson model: Kondo-Dirac semimetal and orbital-selective antiferromagnetic semimetal, Sebastiao dos Anjos Sousa-Junior, Julian Faundez, Rubem Mondaini
 https://arxiv.org/abs/2511.11976
 https://arxiv.org/abs/2511.12243
 https://arxiv.org/abs/2511.12247
-https://arxiv.org/abs/2511.12287
+* https://arxiv.org/abs/2511.12287 # Enhanced coherence in the periodically driven two-dimensional XY model, Duilio De Santis, Marios H. Michael, Sambuddha Chattopadhyay, Andrea Cavalleri, Gil Refael, Patrick A. Lee, Eugene A. Demler
 
-https://arxiv.org/abs/2511.12551
+* https://arxiv.org/abs/2511.12551 # Principal Component Analysis of Competing Correlations in Quarter-Filled Hubbard Models, Md Fahad Equbal, S R Hassan, M. A. H. Ahsan
 https://arxiv.org/abs/2511.12655
 https://arxiv.org/abs/2511.12719
-https://arxiv.org/abs/2511.12731
-https://arxiv.org/abs/2511.12746
-https://arxiv.org/abs/2511.12794
-https://arxiv.org/abs/2511.12814
+* https://arxiv.org/abs/2511.12731 # Kagome metals, Domenico Di Sante, Titus Neupert, Giorgio Sangiovanni, Ronny Thomale, Riccardo Comin, Ilija Zeljkovic, Joseph G. Checkelsky, Stephen D. Wilson
+* https://arxiv.org/abs/2511.12746 # Giant number-parity effect and scalable spin squeezing in Luttinger liquids, Filippo Caleca, Saverio Bocini, Fabio Mezzacapo, Tommaso Roscilde
+* https://arxiv.org/abs/2511.12794 # Thermodynamic integration, fermion sign problem, and real-space renormalization, Koka Sathwik, Werner Krauth
+* https://arxiv.org/abs/2511.12814 # Quantifying and minimizing dissipation in a non-equilibrium phase transition, Yuejun Shen, Zhiqiao Jiang, Yunfan Huang, Brittany M. Cleary, Yixing Jiang, Grant M. Rotskoff, Aaron M. Lindenberg
 https://arxiv.org/abs/2511.12980
 https://arxiv.org/abs/2511.13076
 https://arxiv.org/abs/2511.13136
 
-https://arxiv.org/abs/2511.13176
+* https://arxiv.org/abs/2511.13176 # Stochasticity-induced non-Hermitian skin criticality, Xiaoyu Cheng, Hui Jiang, Jun Chen, Lei Zhang, Yee Sin Ang, Ching Hua Lee
 https://arxiv.org/abs/2511.13257
 https://arxiv.org/abs/2511.13270
-https://arxiv.org/abs/2511.13325
-https://arxiv.org/abs/2511.13349
+* https://arxiv.org/abs/2511.13325 # Spin-orbit driven Jeff=1/2 magnetism in a d7 triangular-lattice monolayer cobaltate, Ritwik Das, Soumen Basak, Mohammad Rezwan Habib, Indra Dasgupta
+* https://arxiv.org/abs/2511.13349 # Nontrivial flat bands and quantum Hall crossovers in square-octagon lattice materials, Amrita Mukherjee, Rahul Verma, Pritesh Srivastava, Bahadur Singh
 https://arxiv.org/abs/2511.13385
-https://arxiv.org/abs/2511.13464
+* https://arxiv.org/abs/2511.13464 # Generalized Aubry-Andre-Harper model with power-law quasiperiodic potentials, Ya-Nan Wang, Wen-Long You, Zhihao Xu, Gaoyong Sun
 https://arxiv.org/abs/2511.13486
-https://arxiv.org/abs/2511.13534
+* https://arxiv.org/abs/2511.13534 # Effects of the Next-Nearest-Neighbor Hopping on the Low-Dimensional Hubbard Model: Ferromagnetism, Antiferromagnetism, and Superconductivity, Luhang Yang, Adrian E. Feiguin, Thomas P. Devereaux, Elbio Dagotto
 https://arxiv.org/abs/2511.13574
 
 https://arxiv.org/abs/2511.13594
