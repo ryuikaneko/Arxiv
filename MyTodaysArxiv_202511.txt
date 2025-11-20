@@ -1,4 +1,32 @@
+20251120
+
+
+
 20251119
+
+https://arxiv.org/abs/2511.13833
+* https://arxiv.org/abs/2511.13838 # Lessons from alpha-RuCl3 for pursuing quantum spin liquid physics in atomically thin materials, Claudia Ojeda-Aristizabal, Xiaohu Zheng, Changsong Xu, Zohar Nussinov, Yukitoshi Motome, Arnab Banerjee, Adam W. Tsen, Michael Knap, Rui-Rui Du, Gajadhar Joshi, Andy Mounce, Youngwook Kim, Benjamin M. Hunt, Dmitry Shcherbakov, Boyi Zhou, Ran Jing, Mengkun Liu, Hui Zhao, Bolin Liao, Martin Claassen, Onur Erten, Yong P. Chen, Erik A. Henriksen
+https://arxiv.org/abs/2511.13914
+https://arxiv.org/abs/2511.13978
+https://arxiv.org/abs/2511.14068
+* https://arxiv.org/abs/2511.14114 # Dynamics of entanglement asymmetry for space-inversion symmetry of free fermions on honeycomb lattices, Ryogo Hara, Shimpei Endo, Shion Yamashika
+* https://arxiv.org/abs/2511.14134 # Topological transition induced by selective random defects on a honeycomb lattice, Sogen Ikegami, Kiyu Fukui, Shun Okumura, Yasuyuki Kato, Yukitoshi Motome
+* https://arxiv.org/abs/2511.14260 # Stability of current-carrying states in hard-core bosons with long-range hopping on a square lattice, Yoshihiro Yabuuchi, Ippei Danshita
+* https://arxiv.org/abs/2511.14505 # Neural network impurity solver for real-frequency dynamical mean-field theory, Fenglin Deng, Yi Lu, Xiaodong Cao, Zhicheng Zhong
+https://arxiv.org/abs/2511.14553
+
+https://arxiv.org/abs/2511.14754
+https://arxiv.org/abs/2511.13723
+* https://arxiv.org/abs/2511.13821 # Skeleton of isometric Tensor Network States for Abelian String-Net Models, Julian Boesl, Yu-Jie Liu, Frank Pollmann, Michael Knap
+* https://arxiv.org/abs/2511.13827 # Optimizing two-dimensional isometric tensor networks with quantum computers, Sebastian Leontica, Alberto Baiardi, Julian Schuhmacher, Francesco Tacchino, Ivano Tavernelli
+* https://arxiv.org/abs/2511.13829 # Realizing Unitary k-designs with a Single Quench, Yi-Neng Zhou, Robin Loewenberg, Julian Sonner
+https://arxiv.org/abs/2511.13958
+https://arxiv.org/abs/2511.14081
+https://arxiv.org/abs/2511.14363
+https://arxiv.org/abs/2511.14547
+https://arxiv.org/abs/2511.14643
+
+* https://arxiv.org/abs/2511.14734 # From Random Determinants to the Ground State, Hao Zhang, Matthew Otten
 
 https://journals.aps.org/prresearch/abstract/10.1103/zmwm-gdmw
 https://journals.aps.org/prresearch/abstract/10.1103/bv19-dtb1
