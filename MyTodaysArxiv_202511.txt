@@ -13,7 +13,7 @@ https://arxiv.org/abs/2511.13844
 https://arxiv.org/abs/2511.13855
 https://arxiv.org/abs/2511.13867
 https://arxiv.org/abs/2511.13871
-https://arxiv.org/abs/2511.13882
+* https://arxiv.org/abs/2511.13882 # Hybrid continuous-discrete-variable quantum computing: a guide to utility, A.F. Kemper, Antonios Alvertis, Muhammad Asaduzzaman, Bojko N. Bakalov, Dror Baron, Joel Bierman, Blake Burgstahler, Srikar Chundury, Elin Ranjan Das, Jim Furches, Fucheng Guo, Raghav G. Jha, Katherine Klymko, Arvin Kushwaha, Ang Li, Aishwarya Majumdar, Carlos Ortiz Marrero, Shubdeep Mohapatra, Christopher Mori, Frank Mueller, Doru Thom Popovici, Tim Stavenger, Mastawal Tirfe, Norm M. Tubman, Muqing Zheng, Huiyang Zhou, Yuan Liu
 
 https://arxiv.org/abs/2511.14000
 https://arxiv.org/abs/2511.14079
@@ -21,12 +21,11 @@ https://arxiv.org/abs/2511.14121
 https://arxiv.org/abs/2511.14397
 https://arxiv.org/abs/2511.14506
 https://arxiv.org/abs/2511.14511
-https://arxiv.org/abs/2511.14547
-https://arxiv.org/abs/2511.14552
+* https://arxiv.org/abs/2511.14552 # Experimental observation and application of the genuine Quantum Mpemba Effect, Bruno P. Schnepper, Jefferson L. D. de Oliveira, Carlos H. S. Vieira, Krissia Zawadzki, Roberto M. Serra
 https://arxiv.org/abs/2511.14579
 https://arxiv.org/abs/2511.14628
-
 https://arxiv.org/abs/2511.14648
+
 https://arxiv.org/abs/2511.14737
 https://arxiv.org/abs/2511.14664
 
