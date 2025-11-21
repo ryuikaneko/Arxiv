@@ -4,6 +4,48 @@
 
 20251120
 
+* https://arxiv.org/abs/2511.14847 # Breakdown of Quantum Chaos in the Staggered-Field XXZ Chain: Confinement and Meson Formation, Julia Wildeboer, Marton Lajer, Robert M. Konik
+* https://arxiv.org/abs/2511.14878 # Unraveling additional quantum many-body scars of the spin-1 XY model with Fock-space cages and commutant algebras, Sashikanta Mohapatra, Sanjay Moudgalya, Ajit C. Balram
+https://arxiv.org/abs/2511.14904
+https://arxiv.org/abs/2511.14960
+https://arxiv.org/abs/2511.15017
+* https://arxiv.org/abs/2511.15144 # Characterizing entanglement at finite temperature: how does a "classical" paramagnet become a quantum spin liquid?, Snigdh Sabharwal, Matthias Gohlke, Paul Skrzypczyk, Nic Shannon
+https://arxiv.org/abs/2511.15160
+https://arxiv.org/abs/2511.15265
+
+https://arxiv.org/abs/2511.15399
+* https://arxiv.org/abs/2511.15461 # On flat bands in the J1-J2-J3 XXZ sawtooth chain, Vadim Ohanyan, Johannes Richter, Michael Sekania, Lucas Giambattista, Alexei Andreanov, Marcus Kollar
+https://arxiv.org/abs/2511.15486
+* https://arxiv.org/abs/2511.15608 # Magnetic electron-hole asymmetry in cuprates: a computational revisit, Jiong Mei, Shao-Hang Shi, Ping Xu, Ziyan Chen, Hui-Ke Jin, Mingpu Qin, Zi-Xiang Li, Kun Jiang
+* https://arxiv.org/abs/2511.15708 # Moire-induced gapped phases in twisted nodal superconductors, Kevin P. Lucht, J. H. Pixley, Pavel A. Volkov
+https://arxiv.org/abs/2511.14839
+https://arxiv.org/abs/2511.15527
+https://arxiv.org/abs/2511.15576
+https://arxiv.org/abs/2511.15697
+https://arxiv.org/abs/2511.14797
+
+https://arxiv.org/abs/2511.14802
+https://arxiv.org/abs/2511.14820
+https://arxiv.org/abs/2511.14837
+https://arxiv.org/abs/2511.14855
+https://arxiv.org/abs/2511.14923
+https://arxiv.org/abs/2511.14950
+* https://arxiv.org/abs/2511.15047 # Time series learning in a many-body Rydberg system with emergent collective nonlinearity, Zongkai Liu, Qiming Ren, Chris Nill, Albert Cabot, Wei Xia, Yanjie Tong, Huizhen Wang, Wenguang Yang, Junyao Xie, Mingyong Jing, Hao Zhang, Liantuan Xiao, Suotang Jia, Igor Lesanovsky, Linjie Zhang
+* https://arxiv.org/abs/2511.15124 # Beyond Trotterization: Variational Product Formulas for Quantum Simulation, Ibsal Assi, Michael Vogl, Meenu Kumari, J. P. F. LeBlanc
+https://arxiv.org/abs/2511.15148
+https://arxiv.org/abs/2511.15177
+
+https://arxiv.org/abs/2511.15295
+https://arxiv.org/abs/2511.15363
+https://arxiv.org/abs/2511.15376
+https://arxiv.org/abs/2511.15413
+https://arxiv.org/abs/2511.15439
+https://arxiv.org/abs/2511.15516
+* https://arxiv.org/abs/2511.15674 # Efficient quantum state preparation of multivariate functions using tensor networks, Marco Ballarin, Juan Jose Garcia-Ripoll, David Hayes, Michael Lubasch
+https://arxiv.org/abs/2511.15682
+https://arxiv.org/abs/2511.15224
+https://arxiv.org/abs/2511.15269
+
 https://journals.aps.org/prresearch/abstract/10.1103/fkh5-b669
 https://journals.aps.org/prb/abstract/10.1103/xdwz-8k94
 https://journals.aps.org/prb/abstract/10.1103/qlky-lzx6
