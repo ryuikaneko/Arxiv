@@ -5,7 +5,53 @@ https://journals.aps.org/prxquantum/abstract/10.1103/ljh3-3l4j
 https://journals.aps.org/pra/abstract/10.1103/9552-rz3h
 
 
+====
+
+
 20251121
+
+https://arxiv.org/abs/2511.15783
+https://arxiv.org/abs/2511.15804
+* https://arxiv.org/abs/2511.15811 # Magnetostriction in the J-K-Gamma model: Application of the numerical linked cluster expansion, Alexander Schwenke, Wolfram Brenig
+https://arxiv.org/abs/2511.15824
+https://arxiv.org/abs/2511.15901
+https://arxiv.org/abs/2511.16086
+https://arxiv.org/abs/2511.16219
+https://arxiv.org/abs/2511.16284
+https://arxiv.org/abs/2511.16385
+
+https://arxiv.org/abs/2511.16393
+https://arxiv.org/abs/2511.16421
+* https://arxiv.org/abs/2511.16429 # Order-by-disorder from Schwinger bosons in a frustrated honeycomb ferromagnet, Arnaud Ralko, Jaime Merino
+https://arxiv.org/abs/2511.16443
+https://arxiv.org/abs/2511.16446
+https://arxiv.org/abs/2511.16457
+https://arxiv.org/abs/2511.16460
+https://arxiv.org/abs/2511.16509
+https://arxiv.org/abs/2511.16510
+https://arxiv.org/abs/2511.16603
+
+https://arxiv.org/abs/2511.16634
+https://arxiv.org/abs/2511.15805
+* https://arxiv.org/abs/2511.15969 # A Primer on Quantum Machine Learning, Su Yeon Chang, M. Cerezo
+https://arxiv.org/abs/2511.15919
+https://arxiv.org/abs/2511.15806
+https://arxiv.org/abs/2511.15880
+https://arxiv.org/abs/2511.15881
+* https://arxiv.org/abs/2511.15911 # k-Uniform complete hypergraph states stabilizers in terms of local operators, Gabriel M. Arantes, Vinicius Salem, Danilo Cius, Barbara Amaral
+https://arxiv.org/abs/2511.15954
+https://arxiv.org/abs/2511.15971
+
+https://arxiv.org/abs/2511.16215
+https://arxiv.org/abs/2511.16468
+https://arxiv.org/abs/2511.16558
+https://arxiv.org/abs/2511.16585
+https://arxiv.org/abs/2511.16591
+https://arxiv.org/abs/2511.16597
+https://arxiv.org/abs/2511.16632
+https://arxiv.org/abs/2511.15799
+https://arxiv.org/abs/2511.15966
+https://arxiv.org/abs/2511.16363
 
 https://journals.aps.org/pra/abstract/10.1103/p8wj-gplb
 https://journals.aps.org/pra/abstract/10.1103/l8tq-hhxk
