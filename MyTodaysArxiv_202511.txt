@@ -22,7 +22,7 @@ https://arxiv.org/abs/2511.18021
 https://arxiv.org/abs/2511.18079
 https://arxiv.org/abs/2511.18198
 https://arxiv.org/abs/2511.18318
-https://arxiv.org/abs/2511.18327
+* https://arxiv.org/abs/2511.18327 # Universal learning of nonlocal entropy via local correlations in non-equilibrium quantum states, Hao Liao, Xuanqin Huang, Ping Wang
 https://arxiv.org/abs/2511.18377
 https://arxiv.org/abs/2511.18496
 https://arxiv.org/abs/2511.19160
@@ -32,7 +32,7 @@ https://arxiv.org/abs/2511.19246
 https://arxiv.org/abs/2511.19289
 https://arxiv.org/abs/2511.19291
 https://arxiv.org/abs/2511.19292
-https://arxiv.org/abs/2511.19340
+* https://arxiv.org/abs/2511.19340 # Simulating dynamics of the two-dimensional transverse-field Ising model: a comparative study of large-scale classical numerics, Joseph Vovrosh, Sergi Julia-Farre, Wladislaw Krinitsin, Michael Kaicher, Fergus Hayes, Emmanuel Gottlob, Augustine Kshetrimayum, Kemal Bidzhiev, Simon B. Jaeger, Markus Schmitt, Joseph Tindall, Constantin Dalyac, Tiago Mendes-Santos, Alexandre Dauphin
 https://arxiv.org/abs/2509.00962
 https://arxiv.org/abs/2511.17677
 https://arxiv.org/abs/2511.17711
