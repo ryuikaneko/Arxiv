@@ -6,6 +6,28 @@ https://journals.aps.org/prb/abstract/10.1103/ckbn-jp9t
 
 20251125
 
+https://arxiv.org/abs/2511.17851
+https://arxiv.org/abs/2511.18341
+https://arxiv.org/abs/2511.18398
+https://arxiv.org/abs/2511.18510
+https://arxiv.org/abs/2511.18596
+* https://arxiv.org/abs/2511.18644 # Competition between charge-density-wave and superconducting orders on eight-leg square Hubbard cylinders, Hong-Chen Jiang, Thomas P. Devereaux, Steven A. Kivelson
+https://arxiv.org/abs/2511.18648
+https://arxiv.org/abs/2511.18969
+https://arxiv.org/abs/2511.19191
+* https://arxiv.org/abs/2511.19209 # Projected Density Matrix Sampling for Lattice Hamiltonians, Abhishek Karna, Hansen S. Wu, Shailesh Chandrasekharan, Ribhu K. Kaul
+
+* https://arxiv.org/abs/2511.19389 # Kondo screening and random-singlet formation in highly disordered systems, Lucas G. Rabelo, Igor C. Almeida, Eduardo Miranda, Vladimir Dobrosavljevic, Eric C. Andrade
+* https://arxiv.org/abs/2511.19409 # Chiral spin liquid instability of the Kitaev honeycomb model with crystallographic defects, Arnab Seth, Fay Borhani, Itamar Kimchi
+https://arxiv.org/abs/2511.17491
+* https://arxiv.org/abs/2511.17641 # Thermodynamics + Natural Selection = Bayesian Inference, Seth Lloyd
+https://arxiv.org/abs/2511.17779
+https://arxiv.org/abs/2511.17789
+https://arxiv.org/abs/2511.17835
+https://arxiv.org/abs/2511.17848
+* https://arxiv.org/abs/2511.17957 # Brute-force positivization of J1-J2 model ground states, P. A. Bannykh, O. M. Sotnikov, V. V. Mazurenko
+https://arxiv.org/abs/2511.19415
+
 https://journals.aps.org/prb/abstract/10.1103/ys4q-69gm
 https://journals.aps.org/prb/abstract/10.1103/nykx-1tsz
 https://journals.aps.org/prb/abstract/10.1103/8tsg-q9j6
