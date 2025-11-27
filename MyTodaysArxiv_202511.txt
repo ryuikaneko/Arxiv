@@ -9,6 +9,47 @@ https://journals.aps.org/prl/abstract/10.1103/by9g-5bkm
 
 20251126
 
+https://arxiv.org/abs/2511.19860
+* https://arxiv.org/abs/2511.19879 # Learning Degenerate Manifolds of Frustrated Magnets with Boltzmann Machines, Jackson C. Glass, Gia-Wei Chern
+https://arxiv.org/abs/2511.19896
+https://arxiv.org/abs/2511.20060
+https://arxiv.org/abs/2511.20163
+* https://arxiv.org/abs/2511.20261 # Disentangling Kitaev Quantum Spin Liquid, Xiang Li, Xiangjian Qian, Mingpu Qin
+https://arxiv.org/abs/2511.20398
+
+https://arxiv.org/abs/2511.20441
+* https://arxiv.org/abs/2511.20447 # Single-hole spectral functions in 1D quantum magnets with different ground states, Sibin Yang, Gabe Schumm, Bowen Zhao, Anders W. Sandvik
+* https://arxiv.org/abs/2511.20545 # Tuning entanglement phases and topological memory in the measurement-only Kitaev model with single and multi-qubit checks, Tushya Kalpada, Aayush Vijayvargia, Ezra Day-Roberts, Onur Erten
+https://arxiv.org/abs/2511.20599
+https://arxiv.org/abs/2511.19592
+https://arxiv.org/abs/2511.19730
+* https://arxiv.org/abs/2511.19793 # Generalized Landau Paradigm for quantum phases and phase transitions, Xie Chen
+https://arxiv.org/abs/2511.20362
+https://arxiv.org/abs/2511.20530
+https://arxiv.org/abs/2511.20596
+
+* https://arxiv.org/abs/2511.20619 # Extracting conserved operators from a projected entangled pair state, Wen-Tao Xu, Miguel Frias Perez, Mingru Yang
+https://arxiv.org/abs/2511.19501
+https://arxiv.org/abs/2511.19551
+https://arxiv.org/abs/2511.19585
+* https://arxiv.org/abs/2511.19597 # Holographic duality between bulk topological order and boundary mixed-state order, Tsung-Cheng Lu, Yu-Jie Liu, Sarang Gopalakrishnan, Yizhi You
+https://arxiv.org/abs/2511.19598
+https://arxiv.org/abs/2511.19612
+https://arxiv.org/abs/2511.19613
+https://arxiv.org/abs/2511.19659
+https://arxiv.org/abs/2511.19700
+
+https://arxiv.org/abs/2511.19732
+https://arxiv.org/abs/2511.19983
+https://arxiv.org/abs/2511.20355
+https://arxiv.org/abs/2511.20371
+* https://arxiv.org/abs/2511.20388 # Resource assessment of classical and quantum hardware for post-quench dynamics, Joseph Vovrosh, Tiago Mendes-Santos, Hadriel Mamann, Kemal Bidzhiev, Fergus Hayes, Bruno Ximenez, Lucas Beguin, Constantin Dalyac, Alexandre Dauphin
+https://arxiv.org/abs/2511.20437
+https://arxiv.org/abs/2511.20518
+https://arxiv.org/abs/2511.20576
+https://arxiv.org/abs/2511.20602
+https://arxiv.org/abs/2511.19439
+
 https://journals.aps.org/prc/abstract/10.1103/zj4l-h6nv
 https://journals.aps.org/prb/abstract/10.1103/ckbn-jp9t
 https://journals.aps.org/pra/abstract/10.1103/839s-4qqv
