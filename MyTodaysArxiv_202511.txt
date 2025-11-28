@@ -1,5 +1,49 @@
 20251127
 
+* https://arxiv.org/abs/2511.20768 # Light-induced Asymmetric Pseudogap below Tc in cuprates, D. Armanno, O. Gingras, F. Goto, J.-M. Parent, A. Longa, A. Jabed, B. Frimpong, R.D. Zhong, J. Schneeloch, G. D. Gu, G. Jargot, H. Ibrahim, F. Legare, B.J. Siwick, N. Gauthier, A. Georges, A.J. Millis, F. Boschini
+https://arxiv.org/abs/2511.20788
+https://arxiv.org/abs/2511.20846
+* https://arxiv.org/abs/2511.20911 # Hardware Acceleration of Frustrated Lattice Systems using Convolutional Restricted Boltzmann Machine, Pratik Brahma, Junghoon Han, Tamzid Razzaque, Saavan Patel, Sayeef Salahuddin
+https://arxiv.org/abs/2511.21049
+https://arxiv.org/abs/2511.21082
+https://arxiv.org/abs/2511.21220
+https://arxiv.org/abs/2511.21315
+https://arxiv.org/abs/2511.21361
+https://arxiv.org/abs/2511.21368
+
+* https://arxiv.org/abs/2511.21386 # Kibble-Zurek Meets Tricriticality: Breakdown of Adiabatic-Impulse and New Scaling Forms, Chengshu Li
+https://arxiv.org/abs/2511.21400
+https://arxiv.org/abs/2511.21423
+* https://arxiv.org/abs/2511.21440 # Antiferromagnetism and Kekule valence bond order in the honeycomb optical Su-Schrieffer-Heeger-Hubbard model, Sohan Malkaruge Costa, Benjamin Cohen-Stead, Steven Johnston
+* https://arxiv.org/abs/2511.21539 # Charge carrier relaxation dynamics in the one-dimensional Kondo lattice model, Arturo Perez-Romero, Mica Schwarm, Fabian Heidrich-Meisner
+https://arxiv.org/abs/2511.21540
+https://arxiv.org/abs/2511.21551
+* https://arxiv.org/abs/2511.21598 # Unconventional orders in the maple-leaf ferro-antiferromagnetic Heisenberg model, Lasse Gresista, Dominik Kiese, Simon Trebst, Yasir Iqbal
+https://arxiv.org/abs/2511.21657
+* https://arxiv.org/abs/2511.21683 # Mean-field Modelling of Moire Materials: A User's Guide with Selected Applications to Twisted Bilayer Graphene, Yves H. Kwan, Ziwei Wang, Glenn Wagner, Nick Bultinck, Steven H. Simon, Siddharth A. Parameswaran
+
+https://arxiv.org/abs/2406.03026
+* https://arxiv.org/abs/2511.20762 # Multi-Field Relativistic Continuous Matrix Product States, Karan Tiwana, Antoine Tilloy
+* https://arxiv.org/abs/2511.20769 # Krylov Complexity of Supersymmetric SYK Models, James Chryssanthacopoulos, David Vegh
+https://arxiv.org/abs/2511.21601
+https://arxiv.org/abs/2511.21643
+* https://arxiv.org/abs/2511.20797 # Many-Body Entanglement in Solid-State Emitters
+https://arxiv.org/abs/2511.20858
+https://arxiv.org/abs/2511.20946
+https://arxiv.org/abs/2511.20947
+https://arxiv.org/abs/2511.20998
+
+https://arxiv.org/abs/2511.21186
+* https://arxiv.org/abs/2511.21225 # Phase Estimation with Compressed Controlled Time Evolution, Erenay Karacan
+https://arxiv.org/abs/2511.21236
+https://arxiv.org/abs/2511.21238
+https://arxiv.org/abs/2511.21284
+* https://arxiv.org/abs/2511.21487 # Magic spreading under unitary Clifford dynamics, Mircea Bejan, Pieter W. Claeys, Jiangtian Yao
+* https://arxiv.org/abs/2511.21685 # Holographically Emergent Gauge Theory in Symmetric Quantum Circuits, Akash Vijay, Jong Yeon Lee
+* https://arxiv.org/abs/2511.20860 # Defect Bootstrap: Tight Ground State Bounds in Spontaneous Symmetry Breaking Phases, Michael G. Scheer, Nisarg Chadha, Da-Chuan Lu, Eslam Khalaf
+https://arxiv.org/abs/2511.21412
+https://arxiv.org/abs/2511.20774
+
 https://journals.aps.org/prl/abstract/10.1103/pn99-6dxt
 https://journals.aps.org/prl/abstract/10.1103/by9g-5bkm
 https://journals.aps.org/prxquantum/abstract/10.1103/w23h-dhrk
