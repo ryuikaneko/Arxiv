@@ -1,3 +1,9 @@
+20251202
+
+
+20251201
+
+
 20251127
 
 * https://arxiv.org/abs/2511.20768 # Light-induced Asymmetric Pseudogap below Tc in cuprates, D. Armanno, O. Gingras, F. Goto, J.-M. Parent, A. Longa, A. Jabed, B. Frimpong, R.D. Zhong, J. Schneeloch, G. D. Gu, G. Jargot, H. Ibrahim, F. Legare, B.J. Siwick, N. Gauthier, A. Georges, A.J. Millis, F. Boschini
