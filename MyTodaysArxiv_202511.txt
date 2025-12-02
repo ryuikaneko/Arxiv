@@ -1,6 +1,9 @@
 20251202
 
 
+https://journals.aps.org/prx/abstract/10.1103/hfkr-k2pw
+
+
 20251201
 
 * https://arxiv.org/abs/2511.21806 # Thermodynamics of the Heisenberg antiferromagnet on the maple-leaf lattice, Robin Schaefer, Paul L. Ebert, Noah Hassan, Johannes Reuther, David J. Luitz, Alexander Wietek
