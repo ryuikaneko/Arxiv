@@ -3,6 +3,28 @@
 
 20251201
 
+https://arxiv.org/abs/2511.22621
+* https://arxiv.org/abs/2511.22654 # Out-of-Time-Order Correlator Spectroscopy, Keisuke Fujii
+* https://arxiv.org/abs/2511.23395 # Hilbert space fragmentation in driven-dephasing Rydberg atom array, Tianyi Yan, Chun Hei Leung, Weibin Li
+* https://arxiv.org/abs/2511.21866 # Measure and Forget Dynamics in Random Circuits, Yucheng He, Todd A. Brun
+https://arxiv.org/abs/2511.21867
+https://arxiv.org/abs/2511.21885
+https://arxiv.org/abs/2511.21951
+https://arxiv.org/abs/2511.22158
+https://arxiv.org/abs/2511.22202
+https://arxiv.org/abs/2511.22214
+
+https://arxiv.org/abs/2511.22271
+https://arxiv.org/abs/2511.22321
+https://arxiv.org/abs/2511.22469
+https://arxiv.org/abs/2511.22476
+https://arxiv.org/abs/2511.22509
+https://arxiv.org/abs/2511.22523
+https://arxiv.org/abs/2511.22593
+https://arxiv.org/abs/2511.22844
+https://arxiv.org/abs/2511.22861
+* https://arxiv.org/abs/2511.22898 # Algorithmic Quantum Simulations of Quantum Thermodynamics
+
 https://arxiv.org/abs/2511.22967
 https://arxiv.org/abs/2511.22976
 https://arxiv.org/abs/2511.23160
