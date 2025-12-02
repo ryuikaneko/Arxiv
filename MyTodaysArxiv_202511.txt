@@ -3,12 +3,20 @@
 
 20251201
 
+* https://arxiv.org/abs/2511.21806 # Thermodynamics of the Heisenberg antiferromagnet on the maple-leaf lattice, Robin Schaefer, Paul L. Ebert, Noah Hassan, Johannes Reuther, David J. Luitz, Alexander Wietek
+* https://arxiv.org/abs/2511.21815 # Obstruction to Ergodicity from Locality and U(1) Higher Symmetries on the Lattice, Ramanjit Sohal, Ruben Verresen
+https://arxiv.org/abs/2511.21821
+https://arxiv.org/abs/2511.21825
+https://arxiv.org/abs/2511.22002
+* https://arxiv.org/abs/2511.22008 # Evolving disorder in non-Hermitian lattices, I. Komis, E. T. Kokkinakis, K. G. Makris, E. N. Economou
+* https://arxiv.org/abs/2511.22020 # Shaping Causality: Emergence of Nonlocal Light Cones in Long-Range Quantum Systems, Shreyas Sadugol, Giuseppe Luca Celardo, Fausto Borgonovi, Lev Kaplan
+
 https://arxiv.org/abs/2511.22026
 https://arxiv.org/abs/2511.22066
-https://arxiv.org/abs/2511.22067
+* https://arxiv.org/abs/2511.22067 # Emergent Fermi-liquid-like phase by melting a holon Wigner crystal in a doped Mott insulator on the kagome lattice, Xu-Yan Jia (1), Wen Huang (2 and 3), D. N. Sheng (4), Shou-Shu Gong (2 and 3) ((1) School of Physics, Beihang University, (2) School of Physical Sciences, Great Bay University, (3) Great Bay Institute for Advanced Study, (4) Department of Physics and Astronomy, California State University Northridge)
 https://arxiv.org/abs/2511.22079
 https://arxiv.org/abs/2511.22115
-https://arxiv.org/abs/2511.22204
+* https://arxiv.org/abs/2511.22204 # Neel Ordered Magnetic Phases in Bipartite Quasicrystals, Jia-Heng Ji, Zhi-Yan Shao, Yu-Bo Liu, Fan Yang
 https://arxiv.org/abs/2511.22216
 * https://arxiv.org/abs/2511.22230 # Quantum phase transitions of the anisotropic Dicke-Ising model in driven Rydberg arrays, Bao-Yun Dong, Ying Liang, Stefano Chesi, Xue-Feng Zhang
 https://arxiv.org/abs/2511.22231
