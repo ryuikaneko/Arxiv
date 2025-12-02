@@ -3,6 +3,28 @@
 
 20251201
 
+* https://arxiv.org/abs/2511.22477 # Equivalence of residual entropy of hexagonal and cubic ices from tensor network methods, Xia-Ze Xu, Tong-Yu Lin, Guang-Ming Zhang
+https://arxiv.org/abs/2511.22494
+https://arxiv.org/abs/2511.22583
+https://arxiv.org/abs/2511.22592
+https://arxiv.org/abs/2511.22622
+* https://arxiv.org/abs/2511.22647 # Tensor complex renormalization with generalized symmetry and topological bootstrap, Dong-Yu Bao, Gong Cheng, Hong-Hao Song, Zheng-Cheng Gu
+* https://arxiv.org/abs/2511.22669 # Accurate computation of the energy variance and <<LL>> using iPEPS, Emilio Cortes Estay, Naushad A. Kamar, Philippe Corboz
+https://arxiv.org/abs/2511.22723
+https://arxiv.org/abs/2511.22885
+https://arxiv.org/abs/2511.22966
+
+https://arxiv.org/abs/2511.22971
+https://arxiv.org/abs/2511.23207
+https://arxiv.org/abs/2511.23210
+* https://arxiv.org/abs/2511.23217 # Refinements of the Eigenstate Thermalization Hypothesis under Local Rotational Invariance via Free Probability, Elisa Vallini, Laura Foini, Silvia Pappalardi
+* https://arxiv.org/abs/2511.23218 # Compact localized currents in flat bands with broken time-reversal symmetry, Rohit Kishan Ray, Carlo Danieli, Alexei Andreanov, Sergej Flach
+https://arxiv.org/abs/2511.23277
+https://arxiv.org/abs/2511.21715
+https://arxiv.org/abs/2511.22083
+https://arxiv.org/abs/2511.22114
+* https://arxiv.org/abs/2511.22506 # Replica Field Theory of Quantum Jumps Monitoring: Application to the Ising Chain, Youenn Le Gal, Marco Schiro
+
 https://arxiv.org/abs/2511.22621
 * https://arxiv.org/abs/2511.22654 # Out-of-Time-Order Correlator Spectroscopy, Keisuke Fujii
 * https://arxiv.org/abs/2511.23395 # Hilbert space fragmentation in driven-dephasing Rydberg atom array, Tianyi Yan, Chun Hei Leung, Weibin Li
