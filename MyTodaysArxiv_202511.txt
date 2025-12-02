@@ -3,6 +3,17 @@
 
 20251201
 
+https://arxiv.org/abs/2511.22026
+https://arxiv.org/abs/2511.22066
+https://arxiv.org/abs/2511.22067
+https://arxiv.org/abs/2511.22079
+https://arxiv.org/abs/2511.22115
+https://arxiv.org/abs/2511.22204
+https://arxiv.org/abs/2511.22216
+* https://arxiv.org/abs/2511.22230 # Quantum phase transitions of the anisotropic Dicke-Ising model in driven Rydberg arrays, Bao-Yun Dong, Ying Liang, Stefano Chesi, Xue-Feng Zhang
+https://arxiv.org/abs/2511.22231
+https://arxiv.org/abs/2511.22326
+
 * https://arxiv.org/abs/2511.22477 # Equivalence of residual entropy of hexagonal and cubic ices from tensor network methods, Xia-Ze Xu, Tong-Yu Lin, Guang-Ming Zhang
 https://arxiv.org/abs/2511.22494
 https://arxiv.org/abs/2511.22583
