@@ -9,8 +9,8 @@ https://arxiv.org/abs/2511.23160
 https://arxiv.org/abs/2511.23161
 https://arxiv.org/abs/2511.23224
 https://arxiv.org/abs/2511.23240
-https://arxiv.org/abs/2511.23392
-https://arxiv.org/abs/2511.23438
+* https://arxiv.org/abs/2511.23392 # Bounded-Error Quantum Simulation via Hamiltonian and Lindbladian Learning, Tristan Kraft, Manoj K. Joshi, William Lam, Tobias Olsacher, Florian Kranzl, Johannes Franke, Lata Kh Joshi, Rainer Blatt, Augusto Smerzi, Daniel Stilck Franca, Benoit Vermersch, Barbara Kraus, Christian F. Roos, Peter Zoller
+* https://arxiv.org/abs/2511.23438 # A Heuristic for Matrix Product State Simulation of Out-of-Equilibrium Dynamics of Two-Dimensional Transverse-Field Ising Models, Salvatore Mandra, Nikita Astrakhantsev, Sergei Isakov, Benjamin Villalonga, Brayden Ware, Tom Westerhout, Kostyantyn Kechedzhi
 https://arxiv.org/abs/2511.23470
 * https://arxiv.org/abs/2511.23470 # Spectral analysis of the Koopman operator recovers Hamiltonian parameters in open quantum systems, Jorge E. Perez-Garcia, Carlos Colchero, Julio C. Gutierrez-Vega
 
