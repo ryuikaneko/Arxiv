@@ -3,6 +3,17 @@
 
 20251201
 
+https://arxiv.org/abs/2511.22967
+https://arxiv.org/abs/2511.22976
+https://arxiv.org/abs/2511.23160
+https://arxiv.org/abs/2511.23161
+https://arxiv.org/abs/2511.23224
+https://arxiv.org/abs/2511.23240
+https://arxiv.org/abs/2511.23392
+https://arxiv.org/abs/2511.23438
+https://arxiv.org/abs/2511.23470
+* https://arxiv.org/abs/2511.23470 # Spectral analysis of the Koopman operator recovers Hamiltonian parameters in open quantum systems, Jorge E. Perez-Garcia, Carlos Colchero, Julio C. Gutierrez-Vega
+
 https://journals.aps.org/prxquantum/abstract/10.1103/wsnf-prwl
 https://journals.aps.org/prl/abstract/10.1103/sytq-kjbr
 https://journals.aps.org/prl/abstract/10.1103/jhd4-1khw
