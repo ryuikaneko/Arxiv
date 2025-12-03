@@ -1,5 +1,48 @@
 20251202
 
+https://arxiv.org/abs/2512.00168
+https://arxiv.org/abs/2512.00173
+* https://arxiv.org/abs/2512.00223 # Robust semiclassical magnetization plateau in the kagome lattice, Gabriel Capelo, Eric C. Andrade
+https://arxiv.org/abs/2512.00292
+https://arxiv.org/abs/2512.00382
+https://arxiv.org/abs/2512.00486
+https://arxiv.org/abs/2512.00613
+https://arxiv.org/abs/2512.00649
+https://arxiv.org/abs/2512.00664
+https://arxiv.org/abs/2512.00828
+
+https://arxiv.org/abs/2512.00863
+https://arxiv.org/abs/2512.00900
+https://arxiv.org/abs/2512.00950
+https://arxiv.org/abs/2512.00980
+* https://arxiv.org/abs/2512.01124 # Dynamics of superconducting pairs in the two-dimensional Hubbard model, G. Sordi, E. M. O'Callaghan, C. Walsh, M. Charlebois, P. Semon, A.-M. S. Tremblay
+* https://arxiv.org/abs/2512.01264 # Generalized Nagaoka ferromagnetism accompanied by flavor-selective Mott states in an SU(N) Fermi-Hubbard model, Juntaro Fujii, Kazuki Yamamoto, Akihisa Koga
+https://arxiv.org/abs/2512.01266
+https://arxiv.org/abs/2512.01395
+https://arxiv.org/abs/2512.01402
+https://arxiv.org/abs/2512.01448
+
+https://arxiv.org/abs/2512.01487
+https://arxiv.org/abs/2512.01674
+* https://arxiv.org/abs/2512.01772 # Quantum dynamics of monitored free fermions, Igor Poboiko, Alexander D. Mirlin
+* https://arxiv.org/abs/2512.01793 # Z2 Vortex Crystal Candidate in the Triangular S=1/2 Quantum Antiferromagnet, J. Nagl, K. Yu. Povarov, B. Duncan, C. Naeppi, D. Khalyavin, P. Manuel, F. Orlandi, J. Sourd, B. V. Schwarze, F. Husstedt, S. A. Zvyagin, O. Zaharko, P. Steffens, A. Hiess, D. Allan, S. Barnett, Z. Yan, S. Gvasaliya, A. Zheludev
+* https://arxiv.org/abs/2512.01815 # Anomalous Eigenstates of a Doped Hole in the Ising Antiferromagnet, Piotr Wrzosek, Krzysztof Wohlfeld, Eugene A. Demler, Annabelle Bohrdt, Fabian Grusdt
+https://arxiv.org/abs/2512.01863
+https://arxiv.org/abs/2512.01864
+https://arxiv.org/abs/2512.01869
+https://arxiv.org/abs/2512.01873
+https://arxiv.org/abs/2512.01874
+
+https://arxiv.org/abs/2512.01936
+* https://arxiv.org/abs/2512.01956 # Spontaneous Symmetry Breaking in Two-dimensional Long-range Heisenberg Model, Dingyun Yao, Tianning Xiao, Zhijie Fan, Youjin Deng
+https://arxiv.org/abs/2512.01994
+https://arxiv.org/abs/2512.00970
+https://arxiv.org/abs/2512.00984
+https://arxiv.org/abs/2512.00987
+https://arxiv.org/abs/2512.01142
+* https://arxiv.org/abs/2512.01317 # Data-Driven Learnability Transition of Measurement-Induced Entanglement, Dongheng Qian, Jing Wang
+https://arxiv.org/abs/2512.01394
+* https://arxiv.org/abs/2512.01645 # Antibunching in locally driven dissipative Lieb lattices, Alex Ferrier, Michal Matuszewski, Piotr Deuar, Marzena H. Szymanska
 
 https://journals.aps.org/prx/abstract/10.1103/hfkr-k2pw
 
