@@ -1,5 +1,14 @@
 20251202
 
+https://arxiv.org/abs/2512.00484
+https://arxiv.org/abs/2512.00751
+https://arxiv.org/abs/2512.00753
+https://arxiv.org/abs/2512.00843
+https://arxiv.org/abs/2512.01091
+https://arxiv.org/abs/2512.01590
+https://arxiv.org/abs/2512.01605
+https://arxiv.org/abs/2512.01120
+
 https://arxiv.org/abs/2512.00168
 https://arxiv.org/abs/2512.00173
 * https://arxiv.org/abs/2512.00223 # Robust semiclassical magnetization plateau in the kagome lattice, Gabriel Capelo, Eric C. Andrade
