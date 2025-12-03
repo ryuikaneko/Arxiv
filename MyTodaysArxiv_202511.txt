@@ -4,7 +4,7 @@ https://arxiv.org/abs/2512.00168
 https://arxiv.org/abs/2512.00173
 * https://arxiv.org/abs/2512.00223 # Robust semiclassical magnetization plateau in the kagome lattice, Gabriel Capelo, Eric C. Andrade
 https://arxiv.org/abs/2512.00292
-https://arxiv.org/abs/2512.00382
+* https://arxiv.org/abs/2512.00382 # Precise computation of universal corner entanglement entropy at 2+1 dimension: From Ising to Gaussian quantum critical points, Ben Lee-Yeung Ngai, Justin Tim-Lok Chau, Junchen Rong, Yuan Da Liao, Zi Yang Meng
 https://arxiv.org/abs/2512.00486
 https://arxiv.org/abs/2512.00613
 https://arxiv.org/abs/2512.00649
