@@ -4,29 +4,31 @@
 
 https://arxiv.org/abs/2512.02105
 https://arxiv.org/abs/2512.02064
-https://arxiv.org/abs/2512.02100
-https://arxiv.org/abs/2512.02150
+* https://arxiv.org/abs/2512.02100 # The measurement-induced phase transition in strongly disordered spin chains, Yicheng Tang, Pradip Kattel, Arijeet Pal, Emil A. Yuzbashyan, J. H. Pixley
+* https://arxiv.org/abs/2512.02150 # J1-J2 Triangular Lattice Antiferromagnet in a Magnetic Field, Anna Keselman, Xinyuan Xu, Hao Zhang, Cristian D. Batista, Oleg A. Starykh
 https://arxiv.org/abs/2512.02154
+https://arxiv.org/abs/2512.02732
+* https://arxiv.org/abs/2512.03031 # Information dynamics and symmetry breaking in generic monitored Z2-symmetric open quantum systems, Jacob Hauser, Ali Lavasani, Sagar Vijay, Matthew P. A. Fisher
 
 https://arxiv.org/abs/2512.02176
-https://arxiv.org/abs/2512.02234
+* https://arxiv.org/abs/2512.02234 # The O(N) Free-Scalar and Wilson-Fisher Conformal Field Theories on the Fuzzy Sphere, Wenhan Guo, Zheng Zhou, Tzu-Chieh Wei, Yin-Chen He
 https://arxiv.org/abs/2512.02242
 https://arxiv.org/abs/2512.02470
-https://arxiv.org/abs/2512.02755
+* https://arxiv.org/abs/2512.02755 # Reaching Sachdev-Ye-Kitaev physics by shaking the Hubbard model, Charles Creffield, Fernando Sols, Marco Schiro, Nathan Goldman
 https://arxiv.org/abs/2512.02762
 https://arxiv.org/abs/2512.02778
 https://arxiv.org/abs/2512.02930
-https://arxiv.org/abs/2512.02948
-https://arxiv.org/abs/2512.02962
+* https://arxiv.org/abs/2512.02948 # Universality Diagram of Phase Transitions in Long-range Statistical Systems, Tianning Xiao, Zhijie Fan, Youjin Deng
+* https://arxiv.org/abs/2512.02962 # Spinons and Spin-Charge Separation at the Deconfined Quantum Critical Point, Sibin Yang, Anders W. Sandvik
 
-https://arxiv.org/abs/2512.03032
-https://arxiv.org/abs/2512.02112
+* https://arxiv.org/abs/2512.03032 # Entanglement evolution from entangled multipodal states, Konstantinos Chalas, Pasquale Calabrese, Colin Rylands
+* https://arxiv.org/abs/2512.02112 # Observation of an anomaly in the statistics of Kibble-Zurek defects, Jan Balewski, Alexey Khudorozhkov, Siva Darbha, Omar A. Ashour, Fangli Liu, Ermal Rrapaj, Sheng-Tao Wang, Pedro L. S. Lopes, Katherine Klymko, Milan Kornjaca, Daan Camps
 https://arxiv.org/abs/2512.02123
 https://arxiv.org/abs/2512.02139
 https://arxiv.org/abs/2512.02254
 https://arxiv.org/abs/2512.02516
 https://arxiv.org/abs/2512.02618
-https://arxiv.org/abs/2512.02666
+* https://arxiv.org/abs/2512.02666 # Efficient Simulation of the 2D Hubbard Model via Hilbert Space-Filling Curve Mapping, Ashkan Abedi, Vittorio Giovannetti, Dario De Santis
 
 https://journals.aps.org/prb/abstract/10.1103/qz9c-m3z4
 https://journals.aps.org/prb/abstract/10.1103/8wbp-xxz1
