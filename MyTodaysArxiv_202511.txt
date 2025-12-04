@@ -2,6 +2,31 @@
 
 20251203
 
+https://arxiv.org/abs/2512.02066
+https://arxiv.org/abs/2512.02078
+https://arxiv.org/abs/2512.02081
+https://arxiv.org/abs/2512.02156
+https://arxiv.org/abs/2512.02493
+https://arxiv.org/abs/2512.02607
+https://arxiv.org/abs/2512.02619
+https://arxiv.org/abs/2512.02623
+* https://arxiv.org/abs/2512.02706 # Lectures on Quantum Field Theory on a Quantum Computer, Aninda Sinha, Ujjwal Basumatary
+https://arxiv.org/abs/2512.02721
+
+* https://arxiv.org/abs/2512.02749 # Minimal decomposition entropy and optimal representations of absolutely maximally entangled states, N Ramadas
+* https://arxiv.org/abs/2512.02753 # Observation of non-Hermitian many-body phase transition in a Rydberg-atom array, Yao-Wen Zhang, Biao Xu, Yijia Zhou, De-Sheng Xiang, Hao-Xiang Liu, Peng Zhou, Kuan Zhang, Ren Liao, Thomas Pohl, Weibin Li, Lin Li
+https://arxiv.org/abs/2512.02760
+https://arxiv.org/abs/2512.02809
+https://arxiv.org/abs/2512.02869
+https://arxiv.org/abs/2512.02934
+* https://arxiv.org/abs/2512.02976 # Many-body k-local ground states as probes for unitary quantum metrology, Majid Hassani, Mengyao Hu, Guillem Mueller-Rigat, Matteo Fadel, Jordi Tura
+https://arxiv.org/abs/2512.02996
+https://arxiv.org/abs/2512.03029
+* https://arxiv.org/abs/2512.02323 # Unlocking the Power of Boltzmann Machines by Parallelizable Sampler and Efficient Temperature Estimation, Kentaro Kubo, Hayato Goto
+
+* https://arxiv.org/abs/2512.02709 # Detection of Mpemba effect through good observables in open quantum systems, Pitambar Bagui, Arijit Chatterjee, Bijay Kumar Agarwalla
+https://arxiv.org/abs/2512.02775
+
 https://arxiv.org/abs/2512.02105
 https://arxiv.org/abs/2512.02064
 * https://arxiv.org/abs/2512.02100 # The measurement-induced phase transition in strongly disordered spin chains, Yicheng Tang, Pradip Kattel, Arijeet Pal, Emil A. Yuzbashyan, J. H. Pixley
