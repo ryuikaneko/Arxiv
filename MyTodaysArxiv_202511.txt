@@ -130,6 +130,8 @@ https://arxiv.org/abs/2512.01394
 * https://arxiv.org/abs/2512.01645 # Antibunching in locally driven dissipative Lieb lattices, Alex Ferrier, Michal Matuszewski, Piotr Deuar, Marzena H. Szymanska
 
 https://journals.aps.org/prx/abstract/10.1103/hfkr-k2pw
+https://journals.aps.org/prb/abstract/10.1103/rznn-xlgb
+https://journals.aps.org/prb/abstract/10.1103/tjnr-kqmk
 
 
 20251201
@@ -265,9 +267,6 @@ https://arxiv.org/abs/2511.20774
 https://journals.aps.org/prl/abstract/10.1103/pn99-6dxt
 https://journals.aps.org/prl/abstract/10.1103/by9g-5bkm
 https://journals.aps.org/prxquantum/abstract/10.1103/w23h-dhrk
-
-
-====
 
 
 20251126
