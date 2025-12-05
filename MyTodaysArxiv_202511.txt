@@ -2,6 +2,28 @@
 
 20251204
 
+https://arxiv.org/abs/2512.03093
+https://arxiv.org/abs/2512.03094
+https://arxiv.org/abs/2512.03099
+https://arxiv.org/abs/2512.03131
+https://arxiv.org/abs/2512.03135
+https://arxiv.org/abs/2512.03333
+https://arxiv.org/abs/2512.03423
+https://arxiv.org/abs/2512.03434
+https://arxiv.org/abs/2512.03457
+https://arxiv.org/abs/2512.03505
+
+https://arxiv.org/abs/2512.03583
+https://arxiv.org/abs/2512.03659
+https://arxiv.org/abs/2512.03735
+https://arxiv.org/abs/2512.03758
+https://arxiv.org/abs/2512.03769
+https://arxiv.org/abs/2512.03808
+https://arxiv.org/abs/2512.03984
+https://arxiv.org/abs/2512.04028
+https://arxiv.org/abs/2512.04066
+https://arxiv.org/abs/2512.03290
+
 * https://arxiv.org/abs/2512.03137 # Strain Response as a Probe of Spinons in Quantum Spin Liquids, Penghao Zhu, Archisman Panigrahi, Leonid Levitov, Nandini Trivedi
 * https://arxiv.org/abs/2512.03147 # alpha-RuCl3 intercalated into graphite: a new three-dimensional platform for exotic quantum phases, Aleksandar Razpopov, Shirin Mozaffari, Takahiro Matsuoka, Matthew Cothrine, Nan Huang, Roser Valenti, David Mandrus
 * https://arxiv.org/abs/2512.03148 # Proof that Momentum Mixing Hatsugai Kohmoto equals the Twisted Hubbard Model, Yuting Bai, Philip W. Phillips
