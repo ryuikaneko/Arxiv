@@ -1,5 +1,52 @@
 20251205
 
+https://arxiv.org/abs/2512.04150
+https://arxiv.org/abs/2512.04164
+
+https://arxiv.org/abs/2512.04174
+* https://arxiv.org/abs/2512.04180 # 2D Helical Twist Controls Tricritical Point in an Interacting Majorana Chain, Hekai Zhao, Philip Phillips
+https://arxiv.org/abs/2512.04201
+https://arxiv.org/abs/2512.04458
+https://arxiv.org/abs/2512.04509
+https://arxiv.org/abs/2512.04602
+* https://arxiv.org/abs/2512.04626 # Phase transitions on the dark side of the Gross-Neveu model, Gabriel Osiander Rein, Fakher F. Assaad, Igor F. Herbut
+* https://arxiv.org/abs/2512.04656 # Collective cluster nucleation dynamics in 2D Ising quantum magnets, Philip Osterholz, Fabio Bensch, Shuanghong Tang, Silpa Baburaj Sheela, Igor Lesanovsky, Christian Gross
+* https://arxiv.org/abs/2512.04708 # Superconductivity onset above 60 K in ambient-pressure nickelate films, Guangdi Zhou, Heng Wang, Haoliang Huang, Yaqi Chen, Fei Peng, Wei Lv, Zihao Nie, Wei Wang, Qi-Kun Xue, Zhuoyu Chen
+https://arxiv.org/abs/2512.04736
+
+* https://arxiv.org/abs/2512.04743 # Smeared phase transition in the dissipative random quantum Ashkin-Teller model, Pedro S. Farinas, Rajesh Narayanan, Jose A. Hoyos
+https://arxiv.org/abs/2512.04975
+https://arxiv.org/abs/2512.05057
+* https://arxiv.org/abs/2512.04155 # Dissipative Yao-Lee Spin-Orbital Model: Exact Solvability and PT Symmetry Breaking, Zihao Qi, Yuan Xue
+https://arxiv.org/abs/2512.04179
+https://arxiv.org/abs/2512.04447
+https://arxiv.org/abs/2512.04615
+* https://arxiv.org/abs/2512.04637 # Probing false vacuum decay and bubble nucleation in a Rydberg atom array, Yu-Xin Chao, Peiyun Ge, Zhen-Xing Hua, Chen Jia, Xiao Wang, Xinhui Liang, Zongpei Yue, Rong Lu, Meng Khoon Tey, Xiao Wang, Li You
+* https://arxiv.org/abs/2512.04663 # Fermionic neural Gibbs states, Jannes Nys, Juan Carrasquilla
+https://arxiv.org/abs/2512.05036
+
+* https://arxiv.org/abs/2512.05074 # Thermodynamic universality across dissipative quantum phase transitions, Laetitia P. Bettmann, Artur M. Lacerda, Mark T. Mitchison, John Goold
+https://arxiv.org/abs/2512.04169
+https://arxiv.org/abs/2512.04170
+https://arxiv.org/abs/2512.04171
+https://arxiv.org/abs/2512.04211
+https://arxiv.org/abs/2512.04216
+https://arxiv.org/abs/2512.04298
+https://arxiv.org/abs/2512.04494
+https://arxiv.org/abs/2512.04495
+https://arxiv.org/abs/2512.04497
+
+https://arxiv.org/abs/2512.04510
+https://arxiv.org/abs/2512.04577
+https://arxiv.org/abs/2512.04587
+https://arxiv.org/abs/2512.04649
+https://arxiv.org/abs/2512.04710
+https://arxiv.org/abs/2512.04801
+https://arxiv.org/abs/2512.04909
+https://arxiv.org/abs/2512.04962
+https://arxiv.org/abs/2512.05049
+https://arxiv.org/abs/2512.05058
+
 https://journals.aps.org/prx/abstract/10.1103/v7ny-fg31
 https://journals.aps.org/prb/abstract/10.1103/c954-z1pv
 https://journals.aps.org/prb/abstract/10.1103/ch8h-ysp5
