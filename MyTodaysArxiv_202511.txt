@@ -1,5 +1,22 @@
 20251208
 
+* https://arxiv.org/abs/2512.05151 # Quantum machine learning -- lecture notes, Bojan Zunkovic
+https://arxiv.org/abs/2512.05157
+https://arxiv.org/abs/2512.05204
+https://arxiv.org/abs/2512.05205
+* https://arxiv.org/abs/2512.05210 # A Framework for Quantum Simulations of Energy-Loss and Hadronization in Non-Abelian Gauge Theories: SU(2) Lattice Gauge Theory in 1+1D, Zhiyao Li, Marc Illa, Martin J. Savage
+https://arxiv.org/abs/2512.05237
+https://arxiv.org/abs/2512.05266
+https://arxiv.org/abs/2512.05322
+https://arxiv.org/abs/2512.05440
+https://arxiv.org/abs/2512.05451
+
+https://arxiv.org/abs/2512.05851
+https://arxiv.org/abs/2512.05241
+https://arxiv.org/abs/2512.05413
+https://arxiv.org/abs/2512.05475
+https://arxiv.org/abs/2512.05477
+
 https://arxiv.org/abs/2512.05129
 * https://arxiv.org/abs/2512.05393 # Interaction-Induced Breakdown of Anderson Localization: Thermodynamic Segregation disguised as the Skin Effect, Ali Tozar
 https://arxiv.org/abs/2512.05471
