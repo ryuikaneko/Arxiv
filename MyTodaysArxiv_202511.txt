@@ -1,3 +1,8 @@
+20251209
+
+https://journals.aps.org/pra/abstract/10.1103/614s-y4px
+
+
 20251208
 
 * https://arxiv.org/abs/2512.05151 # Quantum machine learning -- lecture notes, Bojan Zunkovic
