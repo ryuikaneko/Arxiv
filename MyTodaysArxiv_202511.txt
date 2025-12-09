@@ -1,5 +1,17 @@
 20251208
 
+https://arxiv.org/abs/2512.05129
+https://arxiv.org/abs/2512.05393
+https://arxiv.org/abs/2512.05471
+https://arxiv.org/abs/2512.05901
+https://arxiv.org/abs/2512.05956
+https://arxiv.org/abs/2412.00119
+https://arxiv.org/abs/2512.04189
+https://arxiv.org/abs/2512.05184
+https://arxiv.org/abs/2512.05185
+https://arxiv.org/abs/2512.05294
+* https://arxiv.org/abs/2512.05630 # Squeezing Classical Antiferromagnets into Quantum Spin Liquids via Global Cavity Fluctuations, Charlie-Ray Mann, Mark A. Oehlgrien, Blazej Jaworowski, Giuseppe Calajo, Jamir Marino, Kyung S. Choi, Darrick E. Chang
+
 https://journals.aps.org/prresearch/abstract/10.1103/9wnn-w8bg
 https://journals.aps.org/prb/abstract/10.1103/fszl-7g57
 https://journals.aps.org/prb/abstract/10.1103/f5k4-l93p
