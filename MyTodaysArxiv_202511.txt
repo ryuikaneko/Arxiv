@@ -1,14 +1,14 @@
 20251208
 
 https://arxiv.org/abs/2512.05129
-https://arxiv.org/abs/2512.05393
+* https://arxiv.org/abs/2512.05393 # Interaction-Induced Breakdown of Anderson Localization: Thermodynamic Segregation disguised as the Skin Effect, Ali Tozar
 https://arxiv.org/abs/2512.05471
 https://arxiv.org/abs/2512.05901
-https://arxiv.org/abs/2512.05956
+* https://arxiv.org/abs/2512.05956 # Minimal two band model and experimental proposals to distinguish pairing mechanisms of the high-Tc superconductor La3Ni2O7, Zheng-Duo Fan, Ashvin Vishwanath
 https://arxiv.org/abs/2412.00119
 https://arxiv.org/abs/2512.04189
-https://arxiv.org/abs/2512.05184
-https://arxiv.org/abs/2512.05185
+* https://arxiv.org/abs/2512.05184 # The deep Hilbert space of all-to-all interacting SU(3) atoms: from quantum to classical, Federico Balducci, Aleksandra A. Ziolkowska
+* https://arxiv.org/abs/2512.05185 # Investigating a Quantum-Inspired Method for Quantum Dynamics, Bo Xiao, Benedikt Kloss, E. Miles Stoudenmire
 https://arxiv.org/abs/2512.05294
 * https://arxiv.org/abs/2512.05630 # Squeezing Classical Antiferromagnets into Quantum Spin Liquids via Global Cavity Fluctuations, Charlie-Ray Mann, Mark A. Oehlgrien, Blazej Jaworowski, Giuseppe Calajo, Jamir Marino, Kyung S. Choi, Darrick E. Chang
 
