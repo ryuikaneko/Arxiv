@@ -1,5 +1,25 @@
 20251209
 
+https://arxiv.org/abs/2512.07811
+https://arxiv.org/abs/2512.07774
+https://arxiv.org/abs/2512.07744
+* https://arxiv.org/abs/2512.07742 # Strong zero modes in integrable spin-S chains, Fabian H.L. Essler, Paul Fendley, Eric Vernier
+https://arxiv.org/abs/2512.07659
+* https://arxiv.org/abs/2512.07625 # Boundary Criticality of Complex Conformal Field Theory: A Case Study in the Non-Hermitian 5-State Potts Model, Yin Tang, Qianyu Liu, Qicheng Tang, W. Zhu
+https://arxiv.org/abs/2512.07591
+https://arxiv.org/abs/2512.07465
+https://arxiv.org/abs/2512.07435
+https://arxiv.org/abs/2512.07274
+
+https://arxiv.org/abs/2512.07772
+https://arxiv.org/abs/2512.07272
+https://arxiv.org/abs/2512.07115
+https://arxiv.org/abs/2512.06518
+* https://arxiv.org/abs/2512.06322 # Kitaev Meets AKLT: Competing Quantum Disorder in Spin-3/2 Honeycomb Systems, Sogen Ikegami, Kiyu Fukui, Rico Pohle, Yukitoshi Motome
+https://arxiv.org/abs/2512.06100
+https://arxiv.org/abs/2512.07458
+https://arxiv.org/abs/2512.06762
+
 https://arxiv.org/abs/2512.06117
 https://arxiv.org/abs/2512.06157
 
