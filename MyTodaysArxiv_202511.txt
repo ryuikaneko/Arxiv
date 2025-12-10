@@ -1,5 +1,63 @@
 20251209
 
+https://arxiv.org/abs/2512.06117
+https://arxiv.org/abs/2512.06157
+
+https://arxiv.org/abs/2512.06170
+https://arxiv.org/abs/2512.06191
+https://arxiv.org/abs/2512.06263
+https://arxiv.org/abs/2512.06285
+https://arxiv.org/abs/2512.06295
+https://arxiv.org/abs/2512.06298
+https://arxiv.org/abs/2512.06311
+https://arxiv.org/abs/2512.06429
+https://arxiv.org/abs/2512.06484
+https://arxiv.org/abs/2512.06488
+
+https://arxiv.org/abs/2512.06523
+https://arxiv.org/abs/2512.06619
+https://arxiv.org/abs/2512.06707
+https://arxiv.org/abs/2512.06756
+https://arxiv.org/abs/2512.06760
+* https://arxiv.org/abs/2512.06775 # Quantum Mpemba effect in long-ranged U(1)-symmetric random circuits, Han-Ze Li, Ching Hua Lee, Shuo Liu, Shi-Xin Zhang, Jian-Xin Zhong
+https://arxiv.org/abs/2512.06858
+https://arxiv.org/abs/2512.07007
+https://arxiv.org/abs/2512.07045
+https://arxiv.org/abs/2512.07048
+
+https://arxiv.org/abs/2512.07108
+https://arxiv.org/abs/2512.07127
+https://arxiv.org/abs/2512.07131
+https://arxiv.org/abs/2512.07182
+https://arxiv.org/abs/2512.07250
+https://arxiv.org/abs/2512.07264
+https://arxiv.org/abs/2512.07311
+https://arxiv.org/abs/2512.07319
+https://arxiv.org/abs/2512.07325
+https://arxiv.org/abs/2512.07468
+
+* https://arxiv.org/abs/2512.07561 # Exponentially accelerated relaxation and quantum Mpemba effect in open quantum systems, Emerson Lima Caldas, Diego Paiva Pires
+https://arxiv.org/abs/2512.07656
+https://arxiv.org/abs/2512.07737
+https://arxiv.org/abs/2512.07808
+https://arxiv.org/abs/2512.07822
+https://arxiv.org/abs/2512.06310
+https://arxiv.org/abs/2512.06630
+* https://arxiv.org/abs/2512.06691 # Spurious Strange Correlators in Symmetry-Protected Topological Phases, Wei-Liang Gao, Jie-Yu Zhang, Zheng-Xin Liu, Peng Ye
+https://arxiv.org/abs/2512.06722
+* https://arxiv.org/abs/2512.06768 # Real-Time Dynamics in Two Dimensions with Tensor Network States via Time-Dependent Variational Monte Carlo, Yantao Wu
+
+https://arxiv.org/abs/2512.06851
+https://arxiv.org/abs/2512.07016
+https://arxiv.org/abs/2512.07220
+https://arxiv.org/abs/2512.07484
+https://arxiv.org/abs/2512.07632
+* https://arxiv.org/abs/2512.07648 # Robustness of flat band superconductivity against disorder in a two-dimensional Lieb lattice model, Georges Bouzerar, Maxime Thumin
+https://arxiv.org/abs/2512.07715
+https://arxiv.org/abs/2512.07800
+https://arxiv.org/abs/2512.07809
+https://arxiv.org/abs/2512.06000
+
 https://journals.aps.org/pra/abstract/10.1103/614s-y4px
 https://journals.aps.org/prx/abstract/10.1103/9ynf-xx1t
 https://journals.aps.org/prb/abstract/10.1103/cv3q-5l8w
