@@ -1,16 +1,16 @@
 20251210
 
 https://arxiv.org/abs/2512.07916
-https://arxiv.org/abs/2512.07923
+* https://arxiv.org/abs/2512.07923 # Environment-matrix-product operator for boundary-free large-scale quantum many-body simulations, Souta Shimozono, Chisa Hotta
 
 https://arxiv.org/abs/2512.07932
-https://arxiv.org/abs/2512.07947
+* https://arxiv.org/abs/2512.07947 # Quantum Geometry Driven Crystallization: A Neural-Network Variational Monte Carlo Study, Agnes Valenti, Yaar Vituri, Yubo Yang, Daniel E. Parker, Tomohiro Soejima, Junkai Dong, Miguel A. Morales, Ashvin Vishwanath, Erez Berg, Shiwei Zhang
 https://arxiv.org/abs/2512.07980
 https://arxiv.org/abs/2512.08011
 https://arxiv.org/abs/2512.08156
-https://arxiv.org/abs/2512.08222
+* https://arxiv.org/abs/2512.08222 # Direct Generation of an Array with 78400 Optical Tweezers Using a Single Metasurface, Yuqing Wang, Yuxuan Liao, Tao Zhang, Ye Tian, Yujia Wu, Wenjun Zhang, Wei Zhang, Yidong Huang, Hui Zhai, Wenlan Chen, Xue Feng, Zhongchi Zhang
 https://arxiv.org/abs/2512.08239
-https://arxiv.org/abs/2512.08251
+* https://arxiv.org/abs/2512.08251 # Finite-Temperature ab initio Structural Optimization of the Bilayer Nickelate Superconductor La3Ni2O7, Ryoma Asai, Ryotaro Arita, Takumi Chida, Ryota Masuki, Kazuhiko Kuroki, Terumasa Tadano
 https://arxiv.org/abs/2512.08276
 https://arxiv.org/abs/2512.08370
 
