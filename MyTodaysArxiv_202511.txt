@@ -1,18 +1,56 @@
 20251210
 
+https://arxiv.org/abs/2512.07916
+https://arxiv.org/abs/2512.07923
+
+https://arxiv.org/abs/2512.07932
+https://arxiv.org/abs/2512.07947
+https://arxiv.org/abs/2512.07980
+https://arxiv.org/abs/2512.08011
+https://arxiv.org/abs/2512.08156
+https://arxiv.org/abs/2512.08222
+https://arxiv.org/abs/2512.08239
+https://arxiv.org/abs/2512.08251
+https://arxiv.org/abs/2512.08276
+https://arxiv.org/abs/2512.08370
+
+https://arxiv.org/abs/2512.08396
+https://arxiv.org/abs/2512.08421
+https://arxiv.org/abs/2512.08514
+https://arxiv.org/abs/2512.08527
+https://arxiv.org/abs/2512.08553
+* https://arxiv.org/abs/2512.08624 # Operator Lanczos Approach enabling Neural Quantum States as Real-Frequency Impurity Solvers, Jonas B. Rigo, Markus Schmitt
+https://arxiv.org/abs/2512.08634
+https://arxiv.org/abs/2512.08691
+https://arxiv.org/abs/2512.08712
+* https://arxiv.org/abs/2512.08768 # Triangular J1-J2 Heisenberg Antiferromagnet in a Magnetic Field, Thomas Bader, Shi Feng, Sasank Budaraju, Federico Becca, Johannes Knolle, Frank Pollmann
+
+* https://arxiv.org/abs/2512.08784 # Dominant Excitonic Superconductivity in a Three-component Hubbard Chain, Sheng Chen, Qiao Yang, Wei Wu, Fadi Sun
+* https://arxiv.org/abs/2512.05440 # Concentrated Monte Carlo sampling for local observables in quantum spin chains, Wenxuan Zhang, Dingzu Wang, Dario Poletti
+https://arxiv.org/abs/2512.07974
+https://arxiv.org/abs/2512.08023
+https://arxiv.org/abs/2512.07871
+https://arxiv.org/abs/2512.07902
+https://arxiv.org/abs/2512.07906
+https://arxiv.org/abs/2512.07908
+https://arxiv.org/abs/2512.07918
+* https://arxiv.org/abs/2512.07966 # Measurement-and Feedback-Driven Non-Equilibrium Phase Transitions on a Quantum Processor, Zhiyi Wu, Xuandong Sun, Songlei Wang, Jiawei Zhang, Xiaohan Yang, Ji Chu, Jingjing Niu, Youpeng Zhong, Xiao Chen, Zhi-Cheng Yang, Dapeng Yu
+
 https://arxiv.org/abs/2512.08279
 https://arxiv.org/abs/2512.08293
 https://arxiv.org/abs/2512.08318
 https://arxiv.org/abs/2512.08432
 https://arxiv.org/abs/2512.08433
-https://arxiv.org/abs/2512.08565
+* https://arxiv.org/abs/2512.08565 # Quantum simulation in the entanglement picture, D.-S. Wang, X. Xu, Y.-D. Liu
 https://arxiv.org/abs/2512.08675
-https://arxiv.org/abs/2512.08687
-https://arxiv.org/abs/2512.08709
+* https://arxiv.org/abs/2512.08687 # Non-Hermitian symmetry breaking and Lee-Yang theory for quantum XYZ and clock models, Tian-Yi Gu, Gaoyong Sun
+* https://arxiv.org/abs/2512.08709 # Geometry-driven transitions in sparse long-range spin models with cold atoms, Alex Gunning, Aydin Deger, Sridevi Kuriyattil, Andrew J. Daley
 https://arxiv.org/abs/2512.07875
 
 https://journals.aps.org/pra/abstract/10.1103/s3qz-xdgp
 https://journals.aps.org/pra/abstract/10.1103/9mfk-gg3x
+https://journals.aps.org/prb/abstract/10.1103/zkn9-5n6n
+https://journals.aps.org/prb/abstract/10.1103/8y2v-kx2w
 
 
 20251209
