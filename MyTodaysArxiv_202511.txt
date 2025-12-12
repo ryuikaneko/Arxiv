@@ -1,11 +1,55 @@
+20251212
+
+
 20251211
+
+https://arxiv.org/abs/2512.09025
+https://arxiv.org/abs/2512.09029
+https://arxiv.org/abs/2512.09039
+https://arxiv.org/abs/2512.09107
+https://arxiv.org/abs/2512.09252
+* https://arxiv.org/abs/2512.09256 # Observation of ubiquitous charge correlations and hidden quantum critical point in hole-doped kagome superconductors, Ilija K. Nikolov, Giuseppe Allodi, Adrien Rosuel, Ginevra Corsale, Anshu Kataria, Pietro Bonfa, Roberto De Renzi, Andrea Capa Salinas, Stephen D. Wilson, Marc-Henri Julien, Samuele Sanna, Vesna F. Mitrovic
+
+https://arxiv.org/abs/2512.09314
+https://arxiv.org/abs/2512.09494
+https://arxiv.org/abs/2512.09520
+https://arxiv.org/abs/2512.09693
+https://arxiv.org/abs/2512.09753
+https://arxiv.org/abs/2512.09865
+* https://arxiv.org/abs/2512.09926 # Connecting single-layer t-J to Kondo lattice models: Exploration with cold atoms, Hannah Lange, Eugene Demler, Jan von Delft, Annabelle Bohrdt, Fabian Grusdt
+* https://arxiv.org/abs/2512.09037 # Slow dynamics and magnon bound states in the 2D long-range quantum Ising model, Vighnesh Dattatraya Naik, Markus Heyl
+* https://arxiv.org/abs/2512.09040 # Optimizing the dynamical preparation of quantum spin lakes on the ruby lattice, DinhDuy Vu, Dominik S. Kufel, Jack Kemp, Lode Pollet, Chris R. Laumann, Norman Y. Yao
+https://arxiv.org/abs/2512.09370
+
+https://arxiv.org/abs/2512.09870
+https://arxiv.org/abs/2512.09007
+https://arxiv.org/abs/2512.09100
+https://arxiv.org/abs/2512.09137
+https://arxiv.org/abs/2512.09144
+https://arxiv.org/abs/2512.09189
+https://arxiv.org/abs/2512.09236
+https://arxiv.org/abs/2512.09324
+https://arxiv.org/abs/2512.09362
+* https://arxiv.org/abs/2512.09849 # Programmable Assembly of Ground State Fermionic Tweezer Arrays, Naman Jain, Jin Zhang, Marcus Culemann, Philipp M. Preiss
+
+https://arxiv.org/abs/2407.03576
+https://arxiv.org/abs/2512.09469
+https://arxiv.org/abs/2512.09640
+https://arxiv.org/abs/2512.09648
+https://arxiv.org/abs/2512.09745
+https://arxiv.org/abs/2512.09834
+https://arxiv.org/abs/2512.09856
+https://arxiv.org/abs/2512.09863
+https://arxiv.org/abs/2512.09502
+https://arxiv.org/abs/2512.09547
 
 https://journals.aps.org/pra/abstract/10.1103/jt4c-lk7f
 https://journals.aps.org/pra/abstract/10.1103/rwln-wbs1
 https://journals.aps.org/pra/abstract/10.1103/bl58-878c
-
-
-====
+https://journals.aps.org/prb/abstract/10.1103/f26s-mjh2
+https://journals.aps.org/pre/abstract/10.1103/s4zw-qt8f
+https://journals.aps.org/prl/abstract/10.1103/h7ws-g9z2
+https://journals.aps.org/prl/abstract/10.1103/cjys-fx46
 
 
 20251210
