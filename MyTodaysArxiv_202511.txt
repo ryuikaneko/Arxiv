@@ -1,6 +1,52 @@
 20251212
 
+https://arxiv.org/abs/2512.09962
+https://arxiv.org/abs/2512.10010
+https://arxiv.org/abs/2512.10096
 
+https://arxiv.org/abs/2512.10216
+https://arxiv.org/abs/2512.10577
+https://arxiv.org/abs/2512.10591
+* https://arxiv.org/abs/2512.10642 # Stability of the symmetry-protected topological phase and Ising transitions in a disordered U(1) quantum link model on a ladder, Mykhailo V. Rakov, Luca Tagliacozzo, Maciej Lewenstein, Jakub Zakrzewski, Titas Chanda
+https://arxiv.org/abs/2512.10714
+* https://arxiv.org/abs/2512.10847 # Large Language Models for Superconductor Discovery, Suman Itani, Yibo Zhang, Ranjit Itani, Jiadong Zang
+* https://arxiv.org/abs/2512.10909 # Electronic crystals and quasicrystals in semiconductor quantum wells: an AI-powered discovery, Filippo Gaggioli, Pierre-Antoine Graham, Liang Fu
+https://arxiv.org/abs/2512.10914
+https://arxiv.org/abs/2512.10944
+https://arxiv.org/abs/2512.10047
+
+https://arxiv.org/abs/2512.10146
+https://arxiv.org/abs/2512.10400
+https://arxiv.org/abs/2512.10484
+https://arxiv.org/abs/2512.10704
+https://arxiv.org/abs/2512.10843
+* https://arxiv.org/abs/2512.10910 # Partitioned Expansions for Approximate Tensor Network Contractions, Glen Evenbly, Johnnie Gray, Garnet Kin-Lic Chan
+* https://arxiv.org/abs/2512.09999 # Deep Thermalization and Measurements of Quantum Resources, Naga Dileep Varikuti, Soumik Bandyopadhyay, Philipp Hauke
+https://arxiv.org/abs/2512.10000
+https://arxiv.org/abs/2512.10144
+https://arxiv.org/abs/2512.10153
+
+https://arxiv.org/abs/2512.10225
+https://arxiv.org/abs/2512.10247
+https://arxiv.org/abs/2512.10432
+* https://arxiv.org/abs/2512.10504 # Tianyan: Cloud services with quantum advantage, Tianyan Quantum Group
+https://arxiv.org/abs/2512.10541
+https://arxiv.org/abs/2512.10643
+https://arxiv.org/abs/2512.10670
+https://arxiv.org/abs/2512.10703
+https://arxiv.org/abs/2512.10706
+https://arxiv.org/abs/2512.10722
+
+https://arxiv.org/abs/2512.10814
+* https://arxiv.org/abs/2512.10875 # Multiple-time Quantum Imaginary Time Evolution, Julio Del Castillo, Mats Granath, Evert van Nieuwenburg
+https://arxiv.org/abs/2512.10884
+https://arxiv.org/abs/2512.10921
+https://arxiv.org/abs/2512.10929
+https://arxiv.org/abs/2512.09982
+https://arxiv.org/abs/2512.10091
+https://arxiv.org/abs/2512.10126
+https://arxiv.org/abs/2512.10410
+https://arxiv.org/abs/2512.10755
 
 https://journals.aps.org/prxquantum/abstract/10.1103/8l5g-x3b7
 https://journals.aps.org/prd/abstract/10.1103/frty-lwz7
