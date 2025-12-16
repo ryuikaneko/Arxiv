@@ -1,5 +1,31 @@
 20251215
 
+https://arxiv.org/abs/2512.11073
+https://arxiv.org/abs/2512.11077
+https://arxiv.org/abs/2512.11084
+
+https://arxiv.org/abs/2512.11088
+https://arxiv.org/abs/2512.11100
+https://arxiv.org/abs/2512.11137
+https://arxiv.org/abs/2512.11190
+https://arxiv.org/abs/2512.11214
+* https://arxiv.org/abs/2512.11314 # Spatiotemporal scales of dynamical quantum phase transitions in the Bose-Hubbard model, Jia Li, Yajiang Hao
+* https://arxiv.org/abs/2512.11329 # Spectroscopic evidences for the spontaneous symmetry breaking at the SO(5) deconfined critical point of J-Q3 model, Shutao Liu, Yan Liu, Chengkang Zhou, Zhe Wang, Jie Lou, Changle Liu, Zheng Yan, Yan Chen
+https://arxiv.org/abs/2512.11494
+https://arxiv.org/abs/2512.11513
+https://arxiv.org/abs/2512.11579
+
+https://arxiv.org/abs/2512.11615
+https://arxiv.org/abs/2512.11623
+* https://arxiv.org/abs/2512.11670 # 2kF instability and chiral spin density wave at the 1/9 magnetization plateau in the kagome antiferromagnets, Tanja Duric, Pinaki Sengupta
+* https://arxiv.org/abs/2512.11093 # Universal and non-universal facets of quantum critical phenomena unveiled along the Schmidt decomposition theorem, Samuel M. Soares, Lucas Squillante, Henrique S. Lima, Constantino Tsallis, Mariano de Souza
+* https://arxiv.org/abs/2512.11118 # Network-Irreducible Multiparty Entanglement in Quantum Matter, Liuke Lyu, Pedro Lauand, William Witczak-Krempa
+https://arxiv.org/abs/2512.11533
+https://arxiv.org/abs/2512.11562
+* https://arxiv.org/abs/2512.11632 # Basis dependence of Neural Quantum States for the Transverse Field Ising Model, Ronald Santiago Cortes, Aravindh S. Shankar, Marcello Dalmonte, Roberto Verdel, Nils Niggemann
+* https://arxiv.org/abs/2512.11767 # Learning Minimal Representations of Fermionic Ground States, Felix Frohnert, Emiel Koridon, Stefano Polla
+* https://arxiv.org/abs/2512.11788 # Quantum Krylov algorithm using unitary decomposition for exact eigenstates of fermionic systems using quantum computers, Ayush Asthana
+
 https://journals.aps.org/prb/abstract/10.1103/9w4w-7phz
 https://journals.aps.org/prb/abstract/10.1103/gtfr-nblw
 https://journals.aps.org/prb/abstract/10.1103/1mc9-xqhy
@@ -7,9 +33,6 @@ https://journals.aps.org/prb/abstract/10.1103/kts3-81nk
 https://journals.aps.org/prb/abstract/10.1103/vm7k-yj1n
 https://journals.aps.org/prb/abstract/10.1103/3nvj-g539
 https://journals.aps.org/prresearch/abstract/10.1103/ggsm-bwwy
-
-
-====
 
 
 20251212
