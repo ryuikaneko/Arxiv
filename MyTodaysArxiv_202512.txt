@@ -22,7 +22,7 @@ https://arxiv.org/abs/2512.11522
 https://arxiv.org/abs/2512.11757
 https://arxiv.org/abs/2512.11091
 
-https://arxiv.org/abs/2512.11216
+* https://arxiv.org/abs/2512.11216 # Symmetry-protected topological scar subspaces, Chihiro Matsui, Thomas Quella, Naoto Tsuji
 https://arxiv.org/abs/2512.11307
 https://arxiv.org/abs/2512.11462
 https://arxiv.org/abs/2512.11466
