@@ -6,7 +6,7 @@
 
 https://arxiv.org/abs/2512.11932
 https://arxiv.org/abs/2512.11938
-https://arxiv.org/abs/2512.12010
+* https://arxiv.org/abs/2512.12010 # Convergence of the Cumulant Expansion and Polynomial-Time Algorithm for Weakly Interacting Fermions, Hongrui Chen, Cambyse Rouze, Jielun Chen, Jiaqing Jiang, Samuel O. Scalet, Yongtao Zhan, Garnet Kin-Lic Chan, Lexing Ying, Yu Tong
 https://arxiv.org/abs/2512.12030
 https://arxiv.org/abs/2512.12068
 https://arxiv.org/abs/2512.12073
@@ -24,9 +24,9 @@ https://arxiv.org/abs/2512.13274
 https://arxiv.org/abs/2512.13379
 https://arxiv.org/abs/2512.13401
 https://arxiv.org/abs/2512.13502
-https://arxiv.org/abs/2512.13509
+* https://arxiv.org/abs/2512.13509 # Unraveling the Quantum Mpemba Effect on Markovian Open Quantum Systems, Rodrigo F. Saliba, Raphael C. Drumond
 
-https://arxiv.org/abs/2512.13548
+* https://arxiv.org/abs/2512.13548 # Tensor Network Formulation of Dequantized Algorithms for Ground State Energy Estimation, Hidetaka Manabe, Takanori Sugimoto, Keisuke Fujii
 https://arxiv.org/abs/2512.13549
 https://arxiv.org/abs/2512.13348
 https://arxiv.org/abs/2512.13661
