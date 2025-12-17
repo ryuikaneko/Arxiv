@@ -1,39 +1,43 @@
+20251217
+
+
+
 20251216
 
 https://arxiv.org/abs/2512.12312
 https://arxiv.org/abs/2512.11953
-https://arxiv.org/abs/2512.11962
+* https://arxiv.org/abs/2512.11962 # Attention-Based Foundation Model for Quantum States, Timothy Zaklama, Daniele Guerci, Liang Fu
 https://arxiv.org/abs/2512.12037
-https://arxiv.org/abs/2512.12085
+* https://arxiv.org/abs/2512.12085 # Kardar-Parisi-Zhang and glassy properties in 2D Anderson localization: eigenstates and wave packets, Noam Izem, Bertrand Georgeot, Jiangbin Gong, Gabriel Lemarie, Sen Mu
 https://arxiv.org/abs/2512.12100
 https://arxiv.org/abs/2512.12104
 https://arxiv.org/abs/2512.12234
-https://arxiv.org/abs/2512.12364
-https://arxiv.org/abs/2512.12570
+* https://arxiv.org/abs/2512.12364 # Interaction-assisted topological pumping in few- and many-atom Rydberg arrays, Chenxi Huang, Tao Chen, Qian Liang, Matthew A. Krebs, Ethan Springhorn, Ruiyu Li, Mingsheng Tian, Kaden R. A. Hazzard, Jacob P. Covey, Bryce Gadway
+* https://arxiv.org/abs/2512.12570 # Strain-induced quantum oscillation in Kitaev spin liquid with Majorana-Fermi surface, Takayuki Yokoyama, Yasuhiro Tada
 
 https://arxiv.org/abs/2512.12640
 https://arxiv.org/abs/2512.12695
-https://arxiv.org/abs/2512.12734
+* https://arxiv.org/abs/2512.12734 # Discriminating Gap Symmetries of Superconducting La3Ni2O7, Zhan Wang, Yuxin Wang, Kun Jiang, Jiangping Hu, Fu-Chun Zhang
 https://arxiv.org/abs/2512.12753
 https://arxiv.org/abs/2512.12913
 https://arxiv.org/abs/2512.12956
 https://arxiv.org/abs/2512.13065
 https://arxiv.org/abs/2512.13280
 https://arxiv.org/abs/2512.13418
-https://arxiv.org/abs/2512.12071
+* https://arxiv.org/abs/2512.12071 # Proof of Spin-Statistics Theorem in Quantum Mechanics of Identical Particles, Takafumi Kita
 
-https://arxiv.org/abs/2512.13490
+* https://arxiv.org/abs/2512.13490 # Generation of chirality and orbital magnetization by Stone-Wales-type lattice defects in the Kitaev spin liquid, Arnab Seth, Fay Borhani, Itamar Kimchi
 https://arxiv.org/abs/2512.13512
-https://arxiv.org/abs/2512.13546
+* https://arxiv.org/abs/2512.13546 # Magnetic order and novel quantum criticality in the strongly interacting quasicrystals, Cong Zhang, Yin-Kai Yu, Shao-Hang Shi, Zi-Xiang Li
 https://arxiv.org/abs/2512.13588
 https://arxiv.org/abs/2512.11935
-https://arxiv.org/abs/2512.11967
+* https://arxiv.org/abs/2512.11967 # Holographic Representation of One-Dimensional Many-Body Quantum States via Isometric Tensor Networks, Kaito Kobayashi, Benjamin Sappler, Frank Pollmann
 https://arxiv.org/abs/2512.13431
-https://arxiv.org/abs/2512.13103
+* https://arxiv.org/abs/2512.13103 # Autoregressive Neural Network Extrapolation of Quantum Spin Dynamics Across Time and Space, Hubert Pugzlys, Shreyas Varude, Sam Dillon, Huy Tran, Ta Tang, Zhe Jiang, Xuzhe Ying, Chunjing Jia
 https://arxiv.org/abs/2512.13242
 https://arxiv.org/abs/2512.13112
 
-https://arxiv.org/abs/2512.11968
+* https://arxiv.org/abs/2512.11968 # Uniform matrix product states with a boundary, Marta Florido-Llinas, Alvaro M. Alhambra, David Perez-Garcia, J. Ignacio Cirac
 https://arxiv.org/abs/2512.11970
 https://arxiv.org/abs/2512.12124
 https://arxiv.org/abs/2512.12321
@@ -42,7 +46,7 @@ https://arxiv.org/abs/2512.12866
 https://arxiv.org/abs/2512.13044
 https://arxiv.org/abs/2512.13110
 https://arxiv.org/abs/2512.13121
-https://arxiv.org/abs/2512.13143
+* https://arxiv.org/abs/2512.13143 # Quantum critical dynamics and emergent universality in decoherent digital quantum processors, Brendan Rhyno, Swarnadeep Majumder, Smitha Vishveshwara, Khadijeh Najafi
 
 https://arxiv.org/abs/2512.13252
 https://arxiv.org/abs/2512.13550
