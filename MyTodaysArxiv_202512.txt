@@ -4,6 +4,33 @@
 
 20251216
 
+https://arxiv.org/abs/2512.11932
+https://arxiv.org/abs/2512.11938
+https://arxiv.org/abs/2512.12010
+https://arxiv.org/abs/2512.12030
+https://arxiv.org/abs/2512.12068
+https://arxiv.org/abs/2512.12073
+https://arxiv.org/abs/2512.12094
+https://arxiv.org/abs/2512.12097
+https://arxiv.org/abs/2512.12504
+https://arxiv.org/abs/2512.12512
+
+https://arxiv.org/abs/2512.12518
+https://arxiv.org/abs/2512.12578
+https://arxiv.org/abs/2512.12647
+https://arxiv.org/abs/2512.13138
+https://arxiv.org/abs/2512.13140
+https://arxiv.org/abs/2512.13274
+https://arxiv.org/abs/2512.13379
+https://arxiv.org/abs/2512.13401
+https://arxiv.org/abs/2512.13502
+https://arxiv.org/abs/2512.13509
+
+https://arxiv.org/abs/2512.13548
+https://arxiv.org/abs/2512.13549
+https://arxiv.org/abs/2512.13348
+https://arxiv.org/abs/2512.13661
+
 https://arxiv.org/abs/2512.12312
 https://arxiv.org/abs/2512.11953
 * https://arxiv.org/abs/2512.11962 # Attention-Based Foundation Model for Quantum States, Timothy Zaklama, Daniele Guerci, Liang Fu
