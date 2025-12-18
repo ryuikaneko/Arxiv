@@ -13,6 +13,27 @@ https://journals.aps.org/pra/abstract/10.1103/1pbj-7w8q
 
 20251217
 
+https://arxiv.org/abs/2512.13722
+https://arxiv.org/abs/2512.13745
+https://arxiv.org/abs/2512.13774
+https://arxiv.org/abs/2512.13887
+* https://arxiv.org/abs/2512.13908 # Magic state cultivation on a superconducting quantum processor
+https://arxiv.org/abs/2512.14181
+* https://arxiv.org/abs/2512.14208 # Quantum Machine Learning for Climate Modelling, Mierk Schwabe, Lorenzo Pastori, Valentina Sarandrea, Veronika Eyring
+https://arxiv.org/abs/2512.14255
+https://arxiv.org/abs/2512.14280
+https://arxiv.org/abs/2512.14415
+
+https://arxiv.org/abs/2512.14449
+https://arxiv.org/abs/2512.14513
+https://arxiv.org/abs/2512.14521
+https://arxiv.org/abs/2512.14528
+https://arxiv.org/abs/2512.14543
+https://arxiv.org/abs/2512.14552
+https://arxiv.org/abs/2512.14566
+https://arxiv.org/abs/2512.14582
+https://arxiv.org/abs/2512.14583
+
 https://arxiv.org/abs/2512.13777
 https://arxiv.org/abs/2512.13761
 https://arxiv.org/abs/2512.13786
