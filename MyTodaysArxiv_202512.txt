@@ -1,5 +1,59 @@
 20251218
 
+https://arxiv.org/abs/2512.14701
+https://arxiv.org/abs/2512.14819
+https://arxiv.org/abs/2512.14831
+https://arxiv.org/abs/2512.14834
+https://arxiv.org/abs/2512.14984
+https://arxiv.org/abs/2512.15001
+https://arxiv.org/abs/2512.15072
+* https://arxiv.org/abs/2512.15100 # Exponential convergence dynamics in Grover's search algorithm, Samuel Cogan, Jonathan Raghoonanan, Tim Byrnes
+https://arxiv.org/abs/2512.15330
+https://arxiv.org/abs/2512.15349
+
+https://arxiv.org/abs/2512.15428
+https://arxiv.org/abs/2512.15611
+https://arxiv.org/abs/2512.15655
+https://arxiv.org/abs/2512.15661
+https://arxiv.org/abs/2512.15686
+https://arxiv.org/abs/2512.15690
+https://arxiv.org/abs/2512.14820
+
+https://arxiv.org/abs/2512.14843
+https://arxiv.org/abs/2512.14850
+https://arxiv.org/abs/2512.14868
+https://arxiv.org/abs/2512.14993
+* https://arxiv.org/abs/2512.15023 # Pair-density-wave superconductivity and Anderson's theorem in bilayer nickelates, Hanbit Oh, Ya-Hui Zhang
+https://arxiv.org/abs/2512.15041
+https://arxiv.org/abs/2512.15090
+https://arxiv.org/abs/2512.15093
+https://arxiv.org/abs/2512.15106
+https://arxiv.org/abs/2512.15256
+
+https://arxiv.org/abs/2512.15366
+https://arxiv.org/abs/2512.15417
+https://arxiv.org/abs/2512.15437
+* https://arxiv.org/abs/2512.15537 # Anomalous Dynamical Scaling at Topological Quantum Criticality, Menghua Deng, Chen Sun, Fuxiang Li, Xue-Jia Yu
+https://arxiv.org/abs/2512.15572
+https://arxiv.org/abs/2512.15580
+https://arxiv.org/abs/2512.15619
+https://arxiv.org/abs/2512.15623
+* https://arxiv.org/abs/2512.15714 # Large Isolated Stripes on Short 18-leg t-J Cylinders, Tizian Blatz, Sebastian Paeckel, Ulrich Schollwoeck, Fabian Grusdt, Annabelle Bohrdt
+* https://arxiv.org/abs/2512.14827 # Growth and spreading of quantum resources under random circuit dynamics, Sreemayee Aditya, Xhek Turkeshi, Piotr Sierant
+
+* https://arxiv.org/abs/2512.14830 # Strong-to-weak symmetry breaking in monitored dipole conserving quantum circuits, Caterina Zerba, Sarang Gopalakrishnan, Michael Knap
+* https://arxiv.org/abs/2512.14833 # The fermion sign problem in Gauss law sectors of quantum link models with dynamical matter, Pallabi Dey, Debasish Banerjee, Emilie Huffman
+https://arxiv.org/abs/2512.14842
+https://arxiv.org/abs/2512.14973
+https://arxiv.org/abs/2512.15046
+https://arxiv.org/abs/2512.15130
+* https://arxiv.org/abs/2512.15223 # Quantum Mpemba effect in Local Gauge Symmetry Restoration, Hao-Yue Qi, Wei Zheng
+https://arxiv.org/abs/2512.15297
+https://arxiv.org/abs/2512.15333
+https://arxiv.org/abs/2512.15427
+
+https://arxiv.org/abs/2512.15567
+
 https://journals.aps.org/prl/abstract/10.1103/tmvy-vsqd
 https://journals.aps.org/prl/abstract/10.1103/6lkq-8626
 https://journals.aps.org/prl/abstract/10.1103/jr7l-2cfb
