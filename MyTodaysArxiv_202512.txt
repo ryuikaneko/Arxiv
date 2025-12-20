@@ -1,5 +1,68 @@
 20251219
 
+https://arxiv.org/abs/2512.15772
+https://arxiv.org/abs/2512.15851
+https://arxiv.org/abs/2512.15859
+* https://arxiv.org/abs/2512.15868 # Classifying one-dimensional Floquet phases through two-dimensional topological order, Campbell McLauchlan, Vedant Motamarri, Benjamin Beri
+* https://arxiv.org/abs/2512.15872 # Extracting Anyon Statistics from Neural Network Fractional Quantum Hall States, Andres Perez Fadon, David Pfau, James S. Spencer, Wan Tong Lou, Titus Neupert, W. M. C. Foulkes
+https://arxiv.org/abs/2512.16025
+https://arxiv.org/abs/2512.16031
+
+https://arxiv.org/abs/2512.16050
+* https://arxiv.org/abs/2512.16131 # Recent progress in quantum spin liquids, fractional magnetization plateaus, and unconventional superconductivity in kagome lattices, Li-Wei He, Shun-Li Yu, Jian-Xin Li
+* https://arxiv.org/abs/2512.16137 # Power-Law Suppression of Phonon Thermal Transport by Magnetic Excitations in a Molecular Quantum Spin Liquid, S. Fujiyama, K. Ueda, Y. Otsuka
+https://arxiv.org/abs/2512.16173
+https://arxiv.org/abs/2512.16268
+https://arxiv.org/abs/2512.16274
+https://arxiv.org/abs/2512.16364
+https://arxiv.org/abs/2512.16377
+https://arxiv.org/abs/2512.16405
+https://arxiv.org/abs/2512.16431
+
+https://arxiv.org/abs/2512.16459
+https://arxiv.org/abs/2512.16460
+https://arxiv.org/abs/2512.16464
+https://arxiv.org/abs/2512.16509
+https://arxiv.org/abs/2512.16534
+https://arxiv.org/abs/2512.16590
+https://arxiv.org/abs/2512.16631
+https://arxiv.org/abs/2512.16651
+https://arxiv.org/abs/2512.16803
+https://arxiv.org/abs/2512.16828
+
+https://arxiv.org/abs/2512.16834
+https://arxiv.org/abs/2512.16846
+https://arxiv.org/abs/2512.16888
+https://arxiv.org/abs/2512.16892
+https://arxiv.org/abs/2512.15746
+https://arxiv.org/abs/2512.15871
+* https://arxiv.org/abs/2512.15880 # Anticoncentration and State Design of Doped Real Clifford Circuits and Tensor Networks, Beatrice Magni, Markus Heinrich, Lorenzo Leone, Xhek Turkeshi
+https://arxiv.org/abs/2512.15890
+https://arxiv.org/abs/2512.16218
+https://arxiv.org/abs/2512.16823
+
+https://arxiv.org/abs/2512.15831
+https://arxiv.org/abs/2512.15838
+* https://arxiv.org/abs/2512.15843 # Efficient Simulation of Sparse, Non-Local Fermion Models, Reinis Irmejs, J. Ignacio Cirac
+* https://arxiv.org/abs/2512.16097 # Discrete time crystals enhanced by Stark potentials in Rydberg atom arrays, Jian-Jia Wang, Ling-Zhi Tang, Yan-Xiong Du, Dan-Wei Zhang
+https://arxiv.org/abs/2512.16242
+https://arxiv.org/abs/2512.16309
+https://arxiv.org/abs/2512.16435
+* https://arxiv.org/abs/2512.16520 # Replica Keldysh field theory of quantum-jump processes: General formalism and application to imbalanced and inefficient fermion counting, Felix Kloiber-Tollinger, Lukas M. Sieberer
+* https://arxiv.org/abs/2512.16673 # Topological magic response in quantum spin chains, Ritu Nehra, Poetri Sonya Tarabunga, Martina Frau, Mario Collura, Emanuele Tirrito, Marcello Dalmonte
+https://arxiv.org/abs/2512.16674
+
+* https://arxiv.org/abs/2512.16777 # A magic criterion (almost) as nice as PPT, with applications in distillation and detection, Zhenhuan Liu, Tobias Haug, Qi Ye, Zi-Wen Liu, Ingo Roth
+https://arxiv.org/abs/2512.15736
+https://arxiv.org/abs/2512.15795
+https://arxiv.org/abs/2512.15898
+https://arxiv.org/abs/2512.16774
+https://arxiv.org/abs/2512.16836
+https://arxiv.org/abs/2512.16867
+https://arxiv.org/abs/2512.15875
+https://arxiv.org/abs/2512.15847
+https://arxiv.org/abs/2512.16812
+
 https://journals.aps.org/prresearch/abstract/10.1103/vjtq-sz21
 https://journals.aps.org/prresearch/abstract/10.1103/qlrs-6f8t
 
