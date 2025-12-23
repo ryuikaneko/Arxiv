@@ -1,3 +1,28 @@
+20251223
+
+* https://arxiv.org/abs/2512.17030 # Exploring the Kondo Effect in Strained Kagome Nanoribbons, Patricia A Almeida, George B Martins, Sergio Ulloa
+https://arxiv.org/abs/2512.17059
+https://arxiv.org/abs/2512.17069
+https://arxiv.org/abs/2512.17099
+* https://arxiv.org/abs/2512.17333 # Quantum quenches across continuous and first-order quantum transitions in one-dimensional quantum Ising models, Andrea Pelissetto, Davide Rossini, Ettore Vicari
+https://arxiv.org/abs/2512.17362
+* https://arxiv.org/abs/2512.17380 # Chiral topological superconductivity in twisted bilayer and double bilayer graphene, Kamalesh Bera, Tanay Nag, Arijit Saha
+* https://arxiv.org/abs/2512.17415 # Altermagnetism and its induced higher-order topology on the Lieb lattice, Xingmin Huo, Xingchuan Zhu, Chang-An Li, Shiping Feng, Song-Bo Zhang, Shengyuan A.Yang, Huaiming Guo
+https://arxiv.org/abs/2512.17427
+* https://arxiv.org/abs/2512.17596 # Charge fluctuations and topological phases in Kitaev-Heisenberg ladders, M. G. Sousa, O. Avalos-Ovando, E. Vernek, S. E. Ulloa
+
+https://arxiv.org/abs/2512.17694
+* https://arxiv.org/abs/2512.17703 # Revisiting the Broken Symmetry Phase of Solid Hydrogen: A Neural Network Variational Monte Carlo Study, Shengdu Chai, Chen Lin, Xinyang Dong, Yuqiang Li, Wanli Ouyang, Lei Wang, X.C. Xie
+https://arxiv.org/abs/2512.17715
+* https://arxiv.org/abs/2512.17729 # Fractionalized topological d+id superconductivity in the Yao-Lee-Kondo model, Chengzhi Tang, Hong Yao
+* https://arxiv.org/abs/2512.17801 # Quantum Monte Carlo studies of U(1) lattice gauge models of Kondo breakdown, Gaopei Pan, Fakher F. Assaad
+https://arxiv.org/abs/2512.17836
+https://arxiv.org/abs/2512.17862
+* https://arxiv.org/abs/2512.16673 # Topological magic response in quantum spin chains, Ritu Nehra, Poetri Sonya Tarabunga, Martina Frau, Mario Collura, Emanuele Tirrito, Marcello Dalmonte
+* https://arxiv.org/abs/2512.17141 # Evaluating Sample-Based Krylov Quantum Diagonalization for Heisenberg Models with Applications to Materials Science, Roman Firt, Neel Misciasci, Jonathan E. Mueller, Triet Friedhoff, Chinonso Onah, Aaron Schulze, Sarah Mostame
+* https://arxiv.org/abs/2512.17210 # Emergent Universality Class in Dissipative Quantum Systems with Dipole Moment Conservation, Wenbo Zhou, Yuke Zhang, Pengfei Zhang
+
+
 20251219
 
 https://arxiv.org/abs/2512.15772
