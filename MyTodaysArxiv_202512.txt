@@ -1,5 +1,10 @@
 20251223
 
+https://arxiv.org/abs/2512.16938
+https://arxiv.org/abs/2512.16990
+https://arxiv.org/abs/2512.16994
+* https://arxiv.org/abs/2512.17010 # Exotic coupled spin-charge states in decorated honeycomb magnets: A hybrid-Monte Carlo study, Satyabrata Jana, Sahinur Reja
+
 * https://arxiv.org/abs/2512.17030 # Exploring the Kondo Effect in Strained Kagome Nanoribbons, Patricia A Almeida, George B Martins, Sergio Ulloa
 https://arxiv.org/abs/2512.17059
 https://arxiv.org/abs/2512.17069
