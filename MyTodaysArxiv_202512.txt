@@ -27,7 +27,7 @@ https://arxiv.org/abs/2512.17697
 https://arxiv.org/abs/2512.17713
 https://arxiv.org/abs/2512.17800
 https://arxiv.org/abs/2512.17809
-https://arxiv.org/abs/2512.17860
+* https://arxiv.org/abs/2512.17860 # Witnessing Entanglement in Mixed-Particle Quantum Systems, Irma Avdic, David A. Mazziotti
 * https://arxiv.org/abs/2512.17893 # Exploring the Effect of Basis Rotation on NQS Performance, Sven Benjamin Kozic, Vinko Zlatic, Fabio Franchini, Salvatore Marco Giampaolo
 https://arxiv.org/abs/2512.17379
 https://arxiv.org/abs/2512.17535
