@@ -9,6 +9,49 @@ https://journals.aps.org/prb/abstract/10.1103/svwm-6n4c
 
 20251223
 
+* https://arxiv.org/abs/2512.17996 # Non-Abelian topological superconductivity from melting Abelian fractional Chern insulators, Zhengyan Darius Shi, T. Senthil
+https://arxiv.org/abs/2512.18005
+https://arxiv.org/abs/2512.18236
+* https://arxiv.org/abs/2512.18287 # Solution of Wave Acceleration and Non-Hermitian Jump in Nonreciprocal Lattices, Sayan Jana, Bertin Many Manda, Vassos Achilleos, Dimitrios J. Frantzeskakis, Lea Sirota
+* https://arxiv.org/abs/2512.18307 # Entropy of full covering of the kagome lattice by straight trimers, Deepak Dhar, Tiago J. Oliveira, R. Rajesh, Juergen F. Stilck
+https://arxiv.org/abs/2512.18322
+https://arxiv.org/abs/2512.18328
+* https://arxiv.org/abs/2512.18397 # Momentum-resolved spectral functions of super-moire systems using tensor networks, Anouar Moustaj, Yitao Sun, Tiago V. C. Antao, Jose L. Lado
+https://arxiv.org/abs/2512.18460
+
+https://arxiv.org/abs/2512.18611
+* https://arxiv.org/abs/2512.18724 # Spiral states, first-order transitions and specific heat multipeak phenomenon in J1-J2-J3 model: A Wang-Landau algorithm study, Habib Ullah, Kun Li, Haoyu Lu, Youjin Deng, Wanzhou Zhang
+* https://arxiv.org/abs/2512.18831 # Dynamical Spectral Function of the Kagome Quantum Spin Liquid, Jiahang Hu, Runze Chi, Yibin Guo, B. Normand, Hai-Jun Liao, T. Xiang
+* https://arxiv.org/abs/2512.19162 # Quantum decay of magnons in the unfrustrated honeycomb Heisenberg model, Calvin Kraemer, Dag-Bjoern Hering, Vanessa Sulaiman, Matthias R. Walther, Goetz S. Uhrig, Kai Phillip Schmidt
+https://arxiv.org/abs/2512.19382
+* https://arxiv.org/abs/2512.19389 # Tree tensor networks for many-body localization in two dimensions, Lars Humpert, Dante M. Kennes, Jan-Niklas Herre
+https://arxiv.org/abs/2512.19478
+* https://arxiv.org/abs/2512.19523 # Boundary Criticality at the Nishimori Multicritical Point, Sheng Yang, Xinyu Sun, Shao-Kai Jian
+https://arxiv.org/abs/2512.18104
+https://arxiv.org/abs/2512.18338
+
+https://arxiv.org/abs/2512.18781
+* https://arxiv.org/abs/2512.18783 # Noisy Monitored Quantum Circuits, Shuo Liu, Shao-Kai Jian, Shi-Xin Zhang
+https://arxiv.org/abs/2512.19490
+https://arxiv.org/abs/2512.19608
+https://arxiv.org/abs/2512.19655
+https://arxiv.org/abs/2512.19670
+https://arxiv.org/abs/2512.19685
+https://arxiv.org/abs/2512.17980
+https://arxiv.org/abs/2512.18021
+https://arxiv.org/abs/2512.18061
+
+https://arxiv.org/abs/2512.18395
+https://arxiv.org/abs/2512.18642
+* https://arxiv.org/abs/2512.18765 # Interplay of Confinement and Localization in a Programmable Rydberg Atom Chain, Andrea B. Rava, Jhon A. Montanez-Barrera, Kristel Michielsen, Jaka Vodeb
+https://arxiv.org/abs/2512.19413
+https://arxiv.org/abs/2512.19420
+https://arxiv.org/abs/2512.19594
+https://arxiv.org/abs/2512.19596
+https://arxiv.org/abs/2512.19615
+https://arxiv.org/abs/2512.18449
+https://arxiv.org/abs/2512.18532
+
 https://journals.aps.org/prb/abstract/10.1103/f6sr-t6js
 https://journals.aps.org/prb/abstract/10.1103/nvnm-rtwd
 https://journals.aps.org/prb/abstract/10.1103/7cqp-ws6c
