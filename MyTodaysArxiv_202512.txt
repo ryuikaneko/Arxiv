@@ -38,6 +38,7 @@ https://arxiv.org/abs/2512.20614
 https://journals.aps.org/prb/abstract/10.1103/svwm-6n4c
 https://journals.aps.org/prl/abstract/10.1103/ntjf-zb2v
 https://journals.aps.org/prb/abstract/10.1103/w75n-bh3r
+https://journals.aps.org/prl/abstract/10.1103/ggp1-byj1
 
 
 ====
