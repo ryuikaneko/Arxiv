@@ -1,5 +1,36 @@
 20251224
 
+https://arxiv.org/abs/2512.19790
+* https://arxiv.org/abs/2512.19795 # High-efficiency loading of 2,400 Ytterbium atoms in optical tweezer arrays, Jiawen Zhu, Changfeng Chen, Li Zhou, Xiangru Xie, Chenyang Jiang, Zhuoli Ding, Fan Wu, Fan Yang, Guoqing Wang, Qihuang Gong, Peng Zhang, Sheng Zhang, Pai Peng
+https://arxiv.org/abs/2512.19806
+https://arxiv.org/abs/2512.19848
+https://arxiv.org/abs/2512.19870
+https://arxiv.org/abs/2512.19969
+https://arxiv.org/abs/2512.19977
+https://arxiv.org/abs/2512.19978
+https://arxiv.org/abs/2512.20106
+https://arxiv.org/abs/2512.20131
+
+https://arxiv.org/abs/2512.20215
+https://arxiv.org/abs/2512.20235
+https://arxiv.org/abs/2512.20277
+* https://arxiv.org/abs/2512.20285 # Krylov complexity in ergodically constrained nonintegrable transverse-field Ising model, Gaurav Rudra Malik, Jeet Sharma, Rohit Kumar Shukla, S. Aravinda, Sunil Kumar Mishra
+https://arxiv.org/abs/2512.20318
+https://arxiv.org/abs/2512.20321
+https://arxiv.org/abs/2512.20359
+https://arxiv.org/abs/2512.20393
+https://arxiv.org/abs/2512.20426
+https://arxiv.org/abs/2512.20435
+
+https://arxiv.org/abs/2512.20492
+https://arxiv.org/abs/2512.20554
+https://arxiv.org/abs/2512.20588
+https://arxiv.org/abs/2512.20613
+https://arxiv.org/abs/2512.19889
+https://arxiv.org/abs/2512.19891
+* https://arxiv.org/abs/2512.19922 # An introduction to monitored quantum systems and quantum trajectories: spectrum, typicality, and phases, Ryusuke Hamazaki, Ken Mochizuki, Hisanori Oshima, Yohei Fuji
+https://arxiv.org/abs/2512.20608
+
 https://arxiv.org/abs/2512.19753
 * https://arxiv.org/abs/2512.19798 # All-to-All interactions via multifractal wavefunction geometry, YouYoung Joung, Jemin Park, SungBin Lee
 * https://arxiv.org/abs/2512.19809 # Preparation of a Quantum Spin Liquid in Non-Hermitian Quantum Dimer Models and Rydberg Arrays, Shashwat Chakraborty, Taylor L. Hughes
