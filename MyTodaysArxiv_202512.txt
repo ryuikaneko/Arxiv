@@ -1,5 +1,39 @@
 20251224
 
+https://arxiv.org/abs/2512.19753
+* https://arxiv.org/abs/2512.19798 # All-to-All interactions via multifractal wavefunction geometry, YouYoung Joung, Jemin Park, SungBin Lee
+* https://arxiv.org/abs/2512.19809 # Preparation of a Quantum Spin Liquid in Non-Hermitian Quantum Dimer Models and Rydberg Arrays, Shashwat Chakraborty, Taylor L. Hughes
+https://arxiv.org/abs/2512.19818
+https://arxiv.org/abs/2512.19844
+https://arxiv.org/abs/2512.19938
+https://arxiv.org/abs/2512.19979
+https://arxiv.org/abs/2512.20009
+https://arxiv.org/abs/2512.20049
+https://arxiv.org/abs/2512.20072
+
+https://arxiv.org/abs/2512.20130
+https://arxiv.org/abs/2512.20209
+https://arxiv.org/abs/2512.20284
+* https://arxiv.org/abs/2512.20295 # Critical Temperature(s) of Sierpinski Carpet(s), Riccardo Ben Ali Zinati, Giacomo Gori, Alessandro Codello
+* https://arxiv.org/abs/2512.20297 # Multiple topological phases of magnons induced by Dzyaloshinskii-Moriya and pseudodipolar anisotropic exchange interactions in Kagome ferromagnets, Jin-Yu Ni, Xia-Ming Zheng, Peng-Tao Wei, Da-Yong Liu, Liang-Jian Zou
+https://arxiv.org/abs/2512.20366
+* https://arxiv.org/abs/2512.20466 # Tensor-network study of the ground state of maple-leaf Heisenberg antiferromagnet, Samuel Nyckees, Pratyay Ghosh, Frederic Mila
+https://arxiv.org/abs/2512.20476
+https://arxiv.org/abs/2512.20519
+* https://arxiv.org/abs/2512.20529 # Substrate and cation engineering for optimizing superconductivity in infinite-layer nickelates, Viktor Christiansson, Karsten Held
+
+https://arxiv.org/abs/2512.20559
+* https://arxiv.org/abs/2512.19786 # Learning transitions of topological surface codes, Finn Eckstein, Bo Han, Simon Trebst, Guo-Yi Zhu
+* https://arxiv.org/abs/2512.19801 # Ergotropy of quantum many-body scars, Zhaohui Zhi, Qingyun Qian, Jin-Guo Liu, Guo-Yi Zhu
+https://arxiv.org/abs/2512.19819
+* https://arxiv.org/abs/2512.19856 # Quantum information scrambling in strongly disordered Rydberg spin systems, Maximilian Muellenbach, Sebastian Geier, Adrian Braemer, Eduard Braun, Titus Franz, Gerhard Zuern, Matthias Weidemueller, Martin Gaerttner
+https://arxiv.org/abs/2512.19869
+https://arxiv.org/abs/2512.19955
+https://arxiv.org/abs/2512.20170
+https://arxiv.org/abs/2512.20441
+https://arxiv.org/abs/2512.20603
+
+https://arxiv.org/abs/2512.20614
 
 https://journals.aps.org/prb/abstract/10.1103/svwm-6n4c
 https://journals.aps.org/prl/abstract/10.1103/ntjf-zb2v
