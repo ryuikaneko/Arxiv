@@ -3,13 +3,13 @@
 
 20251225
 
-https://arxiv.org/abs/2512.20689
-https://arxiv.org/abs/2512.20697
+* https://arxiv.org/abs/2512.20689 # Controlled pairing symmetries in a Fermi-Hubbard ladder with band flattening, J. P. Mendonca, S. Biswas, M. Dziurawiec, U. Bhattacharya, K. Jachymski, M. Aidelsburger, M. Lewenstein, M. M. Maska, T. Grass
+* https://arxiv.org/abs/2512.20697 # Simulating fermionic fractional Chern insulators with infinite projected entangled-pair states, Hao Chen, Titus Neupert, Juraj Hasik
 https://arxiv.org/abs/2512.20707
 https://arxiv.org/abs/2512.20727
 https://arxiv.org/abs/2512.20903
 https://arxiv.org/abs/2512.20906
-https://arxiv.org/abs/2512.20912
+* https://arxiv.org/abs/2512.20912 # Competing magnetic and topological orders in the spin-1 Kitaev-Heisenberg chain with single-ion anisotropy, Sahinur Reja, Satoshi Nishimoto
 https://arxiv.org/abs/2512.20928
 
 https://arxiv.org/abs/2512.21148
