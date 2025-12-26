@@ -3,7 +3,27 @@
 
 20251225
 
-https://arxiv.org/abs/2512.20913
+https://arxiv.org/abs/2512.20689
+https://arxiv.org/abs/2512.20697
+https://arxiv.org/abs/2512.20707
+https://arxiv.org/abs/2512.20727
+https://arxiv.org/abs/2512.20903
+https://arxiv.org/abs/2512.20906
+https://arxiv.org/abs/2512.20912
+https://arxiv.org/abs/2512.20928
+
+https://arxiv.org/abs/2512.21148
+https://arxiv.org/abs/2512.21206
+https://arxiv.org/abs/2512.21245
+* https://arxiv.org/abs/2512.21313 # Universality of equilibration dynamics after quantum quenches, Vincenzo Alba, Sanam Azarnia, Gianluca Lagnese, Federico Rottoli
+https://arxiv.org/abs/2512.21037
+https://arxiv.org/abs/2512.21213
+https://arxiv.org/abs/2512.21231
+https://arxiv.org/abs/2512.20787
+* https://arxiv.org/abs/2512.20788 # Coexistence of Anderson Localization and Quantum Scarring in Two Dimensions, Fartash Chalangari, Anant Vijay Varma, Joonas Keski-Rahkonen, Esa Rasanen
+https://arxiv.org/abs/2512.20886
+
+* https://arxiv.org/abs/2512.20913 # Tutorial on Superconducting Quantum Circuits: From Basics to Applications, Denys Derlian Carvalho Brito, Fernando Valadares, Andre Jorge Carvalho Chaves
 https://arxiv.org/abs/2512.21046
 https://arxiv.org/abs/2512.21069
 https://arxiv.org/abs/2512.21125
