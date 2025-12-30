@@ -65,9 +65,6 @@ https://journals.aps.org/prl/abstract/10.1103/wztw-l8wg
 https://journals.aps.org/prresearch/abstract/10.1103/sf1z-yqyk
 
 
-====
-
-
 20251225
 
 * https://arxiv.org/abs/2512.20689 # Controlled pairing symmetries in a Fermi-Hubbard ladder with band flattening, J. P. Mendonca, S. Biswas, M. Dziurawiec, U. Bhattacharya, K. Jachymski, M. Aidelsburger, M. Lewenstein, M. M. Maska, T. Grass
