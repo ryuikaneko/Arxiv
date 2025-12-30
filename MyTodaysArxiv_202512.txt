@@ -1,5 +1,19 @@
 20251229
 
+https://arxiv.org/abs/2512.21400
+https://arxiv.org/abs/2512.21403
+https://arxiv.org/abs/2512.21661
+https://arxiv.org/abs/2512.21662
+https://arxiv.org/abs/2512.21665
+https://arxiv.org/abs/2512.21713
+https://arxiv.org/abs/2512.21716
+https://arxiv.org/abs/2512.21855
+https://arxiv.org/abs/2512.21893
+https://arxiv.org/abs/2512.22001
+
+https://arxiv.org/abs/2512.22110
+https://arxiv.org/abs/2512.21502
+
 https://arxiv.org/abs/2512.21344
 https://arxiv.org/abs/2512.21383
 * https://arxiv.org/abs/2512.21503 # Simulating triangle Hofstadter-Hubbard model with fermionic projected entangled simplex states, Sen Niu, D. N. Sheng, Yang Peng
