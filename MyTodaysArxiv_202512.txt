@@ -1,5 +1,45 @@
 20251229
 
+https://arxiv.org/abs/2512.21344
+https://arxiv.org/abs/2512.21383
+* https://arxiv.org/abs/2512.21503 # Simulating triangle Hofstadter-Hubbard model with fermionic projected entangled simplex states, Sen Niu, D. N. Sheng, Yang Peng
+https://arxiv.org/abs/2512.21575
+https://arxiv.org/abs/2512.21609
+https://arxiv.org/abs/2512.21612
+https://arxiv.org/abs/2512.21624
+https://arxiv.org/abs/2512.21628
+https://arxiv.org/abs/2512.21666
+https://arxiv.org/abs/2512.21672
+
+https://arxiv.org/abs/2512.21725
+* https://arxiv.org/abs/2512.21732 # Bethe-ansatz study of the Bose-Fermi mixture, Soham Chandak, Aleksandra Petkovic, Zoran Ristivojevic
+https://arxiv.org/abs/2512.21748
+https://arxiv.org/abs/2512.21763
+https://arxiv.org/abs/2512.21767
+https://arxiv.org/abs/2512.21772
+https://arxiv.org/abs/2512.21822
+https://arxiv.org/abs/2512.21830
+* https://arxiv.org/abs/2512.21847 # Quantum Breakdown Condensate as a Disorder-Free Quantum Glass, Yu-Min Hu, Zhaoyu Han, Biao Lian
+https://arxiv.org/abs/2512.21850
+
+https://arxiv.org/abs/2512.21868
+https://arxiv.org/abs/2512.21869
+https://arxiv.org/abs/2512.21880
+https://arxiv.org/abs/2512.21931
+* https://arxiv.org/abs/2512.22021 # Site-Order Optimization in the Density Matrix Renormalization Group via Multi-Site Rearrangement, Ryo Watanabe, Toshiya Hikihara, Hiroshi Ueda
+https://arxiv.org/abs/2512.22093
+https://arxiv.org/abs/2512.22108
+https://arxiv.org/abs/2512.21385
+* https://arxiv.org/abs/2512.21416 # Observation of disorder-induced superfluidity
+https://arxiv.org/abs/2512.21436
+
+https://arxiv.org/abs/2512.21687
+https://arxiv.org/abs/2512.21991
+https://arxiv.org/abs/2512.22041
+https://arxiv.org/abs/2512.22116
+https://arxiv.org/abs/2512.22119
+https://arxiv.org/abs/2512.22121
+
 https://journals.aps.org/prl/abstract/10.1103/t6zs-3f8k
 https://journals.aps.org/prl/abstract/10.1103/w7nc-l9s5
 
