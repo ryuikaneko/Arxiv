@@ -274,9 +274,6 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.127205
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.120502
 
 
-====
-
-
 20210917
 
 * https://arxiv.org/abs/2109.07485 # Reply to Comment on "Discrete Time Crystals: Rigidity Criticality and Realizations", Norman Y. Yao, Andrew C. Potter, Ionut-Dragos Potirniche, Ashvin Vishwanath

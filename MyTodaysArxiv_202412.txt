@@ -87,9 +87,6 @@ https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040349
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.245141
 
 
-====
-
-
 20241225
 
 * https://arxiv.org/abs/2412.17913 # Quantum entanglement of XY-type spin dimers in Shastry-Sutherland lattice, Qianli Ma, Brianna R. Billingsley, Madalynn Marshall, David A. Dahlbom, Yiqing Hao, Daniel M.Pajerowski, Alexander I. Kolesnikov, Xiaojian Bai, Cristian D. Batista, Tai Kong, Huibo Cao
