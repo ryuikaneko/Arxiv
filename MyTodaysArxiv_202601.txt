@@ -1,5 +1,36 @@
 20260101
 
+https://arxiv.org/abs/2512.23759
+https://arxiv.org/abs/2512.23776
+https://arxiv.org/abs/2512.23799
+https://arxiv.org/abs/2512.23803
+https://arxiv.org/abs/2512.23817
+https://arxiv.org/abs/2512.23867
+https://arxiv.org/abs/2512.24019
+https://arxiv.org/abs/2512.24057
+https://arxiv.org/abs/2512.24173
+https://arxiv.org/abs/2512.24274
+
+https://arxiv.org/abs/2512.24308
+https://arxiv.org/abs/2512.24312
+https://arxiv.org/abs/2512.24341
+https://arxiv.org/abs/2512.24423
+https://arxiv.org/abs/2512.24437
+https://arxiv.org/abs/2512.24685
+https://arxiv.org/abs/2512.24744
+https://arxiv.org/abs/2512.24759
+https://arxiv.org/abs/2512.24790
+https://arxiv.org/abs/2512.24801
+
+https://arxiv.org/abs/2512.24839
+https://arxiv.org/abs/2512.24883
+https://arxiv.org/abs/2512.24902
+https://arxiv.org/abs/2512.24942
+https://arxiv.org/abs/2512.24982
+https://arxiv.org/abs/2512.25004
+https://arxiv.org/abs/2512.25068
+https://arxiv.org/abs/2512.24344
+
 * https://arxiv.org/abs/2512.24390 # Les Houches Lectures Notes on Tensor Networks, Bram Vancraeynest-De Cuiper, Weronika Wiesiolek, Frank Verstraete
 
 https://arxiv.org/abs/2512.23724
