@@ -1,5 +1,51 @@
 20260101
 
+* https://arxiv.org/abs/2512.24390 # Les Houches Lectures Notes on Tensor Networks, Bram Vancraeynest-De Cuiper, Weronika Wiesiolek, Frank Verstraete
+
+https://arxiv.org/abs/2512.23724
+* https://arxiv.org/abs/2512.23794 # Ergodicity breaking meets criticality in a gauge-theory quantum simulator, Ana Hudomal, Aiden Daniel, Tiago Santiago do Espirito Santo, Milan Kornjaca, Tommaso Macri, Jad C. Halimeh, Guo-Xian Su, Antun Balaz, Zlatko Papic
+https://arxiv.org/abs/2512.23798
+https://arxiv.org/abs/2512.23801
+https://arxiv.org/abs/2512.23833
+https://arxiv.org/abs/2512.23930
+https://arxiv.org/abs/2512.23951
+https://arxiv.org/abs/2512.23954
+* https://arxiv.org/abs/2512.23962 # Lectures on insulating and conducting quantum spin liquids, Subir Sachdev
+https://arxiv.org/abs/2512.23963
+
+https://arxiv.org/abs/2512.23967
+https://arxiv.org/abs/2512.23985
+* https://arxiv.org/abs/2512.24050 # Diffusive metal in a percolating Chern insulator, Subrata Pachhal, Naba P. Nayak, Soumya Bera, Adhip Agarwala
+* https://arxiv.org/abs/2512.24076 # Exactly Solvable Models Hosting Altermagnetic Quantum Spin Liquids, Joao Augusto Sobral, Pietro M. Bonetti, Subrata Mandal, Mathias S. Scheurer
+https://arxiv.org/abs/2512.24114
+https://arxiv.org/abs/2512.24186
+https://arxiv.org/abs/2512.24287
+https://arxiv.org/abs/2512.24306
+https://arxiv.org/abs/2512.24374
+* https://arxiv.org/abs/2512.24533 # Detection of a Renyi Index Dependent Transition in Entanglement Entropy Scaling, Hatem Barghathi, Adrian Del Maestro
+
+* https://arxiv.org/abs/2512.24557 # Higgs and Nambu-Goldstone modes in a spin-1 \textit{XY} model with long-range interactions, Daiki Kawasaki, Ippei Danshita
+https://arxiv.org/abs/2512.24579
+* https://arxiv.org/abs/2512.24600 # Dynamic Phase Transitions in Periodically Driving 1D Ising Model, Yuanyuan Cheng, Yuxia Zhang, Tianhui Qiu, Peipei Xin, Bao-Ming Xu
+https://arxiv.org/abs/2512.24668
+https://arxiv.org/abs/2512.24738
+https://arxiv.org/abs/2512.24797
+https://arxiv.org/abs/2512.24831
+https://arxiv.org/abs/2512.24969
+https://arxiv.org/abs/2512.24976
+* https://arxiv.org/abs/2512.24998 # Numerical study of boson mixtures with multi-component continuous matrix product states, Wei Tang, Benoit Tuybens, Jutho Haegeman
+
+https://arxiv.org/abs/2512.25011
+https://arxiv.org/abs/2512.25036
+https://arxiv.org/abs/2512.25054
+https://arxiv.org/abs/2512.25061
+https://arxiv.org/abs/2512.25069
+* https://arxiv.org/abs/2512.25074 # Randomization Times under Quantum Chaotic Hamiltonian Evolution, Souradeep Ghosh, Nicholas Hunter-Jones, Joaquin F. Rodriguez-Nieva
+* https://arxiv.org/abs/2512.23917 # Tensor Computing Interface: An Application-Oriented, Lightweight Interface for Portable High-Performance Tensor Network Applications, Rong-Yang Sun, Tomonori Shirakawa, Hidehiko Kohshiro, D. N. Sheng, Seiji Yunoki
+https://arxiv.org/abs/2512.24045
+https://arxiv.org/abs/2512.24107
+https://arxiv.org/abs/2512.24135
+
 https://arxiv.org/abs/2512.24225
 * https://arxiv.org/abs/2512.24418 # Dissipation-Stabilized Quantum Revivals in a Non-Hermitian Lattice Gauge Theory, Yevgeny Bar Lev, Jad C. Halimeh, Achilleas Lazarides
 https://arxiv.org/abs/2512.24419
