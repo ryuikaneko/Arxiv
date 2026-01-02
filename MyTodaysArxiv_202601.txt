@@ -1,1 +1,12 @@
 20260101
+
+https://arxiv.org/abs/2512.24225
+* https://arxiv.org/abs/2512.24418 # Dissipation-Stabilized Quantum Revivals in a Non-Hermitian Lattice Gauge Theory, Yevgeny Bar Lev, Jad C. Halimeh, Achilleas Lazarides
+https://arxiv.org/abs/2512.24419
+https://arxiv.org/abs/2512.24436
+https://arxiv.org/abs/2512.24495
+* https://arxiv.org/abs/2512.24558 # Probabilistic Computers for Neural Quantum States, Shuvro Chowdhury, Jasper Pieterse, Navid Anjum Aadit, Johan H. Mentink, Kerem Y. Camsari
+https://arxiv.org/abs/2512.24589
+https://arxiv.org/abs/2512.24798
+https://arxiv.org/abs/2512.24822
+* https://arxiv.org/abs/2512.24836 # Symmetric mass generation as a multicritical point with enhanced symmetry, Sandip Maiti, Debasish Banerjee, Shailesh Chandrasekharan, Marina K. Marinkovic
