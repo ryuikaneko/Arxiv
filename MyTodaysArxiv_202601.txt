@@ -7,20 +7,20 @@ https://arxiv.org/abs/2601.00210
 https://arxiv.org/abs/2601.00220
 https://arxiv.org/abs/2601.00294
 https://arxiv.org/abs/2601.00363
-https://arxiv.org/abs/2601.00540
+* https://arxiv.org/abs/2601.00540 # Superconductivity in the kagome Hubbard model under the flat-band-preserving disorder, Jicheol Kim, Dong-Hee Kim
 https://arxiv.org/abs/2601.00701
 https://arxiv.org/abs/2601.00784
 
 https://arxiv.org/abs/2601.00062
 https://arxiv.org/abs/2601.00064
-https://arxiv.org/abs/2601.00111
+* https://arxiv.org/abs/2601.00111 # A compellingly simple proof of the speed of sound for interacting bosons, J. Eisert
 https://arxiv.org/abs/2601.00131
-https://arxiv.org/abs/2601.00266
+* https://arxiv.org/abs/2601.00266 # Nature is stingy: Universality of Scrooge ensembles in quantum many-body systems, Wai-Keong Mok, Tobias Haug, Wen Wei Ho, John Preskill
 https://arxiv.org/abs/2601.00511
 https://arxiv.org/abs/2601.00706
 https://arxiv.org/abs/2601.00750
 https://arxiv.org/abs/2601.00751
-https://arxiv.org/abs/2601.00761
+* https://arxiv.org/abs/2601.00761 # Exponentially Accelerated Sampling of Pauli Strings for Nonstabilizerness, Zhenyu Xiao, Shinsei Ryu
 
 https://journals.aps.org/prb/abstract/10.1103/4hcp-cggl
 https://journals.aps.org/prb/abstract/10.1103/qxnw-8q4y
