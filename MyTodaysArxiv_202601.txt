@@ -20,20 +20,20 @@ https://arxiv.org/abs/2601.01644
 https://arxiv.org/abs/2601.01694
 https://arxiv.org/abs/2601.01790
 https://arxiv.org/abs/2601.01886
-https://arxiv.org/abs/2601.01890
+* https://arxiv.org/abs/2601.01890 # Emergent Spin Supersolids in Frustrated Quantum Materials, Yixuan Huang, Seiji Yunoki, Sadamichi Maekawa
 
 https://arxiv.org/abs/2601.01893
 https://arxiv.org/abs/2601.01906
 https://arxiv.org/abs/2601.01985
 https://arxiv.org/abs/2601.02342
 https://arxiv.org/abs/2601.01185
-https://arxiv.org/abs/2601.01309
+* https://arxiv.org/abs/2601.01309 # Evidence for a two-dimensional quantum glass state at high temperatures
 https://arxiv.org/abs/2601.01327
 https://arxiv.org/abs/2601.01559
 https://arxiv.org/abs/2601.01626
 https://arxiv.org/abs/2601.01961
 
-https://arxiv.org/abs/2601.02122
+* https://arxiv.org/abs/2601.02122 # Efficient Calculation of the Maximal Renyi Divergence for a Matrix Product State via Generalized Eigenvalue Density Matrix Renormalization Group, Uri Levin, Noa Feldman, Moshe Goldstein
 https://arxiv.org/abs/2601.02160
 
 https://journals.aps.org/prxquantum/abstract/10.1103/3yx4-1j27
