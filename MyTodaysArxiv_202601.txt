@@ -1,5 +1,16 @@
 20260107
 
+* https://arxiv.org/abs/2601.02590 # ZL symmetry breaking in SU(N) Fermi-Hubbard dots at zero and finite temperature, Loic Herviou, Elodie Campan, Pierre Nataf
+https://arxiv.org/abs/2601.02661
+https://arxiv.org/abs/2601.02687
+https://arxiv.org/abs/2601.02862
+https://arxiv.org/abs/2601.02936
+https://arxiv.org/abs/2601.03012
+https://arxiv.org/abs/2601.03138
+https://arxiv.org/abs/2601.03202
+https://arxiv.org/abs/2601.03210
+https://arxiv.org/abs/2601.03245
+
 https://arxiv.org/abs/2601.02525
 https://arxiv.org/abs/2601.02681
 * https://arxiv.org/abs/2601.03035 # Who can compete with quantum computers? Lecture notes on quantum inspired tensor networks computational techniques, Xavier Waintal, Chen-How Huang, Christoph W. Groth
