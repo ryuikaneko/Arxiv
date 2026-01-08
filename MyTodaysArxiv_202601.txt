@@ -1,5 +1,13 @@
 20260107
 
+https://arxiv.org/abs/2601.02388
+https://arxiv.org/abs/2601.02477
+https://arxiv.org/abs/2601.02481
+https://arxiv.org/abs/2601.02485
+* https://arxiv.org/abs/2601.02497 # Thermalization in the mixed-field Ising model: An occupation number perspective, Isaias Vallejo-Fabila, Fausto Borgonovi, Felix M. Izrailev, Lea F. Santos
+https://arxiv.org/abs/2601.02502
+* https://arxiv.org/abs/2601.02508 # Fermi Sets: Universal and interpretable neural architectures for fermions, Liang Fu
+
 * https://arxiv.org/abs/2601.02590 # ZL symmetry breaking in SU(N) Fermi-Hubbard dots at zero and finite temperature, Loic Herviou, Elodie Campan, Pierre Nataf
 https://arxiv.org/abs/2601.02661
 https://arxiv.org/abs/2601.02687
