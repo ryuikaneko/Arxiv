@@ -1,13 +1,56 @@
 20260108
 
+https://arxiv.org/abs/2601.03352
+
+https://arxiv.org/abs/2601.03355
+https://arxiv.org/abs/2601.03358
+https://arxiv.org/abs/2601.03439
+https://arxiv.org/abs/2601.03564
+https://arxiv.org/abs/2601.03582
+https://arxiv.org/abs/2601.03591
+* https://arxiv.org/abs/2601.03636 # Koopman Nonlinear Non-Hermitian Skin Effect, Shu Hamanaka
+* https://arxiv.org/abs/2601.03694 # Interference-Induced Suppression of Doublon Transport and Prethermalization in the Extended Bose-Hubbard Model, Zhen-Ting Bao, Kai Xu, Heng Fan
+https://arxiv.org/abs/2601.03801
+https://arxiv.org/abs/2601.03806
+
+* https://arxiv.org/abs/2601.03826 # Quantum Otto heat-engine with Kitaev-Heisenberg cluster: Possible roles of frustration, magnons, and duality, Sheikh Moonsun Pervez, Saptarshi Mandal
+https://arxiv.org/abs/2601.03881
+https://arxiv.org/abs/2601.04006
+* https://arxiv.org/abs/2601.04155 # Anderson Localization on Husimi Trees and its implications for Many-Body localization, Dafne Prado Bandeira, Marco Tarzia
+https://arxiv.org/abs/2601.04172
+https://arxiv.org/abs/2601.04186
+https://arxiv.org/abs/2401.12785
+https://arxiv.org/abs/2601.03367
+* https://arxiv.org/abs/2601.03461 # Many-body Quantum Score: a scalable benchmark for digital and analog quantum processors and first test on a commercial neutral atom device, Harold Erbin, Pierre-Louis Burdeau, Corentin Bertrand, Thomas Ayral, Gregoire Misguich
+https://arxiv.org/abs/2601.03494
+
+https://arxiv.org/abs/2601.03843
+https://arxiv.org/abs/2601.03922
+https://arxiv.org/abs/2601.03310
+https://arxiv.org/abs/2601.03343
+https://arxiv.org/abs/2601.03365
+https://arxiv.org/abs/2601.03383
+https://arxiv.org/abs/2601.03395
+https://arxiv.org/abs/2601.03426
+https://arxiv.org/abs/2601.03567
+https://arxiv.org/abs/2601.03616
+
+https://arxiv.org/abs/2601.03832
+https://arxiv.org/abs/2601.03855
+https://arxiv.org/abs/2601.04092
+https://arxiv.org/abs/2601.03375
+https://arxiv.org/abs/2601.03802
+https://arxiv.org/abs/2601.03987
+https://arxiv.org/abs/2601.04095
+https://arxiv.org/abs/2601.03613
+https://arxiv.org/abs/2601.03953
+https://arxiv.org/abs/2601.03964
+
 https://journals.aps.org/prresearch/abstract/10.1103/y82t-c34b
 https://journals.aps.org/prb/abstract/10.1103/2y4k-rvcf
 https://journals.aps.org/prb/abstract/10.1103/qz9c-rrvh
 https://journals.aps.org/prl/abstract/10.1103/dcdw-ly16
 https://journals.aps.org/prl/abstract/10.1103/28hd-pwhv
-
-
-====
 
 
 20260107
