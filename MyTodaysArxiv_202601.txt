@@ -11,7 +11,7 @@ https://arxiv.org/abs/2601.04604
 https://arxiv.org/abs/2601.04685
 https://arxiv.org/abs/2601.04732
 
-https://arxiv.org/abs/2601.04810
+* https://arxiv.org/abs/2601.04810 # Fast thermal state preparation beyond native interactions, Alexander van Lomwel, Paul M. Schindler, Modesto Orozco-Ruiz, Marin Bukov, Nguyen H. Le, Florian Mintert
 https://arxiv.org/abs/2601.04827
 https://arxiv.org/abs/2601.04830
 https://arxiv.org/abs/2601.04976
