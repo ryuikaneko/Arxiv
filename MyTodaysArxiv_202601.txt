@@ -4,7 +4,7 @@ https://arxiv.org/abs/2601.04244
 https://arxiv.org/abs/2601.04296
 https://arxiv.org/abs/2601.04308
 https://arxiv.org/abs/2601.04337
-https://arxiv.org/abs/2601.04345
+* https://arxiv.org/abs/2601.04345 # Scalable cold-atom quantum simulator of a 3+1D U(1) lattice gauge theory with dynamical matter, Simone Orlando, Guo-Xian Su, Bing Yang, Jad C. Halimeh
 https://arxiv.org/abs/2601.04358
 https://arxiv.org/abs/2601.04421
 https://arxiv.org/abs/2601.04451
@@ -13,25 +13,25 @@ https://arxiv.org/abs/2601.04481
 
 https://arxiv.org/abs/2601.04560
 https://arxiv.org/abs/2601.04635
-https://arxiv.org/abs/2601.04640
+* https://arxiv.org/abs/2601.04640 # Construction of asymptotic quantum many-body scar states in the SU(N) Hubbard model, Daiki Hashimoto, Masaya Kunimi, Tetsuro Nikuni
 https://arxiv.org/abs/2601.04655
-https://arxiv.org/abs/2601.04729
+* https://arxiv.org/abs/2601.04729 # Probing quantum critical crossover via impurity renormalization group, Tao Yang, Z. Y. Xie, Rui Wang, Baigeng Wang
 https://arxiv.org/abs/2601.04749
 https://arxiv.org/abs/2601.04755
-https://arxiv.org/abs/2601.04811
+* https://arxiv.org/abs/2601.04811 # Switching magnetization of quantum antiferromagnets: Schwinger boson mean-field theory compared to exact diagonalization, Florian Johannesmann, Asliddin Khudoyberdiev, Goetz S. Uhrig
 https://arxiv.org/abs/2601.04858
 https://arxiv.org/abs/2601.04943
 
 https://arxiv.org/abs/2601.04971
 https://arxiv.org/abs/2601.04986
 https://arxiv.org/abs/2601.05100
-https://arxiv.org/abs/2601.05177
+* https://arxiv.org/abs/2601.05177 # Beyond the imbalance: site-resolved dynamics probing resonances in many-body localization, Asmi Haldar, Thibault Scoquart, Fabien Alet, Nicolas Laflorencie
 https://arxiv.org/abs/2601.05185
 https://arxiv.org/abs/2601.05196
 https://arxiv.org/abs/2601.05234
-https://arxiv.org/abs/2601.05238
+* https://arxiv.org/abs/2601.05238 # How many-body chaos emerges in the presence of quasiparticles, Sibaram Ruidas, Sthitadhi Roy, Subhro Bhattacharjee, Roderich Moessner
 https://arxiv.org/abs/2601.04304
-https://arxiv.org/abs/2601.04305
+* https://arxiv.org/abs/2601.04305 # Microscopic Dynamics of False Vacuum Decay in the 2+1D Quantum Ising Model, Umberto Borla, Achilleas Lazarides, Christian Gross, Jad C. Halimeh
 
 https://arxiv.org/abs/2601.04325
 https://arxiv.org/abs/2601.04330
