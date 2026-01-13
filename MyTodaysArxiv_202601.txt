@@ -1,5 +1,16 @@
 20260112
 
+https://arxiv.org/abs/2601.05286
+https://arxiv.org/abs/2601.05350
+https://arxiv.org/abs/2601.05457
+https://arxiv.org/abs/2601.05740
+https://arxiv.org/abs/2601.05788
+* https://arxiv.org/abs/2601.05952 # Continuous-time noise mitigation in analogue quantum simulation, Gabriele Bressanini, Yue Ma, Hyukjoon Kwon, M.S. Kim
+https://arxiv.org/abs/2601.05973
+https://arxiv.org/abs/2601.05989
+* https://arxiv.org/abs/2601.04640 # Construction of asymptotic quantum many-body scar states in the SU(N) Hubbard model, Daiki Hashimoto, Masaya Kunimi, Tetsuro Nikuni
+* https://arxiv.org/abs/2601.06010 # Slow mixing and emergent one-form symmetries in three-dimensional Z2 gauge theory, Charles Stahl, Benedikt Placke, Vedika Khemani, Yaodong Li
+
 https://journals.aps.org/prb/abstract/10.1103/fn6m-fbw2
 https://journals.aps.org/prb/abstract/10.1103/b5qd-5qly
 https://journals.aps.org/prb/abstract/10.1103/884v-7tqh
