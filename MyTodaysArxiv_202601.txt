@@ -1,5 +1,31 @@
 20260112
 
+https://arxiv.org/abs/2601.05306
+* https://arxiv.org/abs/2601.05308 # Competing Paramagnetic Phases in the Maple-Leaf Heisenberg Antiferromagnet, Paul L. Ebert, Yasir Iqbal, Alexander Wietek
+https://arxiv.org/abs/2601.05318
+
+https://arxiv.org/abs/2601.05360
+https://arxiv.org/abs/2601.05576
+* https://arxiv.org/abs/2601.05577 # Autonomous Discovery of the Ising Model's Critical Parameters with Reinforcement Learning, Hai Man, Chaobo Wang, Jia-Rui Li, Yuping Tian, Shu-Gang Chen
+https://arxiv.org/abs/2601.05602
+https://arxiv.org/abs/2601.05660
+https://arxiv.org/abs/2601.05662
+https://arxiv.org/abs/2601.05689
+https://arxiv.org/abs/2601.05743
+https://arxiv.org/abs/2601.05745
+https://arxiv.org/abs/2601.05781
+
+https://arxiv.org/abs/2601.05819
+https://arxiv.org/abs/2601.05829
+https://arxiv.org/abs/2601.05933
+https://arxiv.org/abs/2601.05970
+https://arxiv.org/abs/2601.06004
+https://arxiv.org/abs/2601.05514
+https://arxiv.org/abs/2601.05515
+* https://arxiv.org/abs/2601.05627 # Chaos, thermalization and breakdown of quantum-classical correspondence in a collective many-body system, Angel L. Corps, Sebastian Gomez, Pavel Stransky, Armando Relano, Pavel Cejnar
+https://arxiv.org/abs/2601.05783
+https://arxiv.org/abs/2601.05925
+
 https://arxiv.org/abs/2601.05286
 https://arxiv.org/abs/2601.05350
 https://arxiv.org/abs/2601.05457
