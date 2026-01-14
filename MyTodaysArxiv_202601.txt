@@ -1,12 +1,34 @@
 20260113
 
+* https://arxiv.org/abs/2601.07829 # Interface roughening in the 3-D Ising model with tensor networks, Atsushi Ueda, Lander Burgelman, Luca Tagliacozzo, Laurens Vanderstraeten
+https://arxiv.org/abs/2601.06256
+https://arxiv.org/abs/2601.06293
+https://arxiv.org/abs/2601.06298
+https://arxiv.org/abs/2601.06345
+https://arxiv.org/abs/2601.06444
+https://arxiv.org/abs/2601.06635
+https://arxiv.org/abs/2601.06821
+https://arxiv.org/abs/2601.07198
+https://arxiv.org/abs/2601.06746
+
+https://arxiv.org/abs/2601.07339
+https://arxiv.org/abs/2601.06987
+* https://arxiv.org/abs/2601.07824 # Computing quantum magic of state vectors, Piotr Sierant, Jofre Valles-Muns, Artur Garcia-Saez
+https://arxiv.org/abs/2601.06513
+https://arxiv.org/abs/2601.06240
+https://arxiv.org/abs/2601.06303
+https://arxiv.org/abs/2601.06332
+https://arxiv.org/abs/2601.06524
+https://arxiv.org/abs/2601.06665
+https://arxiv.org/abs/2601.06736
+
 https://arxiv.org/abs/2601.07037
 https://arxiv.org/abs/2601.07223
 https://arxiv.org/abs/2601.07678
 * https://arxiv.org/abs/2601.07787 # Disorder enhanced transport as a general feature of long-range hopping models, Elisa Zanardini, Giuseppe Luca Celardo, Nahum C. Chavez, Fausto Borgonovi
 https://arxiv.org/abs/2601.07706
 https://arxiv.org/abs/2601.06104
-https://arxiv.org/abs/2601.06788
+* https://arxiv.org/abs/2601.06788 # Artificial Entanglement in the Fine-Tuning of Large Language Models, Min Chen, Zihan Wang, Canyu Chen, Zeguan Wu, Manling Li, Junyu Liu
 https://arxiv.org/abs/2601.06079
 https://arxiv.org/abs/2601.06244
 https://arxiv.org/abs/2601.07580
