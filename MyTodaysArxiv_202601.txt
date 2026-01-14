@@ -1,5 +1,31 @@
 20260113
 
+* https://arxiv.org/abs/2601.06440 # Emergence of Kugel-Khomskii physics in quarter-filled bilayer correlated systems, Guijing Duan, Yunlong Wang, Zhiguang Liao, Changle Liu, Rong Yu
+* https://arxiv.org/abs/2601.06511 # Altermagnetism in exactly solvable model: the Ising-Kondo lattice model, Miaomiao Zhao, Wei-Wei Yang, Yin Zhong
+* https://arxiv.org/abs/2601.06549 # Topological Z4 spin-orbital liquid on the honeycomb lattice, Masahiko G. Yamada
+
+https://arxiv.org/abs/2601.06571
+https://arxiv.org/abs/2601.06638
+https://arxiv.org/abs/2601.06646
+https://arxiv.org/abs/2601.06735
+https://arxiv.org/abs/2601.06738
+https://arxiv.org/abs/2601.06778
+https://arxiv.org/abs/2601.06820
+https://arxiv.org/abs/2601.07128
+https://arxiv.org/abs/2601.07138
+* https://arxiv.org/abs/2601.07236 # Spectral Topology and Delocalization in Disordered Hatano-Nelson Chains, Supriyo Ghosh, Sergej Flach
+
+https://arxiv.org/abs/2601.07346
+https://arxiv.org/abs/2601.07418
+https://arxiv.org/abs/2601.07562
+https://arxiv.org/abs/2601.07583
+https://arxiv.org/abs/2601.07635
+https://arxiv.org/abs/2601.07719
+https://arxiv.org/abs/2601.07724
+* https://arxiv.org/abs/2601.07729 # Prediction of superconductivity in mass-asymmetric electron-hole bilayers, Luca Nashabeh, Liang Fu
+* https://arxiv.org/abs/2601.07777 # Serial vs parallel recall in the Blume-Every-Griffiths neural networks, Linda Albanese, Andrea Alessandrelli, Adriano Barra, Emilio N. M. Cirillo
+* https://arxiv.org/abs/2601.07800 # Rigorous Anderson-type lower bounds on the ground-state energy of the pyrochlore Heisenberg antiferromagnet, Peter Kranitz, Karlo Penc
+
 * https://arxiv.org/abs/2601.07829 # Interface roughening in the 3-D Ising model with tensor networks, Atsushi Ueda, Lander Burgelman, Luca Tagliacozzo, Laurens Vanderstraeten
 https://arxiv.org/abs/2601.06256
 https://arxiv.org/abs/2601.06293
