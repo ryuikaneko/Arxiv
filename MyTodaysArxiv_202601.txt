@@ -1,6 +1,62 @@
 20260114
 
+https://arxiv.org/abs/2601.07914
+
+https://arxiv.org/abs/2601.07923
+https://arxiv.org/abs/2601.07926
+https://arxiv.org/abs/2601.08185
+https://arxiv.org/abs/2601.08239
+* https://arxiv.org/abs/2601.08347 # Eigenstate thermalization in thermal first-order phase transitions, Maksym Serbyn, Alexander Avdoshkin, Oriana K. Diessel, David A. Huse
+https://arxiv.org/abs/2601.08552
+https://arxiv.org/abs/2601.08615
+https://arxiv.org/abs/2601.08616
+* https://arxiv.org/abs/2601.07937 # Attention in Krylov Space, Zihao Qi, Christopher Earls
+https://arxiv.org/abs/2601.07966
+
+* https://arxiv.org/abs/2601.08137 # Dissipative ground-state preparation of a quantum spin chain on a trapped-ion quantum computer, Kazuhiro Seki, Yuta Kikuchi, Tomoya Hayata, Seiji Yunoki
+https://arxiv.org/abs/2601.08601
+* https://arxiv.org/abs/2601.08606 # Open quantum spin chains with non-reciprocity: a theoretical approach based on the time-dependent generalized Gibbs ensemble, Alice Marche, Hironobu Yoshida, Alberto Nardin, Hosho Katsura, Leonardo Mazza
+https://arxiv.org/abs/2601.07851
+https://arxiv.org/abs/2601.07856
+https://arxiv.org/abs/2601.07860
+https://arxiv.org/abs/2601.07872
+https://arxiv.org/abs/2601.07883
+https://arxiv.org/abs/2601.07890
+* https://arxiv.org/abs/2601.07934 # Data-driven learning of non-Markovian quantum dynamics, Samuel Goodwin (1,3), Brian K. McFarland (2), Manuel H. Munoz-Arias (3), Edward C. Tortorici (2), Melissa C. Revelle (2), Christopher G. Yale (2), Daniel S. Lobser (2), Susan M. Clark (2), Mohan Sarovar (3) ((1) Department of Physics and Astronomy, Center for Quantum Information and Control, University of New Mexico, Albuquerque, New Mexico, (2) Sandia National Laboratories, Albuquerque, NM, (3) Quantum 
+
+https://arxiv.org/abs/2601.07953
+https://arxiv.org/abs/2601.08014
+https://arxiv.org/abs/2601.08029
+* https://arxiv.org/abs/2601.08068 # Quantum Energetic Advantage before Computational Advantage in Boson Sampling, Ariane Soret, Nessim Dridi, Stephen C. Wein, Valerian Giesz, Shane Mansfield, Pierre-Emmanuel Emeriau
+https://arxiv.org/abs/2601.08085
+* https://arxiv.org/abs/2601.08132 # Cost scaling of MPS and TTNS simulations for 2D and 3D systems with area-law entanglement, Thomas Barthel
+https://arxiv.org/abs/2601.08389
+https://arxiv.org/abs/2601.08504
+https://arxiv.org/abs/2601.08533
+https://arxiv.org/abs/2601.08568
+
+https://arxiv.org/abs/2601.08578
+https://arxiv.org/abs/2601.08581
+https://arxiv.org/abs/2601.08588
+https://arxiv.org/abs/2601.08724
+https://arxiv.org/abs/2601.08782
+https://arxiv.org/abs/2601.08820
+* https://arxiv.org/abs/2601.08662 # From Classical to Quantum Reinforcement Learning and Its Applications in Quantum Control: A Beginner's Tutorial, Abhijit Sen, Sonali Panda, Mahima Arya, Subhajit Patra, Zizhan Zheng, Denys I. Bondar
+https://arxiv.org/abs/2601.08723
+https://arxiv.org/abs/2601.08762
+* https://arxiv.org/abs/2601.08825 # The Quantum Complexity of String Breaking in the Schwinger Model, Sebastian Grieninger, Martin J. Savage, Nikita A. Zemlevskiy
+
 https://journals.aps.org/prx/abstract/10.1103/c93j-k53f
+https://journals.aps.org/prl/abstract/10.1103/w97w-7zny
+https://journals.aps.org/prl/abstract/10.1103/6y5p-mp7q
+https://journals.aps.org/prb/abstract/10.1103/prp6-y5hl
+https://journals.aps.org/prb/abstract/10.1103/3x34-f53v
+https://journals.aps.org/prb/abstract/10.1103/ny73-r1ss
+https://journals.aps.org/prb/abstract/10.1103/gckn-mc7w
+https://journals.aps.org/prb/abstract/10.1103/d433-nmfp
+https://journals.aps.org/pre/abstract/10.1103/xg33-ksqn
+https://journals.aps.org/prresearch/abstract/10.1103/gwbz-mbfw
+https://journals.aps.org/prresearch/abstract/10.1103/2xhf-33qp
 
 
 20260113
