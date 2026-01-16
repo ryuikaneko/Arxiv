@@ -1,5 +1,33 @@
 20260115
 
+* https://arxiv.org/abs/2601.08925 # Emergent chiral Higgs mode in pi-flux frustrated lattices, Maria Lanaro, Lorenzo Maffi, Marco Di Liberto
+https://arxiv.org/abs/2601.08993
+https://arxiv.org/abs/2601.08997
+https://arxiv.org/abs/2601.09009
+https://arxiv.org/abs/2601.09046
+
+https://arxiv.org/abs/2601.09192
+https://arxiv.org/abs/2601.09242
+https://arxiv.org/abs/2601.09267
+* https://arxiv.org/abs/2601.09326 # Probing the Dynamical Structure Factor of Quantum Spin Chains via Low-Temperature Gibbs States with Matrix Product State Subspace Expansion, Tomoya Takahashi, Wei-Lin Tu, Ji-Yao Chen, Yusuke Nomura
+https://arxiv.org/abs/2601.09360
+https://arxiv.org/abs/2601.09420
+https://arxiv.org/abs/2601.09432
+https://arxiv.org/abs/2601.09462
+https://arxiv.org/abs/2601.09494
+https://arxiv.org/abs/2601.09683
+
+https://arxiv.org/abs/2601.09687
+https://arxiv.org/abs/2601.09705
+https://arxiv.org/abs/2601.08908
+* https://arxiv.org/abs/2601.09245 # Matrix product operator representations for the local conserved quantities of the spin-1/2 XYZ chain, Kohei Fukai, Kyoichi Yamada
+https://arxiv.org/abs/2601.09285
+https://arxiv.org/abs/2601.09290
+https://arxiv.org/abs/2601.09590
+https://arxiv.org/abs/2601.08930
+https://arxiv.org/abs/2601.09075
+https://arxiv.org/abs/2601.09128
+
 https://arxiv.org/abs/2601.09180
 https://arxiv.org/abs/2601.09203
 https://arxiv.org/abs/2601.09266
