@@ -1,5 +1,38 @@
 20260116
 
+https://arxiv.org/abs/2601.09782
+https://arxiv.org/abs/2601.09783
+https://arxiv.org/abs/2601.09793
+https://arxiv.org/abs/2601.09827
+https://arxiv.org/abs/2601.09924
+https://arxiv.org/abs/2601.09962
+* https://arxiv.org/abs/2601.10158 # Electric field effects in one-dimensional spin-1/2 K1J1Gamma1Gamma'1K2J2 model with ferromagnetic Kitaev coupling, Wang Yang, Helin Wang, Chao Xu
+https://arxiv.org/abs/2601.10183
+* https://arxiv.org/abs/2601.10211 # Random matrix theory universality of current operators in spin-S Heisenberg chains, Mariel Kempa, Markus Kraft, Robin Steinigeweg, Jochen Gemmer, Jiaozi Wang
+https://arxiv.org/abs/2601.10301
+
+https://arxiv.org/abs/2601.10347
+https://arxiv.org/abs/2601.10382
+https://arxiv.org/abs/2601.10415
+https://arxiv.org/abs/2601.10427
+https://arxiv.org/abs/2601.10489
+* https://arxiv.org/abs/2601.10549 # Flat-band Ferromagnetism of SU(N) Hubbard Model on the Kagome Lattices, Hao Jin, Wenxing Nie
+https://arxiv.org/abs/2601.10619
+https://arxiv.org/abs/2601.09423
+* https://arxiv.org/abs/2601.09801 # Probing the Chaos to Integrability Transition in Double-Scaled SYK, Sergio E. Aguilar-Gutierrez, Rathindra Nath Das, Johanna Erdmenger, Zhuo-Yu Xian
+https://arxiv.org/abs/2601.09850
+
+https://arxiv.org/abs/2601.09909
+https://arxiv.org/abs/2601.09997
+* https://arxiv.org/abs/2601.10210 # Quantitative approach for the Dicke-Ising chain with an effective self-consistent matter Hamiltonian, J. Leibig, M. Hoermann, A. Langheld, A. Schellenberger, K.P. Schmidt
+https://arxiv.org/abs/2601.10320
+https://arxiv.org/abs/2601.10451
+https://arxiv.org/abs/2601.10465
+https://arxiv.org/abs/2601.10483
+https://arxiv.org/abs/2601.10594
+https://arxiv.org/abs/2601.10684
+https://arxiv.org/abs/2601.10703
+
 https://journals.aps.org/prb/abstract/10.1103/1qmb-c69z
 https://journals.aps.org/prb/abstract/10.1103/nmyk-mbzz
 https://journals.aps.org/prb/abstract/10.1103/5bl6-g7x4
