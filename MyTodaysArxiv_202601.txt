@@ -75,9 +75,6 @@ https://journals.aps.org/pra/abstract/10.1103/kd3b-bfxq
 https://journals.aps.org/pra/abstract/10.1103/9x56-2b45
 
 
-====
-
-
 20260115
 
 * https://arxiv.org/abs/2601.08925 # Emergent chiral Higgs mode in pi-flux frustrated lattices, Maria Lanaro, Lorenzo Maffi, Marco Di Liberto
