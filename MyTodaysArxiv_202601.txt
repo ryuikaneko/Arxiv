@@ -3,6 +3,19 @@
 
 20260119
 
+https://arxiv.org/abs/2601.10785
+https://arxiv.org/abs/2601.10792
+https://arxiv.org/abs/2601.10876
+https://arxiv.org/abs/2601.10916
+https://arxiv.org/abs/2601.10964
+https://arxiv.org/abs/2601.10965
+https://arxiv.org/abs/2601.11040
+https://arxiv.org/abs/2601.11341
+https://arxiv.org/abs/2601.11418
+https://arxiv.org/abs/2601.11446
+
+https://arxiv.org/abs/2601.10801
+
 https://arxiv.org/abs/2601.10749
 https://arxiv.org/abs/2601.10932
 https://arxiv.org/abs/2601.10935
@@ -11,7 +24,7 @@ https://arxiv.org/abs/2601.11055
 https://arxiv.org/abs/2601.11058
 https://arxiv.org/abs/2601.11062
 https://arxiv.org/abs/2601.11371
-https://arxiv.org/abs/2601.10805
+* https://arxiv.org/abs/2601.10805 # Parent Hamiltonians for stabilizer quantum many-body scars, Shane Dooley
 https://arxiv.org/abs/2601.10975
 
 https://arxiv.org/abs/2601.11188
