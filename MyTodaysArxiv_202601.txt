@@ -4,7 +4,7 @@
 20260119
 
 https://arxiv.org/abs/2601.10785
-https://arxiv.org/abs/2601.10792
+* https://arxiv.org/abs/2601.10792 # Critical non-equilibrium phases from noisy topological memories, Amir-Reza Negari, Subhayan Sahu, Jan Behrends, Benjamin Beri, Timothy H. Hsieh
 https://arxiv.org/abs/2601.10876
 https://arxiv.org/abs/2601.10916
 https://arxiv.org/abs/2601.10964
