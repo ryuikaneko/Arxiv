@@ -3,6 +3,17 @@
 
 20260121
 
+https://arxiv.org/abs/2601.14217
+* https://arxiv.org/abs/2512.20215 # Tree tensor network states represent low-energy states faithfully, Thomas Barthel
+https://arxiv.org/abs/2512.25038
+https://arxiv.org/abs/2601.11714
+* https://arxiv.org/abs/2601.11806 # Generalized Shiraishi--Mori construction is exhaustive for ferromagnetic quantum many-body scars, Keita Omiya
+https://arxiv.org/abs/2601.12098
+https://arxiv.org/abs/2601.12165
+* https://arxiv.org/abs/2601.12446 # Operator delocalization in disordered spin chains via exact MPO marginals, Jonnathan Pineda, Mario Collura, Gianluca Passarelli, Procolo Lucignaon, Davide Rossini, Angelo Russomanno
+https://arxiv.org/abs/2601.13038
+https://arxiv.org/abs/2601.13278
+
 * https://arxiv.org/abs/2601.13333 # Polynomial-time certification of fidelity for many-body mixed states and mixed-state universality classes, Yuhan Liu, Yijian Zou
 https://arxiv.org/abs/2601.13367
 https://arxiv.org/abs/2601.13467
