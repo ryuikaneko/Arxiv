@@ -3,6 +3,17 @@
 
 20260121
 
+* https://arxiv.org/abs/2601.13333 # Polynomial-time certification of fidelity for many-body mixed states and mixed-state universality classes, Yuhan Liu, Yijian Zou
+https://arxiv.org/abs/2601.13367
+https://arxiv.org/abs/2601.13467
+https://arxiv.org/abs/2601.13530
+https://arxiv.org/abs/2601.13825
+https://arxiv.org/abs/2601.14083
+* https://arxiv.org/abs/2601.14153 # Information transport and transport-induced entanglement in open fermion chains, Andrea Nava, Claudia Artiaco, Yuval Gefen, Igor Gornyi, Mikheil Tsitsishvili, Alex Zazunov, Reinhold Egger
+https://arxiv.org/abs/2601.14170
+* https://arxiv.org/abs/2601.14185 # Localizable Entanglement as an Order Parameter for Measurement-Induced Phase Transitions, Sourav Manna, Arul Lakshminarayan, Vaibhav Madhok
+* https://arxiv.org/abs/2601.14206 # Locality forces equal energy spacing of quantum many-body scar towers, Nicholas O'Dea, Lei Gioia, Sanjay Moudgalya, Olexei I. Motrunich
+
 https://journals.aps.org/pre/abstract/10.1103/s7nf-bwzd
 https://journals.aps.org/prx/abstract/10.1103/l6hb-ql8z
 
