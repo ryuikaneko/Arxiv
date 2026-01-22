@@ -6,7 +6,7 @@
 https://arxiv.org/abs/2601.11551
 https://arxiv.org/abs/2601.11649
 https://arxiv.org/abs/2601.12168
-https://arxiv.org/abs/2601.12239
+* https://arxiv.org/abs/2601.12239 # Inverse Quantum Simulation for Quantum Material Design, Christian Kokail, Pavel E. Dolgirev, Rick van Bijnen, Daniel Gonzalez-Cuadra, Mikhail D. Lukin, Peter Zoller
 * https://arxiv.org/abs/2601.12368 # Efficient classical simulation of time dynamics in Fermi-Hubbard models with imaginary interactions, Raul A. Santos
 https://arxiv.org/abs/2601.12409
 https://arxiv.org/abs/2601.12483
