@@ -3,6 +3,70 @@
 
 20260121
 
+https://arxiv.org/abs/2601.12836
+https://arxiv.org/abs/2601.11671
+https://arxiv.org/abs/2601.11775
+https://arxiv.org/abs/2601.11796
+https://arxiv.org/abs/2601.11914
+https://arxiv.org/abs/2601.11921
+https://arxiv.org/abs/2601.11965
+https://arxiv.org/abs/2601.12001
+
+https://arxiv.org/abs/2601.12135
+https://arxiv.org/abs/2601.12170
+https://arxiv.org/abs/2601.12264
+https://arxiv.org/abs/2601.12309
+https://arxiv.org/abs/2601.12365
+https://arxiv.org/abs/2601.12387
+https://arxiv.org/abs/2601.12412
+https://arxiv.org/abs/2601.12532
+https://arxiv.org/abs/2601.12656
+https://arxiv.org/abs/2601.12676
+
+* https://arxiv.org/abs/2601.12678 # Self-Consistent Coulomb Interactions from Embedded Dynamical Mean-Field Theory, Antik Sihi, Subhasish Mandal, Kristjan Haule
+https://arxiv.org/abs/2601.12777
+https://arxiv.org/abs/2601.12833
+https://arxiv.org/abs/2601.12838
+https://arxiv.org/abs/2601.12841
+* https://arxiv.org/abs/2601.12898 # Emergent gauge flux and spin ordering in magnetized triangular spin liquids: applications to Hofstadter-Hubbard model, Jiahao Yang, Hao Tian, Si-Yu Pan, Gang v. Chen
+https://arxiv.org/abs/2601.12905
+https://arxiv.org/abs/2601.12969
+https://arxiv.org/abs/2601.12984
+https://arxiv.org/abs/2601.13002
+
+https://arxiv.org/abs/2601.13046
+https://arxiv.org/abs/2601.13063
+https://arxiv.org/abs/2601.13074
+https://arxiv.org/abs/2601.13078
+https://arxiv.org/abs/2601.13079
+https://arxiv.org/abs/2601.13090
+https://arxiv.org/abs/2601.13108
+* https://arxiv.org/abs/2601.13121 # Charge Order in the half-filled bond-Holstein Model, Charles Jordan, George Issa, Ehsan Khatami, Richard Scalettar, Benjamin Cohen-Stead, Steven Johnston
+https://arxiv.org/abs/2601.13169
+https://arxiv.org/abs/2601.13172
+
+https://arxiv.org/abs/2601.13219
+https://arxiv.org/abs/2601.13226
+https://arxiv.org/abs/2601.13242
+https://arxiv.org/abs/2601.13255
+* https://arxiv.org/abs/2601.13314 # Two-Point Stabilizer Renyi Entropy: a Computable Magic Proxy of Interacting Fermions, Jun Qi Fang, Fo-Hong Wang, Xiao Yan Xu
+* https://arxiv.org/abs/2601.13485 # Quantum Avalanche Stability of Many-Body Localization with Power-Law Interactions, Longhui Shen, Bin Guo, Zhaoyu Sun
+https://arxiv.org/abs/2601.13499
+https://arxiv.org/abs/2601.13723
+https://arxiv.org/abs/2601.13760
+* https://arxiv.org/abs/2601.13762 # On the Optimal Layout of Two-Dimensional Lattices for Density Matrix Renormalization Group, A. Scardicchio
+
+https://arxiv.org/abs/2601.13774
+* https://arxiv.org/abs/2601.13811 # Quantum simulation of general spin-1/2 Hamiltonians with parity-violating fermionic Gaussian states, Michael Kaicher, Joseph Vovrosh, Alexandre Dauphin, Simon B. Jaeger
+* https://arxiv.org/abs/2601.13890 # Correlation-driven branch in doped excitonic insulators, Tatsuya Kaneko, Ryota Ueda, Satoshi Ejima
+https://arxiv.org/abs/2601.13928
+https://arxiv.org/abs/2601.13963
+https://arxiv.org/abs/2601.14025
+https://arxiv.org/abs/2601.14082
+https://arxiv.org/abs/2601.14119
+https://arxiv.org/abs/2601.14184
+* https://arxiv.org/abs/2601.14200 # Altermagnetic phases and phase transitions in Lieb-5 Hubbard model, Sougata Biswas, Achintyaa, Paramita Dutta
+
 https://arxiv.org/abs/2601.14217
 * https://arxiv.org/abs/2512.20215 # Tree tensor network states represent low-energy states faithfully, Thomas Barthel
 https://arxiv.org/abs/2512.25038
