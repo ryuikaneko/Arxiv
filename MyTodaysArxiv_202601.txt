@@ -3,6 +3,28 @@
 
 20260121
 
+https://arxiv.org/abs/2601.11551
+https://arxiv.org/abs/2601.11649
+https://arxiv.org/abs/2601.12168
+https://arxiv.org/abs/2601.12239
+* https://arxiv.org/abs/2601.12368 # Efficient classical simulation of time dynamics in Fermi-Hubbard models with imaginary interactions, Raul A. Santos
+https://arxiv.org/abs/2601.12409
+https://arxiv.org/abs/2601.12483
+https://arxiv.org/abs/2601.12619
+https://arxiv.org/abs/2601.12635
+https://arxiv.org/abs/2601.12651
+
+https://arxiv.org/abs/2601.13106
+https://arxiv.org/abs/2601.13718
+https://arxiv.org/abs/2601.13872
+https://arxiv.org/abs/2601.13881
+https://arxiv.org/abs/2601.13956
+https://arxiv.org/abs/2601.14226
+https://arxiv.org/abs/2601.12230
+https://arxiv.org/abs/2601.12484
+https://arxiv.org/abs/2601.13463
+https://arxiv.org/abs/2601.13828
+
 https://arxiv.org/abs/2601.12836
 https://arxiv.org/abs/2601.11671
 https://arxiv.org/abs/2601.11775
