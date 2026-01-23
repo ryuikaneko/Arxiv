@@ -3,6 +3,17 @@
 
 20260122
 
+https://arxiv.org/abs/2601.14410
+https://arxiv.org/abs/2601.14400
+https://arxiv.org/abs/2601.14433
+* https://arxiv.org/abs/2601.14513 # Spin-s U(1)-eigenstate preparation, Nabi Zare Harofteh, Rafael I. Nepomechie
+https://arxiv.org/abs/2601.14763
+https://arxiv.org/abs/2601.14941
+https://arxiv.org/abs/2601.15019
+https://arxiv.org/abs/2601.15046
+https://arxiv.org/abs/2601.15112
+https://arxiv.org/abs/2601.14754
+
 https://journals.aps.org/prb/abstract/10.1103/h7fk-2n35
 https://journals.aps.org/prb/abstract/10.1103/cqt2-b327
 https://journals.aps.org/prb/abstract/10.1103/x12m-1s8v
