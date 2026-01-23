@@ -3,6 +3,15 @@
 
 20260122
 
+https://arxiv.org/abs/2601.14372
+* https://arxiv.org/abs/2601.14380 # Field-induced states and thermodynamics of the frustrated Heisenberg antiferromagnet on a square lattice, Andreas Honecker, M. E. Zhitomirsky, Alexander Wietek, Johannes Richter
+* https://arxiv.org/abs/2601.14382 # Approaching Kasteleyn transition in frustrated quantum Heisenberg antiferromagnets, Katarina Karlova, Afonso Rufino, Taras Verkholyak, Nils Caci, Stefan Wessel, Jozef Strecka, Frederic Mila, Andreas Honecker
+https://arxiv.org/abs/2601.14398
+* https://arxiv.org/abs/2601.14458 # Chirality and quasi-long-range order in finite-flux Gutzwiller states for magnetized frustrated magnets, Wen O. Wang, Urban F. P. Seifert, Oleg A. Starykh, Leon Balents
+* https://arxiv.org/abs/2601.14496 # Magnetic field induced phenomena in Kitaev spin liquids, Shi Feng, Nandini Trivedi
+https://arxiv.org/abs/2601.14524
+https://arxiv.org/abs/2601.14527
+
 https://arxiv.org/abs/2601.14769
 https://arxiv.org/abs/2601.14817
 https://arxiv.org/abs/2601.14836
