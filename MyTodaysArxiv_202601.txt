@@ -1,5 +1,33 @@
 20260123
 
+https://arxiv.org/abs/2601.15340
+* https://arxiv.org/abs/2601.15345 # Non-zero Momentum Implies Long-Range Entanglement When Translation Symmetry is Broken in 1D, Amanda Gatto Lamas, Taylor L. Hughes
+* https://arxiv.org/abs/2601.15377 # Exactly solvable topological phase transition in a quantum dimer model, Laura Shou, Jeet Shah, Matthew Lerner-Brecher, Amol Aggarwal, Alexei Borodin, Victor Galitski
+https://arxiv.org/abs/2601.15386
+https://arxiv.org/abs/2601.15782
+
+https://arxiv.org/abs/2601.15799
+https://arxiv.org/abs/2601.15873
+https://arxiv.org/abs/2601.16015
+* https://arxiv.org/abs/2601.16017 # The role of the apical oxygen in cuprate high-temperature superconductors, Samuel Vadnais, Remi Duchesne, Kristjan Haule, A.-M. S. Tremblay, David Senechal, Benjamin Bacq-Labreuil
+https://arxiv.org/abs/2601.16052
+https://arxiv.org/abs/2601.16069
+https://arxiv.org/abs/2601.16114
+https://arxiv.org/abs/2601.16153
+https://arxiv.org/abs/2601.16184
+https://arxiv.org/abs/2601.16204
+
+https://arxiv.org/abs/2601.04830
+* https://arxiv.org/abs/2601.08132 # Cost scaling of MPS and TTNS simulations for 2D and 3D systems with area-law entanglement, Thomas Barthel
+https://arxiv.org/abs/2601.15439
+* https://arxiv.org/abs/2601.15866 # Dynamics of antiferromagnetic Dimers in Rydberg Atom Chains, Feng-Yuan Kuang, Lin Li, Weibin Li
+https://arxiv.org/abs/2601.15941
+https://arxiv.org/abs/2601.16126
+https://arxiv.org/abs/2601.16144
+* https://arxiv.org/abs/2601.16166 # String Breaking and Glueball Dynamics in 2+1D Quantum Link Electrodynamics, Jiahao Cao, Rohan Joshi, Yizhuo Tian, N. S. Srivatsa, Jad C. Halimeh
+* https://arxiv.org/abs/2601.16177 # Stabilizer Thermal Eigenstates at Infinite Temperature, Akihiro Hokkyo
+https://arxiv.org/abs/2601.16180
+
 https://journals.aps.org/prl/abstract/10.1103/h741-4678
 https://journals.aps.org/prl/abstract/10.1103/tlqz-nw28
 
