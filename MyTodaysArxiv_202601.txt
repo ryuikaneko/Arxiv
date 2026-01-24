@@ -2,26 +2,24 @@
 
 https://arxiv.org/abs/2601.15354
 https://arxiv.org/abs/2601.15361
-https://arxiv.org/abs/2601.15396
-https://arxiv.org/abs/2601.15439
+* https://arxiv.org/abs/2601.15396 # Quadratic tensors as a unification of Clifford, Gaussian, and free-fermion physics, Andreas Bauer, Seth Lloyd
 https://arxiv.org/abs/2601.15523
 https://arxiv.org/abs/2601.15536
-https://arxiv.org/abs/2601.15616
+* https://arxiv.org/abs/2601.15616 # Tensor-based phase difference estimation on time series analysis, Shu Kanno, Kenji Sugisaki, Rei Sakuma, Jumpei Kato, Hajime Nakamura, Naoki Yamamoto
 https://arxiv.org/abs/2601.15641
 https://arxiv.org/abs/2601.15654
 https://arxiv.org/abs/2601.15677
-
 https://arxiv.org/abs/2601.15693
+
 https://arxiv.org/abs/2601.15752
 https://arxiv.org/abs/2601.15760
-https://arxiv.org/abs/2601.15770
+* https://arxiv.org/abs/2601.15770 # Classical Simulation of Noiseless Quantum Dynamics without Randomness, Jue Xu, Chu Zhao, Xiangran Zhang, Shuchen Zhu, Qi Zhao
 https://arxiv.org/abs/2601.15885
 https://arxiv.org/abs/2601.15934
 https://arxiv.org/abs/2601.16002
 https://arxiv.org/abs/2601.16123
 https://arxiv.org/abs/2601.16154
 https://arxiv.org/abs/2601.16189
-
 https://arxiv.org/abs/2601.15505
 
 https://arxiv.org/abs/2601.15340
