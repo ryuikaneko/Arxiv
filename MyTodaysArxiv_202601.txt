@@ -1,5 +1,19 @@
 20260126
 
+https://arxiv.org/abs/2601.16244
+https://arxiv.org/abs/2601.16264
+https://arxiv.org/abs/2601.16343
+https://arxiv.org/abs/2601.16665
+https://arxiv.org/abs/2601.16679
+https://arxiv.org/abs/2601.16697
+https://arxiv.org/abs/2601.16698
+* https://arxiv.org/abs/2601.16734 # SeeMPS: A Python-based Matrix Product State and Tensor Train Library, Paula Garcia-Molina, Juan Jose Rodriguez-Aldavero, Jorge Gidi, Juan Jose Garcia-Ripoll
+https://arxiv.org/abs/2601.16758
+https://arxiv.org/abs/2601.16968
+
+https://arxiv.org/abs/2601.16564
+https://arxiv.org/abs/2601.16646
+
 https://arxiv.org/abs/2601.16221
 https://arxiv.org/abs/2601.16222
 https://arxiv.org/abs/2601.16387
