@@ -8,19 +8,19 @@ https://arxiv.org/abs/2601.16401
 https://arxiv.org/abs/2601.16453
 https://arxiv.org/abs/2601.16459
 https://arxiv.org/abs/2601.16525
-https://arxiv.org/abs/2601.16630
+* https://arxiv.org/abs/2601.16630 # d-wave FFLO state and charge-2e supersolidity in the t-t'-J model under Zeeman fields, Xing-Zhou Qu, Dai-Wei Qu, Qiaoyi Li, Wei Li, Gang Su
 https://arxiv.org/abs/2601.16633
 
-https://arxiv.org/abs/2601.16716
-https://arxiv.org/abs/2601.16807
+* https://arxiv.org/abs/2601.16716 # What is nonequilibrium?, Christian Maes
+* https://arxiv.org/abs/2601.16807 # Zoology of Altermagnetic-type Non-collinear Magnets on the Maple Leaf Lattice, Pratyay Ghosh, Ronny Thomale
 https://arxiv.org/abs/2601.16819
 https://arxiv.org/abs/2601.16850
 https://arxiv.org/abs/2601.16851
-https://arxiv.org/abs/2601.16951
-https://arxiv.org/abs/2601.16257
+* https://arxiv.org/abs/2601.16951 # Boundary critical phenomena in the quantum Ashkin-Teller model, Yifan Liu, Natalia Chepiga, Yoshiki Fukusumi, Masaki Oshikawa
+* https://arxiv.org/abs/2601.16257 # Quantum Cellular Automata on a Dual-Species Rydberg Processor, Ryan White, Vikram Ramesh, Alexander Impertro, Shraddha Anand, Francesco Cesa, Giuliano Giudici, Thomas Iadecola, Hannes Pichler, Hannes Bernien
 https://arxiv.org/abs/2601.16258
 https://arxiv.org/abs/2601.16262
-https://arxiv.org/abs/2601.16275
+* https://arxiv.org/abs/2601.16275 # Experimental observation of conformal field theory spectra, Xiangkai Sun, Yuan Le, Stephen Naus, Richard Bing-Shiun Tsai, Lewis R. B. Picard, Sara Murciano, Michael Knap, Jason Alicea, Manuel Endres
 
 https://arxiv.org/abs/2601.16454
 https://arxiv.org/abs/2601.16605
