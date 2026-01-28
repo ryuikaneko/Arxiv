@@ -37,7 +37,7 @@ https://arxiv.org/abs/2601.18704
 https://arxiv.org/abs/2601.18773
 https://arxiv.org/abs/1712.08775
 https://arxiv.org/abs/1909.13808
-https://arxiv.org/abs/2601.18232
+* https://arxiv.org/abs/2601.18232 # Complex-Valued-Matrix Permanents: SPA-based Approximations and Double-Cover Analysis, Junda Zhou, Pascal O. Vontobel
 https://arxiv.org/abs/2601.18712
 
 * https://arxiv.org/abs/2601.17121 # Ferrichiral skyrmions with sublattice-resolved chirality in extended Kitaev model in triangular lattice, Bogeng Wen, Jiefu Cen, Hae-Young Kee
