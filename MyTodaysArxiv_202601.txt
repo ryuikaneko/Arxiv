@@ -1,24 +1,24 @@
 20260127
 
-https://arxiv.org/abs/2601.17121
+* https://arxiv.org/abs/2601.17121 # Ferrichiral skyrmions with sublattice-resolved chirality in extended Kitaev model in triangular lattice, Bogeng Wen, Jiefu Cen, Hae-Young Kee
 https://arxiv.org/abs/2601.17235
 https://arxiv.org/abs/2601.17427
 https://arxiv.org/abs/2601.17455
 https://arxiv.org/abs/2601.17691
-https://arxiv.org/abs/2601.17718
+* https://arxiv.org/abs/2601.17718 # Tree tensor network solver for real-time quantum impurity dynamics, Bo Zhan, Jia-Lin Chen, Zhen Fan, Tao Xiang
 https://arxiv.org/abs/2601.17727
-https://arxiv.org/abs/2601.17963
+* https://arxiv.org/abs/2601.17963 # Quasicrystalline Analogue of the Haldane Model, Benedict Burgess, Nigel Cooper
 https://arxiv.org/abs/2601.18273
 https://arxiv.org/abs/2601.18291
 
 https://arxiv.org/abs/2601.18317
-https://arxiv.org/abs/2601.18331
-https://arxiv.org/abs/2601.18458
+* https://arxiv.org/abs/2601.18331 # Quantum Hyperuniformity and Quantum Weight, Junmo Jeon, Shiro Sakai
+* https://arxiv.org/abs/2601.18458 # Measurement induced faster symmetry restoration in quantum trajectories, Katha Ganguly, Bijay Kumar Agarwalla
 https://arxiv.org/abs/2601.18469
 https://arxiv.org/abs/2601.18614
 https://arxiv.org/abs/2601.18648
 https://arxiv.org/abs/2601.18717
-https://arxiv.org/abs/2601.18737
+* https://arxiv.org/abs/2601.18737 # Quantum skyrmions in the antiferromagnetic triangular lattice, Ines Corte, Federico Holik, Lorena Rebon, Flavia A. Gomez Albarracin
 https://arxiv.org/abs/2601.18764
 https://arxiv.org/abs/2601.17163
 
@@ -27,12 +27,17 @@ https://arxiv.org/abs/2601.18592
 https://arxiv.org/abs/2601.18653
 https://arxiv.org/abs/2601.18667
 https://arxiv.org/abs/2601.18718
-https://arxiv.org/abs/2601.18756
+* https://arxiv.org/abs/2601.18756 # Efficient Trotter-Suzuki Schemes for Long-time Quantum Dynamics, Marko Malezic, Johann Ostmeyer
 
 https://journals.aps.org/pre/abstract/10.1103/3gry-qtl3
 https://journals.aps.org/prb/abstract/10.1103/bnr2-77yc
 https://journals.aps.org/prb/abstract/10.1103/nwnn-4rx5
 https://journals.aps.org/prb/abstract/10.1103/lg28-bxyv
+https://journals.aps.org/prl/abstract/10.1103/kkvv-y7zy
+https://journals.aps.org/prl/abstract/10.1103/q55v-wm7y
+https://journals.aps.org/prl/abstract/10.1103/c39y-zcz6
+https://journals.aps.org/prl/abstract/10.1103/8nkb-k8m8
+https://journals.aps.org/prl/abstract/10.1103/pgz6-thm6
 
 
 20260126
