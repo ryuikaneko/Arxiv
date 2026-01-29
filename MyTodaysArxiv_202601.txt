@@ -1,5 +1,29 @@
 20260128
 
+https://arxiv.org/abs/2601.18812
+https://arxiv.org/abs/2601.18814
+https://arxiv.org/abs/2601.18839
+https://arxiv.org/abs/2601.18856
+https://arxiv.org/abs/2601.18861
+https://arxiv.org/abs/2601.18870
+https://arxiv.org/abs/2601.18872
+https://arxiv.org/abs/2601.18879
+https://arxiv.org/abs/2601.18898
+https://arxiv.org/abs/2601.18941
+
+https://arxiv.org/abs/2601.18953
+https://arxiv.org/abs/2601.19057
+https://arxiv.org/abs/2601.19166
+https://arxiv.org/abs/2601.19182
+https://arxiv.org/abs/2601.19184
+https://arxiv.org/abs/2601.19279
+https://arxiv.org/abs/2601.19469
+https://arxiv.org/abs/2601.19738
+https://arxiv.org/abs/2601.19765
+https://arxiv.org/abs/2601.19820
+
+https://arxiv.org/abs/2601.19823
+
 * https://arxiv.org/abs/2601.18867 # Jordan-Wigner mapping between quantum-spin and fermionic Casimir effects, Katsumasa Nakayama, Kei Suzuki
 * https://arxiv.org/abs/2601.18868 # Cooper Condensation and Pair Wave Functions in Strongly Correlated Electrons, Hannes Karlsson, Johannes S. Hofmann, Alexander Wietek
 https://arxiv.org/abs/2601.18894
