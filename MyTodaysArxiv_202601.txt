@@ -1,5 +1,37 @@
 20260128
 
+* https://arxiv.org/abs/2601.18867 # Jordan-Wigner mapping between quantum-spin and fermionic Casimir effects, Katsumasa Nakayama, Kei Suzuki
+* https://arxiv.org/abs/2601.18868 # Cooper Condensation and Pair Wave Functions in Strongly Correlated Electrons, Hannes Karlsson, Johannes S. Hofmann, Alexander Wietek
+https://arxiv.org/abs/2601.18894
+https://arxiv.org/abs/2601.18914
+* https://arxiv.org/abs/2601.18922 # Stacked quantum Ising systems and quantum Ashkin-Teller model, Davide Rossini, Ettore Vicari
+* https://arxiv.org/abs/2601.18955 # Moire magnetism in a bilayer Ising model, Ryan Flynn, Anders W. Sandvik
+https://arxiv.org/abs/2601.18968
+https://arxiv.org/abs/2601.18980
+https://arxiv.org/abs/2601.19069
+https://arxiv.org/abs/2601.19118
+
+https://arxiv.org/abs/2601.19192
+* https://arxiv.org/abs/2601.19458 # Coupled Majorana modes in a dual vortex of the Kitaev honeycomb model, Surajit Basak, Jean-Noel Fuchs
+* https://arxiv.org/abs/2601.19517 # Analytical solution of the Schroedinger equation with 1/r3 and attractive 1/r2 potentials: Universal three-body parameter of mixed-dimensional Efimov states, Yuki Ohishi, Kazuki Oi, Shimpei Endo
+https://arxiv.org/abs/2601.19648
+https://arxiv.org/abs/2601.19749
+https://arxiv.org/abs/2601.19829
+https://arxiv.org/abs/2601.19869
+https://arxiv.org/abs/2601.19894
+* https://arxiv.org/abs/2601.19896 # Real-Time Iteration Scheme for Dynamical Mean-Field Theory: A Framework for Near-Term Quantum Simulation, Chakradhar Rangi, Aadi Singh, Ka-Ming Tam
+https://arxiv.org/abs/2601.16961
+
+https://arxiv.org/abs/2601.18822
+* https://arxiv.org/abs/2601.18869 # Eigenstate condensation in quantum systems with finite-dimensional Hilbert spaces, Christopher David White, Michael Winer, Noam Bernstein
+https://arxiv.org/abs/2601.18972
+* https://arxiv.org/abs/2601.19080 # Transformer Learning of Chaotic Collective Dynamics in Many-Body Systems, Ho Jang, Gia-Wei Chern
+https://arxiv.org/abs/2601.19152
+* https://arxiv.org/abs/2601.19650 # Efficient Application of Tensor Network Operators to Tensor Network States, Richard M. Milbradt, Shuo Sun, Christian B. Mendl, Johnnie Gray, Garnet K.-L. Chan
+https://arxiv.org/abs/2601.19703
+https://arxiv.org/abs/2601.19721
+https://arxiv.org/abs/2601.19777
+
 https://journals.aps.org/prl/abstract/10.1103/j2qj-vwcl
 https://journals.aps.org/prb/abstract/10.1103/qdqb-w7zl
 https://journals.aps.org/pra/abstract/10.1103/2w5f-bh3p
