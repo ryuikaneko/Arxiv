@@ -11,7 +11,7 @@ https://arxiv.org/abs/2601.18879
 https://arxiv.org/abs/2601.18898
 https://arxiv.org/abs/2601.18941
 
-https://arxiv.org/abs/2601.18953
+* https://arxiv.org/abs/2601.18953 # Reinforcement Learning for Quantum Technology, Marin Bukov, Florian Marquardt
 https://arxiv.org/abs/2601.19057
 https://arxiv.org/abs/2601.19166
 https://arxiv.org/abs/2601.19182
