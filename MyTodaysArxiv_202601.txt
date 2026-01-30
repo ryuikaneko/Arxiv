@@ -1,15 +1,15 @@
 20260129
 
-https://arxiv.org/abs/2601.20608
+* https://arxiv.org/abs/2601.20608 # Variational Monte Carlo (VMC) with row-update Projected Entangled-Pair States (PEPS) and its applications in quantum spin glasses, Tao Chen, Jing Liu, Yantao Wu, Pan Zhang, Youjin Deng
 https://arxiv.org/abs/2601.20639
 https://arxiv.org/abs/2601.20695
-https://arxiv.org/abs/2601.20702
+* https://arxiv.org/abs/2601.20702 # Collective excitations in chiral spin liquid: chiral roton and long-wavelength nematic mode, Hongyu Lu, Wei Zhu, Wang Yao
 https://arxiv.org/abs/2601.20850
 https://arxiv.org/abs/2601.19981
 https://arxiv.org/abs/2601.19986
 https://arxiv.org/abs/2601.20228
 https://arxiv.org/abs/2601.20287
-https://arxiv.org/abs/2601.20782
+* https://arxiv.org/abs/2601.20782 # Neural Quantum States in Mixed Precision, Massimo Solinas, Agnes Valenti, Nawaf Bou-Rabee, Roeland Wiersema
 
 
 20260128
