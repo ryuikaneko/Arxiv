@@ -1,5 +1,20 @@
 20260129
 
+https://arxiv.org/abs/2601.20007
+https://arxiv.org/abs/2601.20062
+https://arxiv.org/abs/2601.20114
+https://arxiv.org/abs/2601.20247
+https://arxiv.org/abs/2601.20393
+https://arxiv.org/abs/2601.20479
+https://arxiv.org/abs/2601.20525
+https://arxiv.org/abs/2601.20560
+https://arxiv.org/abs/2601.20619
+https://arxiv.org/abs/2601.20631
+
+https://arxiv.org/abs/2601.20681
+https://arxiv.org/abs/2601.20832
+https://arxiv.org/abs/2601.20089
+
 https://arxiv.org/abs/2601.19959
 https://arxiv.org/abs/2601.19966
 * https://arxiv.org/abs/2601.19980 # Unifying Dirac Spin Liquids on Square and Shastry-Sutherland Lattices via Fermionic Deconfined Criticality, Andreas Feuerpfeil, Leyna Shackleton, Atanu Maity, Ronny Thomale, Subir Sachdev, Yasir Iqbal
