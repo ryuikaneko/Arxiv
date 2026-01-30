@@ -1,5 +1,24 @@
 20260129
 
+https://arxiv.org/abs/2601.19959
+https://arxiv.org/abs/2601.19966
+* https://arxiv.org/abs/2601.19980 # Unifying Dirac Spin Liquids on Square and Shastry-Sutherland Lattices via Fermionic Deconfined Criticality, Andreas Feuerpfeil, Leyna Shackleton, Atanu Maity, Ronny Thomale, Subir Sachdev, Yasir Iqbal
+https://arxiv.org/abs/2601.19987
+https://arxiv.org/abs/2601.19991
+https://arxiv.org/abs/2601.20042
+* https://arxiv.org/abs/2601.20058 # Superfluidity in the spin-1/2 XY model with power-law interactions, Muhammad Shaeer Moeed, Costanza Pennaforti, Adrian Del Maestro, Roger G. Melko
+
+https://arxiv.org/abs/2601.20093
+https://arxiv.org/abs/2601.20097
+* https://arxiv.org/abs/2601.20166 # Complex nonlinear sigma model, Kazuki Yamamoto, Kohei Kawabata
+* https://arxiv.org/abs/2601.20189 # High-precision ground state parameters of the two-dimensional spin-1/2 Heisenberg model on the square lattice, Anders W. Sandvik
+https://arxiv.org/abs/2601.20252
+https://arxiv.org/abs/2601.20328
+https://arxiv.org/abs/2601.20358
+https://arxiv.org/abs/2601.20474
+https://arxiv.org/abs/2601.20509
+https://arxiv.org/abs/2601.20532
+
 * https://arxiv.org/abs/2601.20608 # Variational Monte Carlo (VMC) with row-update Projected Entangled-Pair States (PEPS) and its applications in quantum spin glasses, Tao Chen, Jing Liu, Yantao Wu, Pan Zhang, Youjin Deng
 https://arxiv.org/abs/2601.20639
 https://arxiv.org/abs/2601.20695
@@ -10,6 +29,8 @@ https://arxiv.org/abs/2601.19986
 https://arxiv.org/abs/2601.20228
 https://arxiv.org/abs/2601.20287
 * https://arxiv.org/abs/2601.20782 # Neural Quantum States in Mixed Precision, Massimo Solinas, Agnes Valenti, Nawaf Bou-Rabee, Roeland Wiersema
+
+https://journals.aps.org/prb/abstract/10.1103/599c-896h
 
 
 20260128
