@@ -1,10 +1,21 @@
 20260130
 
+https://arxiv.org/abs/2601.20931
+https://arxiv.org/abs/2601.20935
+https://arxiv.org/abs/2601.20937
+https://arxiv.org/abs/2601.20945
+https://arxiv.org/abs/2601.20963
+https://arxiv.org/abs/2601.21044
+https://arxiv.org/abs/2601.21047
+https://arxiv.org/abs/2601.21328
+https://arxiv.org/abs/2601.21502
+https://arxiv.org/abs/2601.21625
+
 https://arxiv.org/abs/2601.21735
 https://arxiv.org/abs/2601.21776
 https://arxiv.org/abs/2601.21810
-https://arxiv.org/abs/2601.22053
-https://arxiv.org/abs/2601.22065
+* https://arxiv.org/abs/2601.22053 # Emergent Spatial Textures from Interaction Quenches in the Hubbard Model, Sankha Subhra Bakshi, Gia-Wei Chern
+* https://arxiv.org/abs/2601.22065 # Universal Multifractality at the Topological Anderson Insulator Transition, Ksenija Kovalenka, Ahmad Ranjbar, Sam Azadi, Rodion Vladimirovich Belosludov, Thomas D. Kuehne, Mohammad Saeed Bahramy
 https://arxiv.org/abs/2601.20956
 https://arxiv.org/abs/2601.21005
 https://arxiv.org/abs/2601.21056
