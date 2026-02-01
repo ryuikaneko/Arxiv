@@ -1,5 +1,16 @@
 20260130
 
+https://arxiv.org/abs/2601.21435
+https://arxiv.org/abs/2601.21472
+https://arxiv.org/abs/2601.21746
+https://arxiv.org/abs/2601.22091
+* https://arxiv.org/abs/2601.20924 # Resource-Theoretic Quantifiers of Weak and Strong Symmetry Breaking: Strong Entanglement Asymmetry and Beyond, Yuya Kusuki, Sridip Pal, Hiroyasu Tajima
+* https://arxiv.org/abs/2601.20926 # Quench spectroscopy of amplitude modes in a one-dimensional critical phase, Hyunsoo Ha, David A. Huse, Rhine Samajdar
+https://arxiv.org/abs/2601.20954
+https://arxiv.org/abs/2601.21134
+* https://arxiv.org/abs/2601.21310 # A Deterministic Framework for Neural Network Quantum States in Quantum Chemistry, Zheng Che
+https://arxiv.org/abs/2601.21874
+
 
 20260129
 
