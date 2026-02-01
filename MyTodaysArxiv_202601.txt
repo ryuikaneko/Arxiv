@@ -1,13 +1,13 @@
 20260130
 
-https://arxiv.org/abs/2601.20931
+* https://arxiv.org/abs/2601.20931 # Hidden localization transitions in generalized Aubry-Andre models, Pasquale Marra
 https://arxiv.org/abs/2601.20935
 https://arxiv.org/abs/2601.20937
 https://arxiv.org/abs/2601.20945
-https://arxiv.org/abs/2601.20963
-https://arxiv.org/abs/2601.21044
+* https://arxiv.org/abs/2601.20963 # Spin-orbit-induced Instability and Finite-Temperature Stabilization of a Triangular-lattice Supersolid, Seongjun Park, Sung-Min Park, Yun-Tak Oh, Hyun-Yong Lee, Eun-Gook Moon
+* https://arxiv.org/abs/2601.21044 # Towards the discovery of high critical magnetic field superconductors, Benjamin Geisler, Philip M. Dee, James J. Hamlin, Gregory R. Stewart, Richard G. Hennig, P.J. Hirschfeld
 https://arxiv.org/abs/2601.21047
-https://arxiv.org/abs/2601.21328
+* https://arxiv.org/abs/2601.21328 # Numerical Diagonalization Study of the Phase Boundaries of the S=2 Heisenberg Antiferromagnet on the Orthogonal Dimer Lattice, Hiroki Nakano, Toru Sakai, Yuko Hosokoshi
 https://arxiv.org/abs/2601.21502
 https://arxiv.org/abs/2601.21625
 
