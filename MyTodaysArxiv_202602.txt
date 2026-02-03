@@ -1,5 +1,30 @@
 20260202
 
+https://arxiv.org/abs/2601.22194
+https://arxiv.org/abs/2601.22253
+https://arxiv.org/abs/2601.22258
+https://arxiv.org/abs/2601.22372
+https://arxiv.org/abs/2601.22400
+https://arxiv.org/abs/2601.22553
+https://arxiv.org/abs/2601.22562
+https://arxiv.org/abs/2601.22568
+https://arxiv.org/abs/2601.22583
+https://arxiv.org/abs/2601.22785
+
+https://arxiv.org/abs/2601.22863
+https://arxiv.org/abs/2601.22939
+https://arxiv.org/abs/2601.23043
+https://arxiv.org/abs/2601.23044
+https://arxiv.org/abs/2601.23109
+https://arxiv.org/abs/2601.23243
+https://arxiv.org/abs/2601.23283
+https://arxiv.org/abs/2601.14328
+https://arxiv.org/abs/2601.22252
+https://arxiv.org/abs/2601.22337
+
+https://arxiv.org/abs/2601.22339
+https://arxiv.org/abs/2601.22540
+
 * https://arxiv.org/abs/2601.22280 # Anisotropic Kitaev Spin Glass in Li2RuxIr1-xO3, Mayia A. Vranas, Alejandro Ruiz, Vikram Nagarajan, Erik Lamb, Gerald D. Morris, Zahir Islam, Christie Nelson, Benjamin A. Frandsen, James G. Analytis, Alex Frano
 https://arxiv.org/abs/2601.22325
 * https://arxiv.org/abs/2601.22375 # Non-Equilibrium Quantum Many-Body Physics with Quantum Circuits, Bruno Bertini
