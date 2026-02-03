@@ -17,7 +17,7 @@ https://arxiv.org/abs/2601.23043
 https://arxiv.org/abs/2601.23044
 https://arxiv.org/abs/2601.23109
 https://arxiv.org/abs/2601.23243
-https://arxiv.org/abs/2601.23283
+* https://arxiv.org/abs/2601.23283 # Robust multiparameter estimation using quantum scrambling, Wenjie Gong, Bingtian Ye, Daniel Mark, Soonwon Choi
 https://arxiv.org/abs/2601.14328
 https://arxiv.org/abs/2601.22252
 https://arxiv.org/abs/2601.22337
