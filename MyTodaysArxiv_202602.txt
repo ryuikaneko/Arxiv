@@ -1,5 +1,38 @@
 20260203
 
+https://arxiv.org/abs/2602.00024
+https://arxiv.org/abs/2602.00048
+https://arxiv.org/abs/2602.00367
+https://arxiv.org/abs/2602.00473
+https://arxiv.org/abs/2602.00595
+https://arxiv.org/abs/2602.00610
+https://arxiv.org/abs/2602.00783
+https://arxiv.org/abs/2602.00874
+https://arxiv.org/abs/2602.00900
+https://arxiv.org/abs/2602.00928
+
+https://arxiv.org/abs/2602.01054
+https://arxiv.org/abs/2602.01123
+https://arxiv.org/abs/2602.01177
+https://arxiv.org/abs/2602.01330
+https://arxiv.org/abs/2602.01353
+https://arxiv.org/abs/2602.01375
+https://arxiv.org/abs/2602.01669
+https://arxiv.org/abs/2602.01670
+https://arxiv.org/abs/2602.01688
+https://arxiv.org/abs/2602.01868
+
+https://arxiv.org/abs/2602.01927
+https://arxiv.org/abs/2602.02008
+https://arxiv.org/abs/2602.02077
+https://arxiv.org/abs/2602.02165
+https://arxiv.org/abs/2602.02245
+https://arxiv.org/abs/2602.02364
+https://arxiv.org/abs/2602.00617
+https://arxiv.org/abs/2602.01625
+https://arxiv.org/abs/2602.01871
+https://arxiv.org/abs/2602.02344
+
 https://arxiv.org/abs/2602.00374
 https://arxiv.org/abs/2602.00486
 https://arxiv.org/abs/2602.00569
@@ -32,9 +65,7 @@ https://arxiv.org/abs/2602.01441
 https://arxiv.org/abs/2602.01794
 * https://arxiv.org/abs/2602.01809 # Finite-Size Scaling of the Full Eigenstate Thermalization in Quantum Spin Chains, Yuke Zhang, Pengfei Zhang
 
-
 https://arxiv.org/abs/2602.01943
-
 https://arxiv.org/abs/2602.02106
 
 https://journals.aps.org/pra/abstract/10.1103/b5sd-fn57
