@@ -5,7 +5,7 @@ https://arxiv.org/abs/2602.00048
 https://arxiv.org/abs/2602.00367
 https://arxiv.org/abs/2602.00473
 https://arxiv.org/abs/2602.00595
-https://arxiv.org/abs/2602.00610
+* https://arxiv.org/abs/2602.00610 # Practical Quantum Reservoir Computing in Rydberg Atom Arrays, Dong-Sheng Liu, Qing-Xuan Jie, Chang-Ling Zou, Xi-Feng Ren, Guang-Can Guo
 https://arxiv.org/abs/2602.00783
 https://arxiv.org/abs/2602.00874
 https://arxiv.org/abs/2602.00900
@@ -20,18 +20,18 @@ https://arxiv.org/abs/2602.01375
 https://arxiv.org/abs/2602.01669
 https://arxiv.org/abs/2602.01670
 https://arxiv.org/abs/2602.01688
-https://arxiv.org/abs/2602.01868
+* https://arxiv.org/abs/2602.01868 # Quantum Circuit Representation of Bosonic Matrix Functions, Minhyeok Kang, Gwonhak Lee, Youngrong Lim, Joonsuk Huh
 
 https://arxiv.org/abs/2602.01927
 https://arxiv.org/abs/2602.02008
 https://arxiv.org/abs/2602.02077
 https://arxiv.org/abs/2602.02165
-https://arxiv.org/abs/2602.02245
+* https://arxiv.org/abs/2602.02245 # Sampling two-dimensional isometric tensor network states, Alec Dektor, Eugene Dumitrescu, Chao Yang
 https://arxiv.org/abs/2602.02364
 https://arxiv.org/abs/2602.00617
 https://arxiv.org/abs/2602.01625
 https://arxiv.org/abs/2602.01871
-https://arxiv.org/abs/2602.02344
+* https://arxiv.org/abs/2602.02344 # Large Nc Truncations for SU(Nc) Lattice Yang-Mills Theory with Fermions, Neel S. Modi, Anthony N. Ciavarella, Jad C. Halimeh, Christian W. Bauer
 
 https://arxiv.org/abs/2602.00374
 https://arxiv.org/abs/2602.00486
