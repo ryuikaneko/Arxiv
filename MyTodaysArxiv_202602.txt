@@ -23,14 +23,16 @@ https://arxiv.org/abs/2602.02460
 https://arxiv.org/abs/2602.02478
 
 https://arxiv.org/abs/2602.00232
-https://arxiv.org/abs/2602.00245
+* https://arxiv.org/abs/2602.00245 # Fermionic magic resources in disordered quantum spin chains, Pedro R. Nicacio Falcao, Jakub Zakrzewski, Piotr Sierant
 https://arxiv.org/abs/2602.00302
-https://arxiv.org/abs/2602.00369
-https://arxiv.org/abs/2602.00452
-https://arxiv.org/abs/2602.01259
+* https://arxiv.org/abs/2602.00369 # Dynamical witnesses and universal behavior across chaos and non-ergodicity in the tilted Bose-Hubbard model, Carlos Diaz-Mejia, Sergio Lerma-Hernandez, Jorge G. Hirsch
+* https://arxiv.org/abs/2602.00452 # Single-site dissipation stabilizes a superconducting nonequilibrium steady state in a strongly correlated lattice, X. Z. Zhang
+* https://arxiv.org/abs/2602.01259 # The Intrinsic Connection between Dynamical Phase Transitions and Magnetization in the 1D XY Model, Lin-Yue Luo, Wei-Lin Li, Bao-Ming Xu, Zhi Li
 https://arxiv.org/abs/2602.01441
 https://arxiv.org/abs/2602.01794
-https://arxiv.org/abs/2602.01809
+* https://arxiv.org/abs/2602.01809 # Finite-Size Scaling of the Full Eigenstate Thermalization in Quantum Spin Chains, Yuke Zhang, Pengfei Zhang
+
+
 https://arxiv.org/abs/2602.01943
 
 https://arxiv.org/abs/2602.02106
