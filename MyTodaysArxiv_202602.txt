@@ -5,20 +5,20 @@ https://arxiv.org/abs/2602.00486
 https://arxiv.org/abs/2602.00569
 https://arxiv.org/abs/2602.00698
 https://arxiv.org/abs/2602.00833
-https://arxiv.org/abs/2602.01223
+* https://arxiv.org/abs/2602.01223 # Topological Quantum Criticality in Quasiperiodic Ising Chain, Sheng Yang, Hai-Qing Lin, Xue-Jia Yu
 https://arxiv.org/abs/2602.01280
 https://arxiv.org/abs/2602.01354
 https://arxiv.org/abs/2602.01393
 https://arxiv.org/abs/2602.01955
 
-https://arxiv.org/abs/2602.01981
+* https://arxiv.org/abs/2602.01981 # Putting machine learning to the test in a quantum many-body system, Yilun Gao, Alberto Rodrlguez, Rudolf A. Roemer
 https://arxiv.org/abs/2602.02059
 https://arxiv.org/abs/2602.02097
 https://arxiv.org/abs/2602.02127
-https://arxiv.org/abs/2602.02177
-https://arxiv.org/abs/2602.02251
+* https://arxiv.org/abs/2602.02177 # Interaction-induced moire lattices: from mosaic mobility edges to many-body localization, Yan-Hao Yang, Zhihao Xu, Lei Ying, Qizhong Zhu
+* https://arxiv.org/abs/2602.02251 # Observing weakly broken conservation laws in a dipolar Rydberg quantum spin chain, Cheng Chen, Luca Capizzi, Alice Marche, Guillaume Bornet, Gabriel Emperauger, Thierry Lahaye, Antoine Browaeys, Maurizio Fagotti, Leonardo Mazza
 https://arxiv.org/abs/2602.02428
-https://arxiv.org/abs/2602.02433
+* https://arxiv.org/abs/2602.02433 # Nonlinear light cone spreading of correlations in a triangular quantum magnet: a hard quantum simulation target, A. Scheie, J. Willsher, E. A. Ghioldi, Kevin Wang, P. Laurell, J. E. Moore, C. D. Batista, J. Knolle, D. Alan Tennant
 https://arxiv.org/abs/2602.02460
 https://arxiv.org/abs/2602.02478
 
