@@ -4,7 +4,7 @@ https://arxiv.org/abs/2602.02653
 https://arxiv.org/abs/2602.02672
 https://arxiv.org/abs/2602.02695
 https://arxiv.org/abs/2602.02698
-https://arxiv.org/abs/2602.02750
+* https://arxiv.org/abs/2602.02750 # Inducing, and enhancing, many-body quantum chaos by continuous monitoring, Xianlong Liu, Jie-ping Zheng, Antonio M. Garcia-Garcia
 https://arxiv.org/abs/2602.03466
 https://arxiv.org/abs/2602.03522
 https://arxiv.org/abs/2602.03536
