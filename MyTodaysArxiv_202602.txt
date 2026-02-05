@@ -3,40 +3,40 @@
 https://arxiv.org/abs/2602.02612
 https://arxiv.org/abs/2602.02643
 https://arxiv.org/abs/2602.02648
-https://arxiv.org/abs/2602.02649
-https://arxiv.org/abs/2602.02665
+* https://arxiv.org/abs/2602.02649 # Non-Hermitian free-fermion critical systems and logarithmic conformal field theory, Iao-Fai Io, Fu-Hsiang Huang, Chang-Tse Hsieh
+* https://arxiv.org/abs/2602.02665 # Approaching the Thermodynamic Limit with Neural-Network Quantum States, Luciano Loris Viteritti, Riccardo Rende, Subir Sachdev, Giuseppe Carleo
 https://arxiv.org/abs/2602.02681
 https://arxiv.org/abs/2602.02692
-https://arxiv.org/abs/2602.02796
+* https://arxiv.org/abs/2602.02796 # Fractal Topology of Majorana Bound States in Superconducting Quasicrystals, William Caiger, Felix Flicker, Miguel-Angel Sanchez-Martinez
 https://arxiv.org/abs/2602.02807 
 https://arxiv.org/abs/2602.02904
 
 https://arxiv.org/abs/2602.02946
-https://arxiv.org/abs/2602.03031
+* https://arxiv.org/abs/2602.03031 # Physics-inspired transformer quantum states via latent imaginary-time evolution, Kimihiro Yamazaki, Itsushi Sakata, Takuya Konishi, Yoshinobu Kawahara
 https://arxiv.org/abs/2602.03326
-https://arxiv.org/abs/2602.03431
+* https://arxiv.org/abs/2602.03431 # Solving models with generalized free fermions I: Algebras and eigenstates, Kohei Fukai, Balazs Pozsgay, Istvan Vona
 https://arxiv.org/abs/2602.03438
 https://arxiv.org/abs/2602.03457
 https://arxiv.org/abs/2602.03487
 https://arxiv.org/abs/2602.03488
 https://arxiv.org/abs/2602.03576
-https://arxiv.org/abs/2602.03598
+* https://arxiv.org/abs/2602.03598 # Calculating Feynman diagrams with matrix product states, Xavier Waintal
 
-https://arxiv.org/abs/2602.03656
-https://arxiv.org/abs/2602.03761
+* https://arxiv.org/abs/2602.03656 # Resolving Quantum Criticality in the Honeycomb Hubbard Model, Fo-Hong Wang, Fanjie Sun, Chenghao He, Xiao Yan Xu
+* https://arxiv.org/abs/2602.03761 # Machine Learning Modeling of Charge-Density-Wave Recovery After Laser Melting, Sankha Subhra Bakshi, Yunhao Fan, Gia-Wei Chern
 https://arxiv.org/abs/2602.03764
-https://arxiv.org/abs/2602.03771
+* https://arxiv.org/abs/2602.03771 # Spin and Charge Conductivity in the Square Lattice Fermi-Hubbard Model, Linh Pham, Ehsan Khatami
 https://arxiv.org/abs/2602.03790
-https://arxiv.org/abs/2602.03843
+* https://arxiv.org/abs/2602.03843 # Classical Benchmarks of a Symmetry-Adapted Variational Quantum Eigensolver for Real-Time Green's Functions in Dynamical Mean-Field Theory, Aadi Singh, Chakradhar Rangi, Ka-Ming Tam
 https://arxiv.org/abs/2602.03848
-https://arxiv.org/abs/2602.02663
-https://arxiv.org/abs/2602.02673
+* https://arxiv.org/abs/2602.02663 # Tailoring Quantum Chaos With Continuous Quantum Measurements, Preethi Gopalakrishnan, Andras Grabarits, Adolfo del Campo
+* https://arxiv.org/abs/2602.02673 # Floquet-engineered fidelity revivals in the PXP model, Francesco Perciavalle, Francesco Plastina, Nicola Lo Gullo
 https://arxiv.org/abs/2602.02675
 
 https://arxiv.org/abs/2602.02756
 https://arxiv.org/abs/2602.03008
 https://arxiv.org/abs/2602.03291
-https://arxiv.org/abs/2602.03714
+* https://arxiv.org/abs/2602.03714 # Thermodynamics of the Heisenberg XXX chain with negative spin, Rong Zhong, Yang-Yang Chen, Kun Hao, Wen-li Yang, Vladimir Korepin
 https://arxiv.org/abs/2602.03765
 https://arxiv.org/abs/2602.02617
 
