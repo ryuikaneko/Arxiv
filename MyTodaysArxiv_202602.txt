@@ -1,15 +1,50 @@
 20260205
 
+https://arxiv.org/abs/2602.03877
+* https://arxiv.org/abs/2602.03925 # Primary charge-4e superconductivity from doping a featureless Mott insulator, Zhi-Qiang Gao, Yan-Qi Wang, Ya-Hui Zhang, Hui Yang
+* https://arxiv.org/abs/2602.03927 # First-Principles AI finds crystallization of fractional quantum Hall liquids, Ahmed Abouelkomsan, Liang Fu
+https://arxiv.org/abs/2602.03936
+
+https://arxiv.org/abs/2602.04002
+* https://arxiv.org/abs/2602.04141 # Dynamics of string breaking and revival in a Rydberg atomic chain, Xin Liu, Han-Chao Chen, Zheng-Yuan Zhang, Jun Zhang, Ya-Jun Wang, Qing Li, Shi-Yao Shao, Bang Liu, Li-Hua Zhang, Dong-Sheng Ding, Bao-Sen Shi
+https://arxiv.org/abs/2602.04313
+* https://arxiv.org/abs/2602.04357 # Population dynamics simulations of large deviations for three subclasses of the Kardar-Parisi-Zhang universality class, Yuta Yanagibashi, Kazumasa A. Takeuchi
+https://arxiv.org/abs/2602.04593
+https://arxiv.org/abs/2602.04602
+https://arxiv.org/abs/2602.04741
+https://arxiv.org/abs/2602.04818
+https://arxiv.org/abs/2602.04223
+https://arxiv.org/abs/2602.04404
+
+https://arxiv.org/abs/2602.04011
+https://arxiv.org/abs/2602.04072
+https://arxiv.org/abs/2602.04351
+* https://arxiv.org/abs/2602.04366 # Low resource entanglement classification from neural network interpretability, A. Garcia-Velo, R. Puebla, Y. Ban, E. Torrontegui, M. Paraschiv
+https://arxiv.org/abs/2602.04370
+https://arxiv.org/abs/2602.04444
+https://arxiv.org/abs/2602.04543
+https://arxiv.org/abs/2602.04627
+* https://arxiv.org/abs/2602.04676 # Pre-optimization of quantum circuits, barren plateaus and classical simulability: tensor networks to unlock the variational quantum eigensolver, Baptiste Anselme Martin, Thomas Ayral
+https://arxiv.org/abs/2602.04700
+
 https://arxiv.org/abs/2602.04719
 https://arxiv.org/abs/2602.04740
 https://arxiv.org/abs/2602.04760
 https://arxiv.org/abs/2602.04792
 https://arxiv.org/abs/2602.04831
 https://arxiv.org/abs/2602.04859
-https://arxiv.org/abs/2602.04878
+* https://arxiv.org/abs/2602.04878 # Thermal State Simulation with Pauli and Majorana Propagation, Manuel S. Rudolph, Armando Angrisani, Andrew Wright, Iwo Sanderski, Ricard Puig, Zoe Holmes
 https://arxiv.org/abs/2602.04229
 https://arxiv.org/abs/2602.04505
 https://arxiv.org/abs/2602.04854
+
+https://journals.aps.org/prd/abstract/10.1103/7wkj-w8c9
+https://journals.aps.org/pre/abstract/10.1103/jl75-7ynx
+https://journals.aps.org/prresearch/abstract/10.1103/9x8b-4j41
+https://journals.aps.org/prl/abstract/10.1103/vywt-16r7
+https://journals.aps.org/prb/abstract/10.1103/q1d9-943y
+https://journals.aps.org/prb/abstract/10.1103/jjj6-cx8l
+https://journals.aps.org/prb/abstract/10.1103/9gmp-byx8
 
 
 20260204
