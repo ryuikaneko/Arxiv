@@ -1,5 +1,22 @@
 20260206
 
+https://arxiv.org/abs/2602.04921
+https://arxiv.org/abs/2602.04934
+* https://arxiv.org/abs/2602.04955 # Efficient time-evolution of matrix product states using average Hamiltonians, Belal Abouraya, Jirawat Saiphet, Fedor Jelezko, Ressa S. Said
+https://arxiv.org/abs/2602.05058
+https://arxiv.org/abs/2602.05069
+https://arxiv.org/abs/2602.05288
+https://arxiv.org/abs/2602.05337
+https://arxiv.org/abs/2602.05425
+https://arxiv.org/abs/2602.05432
+https://arxiv.org/abs/2602.05595
+
+https://arxiv.org/abs/2602.05726
+https://arxiv.org/abs/2602.05777
+https://arxiv.org/abs/2602.05781
+https://arxiv.org/abs/2602.05978
+https://arxiv.org/abs/2602.05980
+
 * https://arxiv.org/abs/2602.04943 # Graph--Theoretic Analysis of Phase Optimization Complexity in Variational Wave Functions for Heisenberg Antiferromagnets, Mahmud Ashraf Shamim, Moshiur Rahman, Mohamed Hibat-Allah, Paulo T Araujo
 https://arxiv.org/abs/2602.04945
 https://arxiv.org/abs/2602.04948
