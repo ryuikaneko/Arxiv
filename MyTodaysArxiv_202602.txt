@@ -1,29 +1,29 @@
 20260206
 
-https://arxiv.org/abs/2602.04943
+* https://arxiv.org/abs/2602.04943 # Graph--Theoretic Analysis of Phase Optimization Complexity in Variational Wave Functions for Heisenberg Antiferromagnets, Mahmud Ashraf Shamim, Moshiur Rahman, Mohamed Hibat-Allah, Paulo T Araujo
 https://arxiv.org/abs/2602.04945
 https://arxiv.org/abs/2602.04948
 https://arxiv.org/abs/2602.04961
 https://arxiv.org/abs/2602.05040
 https://arxiv.org/abs/2602.05212
-https://arxiv.org/abs/2602.05255
+* https://arxiv.org/abs/2602.05255 # lrux: Fast low-rank updates of determinants and Pfaffians in JAX, Ao Chen, Christopher Roth
 https://arxiv.org/abs/2602.05338
 https://arxiv.org/abs/2602.05365
-https://arxiv.org/abs/2602.05470
+* https://arxiv.org/abs/2602.05470 # Branch-and-Bound Tensor Networks for Exact Ground-State Characterization, Yijia Wang, Xuanzhao Gao, Pan Zhang, Feng Pan, Jinguo Liu
 
 https://arxiv.org/abs/2602.05500
 https://arxiv.org/abs/2602.05771
 https://arxiv.org/abs/2602.05815
 https://arxiv.org/abs/2602.05839
 https://arxiv.org/abs/2602.05894
-https://arxiv.org/abs/2602.05899
-https://arxiv.org/abs/2602.05901
+* https://arxiv.org/abs/2602.05899 # Giant bubbles of Fisher zeros in the quantum XY chain, Songtai Lv, Yang Liu, Erhai Zhao, Haiyuan Zou, Tao Xiang
+* https://arxiv.org/abs/2602.05901 # Spontaneous Parity Breaking in Quantum Antiferromagnets on the Triangular Lattice, Songtai Lv, Yuchen Meng, Haiyuan Zou
 https://arxiv.org/abs/2602.02672
 https://arxiv.org/abs/2602.04949
 https://arxiv.org/abs/2602.04958
 
 https://arxiv.org/abs/2602.04960
-https://arxiv.org/abs/2602.04969
+* https://arxiv.org/abs/2602.04969 # Taming multiparty entanglement at measurement-induced phase transitions, Liuke Lyu, James Allen, Yi Hong Teoh, Roger G Melko, William Witczak-Krempa
 https://arxiv.org/abs/2602.05138
 https://arxiv.org/abs/2602.05166
 https://arxiv.org/abs/2602.05167
