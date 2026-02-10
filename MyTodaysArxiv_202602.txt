@@ -3,10 +3,10 @@
 https://arxiv.org/abs/2602.06913
 https://arxiv.org/abs/2602.06091
 https://arxiv.org/abs/2602.06114
-https://arxiv.org/abs/2602.06137
+* https://arxiv.org/abs/2602.06137 # Warm Starts, Cold States: Exploiting Adiabaticity for Variational Ground-States, Ricard Puig, Berta Casas, Alba Cervera-Lierta, Zoe Holmes, Adrian Perez-Salinas
 https://arxiv.org/abs/2602.06145
 https://arxiv.org/abs/2602.06167
-https://arxiv.org/abs/2602.06201
+* https://arxiv.org/abs/2602.06201 # Hybrid Quantum Image Preparation via JPEG Compression, Emad Rezaei Fard Boosari
 https://arxiv.org/abs/2602.06367
 https://arxiv.org/abs/2602.06381
 https://arxiv.org/abs/2602.06420
@@ -19,10 +19,9 @@ https://arxiv.org/abs/2602.06699
 https://arxiv.org/abs/2602.06812
 https://arxiv.org/abs/2602.06847
 https://arxiv.org/abs/2602.06852
-https://arxiv.org/abs/2602.06913
 https://arxiv.org/abs/2602.06110
-
 https://arxiv.org/abs/2602.06113
+
 https://arxiv.org/abs/2602.06587
 
 https://journals.aps.org/prb/abstract/10.1103/v5kq-7mn7
