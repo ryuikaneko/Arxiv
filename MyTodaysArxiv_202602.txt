@@ -1,3 +1,6 @@
+20260210
+
+
 20260209
 
 * https://arxiv.org/abs/2602.06169 # Mobile impurity interacting with a Hubbard chain and the role of Friedel oscillations, Felipe Isaule, Abel Rojo-Francas, Duc Tuan Hoang, Thomas Fogarty, Thomas Busch, Bruno Julia-Diaz
@@ -47,6 +50,8 @@ https://journals.aps.org/prb/abstract/10.1103/j9xb-vfrh
 https://journals.aps.org/prb/abstract/10.1103/xjpd-qlcr
 https://journals.aps.org/prb/abstract/10.1103/j4v5-rgmm
 https://journals.aps.org/prb/abstract/10.1103/6pcg-qq4p
+https://journals.aps.org/prl/abstract/10.1103/lhht-svmn
+https://journals.aps.org/prl/abstract/10.1103/cg3f-rggs
 
 
 20260206
