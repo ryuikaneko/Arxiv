@@ -12,7 +12,7 @@ https://journals.aps.org/pra/abstract/10.1103/wqrc-z7th
 https://arxiv.org/abs/2602.07097
 https://arxiv.org/abs/2602.07112
 https://arxiv.org/abs/2602.07151
-https://arxiv.org/abs/2602.07201
+* https://arxiv.org/abs/2602.07201 # Measurement-Based Preparation of Higher-Dimensional AKLT States and Their Quantum Computational Power, Wenhan Guo, Mikhail Litvinov, Tzu-Chieh Wei, Abid Khan, Kevin C. Smith
 https://arxiv.org/abs/2602.07281
 https://arxiv.org/abs/2602.07357
 https://arxiv.org/abs/2602.07406
