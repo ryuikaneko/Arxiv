@@ -12,20 +12,20 @@ https://journals.aps.org/pra/abstract/10.1103/wqrc-z7th
 https://arxiv.org/abs/2602.07867
 https://arxiv.org/abs/2602.07116
 https://arxiv.org/abs/2602.07317
-https://arxiv.org/abs/2602.07349
+* https://arxiv.org/abs/2602.07349 # Limitations of SVD-Based Diagnostics for Non-Hermitian Many-Body Localization with Time-Reversal Symmetry, Huimin You, Jinghu Liu, Yunbo Zhang, Zhihao Xu
 https://arxiv.org/abs/2602.07372
 https://arxiv.org/abs/2602.07401
 https://arxiv.org/abs/2602.07548
-https://arxiv.org/abs/2602.07654
+* https://arxiv.org/abs/2602.07654 # Direct Observation of the Three-Dimensional Anderson Transition with Ultracold Atoms in a Disordered Potential, Xudong Yu, Ke Xie, Hoa Mai Quach, Yukun Guo, Myneni Niranjan, Sacha Barre, Jean-Philippe Banon, Alain Aspect, Nicolas Cherroret, Vincent Josse
 https://arxiv.org/abs/2602.07766
 https://arxiv.org/abs/2602.07779
 
 https://arxiv.org/abs/2602.07791
 https://arxiv.org/abs/2602.07818
-https://arxiv.org/abs/2602.07988
+* https://arxiv.org/abs/2602.07988 # Hierarchical Lorentz Mirror Model: Normal Transport and a Universal 2/3 Mean--Variance Law, Raphael Lefevere, Hal Tasaki
 https://arxiv.org/abs/2602.07998
 https://arxiv.org/abs/2602.08361
-https://arxiv.org/abs/2602.08428
+* https://arxiv.org/abs/2602.08428 # Analysis of the Hopfield Model Incorporating the Effects of Unlearning, Shuta Takeuchi, Takashi Takahashi, Yoshiyuki Kabashima
 https://arxiv.org/abs/2602.08436
 https://arxiv.org/abs/2602.08443
 https://arxiv.org/abs/2602.08497
@@ -45,7 +45,7 @@ https://arxiv.org/abs/2602.07939
 https://arxiv.org/abs/2602.07948
 https://arxiv.org/abs/2602.07952
 https://arxiv.org/abs/2602.08216
-https://arxiv.org/abs/2602.08705
+* https://arxiv.org/abs/2602.08705 # Non-Hermitian Renormalization Group from a Few-Body Perspective, Hiroyuki Tajima, Masaya Nakagawa, Haozhao Liang, Masahito Ueda
 
 https://journals.aps.org/prb/abstract/10.1103/x7lc-ztqn
 https://journals.aps.org/prresearch/abstract/10.1103/wb1b-ntpc
