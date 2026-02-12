@@ -1,31 +1,31 @@
 20260211
 
 https://arxiv.org/abs/2602.09083
-https://arxiv.org/abs/2602.09093
-https://arxiv.org/abs/2602.09098
+* https://arxiv.org/abs/2602.09093 # Predicting magnetism with first-principles AI, Max Geier, Liang Fu
+* https://arxiv.org/abs/2602.09098 # Anomalous spin transport in integrable random quantum circuits, Songlei Wang, Chenguang Liang, Hongzheng Zhao, Zhi-Cheng Yang
 https://arxiv.org/abs/2602.09107
 https://arxiv.org/abs/2602.09156
-https://arxiv.org/abs/2602.09335
+* https://arxiv.org/abs/2602.09335 # Real-space topology and charge order in the Haldane-Holstein Model, Sebastiao dos Anjos Sousa-Junior, Julian Faundez, Tarik P. Cysne, Richard T. Scalettar, Rubem Mondaini
 https://arxiv.org/abs/2602.09479
 https://arxiv.org/abs/2602.09491
 https://arxiv.org/abs/2602.09545
 https://arxiv.org/abs/2602.09567
 
 https://arxiv.org/abs/2602.09640
-https://arxiv.org/abs/2602.09709
+* https://arxiv.org/abs/2602.09709 # Raman Spectroscopic Investigation of Kitaev Quantum Spin Liquids, Vivek Kumar, Pradeep Kumar
 https://arxiv.org/abs/2602.09738
 https://arxiv.org/abs/2602.09739
 https://arxiv.org/abs/2602.09752
 https://arxiv.org/abs/2602.09769
 https://arxiv.org/abs/2602.09938
-https://arxiv.org/abs/2602.10008
+* https://arxiv.org/abs/2602.10008 # Ground-state phases of S=1/2 Heisenberg models on the body-centered cubic lattice, Rajah P. Nutakki, Filippo Vicentini
 https://arxiv.org/abs/2602.10060
 https://arxiv.org/abs/2602.10086
 
-https://arxiv.org/abs/2602.10091
+* https://arxiv.org/abs/2602.10091 # Simulating superconductivity in mixed-dimensional t||-J||-J_ bilayers with neural quantum states, Hannah Lange, Ao Chen, Antoine Georges, Fabian Grusdt, Annabelle Bohrdt, Christopher Roth
 https://arxiv.org/abs/2602.10108
 https://arxiv.org/abs/2602.09086
-https://arxiv.org/abs/2602.09087
+* https://arxiv.org/abs/2602.09087 # Eigenstate Thermalization for Local versus Translationally Invariant Observables, Rohit Patil, Marcos Rigol
 https://arxiv.org/abs/2602.09090
 https://arxiv.org/abs/2602.09105
 https://arxiv.org/abs/2602.09149
@@ -33,7 +33,7 @@ https://arxiv.org/abs/2602.09162
 https://arxiv.org/abs/2602.09348
 https://arxiv.org/abs/2602.09458
 
-https://arxiv.org/abs/2602.09665
+* https://arxiv.org/abs/2602.09665 # Tunable many-body burst in isolated quantum systems, Shozo Yamada, Akihiro Hokkyo, Masahito Ueda
 https://arxiv.org/abs/2602.09881
 https://arxiv.org/abs/2602.09986
 https://arxiv.org/abs/2602.10037
