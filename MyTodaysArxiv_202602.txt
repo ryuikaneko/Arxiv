@@ -1,5 +1,27 @@
 20260211
 
+https://arxiv.org/abs/2602.10563
+https://arxiv.org/abs/2602.10836
+https://arxiv.org/abs/2602.09047
+https://arxiv.org/abs/2602.09074
+https://arxiv.org/abs/2602.09103
+https://arxiv.org/abs/2602.09119
+https://arxiv.org/abs/2602.09291
+https://arxiv.org/abs/2602.09325
+https://arxiv.org/abs/2602.09696
+https://arxiv.org/abs/2602.09718
+
+https://arxiv.org/abs/2602.09733
+https://arxiv.org/abs/2602.09745
+https://arxiv.org/abs/2602.09788
+https://arxiv.org/abs/2602.09860
+https://arxiv.org/abs/2602.09874
+https://arxiv.org/abs/2602.09909
+https://arxiv.org/abs/2602.09912
+https://arxiv.org/abs/2602.10002
+https://arxiv.org/abs/2602.10049
+https://arxiv.org/abs/2602.09100
+
 https://arxiv.org/abs/2602.09083
 * https://arxiv.org/abs/2602.09093 # Predicting magnetism with first-principles AI, Max Geier, Liang Fu
 * https://arxiv.org/abs/2602.09098 # Anomalous spin transport in integrable random quantum circuits, Songlei Wang, Chenguang Liang, Hongzheng Zhao, Zhi-Cheng Yang
