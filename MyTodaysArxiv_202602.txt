@@ -11,7 +11,7 @@ https://arxiv.org/abs/2602.09325
 https://arxiv.org/abs/2602.09696
 https://arxiv.org/abs/2602.09718
 
-https://arxiv.org/abs/2602.09733
+* https://arxiv.org/abs/2602.09733 # Error-mitigated quantum state tomography using neural networks, Yixuan Hu, Mengru Ma, Jiangwei Shang
 https://arxiv.org/abs/2602.09745
 https://arxiv.org/abs/2602.09788
 https://arxiv.org/abs/2602.09860
