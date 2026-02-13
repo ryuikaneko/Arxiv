@@ -2,19 +2,19 @@
 
 https://arxiv.org/abs/2602.10183
 https://arxiv.org/abs/2602.10151
-https://arxiv.org/abs/2602.10190
-https://arxiv.org/abs/2602.10205
+* https://arxiv.org/abs/2602.10190 # Semiclassical Routes to the alpha-RuCl3 Scattering Continuum via Model Meta-Analysis, Chaebin Kim, Martin Mourigal
+* https://arxiv.org/abs/2602.10205 # A web of exact mappings from RK models to spin chains, Gurkirat Singh, Inti Sodemann
 https://arxiv.org/abs/2602.10287
 https://arxiv.org/abs/2602.10641
 https://arxiv.org/abs/2602.10779
-https://arxiv.org/abs/2602.10805
+* https://arxiv.org/abs/2602.10805 # Scaling and Universality at Noise-Affected Non-Equilibrium Spin Correlation Functions, R. Jafari, Alireza Akbari
 https://arxiv.org/abs/2602.11071
 https://arxiv.org/abs/2602.11098
 
 https://arxiv.org/abs/2602.11111
 https://arxiv.org/abs/2602.11119
 https://arxiv.org/abs/2602.11153
-https://arxiv.org/abs/2602.11155
+* https://arxiv.org/abs/2602.11155 # Quasiperiodicity-induced non-Hermitian skin effect from the breakdown of scale-free localization, Kazuma Saito, Ryo Okugawa, Kazuki Yokomizo, Takami Tohyama, Chen-Hsuan Hsu
 https://arxiv.org/abs/2602.08895
 https://arxiv.org/abs/2602.10209
 https://arxiv.org/abs/2602.10214
