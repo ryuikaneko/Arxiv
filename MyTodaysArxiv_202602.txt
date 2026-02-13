@@ -1,6 +1,6 @@
 20260212
 
-https://arxiv.org/abs/2602.10141
+* https://arxiv.org/abs/2602.10141 # Permanents of matrix ensembles: computation, distribution, and geometry, Igor Rivin
 https://arxiv.org/abs/2602.10189
 https://arxiv.org/abs/2602.10203
 https://arxiv.org/abs/2602.10206
