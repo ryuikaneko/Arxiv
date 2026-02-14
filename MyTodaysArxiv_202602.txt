@@ -1,3 +1,12 @@
+20260213
+
+https://journals.aps.org/pre/abstract/10.1103/s9x8-h61n
+https://journals.aps.org/prx/abstract/10.1103/295c-lj1w
+
+
+====
+
+
 20260212
 
 * https://arxiv.org/abs/2602.10141 # Permanents of matrix ensembles: computation, distribution, and geometry, Igor Rivin
