@@ -1,19 +1,19 @@
 20260216
 
 https://arxiv.org/abs/2602.12328
-https://arxiv.org/abs/2602.12340
+* https://arxiv.org/abs/2602.12340 # Controlled Zeno-Induced Localization of Free Fermions in a Quasiperiodic Chain, Pinaki Singha, Nilanjan Roy, Marcin Szyniszewski, Auditya Sharma
 https://arxiv.org/abs/2602.12396
 https://arxiv.org/abs/2602.12417
 https://arxiv.org/abs/2602.12427
 https://arxiv.org/abs/2602.12514
 https://arxiv.org/abs/2602.12588
-https://arxiv.org/abs/2602.12608
+* https://arxiv.org/abs/2602.12608 # Introduction to High-Temperature Superconductivity for Solid State Chemists, Zenji Hiroi
 https://arxiv.org/abs/2602.12625
-https://arxiv.org/abs/2602.12990
+* https://arxiv.org/abs/2602.12990 # Diagnosing energy gap in quantum spin liquids via polarization amplitude, Takayuki Yokoyama, Yasuhiro Tada
 
 https://arxiv.org/abs/2602.12997
-https://arxiv.org/abs/2602.12998
-https://arxiv.org/abs/2602.13050
+* https://arxiv.org/abs/2602.12998 # Variational study of the magnetization plateaus in the spin-1/2 kagome Heisenberg antiferromagnet: an approach from vision transformer neural quantum states, Andreas Raikos, Sylvain Capponi, Fabien Alet
+* https://arxiv.org/abs/2602.13050 # Topology of the Fermi surface and universality of the metal-metal and metal-insulator transitions: d-dimensional Hatsugai-Kohmoto model as an example, Gennady Y. Chitov
 https://arxiv.org/abs/2602.13118
 https://arxiv.org/abs/2602.13132
 https://arxiv.org/abs/2602.13147
@@ -30,11 +30,11 @@ https://arxiv.org/abs/2602.12447
 https://arxiv.org/abs/2602.12449
 https://arxiv.org/abs/2602.12595
 https://arxiv.org/abs/2602.12627
-https://arxiv.org/abs/2602.12685
+* https://arxiv.org/abs/2602.12685 # Floquet implementation of a 3d fermionic toric code with full logical code space, Yoshito Watanabe, Bianca Bannenberg, Simon Trebst
 https://arxiv.org/abs/2602.12993
 
-https://arxiv.org/abs/2602.13095
-https://arxiv.org/abs/2602.13124
+* https://arxiv.org/abs/2602.13095 # Theory of Steady States for Lindblad Equations beyond Time-Independence: Classification, Uniqueness and Symmetry, Hironobu Yoshida, Ryusuke Hamazaki
+* https://arxiv.org/abs/2602.13124 # Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional Z_N lattice gauge theory, Adwait Naravane, Yuto Sugimoto, Shinichiro Akiyama, Jutho Haegeman, Atsushi Ueda
 https://arxiv.org/abs/2602.13130
 https://arxiv.org/abs/2602.13187
 https://arxiv.org/abs/2602.13194
