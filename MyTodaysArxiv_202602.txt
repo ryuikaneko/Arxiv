@@ -14,11 +14,11 @@ https://arxiv.org/abs/2602.13667
 https://arxiv.org/abs/2602.13922
 https://arxiv.org/abs/2602.13946
 https://arxiv.org/abs/2602.13990
-https://arxiv.org/abs/2602.14105
+* https://arxiv.org/abs/2602.14105 # Non-Hermitian Quantum Mechanics of Open Quantum Systems: Revisiting The One-Body Problem, Naomichi Hatano, Gonzalo Ordonez
 https://arxiv.org/abs/2602.14167
 https://arxiv.org/abs/2602.14327
 https://arxiv.org/abs/2602.14554
-https://arxiv.org/abs/2602.14556
+* https://arxiv.org/abs/2602.14556 # Sparse identification of quantum Hamiltonian dynamics via quantum circuit learning, Yusei Tateyama, Yuzuru Kato
 https://arxiv.org/abs/2602.14661
 https://arxiv.org/abs/2602.14694
 
