@@ -1,5 +1,32 @@
 20260217
 
+https://arxiv.org/abs/2602.13386
+https://arxiv.org/abs/2602.13395
+https://arxiv.org/abs/2602.13399
+https://arxiv.org/abs/2602.13429
+https://arxiv.org/abs/2602.13438
+https://arxiv.org/abs/2602.13472
+https://arxiv.org/abs/2602.13494
+https://arxiv.org/abs/2602.13623
+https://arxiv.org/abs/2602.13638
+https://arxiv.org/abs/2602.13667
+
+https://arxiv.org/abs/2602.13922
+https://arxiv.org/abs/2602.13946
+https://arxiv.org/abs/2602.13990
+https://arxiv.org/abs/2602.14105
+https://arxiv.org/abs/2602.14167
+https://arxiv.org/abs/2602.14327
+https://arxiv.org/abs/2602.14554
+https://arxiv.org/abs/2602.14556
+https://arxiv.org/abs/2602.14661
+https://arxiv.org/abs/2602.14694
+
+https://arxiv.org/abs/2602.14827
+https://arxiv.org/abs/2602.14986
+https://arxiv.org/abs/2602.13826
+https://arxiv.org/abs/2602.13927
+
 * https://arxiv.org/abs/2602.13374 # Adaptive Pseudoboson Density-Matrix Renormalization Group for Dilute 2D Systems, Fabian J. Pauw, Thomas Koehler, Ulrich Schollwoeck, Sebastian Paeckel
 https://arxiv.org/abs/2602.13390
 https://arxiv.org/abs/2602.13406
