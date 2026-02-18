@@ -1,6 +1,6 @@
 20260217
 
-https://arxiv.org/abs/2602.13374
+* https://arxiv.org/abs/2602.13374 # Adaptive Pseudoboson Density-Matrix Renormalization Group for Dilute 2D Systems, Fabian J. Pauw, Thomas Koehler, Ulrich Schollwoeck, Sebastian Paeckel
 https://arxiv.org/abs/2602.13390
 https://arxiv.org/abs/2602.13406
 https://arxiv.org/abs/2602.13410
@@ -11,7 +11,7 @@ https://arxiv.org/abs/2602.13709
 https://arxiv.org/abs/2602.13749
 https://arxiv.org/abs/2602.13776
 
-https://arxiv.org/abs/2602.13916
+* https://arxiv.org/abs/2602.13916 # Bulk-boundary correspondence in topological two-dimensional non-Hermitian systems: Toeplitz operators and singular values, J. Sirker
 https://arxiv.org/abs/2602.14026
 https://arxiv.org/abs/2602.14056
 https://arxiv.org/abs/2602.14173
@@ -19,17 +19,17 @@ https://arxiv.org/abs/2602.14184
 https://arxiv.org/abs/2602.14210
 https://arxiv.org/abs/2602.14249
 https://arxiv.org/abs/2602.14306
-https://arxiv.org/abs/2602.14323
+* https://arxiv.org/abs/2602.14323 # Dirac Spin Liquid Candidate in a Rydberg Quantum Simulator, Guillaume Bornet, Marcus Bintz, Cheng Chen, Gabriel Emperauger, Daniel Barredo, Shubhayu Chatterjee, Vincent S. Liu, Thierry Lahaye, Michael P. Zaletel, Norman Y. Yao, Antoine Browaeys
 https://arxiv.org/abs/2602.14330
 
 https://arxiv.org/abs/2602.14563
-https://arxiv.org/abs/2602.14599
-https://arxiv.org/abs/2602.14769
+* https://arxiv.org/abs/2602.14599 # Non-commutative Dynamic Approaches to the Kibble-Zurek Scaling Limit with an Initial Gapless Order, Zhe Wang, Chengxiang Ding, Dongxu Liu, Fuxiang Li, Zheng Yan, Shuai Yin
+* https://arxiv.org/abs/2602.14769 # Variational preparation and characterization of chiral spin liquids in quantum circuits, Zi-Yang Zhang, Donghoon Kim, Ji-Yao Chen
 https://arxiv.org/abs/2602.14796
-https://arxiv.org/abs/2602.14892
-https://arxiv.org/abs/2602.15020
+* https://arxiv.org/abs/2602.14892 # Competing states in the S=1/2 triangular-lattice J1-J2 Heisenberg model: a dynamical density-matrix renormalization group study, Shengtao Jiang, Steven R. White, Steven A. Kivelson, Hong-Chen Jiang
+* https://arxiv.org/abs/2602.15020 # Majorana Signatures in Planar Tunneling through a Kitaev Spin Liquid, Weiyao Li, Vitor Dantas, Wen-Han Kao, Natalia B. Perkins
 https://arxiv.org/abs/2602.15025
-https://arxiv.org/abs/2602.13632
+* https://arxiv.org/abs/2602.13632 # Ward-Takahashi Identity and Gauge-Invariant Response Theory for Open Quantum Systems, Hongchao Li, Xie-Hang Yu, Masaya Nakagawa, Masahito Ueda
 https://arxiv.org/abs/2602.13782
 https://arxiv.org/abs/2602.13847
 
