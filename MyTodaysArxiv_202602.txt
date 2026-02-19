@@ -1,5 +1,33 @@
 20260218
 
+https://arxiv.org/abs/2602.15075
+https://arxiv.org/abs/2602.15079
+https://arxiv.org/abs/2602.15080
+* https://arxiv.org/abs/2602.15116 # Spectral signatures of nonstabilizerness and criticality in infinite matrix product states, Andrew Hallam, Ryan Smith, Zlatko Papic
+https://arxiv.org/abs/2602.15125
+https://arxiv.org/abs/2602.15134
+https://arxiv.org/abs/2602.15146
+https://arxiv.org/abs/2602.15168
+https://arxiv.org/abs/2602.15180
+https://arxiv.org/abs/2602.15202
+
+* https://arxiv.org/abs/2602.15285 # Tensor Decomposition for Non-Clifford Gate Minimization, Kirill Khoruzhii, Patrick Gelss, Sebastian Pokutta
+https://arxiv.org/abs/2602.15324
+https://arxiv.org/abs/2602.15452
+https://arxiv.org/abs/2602.15487
+https://arxiv.org/abs/2602.15520
+https://arxiv.org/abs/2602.15706
+https://arxiv.org/abs/2602.15800
+https://arxiv.org/abs/2602.15826
+https://arxiv.org/abs/2602.15044
+https://arxiv.org/abs/2602.15114
+
+https://arxiv.org/abs/2602.15217
+https://arxiv.org/abs/2602.15231
+https://arxiv.org/abs/2602.15451
+https://arxiv.org/abs/2602.15801
+https://arxiv.org/abs/2602.15040
+
 https://arxiv.org/abs/2602.15098
 https://arxiv.org/abs/2602.15106
 https://arxiv.org/abs/2602.15122
