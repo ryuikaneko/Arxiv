@@ -5,17 +5,17 @@ https://arxiv.org/abs/2602.15106
 https://arxiv.org/abs/2602.15122
 https://arxiv.org/abs/2602.15163
 https://arxiv.org/abs/2602.15185
-https://arxiv.org/abs/2602.15224
+* https://arxiv.org/abs/2602.15224 # Phase Transitions in Neural Networks Pruning, Diego Pesce (1,2), Yang-Hui He (3,4), Guido Caldarelli (5,6,3) 
 https://arxiv.org/abs/2602.15334
-https://arxiv.org/abs/2602.15406
-https://arxiv.org/abs/2602.15418
+* https://arxiv.org/abs/2602.15406 # Quantum Pontus--Mpemba Effect in Dissipative Quasiperiodic Chains, Yefeng Song, Junxiao Chen, Xiangyu Yang, Mingdi Xu, Xiang-Ping Jiang, Lei Pan
+* https://arxiv.org/abs/2602.15418 # Effects of quenched disorder in three-dimensional lattice Z2 gauge Higgs models, Claudio Bonati, Ettore Vicari
 https://arxiv.org/abs/2602.15495
 
 https://arxiv.org/abs/2602.15598
-https://arxiv.org/abs/2602.15662
+* https://arxiv.org/abs/2602.15662 # Quantum Coulomb Liquids of Different Rank in the Breathing Pyrochlore Antiferromagnet, Lasse Gresista, Daniel Lozano-Gomez, Matthias Vojta, Simon Trebst, Yasir Iqbal
 https://arxiv.org/abs/2602.15663
 https://arxiv.org/abs/2602.15474
-https://arxiv.org/abs/2602.15524
+* https://arxiv.org/abs/2602.15524 # Observing quantum many-body dynamics in emergent curved spacetime using programmable quantum processors, Brendan Rhyno, Bastien Lapierre, Smitha Vishveshwara, Khadijeh Najafi, Ramasubramanian Chitra
 https://arxiv.org/abs/2602.15593
 
 https://journals.aps.org/pre/abstract/10.1103/d6vn-7p38
