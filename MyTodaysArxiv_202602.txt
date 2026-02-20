@@ -6,8 +6,8 @@ https://arxiv.org/abs/2602.16314
 https://arxiv.org/abs/2602.16280
 https://arxiv.org/abs/2602.16094
 https://arxiv.org/abs/2602.16018
-https://arxiv.org/abs/2602.15942
-https://arxiv.org/abs/2602.15931
+* https://arxiv.org/abs/2602.15942 # Limits of Clifford Disentangling in Tensor Network States, Sergi Masot-Llima, Piotr Sierant, Paolo Stornati, Artur Garcia-Saez
+* https://arxiv.org/abs/2602.15931 # Entanglement-assisted Hamiltonian dynamics learning, Ayaka Usui, Guillermo Abad-Lopez, Hari krishnan SV, Anna Sanpera, Some Sankar Bhattacharya
 https://arxiv.org/abs/2602.16558
 https://arxiv.org/abs/2602.16554
 
