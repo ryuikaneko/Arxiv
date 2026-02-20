@@ -1,5 +1,26 @@
 20260219
 
+https://arxiv.org/abs/2602.15914
+https://arxiv.org/abs/2602.15923
+https://arxiv.org/abs/2602.16210
+* https://arxiv.org/abs/2602.16351 # Liouvillian interpolation of the self-energy of cluster dynamical mean-field theories, Mathias Pelz, Jan von Delft, Andreas Gleis
+https://arxiv.org/abs/2602.16390
+https://arxiv.org/abs/2602.16405
+* https://arxiv.org/abs/2602.16471 # Monte Carlo study of the classical antiferromagnetic J1-J2-J3 Heisenberg model on a simple cubic lattice, A.N. Ignatenko, S.V. Streltsov, V.Yu. Irkhin
+* https://arxiv.org/abs/2602.16501 # Quantum-classical correspondence for spins at finite temperatures with application to Monte Carlo simulations, A. El Mendili, M. E. Zhitomirsky
+https://arxiv.org/abs/2602.16597
+https://arxiv.org/abs/2602.16618
+
+* https://arxiv.org/abs/2602.16661 # A Tale of Two Plateaus: Competing Orders in Spin-1 and Spin-32 Pyrochlore Magnets, Imre Hagymasi
+* https://arxiv.org/abs/2602.16665 # Optimizing p-spin models through hypergraph neural networks and deep reinforcement learning, Li Zeng, Mutian Shen, Tianle Pu, Zohar Nussinov, Qing Feng, Chao Chen, Zhong Liu, Changjun Fan
+* https://arxiv.org/abs/2602.16670 # Exceptional horns in n-root graphene and Lieb photonic ring lattices, A. M. Marques, D. Viedma, V. Ahufinger, R. G. Dias
+https://arxiv.org/abs/2602.16679
+https://arxiv.org/abs/2602.15911
+* https://arxiv.org/abs/2602.15933 # KPZ-like transport in long-range interacting spin chains proximate to integrability, Sajant Anand, Jack Kemp, Julia Wei, Christopher David White, Michael P. Zaletel, Norman Y. Yao
+https://arxiv.org/abs/2602.16045
+https://arxiv.org/abs/2602.16176
+https://arxiv.org/abs/2602.16658
+
 https://journals.aps.org/prb/abstract/10.1103/drn2-4s3q
 https://journals.aps.org/prb/abstract/10.1103/x8vl-qf14
 
