@@ -1,5 +1,23 @@
 20260220
 
+https://arxiv.org/abs/2602.16798
+https://arxiv.org/abs/2602.16875
+https://arxiv.org/abs/2602.16927
+https://arxiv.org/abs/2602.16929
+https://arxiv.org/abs/2602.16948
+https://arxiv.org/abs/2602.17121
+https://arxiv.org/abs/2602.17213
+https://arxiv.org/abs/2602.17281
+https://arxiv.org/abs/2602.17295
+https://arxiv.org/abs/2602.17439
+
+https://arxiv.org/abs/2602.17440
+* https://arxiv.org/abs/2602.17569 # Efficiency of classical simulations of a noisy Grover algorithm, Raphael Menu, Johannes Schachenmayer
+https://arxiv.org/abs/2602.17612
+https://arxiv.org/abs/2602.17615
+https://arxiv.org/abs/2602.17631
+https://arxiv.org/abs/2602.17647
+
 https://arxiv.org/abs/2602.17029
 https://arxiv.org/abs/2602.17057
 https://arxiv.org/abs/2602.17181
