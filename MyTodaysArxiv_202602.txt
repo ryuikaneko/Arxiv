@@ -7,24 +7,24 @@ https://arxiv.org/abs/2602.17181
 https://arxiv.org/abs/2602.17349
 https://arxiv.org/abs/2602.17376
 https://arxiv.org/abs/2602.17384
-https://arxiv.org/abs/2602.17399
-https://arxiv.org/abs/2602.17427
+* https://arxiv.org/abs/2602.17399 # Fractional 1/3 quantum vortices in chiral d+id kagome superconductors, Frederik A. S. Philipsen, Mats Barkman, Andreas Kreisel, Brian M. Andersen
+* https://arxiv.org/abs/2602.17427 # Mott-insulating phases of the Bose-Hubbard model on quasi-1D ladder lattices, Lorenzo Carfora, Callum W. Duncan, Stefan Kuhr, Peter Kirton
 https://arxiv.org/abs/2602.17436
 
 https://arxiv.org/abs/2602.17453
 https://arxiv.org/abs/2602.17564
 https://arxiv.org/abs/2602.17638
 https://arxiv.org/abs/2602.17656
-https://arxiv.org/abs/2602.16772
-https://arxiv.org/abs/2602.16780
+* https://arxiv.org/abs/2602.16772 # Finite-Temperature Dynamical Phase Diagram of the 2+1D Quantum Ising Model, Lucas Katschke, Roland C. Farrell, Umberto Borla, Lode Pollet, Jad C. Halimeh
+* https://arxiv.org/abs/2602.16780 # Controlling energy spectra and skin effect via boundary conditions in non-Hermitian lattices, S Rahul, Pasquale Marra
 https://arxiv.org/abs/2602.16782
 https://arxiv.org/abs/2602.16817
 https://arxiv.org/abs/2602.17172
-https://arxiv.org/abs/2602.17258
+* https://arxiv.org/abs/2602.17258 # Les Houches lectures on random quantum circuits and monitored quantum dynamics, Romain Vasseur
 
 https://arxiv.org/abs/2602.17296
 https://arxiv.org/abs/2602.17326
-https://arxiv.org/abs/2602.17341
+* https://arxiv.org/abs/2602.17341 # Detecting nonequilibrium phase transitions via continuous monitoring of space-time trajectories and autoencoder-based clustering, Erik Fitzner, Francesco Carnazza, Federico Carollo, Igor Lesanovsky
 https://arxiv.org/abs/2602.17662
 https://arxiv.org/abs/2602.17491
 
