@@ -1,5 +1,33 @@
 20260223
 
+https://arxiv.org/abs/2602.17750
+https://arxiv.org/abs/2602.17839
+https://arxiv.org/abs/2602.17872
+https://arxiv.org/abs/2602.17886
+https://arxiv.org/abs/2602.17889
+https://arxiv.org/abs/2602.17906
+https://arxiv.org/abs/2602.17915
+https://arxiv.org/abs/2602.17959
+https://arxiv.org/abs/2602.17996
+https://arxiv.org/abs/2602.18065
+
+https://arxiv.org/abs/2602.18099
+https://arxiv.org/abs/2602.18112
+https://arxiv.org/abs/2602.18132
+https://arxiv.org/abs/2602.18229
+https://arxiv.org/abs/2602.18399
+https://arxiv.org/abs/2602.18419
+https://arxiv.org/abs/2512.20793
+* https://arxiv.org/abs/2602.03234 # Liouvillian Gap in Dissipative Haar-Doped Clifford Circuits, Ha Eum Kim, Andrew D. Kim, Jong Yeon Lee
+* https://arxiv.org/abs/2602.16798 # Neural Network Discovery of Paired Wigner Crystals in Artificial Graphene, Conor Smith, Yubo Yang, Zhou-Quan Wan, Yixiao Chen, Miguel A. Morales, Shiwei Zhang
+https://arxiv.org/abs/2602.17786
+
+https://arxiv.org/abs/2602.17935
+https://arxiv.org/abs/2602.18080
+https://arxiv.org/abs/2602.18146
+https://arxiv.org/abs/2602.18169
+https://arxiv.org/abs/2602.18360
+
 https://journals.aps.org/prl/abstract/10.1103/5c15-4g5n
 https://journals.aps.org/prl/abstract/10.1103/4b99-xmqn
 https://journals.aps.org/prl/abstract/10.1103/py19-84k9
