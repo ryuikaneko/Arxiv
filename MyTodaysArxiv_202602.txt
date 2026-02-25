@@ -1,6 +1,6 @@
 20260224
 
-https://arxiv.org/abs/2602.18561
+* https://arxiv.org/abs/2602.18561 # Analytic continuation of Green's functions with a neural network, Fakher Assaad, Johanna Erdmenger, Anika Goetz, Rene Meyer, Martin Rackl, Yanick Thurn
 
 https://arxiv.org/abs/2602.18855
 https://arxiv.org/abs/2602.18890
@@ -10,7 +10,7 @@ https://arxiv.org/abs/2602.19076
 https://arxiv.org/abs/2602.19093
 https://arxiv.org/abs/2602.19147
 https://arxiv.org/abs/2602.19258
-https://arxiv.org/abs/2602.19586
+* https://arxiv.org/abs/2602.19586 # From Quantum Chaos to a Reversed Quantum Disentangled Liquid in a Disorder-Free Spin Ladder, Hanieh Najafzadeh, Abdollah Langari
 https://arxiv.org/abs/2602.19592
 
 https://arxiv.org/abs/2602.19637
