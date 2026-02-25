@@ -1,5 +1,16 @@
 20260224
 
+https://arxiv.org/abs/2602.19637
+https://arxiv.org/abs/2602.19791
+* https://arxiv.org/abs/2602.19920 # Periodic drive induced unconventional superconductivity in a half-filled system, Suryashekhar Kusari, Arti Garg
+https://arxiv.org/abs/2602.19935
+* https://arxiv.org/abs/2602.20073 # Coexisting magnetic, charge, and superconducting orders in the two-dimensional Hubbard model, Robin Scholle, Pietro M. Bonetti, Walter Metzner, Demetrio Vilardi
+* https://arxiv.org/abs/2602.20108 # Energy gap of quantum spin glasses: a projection quantum Monte Carlo study, L. Brodoloni, G. E. Astrakharchik, S. Giorgini, S. Pilati
+https://arxiv.org/abs/2602.19280
+https://arxiv.org/abs/2602.19288
+https://arxiv.org/abs/2602.19722
+https://arxiv.org/abs/2602.19775
+
 https://arxiv.org/abs/2602.18516
 * https://arxiv.org/abs/2602.18555 # Engineering quantum criticality and dynamics on an analog-digital simulator, Alexandra A. Geim, Nazli Ugur Koyluoglu, Simon J. Evered, Rahul Sahay, Sophie H. Li, Muqing Xu, Dolev Bluvstein, Nik O. Gjonbalaj, Nishad Maskara, Marcin Kalinowski, Tom Manovitz, Ruben Verresen, Susanne F. Yelin, Johannes Feldmeier, Markus Greiner, Vladan Vuletic, Mikhail D. Lukin
 https://arxiv.org/abs/2602.18642
