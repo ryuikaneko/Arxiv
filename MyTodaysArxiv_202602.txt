@@ -1,5 +1,27 @@
 20260224
 
+https://arxiv.org/abs/2602.18516
+* https://arxiv.org/abs/2602.18555 # Engineering quantum criticality and dynamics on an analog-digital simulator, Alexandra A. Geim, Nazli Ugur Koyluoglu, Simon J. Evered, Rahul Sahay, Sophie H. Li, Muqing Xu, Dolev Bluvstein, Nik O. Gjonbalaj, Nishad Maskara, Marcin Kalinowski, Tom Manovitz, Ruben Verresen, Susanne F. Yelin, Johannes Feldmeier, Markus Greiner, Vladan Vuletic, Mikhail D. Lukin
+https://arxiv.org/abs/2602.18642
+https://arxiv.org/abs/2602.18701
+https://arxiv.org/abs/2602.18816
+https://arxiv.org/abs/2602.18913
+https://arxiv.org/abs/2602.18930
+https://arxiv.org/abs/2602.19307
+https://arxiv.org/abs/2602.19387
+https://arxiv.org/abs/2602.19496
+
+https://arxiv.org/abs/2602.19448
+https://arxiv.org/abs/2602.19556
+https://arxiv.org/abs/2602.19747
+https://arxiv.org/abs/2602.19750
+https://arxiv.org/abs/2602.20154
+https://arxiv.org/abs/2602.20158
+https://arxiv.org/abs/2602.19006
+https://arxiv.org/abs/2602.19185
+* https://arxiv.org/abs/2602.19741 # Two-parameter families of MPO integrals of motion in Heisenberg spin chains, Vsevolod I. Yashin
+https://arxiv.org/abs/2602.18441
+
 https://journals.aps.org/prl/abstract/10.1103/kmpl-mdbx
 https://journals.aps.org/prl/abstract/10.1103/4c6g-zx6c
 https://journals.aps.org/prl/abstract/10.1103/7ltm-f68w
