@@ -1,5 +1,18 @@
 20260224
 
+https://arxiv.org/abs/2602.18561
+
+https://arxiv.org/abs/2602.18855
+https://arxiv.org/abs/2602.18890
+https://arxiv.org/abs/2602.19045
+https://arxiv.org/abs/2602.19060
+https://arxiv.org/abs/2602.19076
+https://arxiv.org/abs/2602.19093
+https://arxiv.org/abs/2602.19147
+https://arxiv.org/abs/2602.19258
+https://arxiv.org/abs/2602.19586
+https://arxiv.org/abs/2602.19592
+
 https://arxiv.org/abs/2602.19637
 https://arxiv.org/abs/2602.19791
 * https://arxiv.org/abs/2602.19920 # Periodic drive induced unconventional superconductivity in a half-filled system, Suryashekhar Kusari, Arti Garg
@@ -39,6 +52,8 @@ https://journals.aps.org/prl/abstract/10.1103/7ltm-f68w
 https://journals.aps.org/prb/abstract/10.1103/n2ql-32n3
 https://journals.aps.org/prb/abstract/10.1103/lz1c-bmpw
 https://journals.aps.org/prb/abstract/10.1103/zb39-wvj7
+https://journals.aps.org/prresearch/abstract/10.1103/m429-jy1j
+https://journals.aps.org/prresearch/abstract/10.1103/hxv2-sbr7
 
 
 20260223
