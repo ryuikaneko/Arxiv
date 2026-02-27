@@ -1,15 +1,26 @@
 20260226
 
+https://arxiv.org/abs/2602.22086
+* https://arxiv.org/abs/2602.21293 # Teleportation transition of surface codes on a superconducting quantum processor, Yiren Zou, Hong-Kuan Xia, Aosai Zhang, Xuhao Zhu, Feitong Jin, Qingyuan Wang, Yu Gao, Chuanyu Zhang, Ning Wang, Zhengyi Cui, Fanhao Shen, Zehang Bao, Zitian Zhu, Jiarun Zhong, Gongyu Liu, Jia-Nan Yang, Yihang Han, Yiyang He, Jiayuan Shen, Han Wang, Yanzhe Wang, Jiahua Huang, Xinrong Zhang, Sailang Zhou, Hang Dong, Jinfeng Deng, Yaozu Wu, Zixuan Song, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo, Pengfei Zhang, Guo-Yi Zhu, H. Wang
+https://arxiv.org/abs/2602.21355
+https://arxiv.org/abs/2602.21387
+https://arxiv.org/abs/2602.21430
+https://arxiv.org/abs/2602.21510
+https://arxiv.org/abs/2602.21512
+https://arxiv.org/abs/2602.21544
+* https://arxiv.org/abs/2602.21839 # Generating large-scale Greenberger-Horne-Zeilinger-like states in lattice spin systems, Xuanchen Zhang, Yaofeng Chen, Yong-Chun Liu
+* https://arxiv.org/abs/2602.21879 # Quantum Error Mitigation Simulates General Non-Hermitian Dynamics, Hiroki Kuji, Suguru Endo, Tetsuro Nikuni, Ryusuke Hamazaki, Yuichiro Matsuzaki
+
 https://arxiv.org/abs/2602.21886
 https://arxiv.org/abs/2602.21896
-https://arxiv.org/abs/2602.21979
+* https://arxiv.org/abs/2602.21979 # Quantum criticality in open quantum systems from the purification perspective, Yuchen Guo, Shuo Yang
 https://arxiv.org/abs/2602.22061
 https://arxiv.org/abs/2602.22121
-https://arxiv.org/abs/2602.22126
+* https://arxiv.org/abs/2602.22126 # Exponential speedup in measurement property learning with post-measurement states, Zhenhuan Liu, Qi Ye, Zhenyu Cai, Jens Eisert
 https://arxiv.org/abs/2602.22160
 https://arxiv.org/abs/2602.22201
 https://arxiv.org/abs/2602.22205
-https://arxiv.org/abs/2602.22113
+* https://arxiv.org/abs/2602.22113 # Lowering the temperature of two-dimensional fermionic tensor networks with cluster expansions, Sander De Meyer, Atsushi Ueda, Yuchi He, Nick Bultinck, Jutho Haegeman
 
 https://journals.aps.org/prx/abstract/10.1103/37vk-qz71
 https://journals.aps.org/prx/abstract/10.1103/ylsz-dm3y
