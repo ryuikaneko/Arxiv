@@ -1,5 +1,21 @@
 20260226
 
+https://arxiv.org/abs/2602.21241
+https://arxiv.org/abs/2602.21323
+https://arxiv.org/abs/2602.21468
+https://arxiv.org/abs/2602.21541
+https://arxiv.org/abs/2602.21575
+
+https://arxiv.org/abs/2602.21695
+https://arxiv.org/abs/2602.21885
+* https://arxiv.org/abs/2602.21962 # Tighter thermalization bounds for perturbed quantum many-body scars, Meng-Yun Mao, Zhixiang Sun, Wen-Long You
+* https://arxiv.org/abs/2602.22005 # Crystallography-driven molecularization of a two-dimensional spin-3/2 magnet, Hari Borutta, Tobias Mueller, Ronny Thomale, Harald O. Jeschke, Yasir Iqbal
+https://arxiv.org/abs/2602.22028
+https://arxiv.org/abs/2602.22063
+https://arxiv.org/abs/2602.22093
+https://arxiv.org/abs/2602.21705
+https://arxiv.org/abs/2602.21781
+
 https://arxiv.org/abs/2602.22086
 * https://arxiv.org/abs/2602.21293 # Teleportation transition of surface codes on a superconducting quantum processor, Yiren Zou, Hong-Kuan Xia, Aosai Zhang, Xuhao Zhu, Feitong Jin, Qingyuan Wang, Yu Gao, Chuanyu Zhang, Ning Wang, Zhengyi Cui, Fanhao Shen, Zehang Bao, Zitian Zhu, Jiarun Zhong, Gongyu Liu, Jia-Nan Yang, Yihang Han, Yiyang He, Jiayuan Shen, Han Wang, Yanzhe Wang, Jiahua Huang, Xinrong Zhang, Sailang Zhou, Hang Dong, Jinfeng Deng, Yaozu Wu, Zixuan Song, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo, Pengfei Zhang, Guo-Yi Zhu, H. Wang
 https://arxiv.org/abs/2602.21355
