@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2602.21241
 https://arxiv.org/abs/2602.21323
 https://arxiv.org/abs/2602.21468
-https://arxiv.org/abs/2602.21541
+* https://arxiv.org/abs/2602.21541 # Integral formula for the propagator of the one-dimensional Hubbard model, Taiki Ishiyama, Kazuya Fujimoto, Tomohiro Sasamoto
 https://arxiv.org/abs/2602.21575
 
 https://arxiv.org/abs/2602.21695
@@ -46,6 +46,39 @@ https://journals.aps.org/pre/abstract/10.1103/y464-wxbk
 
 
 20260225
+
+https://arxiv.org/abs/2602.21108
+https://arxiv.org/abs/2602.21199
+* https://arxiv.org/abs/2602.21206 # Minimal loop currents in doped Mott insulators, Can Cui, Jing-Yu Zhao, Zheng-Yu Weng
+* https://arxiv.org/abs/2602.17158 # Stochastic tensor contraction for quantum chemistry, Jiace Sun, Garnet Kin-Lic Chan
+https://arxiv.org/abs/2602.20173
+https://arxiv.org/abs/2602.20295
+* https://arxiv.org/abs/2602.20299 # Entanglement Barriers from Computational Complexity: Matrix-Product-State Approach to Satisfiability, Tim Pokart, Frank Pollmann, Jan Carl Budich
+https://arxiv.org/abs/2602.20490
+https://arxiv.org/abs/2602.21095
+https://arxiv.org/abs/2602.20171
+
+https://arxiv.org/abs/2602.20352
+https://arxiv.org/abs/2602.20452
+https://arxiv.org/abs/2602.20499
+* https://arxiv.org/abs/2602.20612 # Non-Clifford symmetry protected topological higher-order cluster states in multi-qubit measurement-based quantum computation, Motohiko Ezawa
+https://arxiv.org/abs/2602.20614
+https://arxiv.org/abs/2602.20661
+https://arxiv.org/abs/2602.20674
+https://arxiv.org/abs/2602.20694
+https://arxiv.org/abs/2602.20772
+https://arxiv.org/abs/2602.20881
+
+https://arxiv.org/abs/2602.20900
+https://arxiv.org/abs/2602.20941
+* https://arxiv.org/abs/2602.20987 # Entanglement-Induced Resilience of Quantum Dynamics, Tianfeng Feng, Yue Cao, Wenjun Yu, Junkai Zeng, Xiaopeng Li, Xiu-Hao Deng, Qi Zhao
+https://arxiv.org/abs/2602.20997
+https://arxiv.org/abs/2602.21190
+https://arxiv.org/abs/2602.17757
+https://arxiv.org/abs/2602.20175
+* https://arxiv.org/abs/2602.20226 # trainsum -- A Python package for quantics tensor trains, Paul Haubenwallner, Matthias Heller
+https://arxiv.org/abs/2602.20862
+https://arxiv.org/abs/2602.21145
 
 https://journals.aps.org/prresearch/abstract/10.1103/1qyd-59z7
 https://journals.aps.org/pra/abstract/10.1103/nt1d-76lq
