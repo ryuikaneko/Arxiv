@@ -1,15 +1,47 @@
 20260227
 
+https://arxiv.org/abs/2602.23144
+https://arxiv.org/abs/2602.23352
+* https://arxiv.org/abs/2602.22315 # Taxonomy of Integrable and Ground-State Solvable Models: Jastrow Wavefunctions on Graphs and Parent Hamiltonians, Nilanjan Sasmal, Adolfo del Campo
+https://arxiv.org/abs/2602.22283
+https://arxiv.org/abs/2602.22310
+https://arxiv.org/abs/2602.22322
+https://arxiv.org/abs/2602.22440
+https://arxiv.org/abs/2602.22447
+https://arxiv.org/abs/2602.22448
+
+* https://arxiv.org/abs/2602.22484 # Impact of Stealthy Hyperuniform Magnetic Impurity Configurations on Bulk Magnetism in a Two-dimensional Heisenberg Model, K. Asakura, K. Yamamoto, A. Koga
+* https://arxiv.org/abs/2602.22548 # Quantum-geometry-driven Mott transitions and magnetism, Jixun K. Ding, Martin Claassen
+https://arxiv.org/abs/2602.22578
+https://arxiv.org/abs/2602.22626
+https://arxiv.org/abs/2602.22637
+* https://arxiv.org/abs/2602.22657 # Exact mapping of a spin glass with correlated disorder to the pure Ising model, Hidetoshi Nishimori
+* https://arxiv.org/abs/2602.22705 # Quantum Monte Carlo study of the metal-insulator crossover in the square-lattice Hubbard model, Mingzhong Lu, Yu-Feng Song, Youjin Deng, Yuan-Yao He
+* https://arxiv.org/abs/2602.22736 # Emergence of chiral p-wave and d-wave states in g-wave altermagnets, Tilen Cadez, Abraham Nathan Sunanta, Kyoung-Min Kim
+https://arxiv.org/abs/2602.22878
+* https://arxiv.org/abs/2602.23041 # Z3 confined and deconfined Coulomb liquids in Seff=3/2 pyrochlore magnets, Jay Pandey, Souvik Kundu, Kedar Damle
+
+https://arxiv.org/abs/2602.23074
+* https://arxiv.org/abs/2602.23187 # Extended Ashkin-Teller transition in two coupled frustrated Haldane chains, Bowy M. La Riviere, Natalia Chepiga
+https://arxiv.org/abs/2602.23208
+* https://arxiv.org/abs/2602.23362 # Arrested Relaxation in a Disorder-Free Coulomb Spin Liquid, Souvik Kundu, Arnab Seth, Sthitadhi Roy, Subhro Bhattacharjee, Roderich Moessner
+https://arxiv.org/abs/2602.22323
+https://arxiv.org/abs/2602.22331
+* https://arxiv.org/abs/2602.22372 # Adaptive Patching for Tensor Train Computations, Gianluca Grosso, Marc K. Ritter, Stefan Rohshap, Samuel Badr, Anna Kauch, Markus Wallerberger, Jan von Delft, Hiroshi Shinaoka
+https://arxiv.org/abs/2602.23319
+https://arxiv.org/abs/2602.23326
+https://arxiv.org/abs/2602.22241
+
 https://arxiv.org/abs/2602.22313
 https://arxiv.org/abs/2602.22317
-https://arxiv.org/abs/2602.22336
+* https://arxiv.org/abs/2602.22336 # Basis-independent stabilizerness and maximally noisy magic states, Michael Zurel, Jack Davis
 https://arxiv.org/abs/2602.22349
 https://arxiv.org/abs/2602.23304
 https://arxiv.org/abs/2602.22255
-https://arxiv.org/abs/2602.22397
-https://arxiv.org/abs/2602.22890
+* https://arxiv.org/abs/2602.22397 # Hidden Z2xZ2 subspace symmetry protection for quantum scars, Ayush Sharma, Vikram Tripathi
+* https://arxiv.org/abs/2602.22890 # Metastable confinement in Rydberg lattice gauge theories, Yaohua Li, Devendra Singh Bhakuni, Yong-Chun Liu, Marcello Dalmonte
 https://arxiv.org/abs/2602.23019
-https://arxiv.org/abs/2602.23213
+* https://arxiv.org/abs/2602.23213 # Scaling and Luescher Term in a non-Abelian (2+1)d SU(2) Quantum Link Model, Paul Ludwig, Timo Jakobs, Carsten Urbach
 
 https://journals.aps.org/prxquantum/abstract/10.1103/kx3b-4nrp
 
