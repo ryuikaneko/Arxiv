@@ -43,6 +43,11 @@ https://arxiv.org/abs/2602.22255
 https://arxiv.org/abs/2602.23019
 * https://arxiv.org/abs/2602.23213 # Scaling and Luescher Term in a non-Abelian (2+1)d SU(2) Quantum Link Model, Paul Ludwig, Timo Jakobs, Carsten Urbach
 
+https://journals.aps.org/prb/abstract/10.1103/xsp7-j8h1
+https://journals.aps.org/prb/abstract/10.1103/dsr3-sjt6
+https://journals.aps.org/prb/abstract/10.1103/41qh-vws4
+https://journals.aps.org/pre/abstract/10.1103/xq7j-zll9
+https://journals.aps.org/prapplied/abstract/10.1103/xl6n-dlq6
 https://journals.aps.org/prxquantum/abstract/10.1103/kx3b-4nrp
 
 
