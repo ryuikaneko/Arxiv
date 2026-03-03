@@ -7,17 +7,16 @@ https://arxiv.org/abs/2602.23600
 https://arxiv.org/abs/2602.23680
 https://arxiv.org/abs/2602.23807
 https://arxiv.org/abs/2602.23986
-https://arxiv.org/abs/2602.23989
+* https://arxiv.org/abs/2602.23989 # Triplon-mediated pairing and the superconducting gap structure in bilayer nickelates, Huimei Liu, Giniyat Khaliullin
 https://arxiv.org/abs/2602.24006
-https://arxiv.org/abs/2602.24008
+* https://arxiv.org/abs/2602.24008 # Exact Anomalous Current Fluctuations in Quantum Many-Body Dynamics, Kazuya Fujimoto, Taiki Ishiyama, Taiga Kurose, Takato Yoshimura, Tomohiro Sasamoto
 
 https://arxiv.org/abs/2602.24090
 https://arxiv.org/abs/2602.24113
 https://arxiv.org/abs/2602.24135
-https://arxiv.org/abs/2602.24203
-https://arxiv.org/abs/2602.24212
-https://arxiv.org/abs/2602.24242
-https://arxiv.org/abs/2602.24276
+* https://arxiv.org/abs/2602.24203 # Vacancy-induced local moments in quantum paramagnetic phases: An SU(N) designer Hamiltonian study, Md Zahid Ansari, Souvik Kundu, Kedar Damle
+* https://arxiv.org/abs/2602.24212 # Spin dynamics of the spin-1 triangular lattice Heisenberg antiferromagnet K2Ni(SeO3)2, Chaebin Kim, Sathvik Nallapati, E. A. Ghioldi, Long Chen, Alexander I. Kolesnikov, Haidong Zhou, Shang-Shun Zhang, Cristian D. Batista, Martin Mourigal
+* https://arxiv.org/abs/2602.24242 # Anomalous hydrodynamic fluctuations in the quantum XXZ spin chain, Takato Yoshimura, Ziga Krajnik, Alvise Bastianello, Enej Ilievski
 https://arxiv.org/abs/2602.23751
 https://arxiv.org/abs/2602.24227
 
