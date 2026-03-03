@@ -1,5 +1,48 @@
 20260302
 
+https://arxiv.org/abs/2602.23477
+https://arxiv.org/abs/2602.23554
+https://arxiv.org/abs/2602.23570
+https://arxiv.org/abs/2602.23600
+https://arxiv.org/abs/2602.23680
+https://arxiv.org/abs/2602.23807
+https://arxiv.org/abs/2602.23986
+https://arxiv.org/abs/2602.23989
+https://arxiv.org/abs/2602.24006
+https://arxiv.org/abs/2602.24008
+
+https://arxiv.org/abs/2602.24090
+https://arxiv.org/abs/2602.24113
+https://arxiv.org/abs/2602.24135
+https://arxiv.org/abs/2602.24203
+https://arxiv.org/abs/2602.24212
+https://arxiv.org/abs/2602.24242
+https://arxiv.org/abs/2602.24276
+https://arxiv.org/abs/2602.23751
+https://arxiv.org/abs/2602.24227
+
+* https://arxiv.org/abs/2602.23422 # Ground state and persistent oscillations in the quantum East model, Adway Kumar Das, Achilleas Lazarides
+https://arxiv.org/abs/2602.23491
+https://arxiv.org/abs/2602.23501
+https://arxiv.org/abs/2602.23544
+https://arxiv.org/abs/2602.23625
+* https://arxiv.org/abs/2602.23687 # Stabilizer Renyi entropy of 3-uniform hypergraph states, Daichi Kagamihara, Shunji Tsuchiya
+https://arxiv.org/abs/2602.23718
+https://arxiv.org/abs/2602.23773
+* https://arxiv.org/abs/2602.23868 # Non-commutative Index of Measurement-only Entanglement Phase Transition, Zhichen Huang, Chunxiao Du, Yang Zhou, Zhisong Xiao
+https://arxiv.org/abs/2602.23976
+
+https://arxiv.org/abs/2602.24003
+https://arxiv.org/abs/2602.24048
+https://arxiv.org/abs/2602.24056
+https://arxiv.org/abs/2602.24062
+https://arxiv.org/abs/2602.24102
+https://arxiv.org/abs/2602.23420
+https://arxiv.org/abs/2602.23421
+https://arxiv.org/abs/2602.24220
+https://arxiv.org/abs/2602.24276
+https://arxiv.org/abs/2602.23914
+
 https://journals.aps.org/prb/abstract/10.1103/1zkn-gw9g
 https://journals.aps.org/prb/abstract/10.1103/hmmc-nhdl
 
