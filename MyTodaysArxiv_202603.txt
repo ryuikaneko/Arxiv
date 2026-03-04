@@ -2,12 +2,12 @@
 
 https://arxiv.org/abs/2603.00189
 https://arxiv.org/abs/2603.00245
-https://arxiv.org/abs/2603.00435
-https://arxiv.org/abs/2603.00536
+* https://arxiv.org/abs/2603.00435 # Emergence of Charge-Imbalanced BCS State and Suppression of Nonequilibrium FFLO State in Asymmetric NSN Junctions, Taira Kawamura, Yoji Ohashi
+* https://arxiv.org/abs/2603.00536 # Emergence of correlation-driven altermagnetism in Hubbard model on geometrically frustrated square lattice, Md Fahad Equbal, M. A. H. Ahsan
 https://arxiv.org/abs/2603.00802
 https://arxiv.org/abs/2603.00862
 https://arxiv.org/abs/2603.00966
-https://arxiv.org/abs/2603.01004
+* https://arxiv.org/abs/2603.01004 # Magnetic fluctuations near the Van Hove singularity in the kagome-lattice Hubbard model at finite doping, Jingyao Wang, Zixuan Jia, Zenghui Fan, Qingzhuo Duan, Tianxing Ma
 https://arxiv.org/abs/2603.01062
 https://arxiv.org/abs/2603.01217
 
@@ -15,14 +15,14 @@ https://arxiv.org/abs/2603.01273
 https://arxiv.org/abs/2603.01329
 https://arxiv.org/abs/2603.01408
 https://arxiv.org/abs/2603.01503
-https://arxiv.org/abs/2603.01642
+* https://arxiv.org/abs/2603.01642 # Magnetization plateaus, spin-canted orders and field-induced transitions in a spin-1/2 Heisenberg antiferromagnet on a distorted diamond-decorated honeycomb lattice, Katarina Karlova, Jozef Strecka
 https://arxiv.org/abs/2603.01707
 https://arxiv.org/abs/2603.01760
 https://arxiv.org/abs/2603.01834
-https://arxiv.org/abs/2603.01922
+* https://arxiv.org/abs/2603.01922 # Quantum-geometry-driven exact ferromagnetic ground state in a nearly flat band, Taisei Kitamura, Hiroki Nakai, Hosho Katsura, Ryotaro Arita
 https://arxiv.org/abs/2603.01963
 
-https://arxiv.org/abs/2603.02000
+* https://arxiv.org/abs/2603.02000 # On the upper critical dimension of the KPZ universality class: KPZ and related equations on a fully connected graph, J. M. Marcos, J. J. Melendez, R. Cuerno, J. J. Ruiz-Lorenzo
 https://arxiv.org/abs/2603.02039
 https://arxiv.org/abs/2603.02152
 https://arxiv.org/abs/2603.02158
