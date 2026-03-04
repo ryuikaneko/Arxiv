@@ -1,6 +1,44 @@
 20260303
 
-journals.aps.org/prl/abstract/10.1103/v8rf-p5zc
+https://arxiv.org/abs/2603.00189
+https://arxiv.org/abs/2603.00245
+https://arxiv.org/abs/2603.00435
+https://arxiv.org/abs/2603.00536
+https://arxiv.org/abs/2603.00802
+https://arxiv.org/abs/2603.00862
+https://arxiv.org/abs/2603.00966
+https://arxiv.org/abs/2603.01004
+https://arxiv.org/abs/2603.01062
+https://arxiv.org/abs/2603.01217
+
+https://arxiv.org/abs/2603.01273
+https://arxiv.org/abs/2603.01329
+https://arxiv.org/abs/2603.01408
+https://arxiv.org/abs/2603.01503
+https://arxiv.org/abs/2603.01642
+https://arxiv.org/abs/2603.01707
+https://arxiv.org/abs/2603.01760
+https://arxiv.org/abs/2603.01834
+https://arxiv.org/abs/2603.01922
+https://arxiv.org/abs/2603.01963
+
+https://arxiv.org/abs/2603.02000
+https://arxiv.org/abs/2603.02039
+https://arxiv.org/abs/2603.02152
+https://arxiv.org/abs/2603.02158
+
+https://arxiv.org/abs/2603.02182
+* https://arxiv.org/abs/2603.00235 # Theory of Magic Phase Transitions in Encoding-Decoding Circuits, Piotr Sierant, Xhek Turkeshi
+* https://arxiv.org/abs/2603.01349 # Update of PHYSBO: Improving Usability and Portability of Bayesian Optimization for Physics and Materials Research, Yuichi Motoyama, Kazuyoshi Yoshimi, Tatsumi Aoyama, Kei Terayama, Koji Tsuda, Ryo Tamura
+https://arxiv.org/abs/2603.00233
+https://arxiv.org/abs/2603.00463
+https://arxiv.org/abs/2603.00937
+https://arxiv.org/abs/2603.01443
+https://arxiv.org/abs/2603.01462
+https://arxiv.org/abs/2603.01521
+https://arxiv.org/abs/2603.01908
+
+https://journals.aps.org/prl/abstract/10.1103/v8rf-p5zc
 https://journals.aps.org/prl/abstract/10.1103/pyby-dlzq
 https://journals.aps.org/prb/abstract/10.1103/42dq-5xlf
 https://journals.aps.org/prb/abstract/10.1103/b2kz-15c5
