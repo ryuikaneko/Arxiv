@@ -1,5 +1,41 @@
 20260304
 
+https://arxiv.org/abs/2603.02249
+https://arxiv.org/abs/2603.02278
+* https://arxiv.org/abs/2603.02308 # Low-temperature transition of 2d random-bond Ising model and quantum infinite randomness, Akshat Pandey, Aditya Mahadevan, A. Alan Middleton, Daniel S. Fisher
+* https://arxiv.org/abs/2603.02316 # Transformer Neural-Network Quantum States for lattice models of spins and fermions: Application to the Ancilla Layer Model, Riccardo Rende, Alexander Nikolaenko, Luciano Loris Viteritti, Subir Sachdev, Ya-Hui Zhang
+https://arxiv.org/abs/2603.02326
+https://arxiv.org/abs/2603.02338
+* https://arxiv.org/abs/2603.02346 # Large Electron Model: A Universal Ground State Predictor, Timothy Zaklama, Max Geier, Liang Fu
+https://arxiv.org/abs/2603.02385
+https://arxiv.org/abs/2603.02388
+https://arxiv.org/abs/2603.02685
+
+https://arxiv.org/abs/2603.02693
+https://arxiv.org/abs/2603.02707
+https://arxiv.org/abs/2603.02713
+https://arxiv.org/abs/2603.02889
+https://arxiv.org/abs/2603.02930
+https://arxiv.org/abs/2603.02932
+https://arxiv.org/abs/2603.02962
+* https://arxiv.org/abs/2603.02992 # Kitaev model in a magnetic field: stable emergent structure, degenerate classical ground states, and reentrant topology, Sheikh Moonsun Pervez
+https://arxiv.org/abs/2603.02997
+https://arxiv.org/abs/2603.03034
+
+https://arxiv.org/abs/2603.03103
+https://arxiv.org/abs/2603.03105
+https://arxiv.org/abs/2603.03124
+https://arxiv.org/abs/2603.03162
+https://arxiv.org/abs/2602.20394
+https://arxiv.org/abs/2603.02213
+https://arxiv.org/abs/2603.02328
+* https://arxiv.org/abs/2603.02739 # Tensor renormalization group approach to the O(2) models via symmetry-twisted partition functions, Shinichiro Akiyama, Raghav G. Jha, Jun Maeda, Yuya Tanizaki, Judah Unmuth-Yockey
+https://arxiv.org/abs/2603.02819
+https://arxiv.org/abs/2603.03201
+
+https://arxiv.org/abs/2603.02242
+https://arxiv.org/abs/2603.02933
+
 https://journals.aps.org/prl/abstract/10.1103/rbg2-f61m
 https://journals.aps.org/prl/abstract/10.1103/bdw8-k91v
 https://journals.aps.org/prl/abstract/10.1103/3bb1-pmtp
