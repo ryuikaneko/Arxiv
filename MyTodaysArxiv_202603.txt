@@ -1,5 +1,53 @@
 20260305
 
+https://arxiv.org/abs/2603.03372
+https://arxiv.org/abs/2603.03374
+https://arxiv.org/abs/2603.03434
+
+https://arxiv.org/abs/2603.03455
+https://arxiv.org/abs/2603.03490
+* https://arxiv.org/abs/2603.03513 # q-Gaussian Crossover in Overlap Spectra towards 3D Edwards-Anderson Criticality, Yaprak Onder, Abbas Ali Saberi, Roderich Moessner
+https://arxiv.org/abs/2603.03702
+* https://arxiv.org/abs/2603.03852 # Dualities and Topological Classification of the S=1 Pyrochlore Spin Ice, Sena Watanabe, Yukitoshi Motome, Haruki Watanabe
+https://arxiv.org/abs/2603.04253
+https://arxiv.org/abs/2603.03438
+https://arxiv.org/abs/2603.03469
+https://arxiv.org/abs/2603.03883
+https://arxiv.org/abs/2603.04210
+
+https://arxiv.org/abs/2603.04389
+https://arxiv.org/abs/2603.03431
+https://arxiv.org/abs/2603.03451
+https://arxiv.org/abs/2603.03496
+https://arxiv.org/abs/2603.03542
+https://arxiv.org/abs/2603.03582
+https://arxiv.org/abs/2603.03639
+https://arxiv.org/abs/2603.03642
+https://arxiv.org/abs/2603.03799
+https://arxiv.org/abs/2603.03801
+
+* https://arxiv.org/abs/2603.03803 # Approximate Amplitude Encoding with the Adaptive Interpolating Quantum Transform, Gekko Budiutama, Shunsuke Daimon, Xinchi Huang, Hirofumi Nishi, Yu-ichiro Matsushita
+https://arxiv.org/abs/2603.03854
+https://arxiv.org/abs/2603.03917
+https://arxiv.org/abs/2603.03925
+https://arxiv.org/abs/2603.03950
+https://arxiv.org/abs/2603.03998
+https://arxiv.org/abs/2603.04066
+https://arxiv.org/abs/2603.04089
+https://arxiv.org/abs/2603.04108
+https://arxiv.org/abs/2603.04126
+
+https://arxiv.org/abs/2603.04187
+https://arxiv.org/abs/2603.04234
+https://arxiv.org/abs/2603.04310
+https://arxiv.org/abs/2603.04332
+https://arxiv.org/abs/2603.04339
+* https://arxiv.org/abs/2603.04373 # Dynamical Behaviour of Density Correlations Across the Chaotic Phase for Interacting Bosons, Oscar Duenas, Alberto Rodriguez
+* https://arxiv.org/abs/2603.03318 # Quantum-Inspired Self-Attention in a Large Language Model, Nikita Kuznetsov, Niyaz Ismagilov, Ernesto Campos
+https://arxiv.org/abs/2603.03345
+https://arxiv.org/abs/2603.03697
+https://arxiv.org/abs/2603.03487
+
 https://journals.aps.org/prl/abstract/10.1103/52y5-8kl2
 https://journals.aps.org/prl/abstract/10.1103/qfkp-jc7s
 https://journals.aps.org/prl/abstract/10.1103/8qzx-xpfz
