@@ -1,5 +1,48 @@
 20260306
 
+* https://arxiv.org/abs/2603.04735 # Solving an Open Problem in Theoretical Physics using AI-Assisted Discovery, Michael P. Brenner, Vincent Cohen-Addad, David Woodruff
+https://arxiv.org/abs/2603.04498
+https://arxiv.org/abs/2603.04503
+https://arxiv.org/abs/2603.04567
+https://arxiv.org/abs/2603.04609
+https://arxiv.org/abs/2603.05088
+https://arxiv.org/abs/2603.05112
+* https://arxiv.org/abs/2603.05123 # First-principles calculation of coherence length and penetration depth based on density functional theory for superconductors, Mitsuaki Kawamura, Takuya Nomoto, Niklas Witt, Ryotaro Arita
+https://arxiv.org/abs/2603.05126
+
+https://arxiv.org/abs/2603.05164
+https://arxiv.org/abs/2603.05254
+* https://arxiv.org/abs/2603.05313 # Strong zero modes in random Ising-Majorana chains, Saurav Kantha, Nicolas Laflorencie
+https://arxiv.org/abs/2603.05350
+https://arxiv.org/abs/2603.05478
+* https://arxiv.org/abs/2603.04486 # Unified Probe of Quantum Chaos and Ergodicity from Hamiltonian Learning, Nik O. Gjonbalaj, Christian Kokail, Susanne F. Yelin, Soonwon Choi
+https://arxiv.org/abs/2603.04489
+https://arxiv.org/abs/2603.04504
+https://arxiv.org/abs/2603.04563
+https://arxiv.org/abs/2603.05436
+
+https://arxiv.org/abs/2603.04493
+https://arxiv.org/abs/2603.04499
+https://arxiv.org/abs/2603.04524
+https://arxiv.org/abs/2603.04526
+https://arxiv.org/abs/2603.04543
+https://arxiv.org/abs/2603.04548
+https://arxiv.org/abs/2603.04566
+https://arxiv.org/abs/2603.04584
+https://arxiv.org/abs/2603.04591
+https://arxiv.org/abs/2603.04615
+
+https://arxiv.org/abs/2603.04630
+https://arxiv.org/abs/2603.04660
+https://arxiv.org/abs/2603.05429
+https://arxiv.org/abs/2603.05474
+https://arxiv.org/abs/2603.05475
+https://arxiv.org/abs/2603.05492
+https://arxiv.org/abs/2603.05499
+https://arxiv.org/abs/2603.05502
+https://arxiv.org/abs/2603.04451
+https://arxiv.org/abs/2603.05303
+
 https://journals.aps.org/pra/abstract/10.1103/k1l1-94y5
 https://journals.aps.org/pra/abstract/10.1103/6jzd-qqkb
 https://journals.aps.org/prd/abstract/10.1103/l8vw-kwhz
