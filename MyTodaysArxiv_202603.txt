@@ -1,6 +1,34 @@
 20260309
 
 https://arxiv.org/abs/2603.05524
+* https://arxiv.org/abs/2603.05606 # Evolution of the Superfluid Density in Infinite-Layer Nickelates, Bai Yang Wang, Shannon P. Harvey, Kyuho Lee, Yijun Yu, Yonghun Lee, Motoki Osada, Chaitanya Murthy, Srinivas Raghu, Harold Y. Hwang
+* https://arxiv.org/abs/2603.05707 # The toric code under antiferromagnetic isotropic Heisenberg interactions, Won Jang, Robert Peters, Thore Posske
+https://arxiv.org/abs/2603.05717
+https://arxiv.org/abs/2603.05759
+https://arxiv.org/abs/2603.05816
+https://arxiv.org/abs/2603.06008
+https://arxiv.org/abs/2603.06011
+https://arxiv.org/abs/2603.06102
+https://arxiv.org/abs/2603.06111
+
+https://arxiv.org/abs/2603.06125
+https://arxiv.org/abs/2603.06188
+https://arxiv.org/abs/2603.06202
+https://arxiv.org/abs/2603.06214
+* https://arxiv.org/abs/2603.06363 # Universal Dynamical Scaling of Strong-to-Weak Spontaneous Symmetry Breaking in Open Quantum Systems, Chang Shu, Kai Zhang, Kai Sun
+* https://arxiv.org/abs/2603.06455 # AKLT Hamiltonian from Hubbard tripods, Claire Benjamin, Daniel Varjas, Gabor Szechenyi, Judit Romhanyi, Laszlo Oroszlany
+https://arxiv.org/abs/2603.06477
+https://arxiv.org/abs/2603.06526
+https://arxiv.org/abs/2603.06537
+https://arxiv.org/abs/2603.06550
+
+https://arxiv.org/abs/2603.05526
+* https://arxiv.org/abs/2603.05656 # Classical Simulability from Operator Entanglement Scaling, Neil Dowling
+https://arxiv.org/abs/2603.05731
+https://arxiv.org/abs/2603.06142
+https://arxiv.org/abs/2603.06368
+https://arxiv.org/abs/2603.06520
+* https://arxiv.org/abs/2603.06529 # Towards Studying Superconductivity in the Fermi-Hubbard Model on Rydberg Atoms, Kuebra Yeter-Aydeniz, Nora M. Bauer
 
 https://journals.aps.org/prresearch/abstract/10.1103/v7x3-qvdl
 https://journals.aps.org/prb/abstract/10.1103/httm-1xwv
