@@ -1,3 +1,8 @@
+20260309
+
+https://journals.aps.org/prresearch/abstract/10.1103/v7x3-qvdl
+
+
 20260306
 
 * https://arxiv.org/abs/2603.04735 # Solving an Open Problem in Theoretical Physics using AI-Assisted Discovery, Michael P. Brenner, Vincent Cohen-Addad, David Woodruff
