@@ -1,5 +1,8 @@
 20260309
 
+https://arxiv.org/abs/2603.05525
+https://arxiv.org/abs/2603.05538
+
 https://arxiv.org/abs/2603.05583
 * https://arxiv.org/abs/2603.05675 # Matchgate circuit representation of fermionic Gaussian states: optimal preparation, approximation, and classical simulation, Marc Langer, Raul Morral-Yepes, Adam Gammon-Smith, Frank Pollmann, Barbara Kraus
 https://arxiv.org/abs/2603.05777
