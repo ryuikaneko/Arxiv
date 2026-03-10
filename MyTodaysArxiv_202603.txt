@@ -1,5 +1,24 @@
 20260309
 
+https://arxiv.org/abs/2603.05583
+* https://arxiv.org/abs/2603.05675 # Matchgate circuit representation of fermionic Gaussian states: optimal preparation, approximation, and classical simulation, Marc Langer, Raul Morral-Yepes, Adam Gammon-Smith, Frank Pollmann, Barbara Kraus
+https://arxiv.org/abs/2603.05777
+https://arxiv.org/abs/2603.05820
+https://arxiv.org/abs/2603.05833
+https://arxiv.org/abs/2603.05836
+https://arxiv.org/abs/2603.05913
+https://arxiv.org/abs/2603.06013
+* https://arxiv.org/abs/2603.06075 # Grand Canonical-like Thermalization of Quantum Many-body Scars, Jia-wei Wang, Xiang-Fa Zhou, Guang-Can Guo, Zheng-Wei Zhou
+https://arxiv.org/abs/2603.06085
+
+https://arxiv.org/abs/2603.06286
+https://arxiv.org/abs/2603.06325
+https://arxiv.org/abs/2603.06376
+https://arxiv.org/abs/2603.06377
+https://arxiv.org/abs/2603.06488
+https://arxiv.org/abs/2603.06558
+https://arxiv.org/abs/2603.06562
+
 https://arxiv.org/abs/2603.05524
 * https://arxiv.org/abs/2603.05606 # Evolution of the Superfluid Density in Infinite-Layer Nickelates, Bai Yang Wang, Shannon P. Harvey, Kyuho Lee, Yijun Yu, Yonghun Lee, Motoki Osada, Chaitanya Murthy, Srinivas Raghu, Harold Y. Hwang
 * https://arxiv.org/abs/2603.05707 # The toric code under antiferromagnetic isotropic Heisenberg interactions, Won Jang, Robert Peters, Thore Posske
