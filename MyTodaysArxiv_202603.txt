@@ -20,15 +20,15 @@ https://arxiv.org/abs/2603.08168
 https://arxiv.org/abs/2603.08170
 https://arxiv.org/abs/2603.08237
 https://arxiv.org/abs/2603.08356
-https://arxiv.org/abs/2603.08427
+* https://arxiv.org/abs/2603.08427 # Stochastic Loop Corrections to Belief Propagation for Tensor Network Contraction, Gi Beom Sim, Tae Hyeon Park, Kwang S. Kim, Yanmei Zang, Xiaorong Zou, Hye Jung Kim, D. ChangMo Yang, Soohaeng Yoo Willow, Chang Woo Myung
 
 https://arxiv.org/abs/2603.08565
-https://arxiv.org/abs/2603.08650
-https://arxiv.org/abs/2603.08710
+* https://arxiv.org/abs/2603.08650 # Revisiting the J1-J2 Heisenberg Model on a Triangular Lattice: Quasi-Degenerate Ground States and Phase Competition, Oleksandra Kovalska, Ester Pages Fontanella, Benedikt Schneider, Hong-Hao Tu, Jan von Delft
+* https://arxiv.org/abs/2603.08710 # Understanding thermal and quantum fluctuations in extended Kitaev-Yao-Lee spin-orbital model, Jiefu Cen, Hae-Young Kee
 https://arxiv.org/abs/2603.06840
 https://arxiv.org/abs/2603.07178
 https://arxiv.org/abs/2603.07635
-https://arxiv.org/abs/2603.07639
+* https://arxiv.org/abs/2603.07639 # Black-Hole Signatures in the Finite-Temperature Critical Ising Chain, Zuo Wang, Liang He
 https://arxiv.org/abs/2603.07661
 https://arxiv.org/abs/2603.07778
 https://arxiv.org/abs/2603.07903
