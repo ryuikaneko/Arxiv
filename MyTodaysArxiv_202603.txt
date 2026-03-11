@@ -1,6 +1,6 @@
 20260310
 
-https://arxiv.org/abs/2603.06644
+* https://arxiv.org/abs/2603.06644 # Quantum Deep Learning: A Comprehensive Review, Yanjun Ji, Zhao-Yun Chen, Marco Roth, David A. Kreplin, Christian Schiffer, Martin King, Oliver Anton, M. Sahnawaz Alam, Markus Krutzik, Dennis Willsch, Ludwig Mathey, Frank K. Wilhelm, Guo-Ping Guo
 https://arxiv.org/abs/2603.06764
 https://arxiv.org/abs/2603.06817
 https://arxiv.org/abs/2603.06963
@@ -16,9 +16,9 @@ https://arxiv.org/abs/2603.07495
 https://arxiv.org/abs/2603.07532
 https://arxiv.org/abs/2603.07594
 https://arxiv.org/abs/2603.07680
-https://arxiv.org/abs/2603.08081
+* https://arxiv.org/abs/2603.08081 # Simulating non-Markovian open quantum dynamics by exploiting physics-informed neural network, Long Cao, Liwei Ge, Daochi Zhang, Yao Wang, Rui-Xue Xu, YiJing Yan, Xiao Zheng
 https://arxiv.org/abs/2603.08395
-https://arxiv.org/abs/2603.08458
+* https://arxiv.org/abs/2603.08458 # The Transfer Tensor Method: an Analytical Study Case, Marcel Morillas-Rozas, Alberto Lopez-Garcia, Gonzalo Reina Rivero, Jianshu Cao, Javier Cerrillo
 https://arxiv.org/abs/2603.08667
 https://arxiv.org/abs/2603.08680
 
