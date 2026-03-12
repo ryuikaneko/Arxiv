@@ -1,3 +1,9 @@
+20260311
+
+https://journals.aps.org/prb/abstract/10.1103/t64v-ch2p
+https://journals.aps.org/prb/abstract/10.1103/vqj6-6vyt
+
+
 20260310
 
 * https://arxiv.org/abs/2603.06644 # Quantum Deep Learning: A Comprehensive Review, Yanjun Ji, Zhao-Yun Chen, Marco Roth, David A. Kreplin, Christian Schiffer, Martin King, Oliver Anton, M. Sahnawaz Alam, Markus Krutzik, Dennis Willsch, Ludwig Mathey, Frank K. Wilhelm, Guo-Ping Guo
