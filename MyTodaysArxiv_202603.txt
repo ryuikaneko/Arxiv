@@ -1,5 +1,40 @@
 20260311
 
+* https://arxiv.org/abs/2603.08777 # Thermal Hall conductivity from semiclassical spin dynamics simulations: implementation and applications to chiral ferromagnets and Kitaev magnets, Ignacio Salgado-Linares, Alexander Mook, Leo Mangeolle, Johannes Knolle
+https://arxiv.org/abs/2603.08786
+https://arxiv.org/abs/2603.08791
+https://arxiv.org/abs/2603.08840
+https://arxiv.org/abs/2603.08855
+https://arxiv.org/abs/2603.08934
+https://arxiv.org/abs/2603.08991
+https://arxiv.org/abs/2603.08995
+https://arxiv.org/abs/2603.09074
+https://arxiv.org/abs/2603.09202
+
+https://arxiv.org/abs/2603.09295
+https://arxiv.org/abs/2603.09317
+https://arxiv.org/abs/2603.09325
+https://arxiv.org/abs/2603.09442
+https://arxiv.org/abs/2603.09469
+https://arxiv.org/abs/2603.09498
+https://arxiv.org/abs/2603.09500
+https://arxiv.org/abs/2603.09694
+https://arxiv.org/abs/2603.09736
+https://arxiv.org/abs/2603.09895
+
+https://arxiv.org/abs/2603.09954
+https://arxiv.org/abs/2603.07637
+https://arxiv.org/abs/2603.08798
+https://arxiv.org/abs/2603.08896
+* https://arxiv.org/abs/2603.09107 # Topological phase transition of deformed Z3 toric code, Yun-Tak Oh, Hyun-Yong Lee
+https://arxiv.org/abs/2603.09354
+https://arxiv.org/abs/2603.09361
+https://arxiv.org/abs/2603.09402
+https://arxiv.org/abs/2603.09838
+https://arxiv.org/abs/2603.09928
+
+https://arxiv.org/abs/2603.09949
+
 https://journals.aps.org/prb/abstract/10.1103/t64v-ch2p
 https://journals.aps.org/prb/abstract/10.1103/vqj6-6vyt
 https://journals.aps.org/prl/abstract/10.1103/dvrt-n2hq
