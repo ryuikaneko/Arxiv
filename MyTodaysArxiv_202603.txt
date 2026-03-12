@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2603.08762
 https://arxiv.org/abs/2603.08793
 https://arxiv.org/abs/2603.08801
-https://arxiv.org/abs/2603.08841
+* https://arxiv.org/abs/2603.08841 # Universal Non-stabilizerness Dynamics Across Quantum Phase Transitions, Andras Grabarits, Adolfo del Campo
 https://arxiv.org/abs/2603.08845
 https://arxiv.org/abs/2603.08847
 https://arxiv.org/abs/2603.08883
