@@ -2,25 +2,25 @@
 
 https://arxiv.org/abs/2603.10103
 https://arxiv.org/abs/2603.10108
-https://arxiv.org/abs/2603.10112
+* https://arxiv.org/abs/2603.10112 # Classical Kitaev model in a magnetic field, Paul A. McClarty, Roderich Moessner, Karlo Penc, Jeffrey G. Rau
 https://arxiv.org/abs/2603.10159
-https://arxiv.org/abs/2603.10164
+* https://arxiv.org/abs/2603.10164 # Integrability-breaking-induced Mpemba effect in spin chains, Adam J. McRoberts
 https://arxiv.org/abs/2603.10182
 https://arxiv.org/abs/2603.10205
-https://arxiv.org/abs/2603.10238
+* https://arxiv.org/abs/2603.10238 # Disorder-induced localisation in the Mott-Hubbard model, Ricards Kristers Knipsis, Friedemann Queisser, Jesumony Jayabalan, Gael Reecht, Manuel Gruber, Uwe Bovensiepen, Ralf Schutzhold
 https://arxiv.org/abs/2603.10295
 https://arxiv.org/abs/2603.10467
 
-https://arxiv.org/abs/2603.10815
-https://arxiv.org/abs/2603.10865
+* https://arxiv.org/abs/2603.10815 # Dissipation- versus Chaos-Induced Relaxation in Non-Markovian Quantum Many-Body Systems, Gabriel Almeida, Pedro Ribeiro, Masudul Haque, Lucas Sa
+* https://arxiv.org/abs/2603.10865 # Gap structure and phase diagram of twisted bilayer cuprates from a microscopic perspective, Siddhant Panda, Andreas Kreisel, Laura Fanfarillo, Peter Hirschfeld
 https://arxiv.org/abs/2603.10907
 https://arxiv.org/abs/2603.10914
-https://arxiv.org/abs/2603.10948
-https://arxiv.org/abs/2603.10972
-https://arxiv.org/abs/2603.10998
+* https://arxiv.org/abs/2603.10948 # Generalized Reduced-Density-Matrix Quantum Monte Carlo Gives Access to More, Zhiyan Wang, Zhe Wang, Bin-Bin Mao, Zheng Yan
+* https://arxiv.org/abs/2603.10972 # Violating the All-or-Nothing Picture of Local Charges in Non-Hermitian Bosonic Chains, Mizuki Yamaguchi, Naoto Shiraishi
+* https://arxiv.org/abs/2603.10998 # Dzyaloshinskii-Moriya-driven instabilities in square-kagome quantum antiferromagnets, Leonid S. Taran, Arnaud Ralko, Fedor V. Temnikov, Vladimir V. Mazurenko, Sergey V. Streltsov, Yasir Iqbal
 https://arxiv.org/abs/2603.11007
-https://arxiv.org/abs/2603.11037
-https://arxiv.org/abs/2603.10119
+* https://arxiv.org/abs/2603.11037 # Realizing the Emery Model in Optical Lattices for Quantum Simulation of Cuprates and Nickelates, Hannah Lange, Liyang Qiu, Robin Groth, Andreas von Haaren, Luca Muscarella, Titus Franz, Immanuel Bloch, Fabian Grusdt, Philipp M. Preiss, Annabelle Bohrdt
+* https://arxiv.org/abs/2603.10119 # Digital dissipative state preparation for frustration-free gapless quantum systems, Johannes Feldmeier, Yu-Jie Liu, Mikhail D. Lukin, Soonwon Choi
 
 https://arxiv.org/abs/2603.10647
 https://arxiv.org/abs/2603.10751
@@ -29,6 +29,10 @@ https://arxiv.org/abs/2603.10956
 https://arxiv.org/abs/2603.11032
 
 https://journals.aps.org/prb/abstract/10.1103/bvb1-rk38
+https://journals.aps.org/prl/abstract/10.1103/cxq7-q9pd
+https://journals.aps.org/prl/abstract/10.1103/mjgs-y2z9
+https://journals.aps.org/prl/abstract/10.1103/8gmb-p619
+https://journals.aps.org/prl/abstract/10.1103/mgjv-2p73
 
 
 20260311
