@@ -3,13 +3,13 @@
 https://arxiv.org/abs/2603.11156
 https://arxiv.org/abs/2603.11185
 https://arxiv.org/abs/2603.11188
-https://arxiv.org/abs/2603.11195
+* https://arxiv.org/abs/2603.11195 # Generative modeling with Gaussian Boson Sampling: classically trainable Bosonic Born Machines, Zoltan Kolarovszki, Bence Bako, Michal Oszmaniec, Changhun Oh, Zoltan Zimboras
 https://arxiv.org/abs/2603.11197
 https://arxiv.org/abs/2603.11207
-https://arxiv.org/abs/2603.11208
-https://arxiv.org/abs/2603.11300
+* https://arxiv.org/abs/2603.11208 # Unitary imaginary time evolution and ground state preparation using multi-copy protocols, Tal Schwartzman, Torsten V. Zache, Hannes Pichler, H. R. Sadeghpour
+* https://arxiv.org/abs/2603.11300 # Many-Body Entanglement Properties of Finite Interacting Fermionic Hamiltonians, Irakli Giorgadze, Grayson Welch, Haixuan Huang, Elio J. Koenig, Jukka I. Vayrynen
 https://arxiv.org/abs/2603.11484
-https://arxiv.org/abs/2603.11527
+* https://arxiv.org/abs/2603.11527 # Error-Mitigated Hamiltonian Simulation: Complexity Analysis and Optimization for Near-Term and Early-Fault-Tolerant Quantum Computers, Keisuke Murota, Synge Todo, Suguru Endo
 
 https://arxiv.org/abs/2603.11536
 https://arxiv.org/abs/2603.11568
