@@ -9,7 +9,7 @@ https://arxiv.org/abs/2603.12391
 https://arxiv.org/abs/2603.12432
 https://arxiv.org/abs/2603.12626
 https://arxiv.org/abs/2603.12629
-https://arxiv.org/abs/2603.12675
+* https://arxiv.org/abs/2603.12675 # Probing many-body localization crossover in quasiperiodic Floquet circuits on a quantum processor, Kazuma Nagao, Tomonori Shirakawa, Rongyang Sun, Peter Prelovsek, Seiji Yunoki
 
 https://arxiv.org/abs/2603.12682
 https://arxiv.org/abs/2603.12697
@@ -27,7 +27,6 @@ https://arxiv.org/abs/2603.13160
 https://arxiv.org/abs/2603.13169
 https://arxiv.org/abs/2603.13174
 https://arxiv.org/abs/2603.13209
-https://arxiv.org/abs/2603.13212
 https://arxiv.org/abs/2603.13222
 
 
