@@ -1,5 +1,33 @@
 20260316
 
+https://arxiv.org/abs/2603.12280
+https://arxiv.org/abs/2603.12285
+* https://arxiv.org/abs/2603.12309 # Interaction-Driven Ferrimagnetic Stripes in the Extended Hubbard Model, Chunhan Feng, Miguel A. Morales, Shiwei Zhang
+* https://arxiv.org/abs/2603.12313 # Fracton Spin Liquid and Exotic Frustrated Phases in Ising-like Octochlore Magnets, Matthew Stern, Michael D. Burke, Michel J. P. Gingras, Judit Romhanyi, Kristian Tyn Kai Chung
+https://arxiv.org/abs/2603.12329
+https://arxiv.org/abs/2603.12330
+https://arxiv.org/abs/2603.12336
+* https://arxiv.org/abs/2603.12437 # Ambient-pressure 151-K superconductivity in HgBa2Ca2Cu3O8+delta via pressure quench, Liangzi Deng (1), Thacien Habamahoro (1), Artin Safezoddeh (1), Bishnu Karki (1), Sudaice Kazibwe (1), Daniel J. Schulze (1), Zheng Wu (1), Matthew Julian (2), Rohit P. Prasankumar (2), Hua Zhou (3), Jesse S. Smith (3), Pavan R. Hosur (1), Ching-Wu Chu (1) 
+https://arxiv.org/abs/2603.12467
+https://arxiv.org/abs/2603.12473
+
+* https://arxiv.org/abs/2603.12745 # Ab initio screening of quantum frustrated materials with kagome and triangular geometries, Byeong-Hyeon Jeong, Hee Seung Kim, SungBin Lee, Myung Joon Han
+https://arxiv.org/abs/2603.12833
+https://arxiv.org/abs/2603.12844
+* https://arxiv.org/abs/2603.12851 # Continuous unitary transformations using tensor network representations access the full many-body localized spectrum, Qiyu Liu, Jan-Niklas Herre, Dante M. Kennes, Christoph Karrasch
+* https://arxiv.org/abs/2603.12897 # Finite-momentum superconductivity with singlet-triplet mixing in an altermagnetic metal: A pairing instability analysis, Hui Hu, Zhao Liu, Jia Wang, Xia-Ji Liu, Yoji Ohashi
+https://arxiv.org/abs/2603.12910
+* https://arxiv.org/abs/2603.13041 # Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases, Yi-Chun Hung, Yugo Onishi, Hsin Lin, Liang Fu, Arun Bansil
+https://arxiv.org/abs/2603.13055
+* https://arxiv.org/abs/2603.13064 # Data-efficient surrogate modeling of spectral functions using Gaussian processes: An application to the t-t'-t''-J model, Sanket Jantre, Nathan M. Urban, Weiguo Yin, Niraj Aryal
+https://arxiv.org/abs/2603.13071
+
+https://arxiv.org/abs/2603.13127
+https://arxiv.org/abs/2603.13128
+https://arxiv.org/abs/2603.12034
+https://arxiv.org/abs/2603.12318
+https://arxiv.org/abs/2603.12323
+
 https://arxiv.org/abs/2603.12392
 https://arxiv.org/abs/2603.13212
 https://arxiv.org/abs/2603.13013
