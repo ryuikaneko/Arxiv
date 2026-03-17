@@ -7,7 +7,7 @@ https://arxiv.org/abs/2603.13141
 https://arxiv.org/abs/2603.12283
 https://arxiv.org/abs/2603.12391
 https://arxiv.org/abs/2603.12432
-https://arxiv.org/abs/2603.12626
+* https://arxiv.org/abs/2603.12626 # Critical behaviors of magic and participation entropy at measurement induced phase transitions, Eliot Heinrich, Hanchen Liu, Tianci Zhou, Xiao Chen
 https://arxiv.org/abs/2603.12629
 * https://arxiv.org/abs/2603.12675 # Probing many-body localization crossover in quasiperiodic Floquet circuits on a quantum processor, Kazuma Nagao, Tomonori Shirakawa, Rongyang Sun, Peter Prelovsek, Seiji Yunoki
 
