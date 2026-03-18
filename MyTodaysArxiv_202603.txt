@@ -2,15 +2,15 @@
 
 https://arxiv.org/abs/2603.14155
 https://arxiv.org/abs/2603.14181
-https://arxiv.org/abs/2603.14292
-https://arxiv.org/abs/2603.15534
-https://arxiv.org/abs/2603.15577
+* https://arxiv.org/abs/2603.14292 # Mixed-State Entanglement in a Minimal Model of Quantum Chaos, Tanay Pathak
+* https://arxiv.org/abs/2603.15534 # Analog-Digital Quantum Computing with Quantum Annealing Processors, Rahul Deshpande, Majid Kheirkhah, Chris Rich, Richard Harris, Jack Raymond, Emile Hoskinson, Pratik Sathe, Andrew J. Berkley, Stefan Paul, Brian Barch, Daniel A. Lidar, Markus Mueller, Gabriel Aeppli, Andrew D. King, Mohammad H. Amin
+* https://arxiv.org/abs/2603.15577 # Simulating the Open System Dynamics of Multiple Exchange-Only Qubits using Subspace Monte Carlo, Tameem Albash, N. Tobias Jacobson
 
-https://arxiv.org/abs/2603.13125
+* https://arxiv.org/abs/2603.13125 # Universal monitored dynamics in multimode bosonic systems, Shivam Patel, Catherine McCarthy, Ahana Chakraborty, Jordan Huang, Thomas J. DiNapoli, Romain Vasseur, J. H. Pixley, Srivatsan Chakram
 https://arxiv.org/abs/2603.13159
 https://arxiv.org/abs/2603.13441
 https://arxiv.org/abs/2603.13462
-https://arxiv.org/abs/2603.13485
+* https://arxiv.org/abs/2603.13485 # Distance learning from projective measurements as an information-geometric probe of many-body physics, Oleksii Malyshev, Simon M. Linsel, Fabian Grusdt, Annabelle Bohrdt, Eugene Demler, Ivan Morera
 https://arxiv.org/abs/2603.13526
 https://arxiv.org/abs/2603.13607
 https://arxiv.org/abs/2603.13626
