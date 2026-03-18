@@ -1,5 +1,16 @@
 20260317
 
+https://arxiv.org/abs/2603.13865
+https://arxiv.org/abs/2603.13896
+* https://arxiv.org/abs/2603.13958 # Tomonaga-Luttinger liquid theory for one-dimensional attractive Fermi gases, Hai-Ying Cui, Yu-Hao Yeh, Randall G. Hulet, Han Pu, Thierry Giamarchi, Xi-Wen Guan
+https://arxiv.org/abs/2603.14098
+https://arxiv.org/abs/2603.14108
+https://arxiv.org/abs/2603.14154
+https://arxiv.org/abs/2603.14307
+https://arxiv.org/abs/2603.14329
+https://arxiv.org/abs/2603.14424
+* https://arxiv.org/abs/2603.14425 # Disentangling Tensor Network States with Deep Neural Network, Chaohui Fan, Bo Zhan, Yuntian Gu, Tong Liu, Yantao Wu, Mingpu Qin, Dingshun Lv, Tao Xiang
+
 https://arxiv.org/abs/2603.13445
 https://arxiv.org/abs/2603.13489
 https://arxiv.org/abs/2603.13498
