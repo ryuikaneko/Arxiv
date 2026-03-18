@@ -1,5 +1,16 @@
 20260317
 
+https://arxiv.org/abs/2603.13445
+https://arxiv.org/abs/2603.13489
+https://arxiv.org/abs/2603.13498
+https://arxiv.org/abs/2603.13513
+https://arxiv.org/abs/2603.13548
+https://arxiv.org/abs/2603.13568
+* https://arxiv.org/abs/2603.13604 # Hierarchical structure of primary and hybridization-induced superconducting correlations in bilayer nickelates, Hiroshi Watanabe, Hirofumi Sakakibara, Kazuhiko Kuroki
+* https://arxiv.org/abs/2603.13657 # Superradiant strongly correlated quantum states in cavity Hubbard model, Kang Wang, Wei-Xuan Chang, Cheng-Yu Bi, Zi Cai, Zi-Xiang Li
+https://arxiv.org/abs/2603.13711
+* https://arxiv.org/abs/2603.13778 # Optimality and annealing path planning of dynamical analog solvers, Shu Zhou, K. Y. Michael Wong, Juntao Wang, David Shui Wing Hui, Daniel Ebler, Jie Sun
+
 https://journals.aps.org/pra/abstract/10.1103/k2hw-r25g
 https://journals.aps.org/pra/abstract/10.1103/l4zf-ls9v
 https://journals.aps.org/pra/abstract/10.1103/6vs5-12cp
