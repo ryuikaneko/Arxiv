@@ -1,6 +1,6 @@
 20260317
 
-https://arxiv.org/abs/2603.13304
+* https://arxiv.org/abs/2603.13304 # A Block Belief-Propagation Algorithm for the Contraction of Tensor-Networks, Nir Gutman
 https://arxiv.org/abs/2603.13322
 https://arxiv.org/abs/2603.13442
 https://arxiv.org/abs/2603.13454
@@ -28,7 +28,7 @@ https://arxiv.org/abs/2603.14607
 https://arxiv.org/abs/2603.14641
 https://arxiv.org/abs/2603.14650
 https://arxiv.org/abs/2603.14687
-https://arxiv.org/abs/2603.14699
+* https://arxiv.org/abs/2603.14699 # Learning Quantum Operator Dynamics from Short-Time Data, Jinyang Li, Satoshi Iso, Shunji Matsuura, Lingxiao Wang, Xiaoyang Wang
 https://arxiv.org/abs/2603.14744
 https://arxiv.org/abs/2603.15190
 https://arxiv.org/abs/2603.15258
@@ -36,7 +36,7 @@ https://arxiv.org/abs/2603.15258
 https://arxiv.org/abs/2603.15315
 https://arxiv.org/abs/2603.15552
 https://arxiv.org/abs/2603.15554
-https://arxiv.org/abs/2603.15561
+* https://arxiv.org/abs/2603.15561 # Velocity-Enabled Quantum Computing with Neutral Atoms, Ohad Lib, Hendrik Timme, Maximilian Ammenwerth, Flavien Gyger, Renhao Tao, Shijia Sun, Immanuel Bloch, Johannes Zeiher
 https://arxiv.org/abs/2603.15610
 https://arxiv.org/abs/2603.15621
 https://arxiv.org/abs/2603.13475
