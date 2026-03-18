@@ -1,14 +1,53 @@
 20260317
 
-https://arxiv.org/abs/2603.14519
-https://arxiv.org/abs/2603.14521
+https://arxiv.org/abs/2603.14155
+https://arxiv.org/abs/2603.14181
+https://arxiv.org/abs/2603.14292
+https://arxiv.org/abs/2603.15534
+https://arxiv.org/abs/2603.15577
+
+https://arxiv.org/abs/2603.13125
+https://arxiv.org/abs/2603.13159
+https://arxiv.org/abs/2603.13441
+https://arxiv.org/abs/2603.13462
+https://arxiv.org/abs/2603.13485
+https://arxiv.org/abs/2603.13526
+https://arxiv.org/abs/2603.13607
+https://arxiv.org/abs/2603.13626
+https://arxiv.org/abs/2603.13693
+https://arxiv.org/abs/2603.14020
+
+https://arxiv.org/abs/2603.15140
+https://arxiv.org/abs/2603.15236
+https://arxiv.org/abs/2603.15294
+https://arxiv.org/abs/2603.15305
+https://arxiv.org/abs/2603.15312
+https://arxiv.org/abs/2603.15361
+https://arxiv.org/abs/2603.15456
+https://arxiv.org/abs/2603.15509
+https://arxiv.org/abs/2603.15520
+https://arxiv.org/abs/2603.15560
+
+https://arxiv.org/abs/2603.14800
+* https://arxiv.org/abs/2603.14808 # Study of the triangular-lattice Hubbard model with constrained-path quantum Monte Carlo, Shu Fay Ung, Ankit Mahajan, David R. Reichman
+https://arxiv.org/abs/2603.14857
+* https://arxiv.org/abs/2603.14874 # Quantum simulation of the Haldane phase using open shell molecules, Suman Aich, Ceren B. Dag, H.A. Fertig, Debayan Mitra, Babak Seradjeh
+https://arxiv.org/abs/2603.14888
+https://arxiv.org/abs/2603.14907
+https://arxiv.org/abs/2603.14973
+https://arxiv.org/abs/2603.14996
+https://arxiv.org/abs/2603.15102
+* https://arxiv.org/abs/2603.15116 # Lee-Yang Zeros and Pseudocritical Drift in J-Q Neel-VBS Transitions, Chunhao Guo, Zhe Wang, Danhe Wang, Zenan Liu, Haiyuan Zou, Zheng Yan
+
+* https://arxiv.org/abs/2603.14519 # A Unified Understanding of the Experimental Controlling of the Tc of Bilayer Nickelates, Zeyu Chen, Jia-Heng Ji, Yu-Bo Liu, Ming Zhang, Fan Yang
+* https://arxiv.org/abs/2603.14521 # Variance reduction for forces and pressure in variational Monte Carlo, David Linteau, Saverio Moroni, Giuseppe Carleo, Markus Holzmann
 https://arxiv.org/abs/2603.14573
 https://arxiv.org/abs/2603.14590
 https://arxiv.org/abs/2603.14682
 https://arxiv.org/abs/2603.14682
 https://arxiv.org/abs/2603.14695
 https://arxiv.org/abs/2603.14722
-https://arxiv.org/abs/2603.14775
+* https://arxiv.org/abs/2603.14775 # Neural network backflow for ab-initio solid calculations, An-Jun Liu, Bryan K. Clark
 https://arxiv.org/abs/2603.14780
 
 https://arxiv.org/abs/2603.13865
