@@ -1,15 +1,15 @@
 20260318
 
 https://arxiv.org/abs/2603.15682
-https://arxiv.org/abs/2603.15741
-https://arxiv.org/abs/2603.15745
+* https://arxiv.org/abs/2603.15741 # Neural-Network Quantum Embedding Solvers for Correlated Materials, Agnes Valenti, Ina Park, Antoine Georges, Andrew J. Millis, Olivier Parcollet
+* https://arxiv.org/abs/2603.15745 # Unified gauge-theory description of quantum spin liquids on square-based frustrated lattices, Atanu Maity, Andreas Feuerpfeil, Ronny Thomale, Subir Sachdev, Yasir Iqbal
 https://arxiv.org/abs/2603.15790
 https://arxiv.org/abs/2603.15835
 https://arxiv.org/abs/2603.15853
-https://arxiv.org/abs/2603.15972
+* https://arxiv.org/abs/2603.15972 # Anomalous dynamical scaling in interacting anyonic chains, Xu-Chen Yang, Botao Wang, Jianpeng Liu, Bing Yang, Jianmin Yuan, Yongqiang Li
 https://arxiv.org/abs/2603.16061
 https://arxiv.org/abs/2603.16072
-https://arxiv.org/abs/2603.16106
+* https://arxiv.org/abs/2603.16106 # SU(N) Quantum Spin Model with Weak and Strong First-Order Neel to Valence-Bond Solid Transitions, Ryan Flynn, Anders W. Sandvik
 
 https://arxiv.org/abs/2603.16115
 https://arxiv.org/abs/2603.16121
@@ -25,18 +25,18 @@ https://arxiv.org/abs/2603.16828
 https://arxiv.org/abs/2603.16838
 https://arxiv.org/abs/2603.15742
 https://arxiv.org/abs/2603.15743
-https://arxiv.org/abs/2603.15744
-https://arxiv.org/abs/2603.15753
+* https://arxiv.org/abs/2603.15744 # Post-selected Criticality in Measurement-induced Phase Transitions, Dolly Nambi, Kabir Khanna, Andrew Allocca, Thomas Iadecola, Ciaran Hickey, Romain Vasseur, Justin H. Wilson
+* https://arxiv.org/abs/2603.15753 # Can quantum fluctuations be consistently monitored?, Xiangyu Cao
 https://arxiv.org/abs/2603.15794
 https://arxiv.org/abs/2603.16456
-https://arxiv.org/abs/2603.16509
+* https://arxiv.org/abs/2603.16509 # Monte Carlo sampling from a projected entangled-pair state in simulations of quantum annealing in the three dimensional random Ising model, Jacek Dziarmaga
 https://arxiv.org/abs/2603.16512
 https://arxiv.org/abs/2603.16709
 
 https://arxiv.org/abs/2603.16762
 https://arxiv.org/abs/2603.16765
-https://arxiv.org/abs/2603.16775
-https://arxiv.org/abs/2603.16784
+* https://arxiv.org/abs/2603.16775 # How compactness curbs entanglement growth in bosonic systems, Stefan Aimet, Philipp Schmoll, Jens Eisert, Joerg Schmiedmayer, Spyros Sotiriadis
+* https://arxiv.org/abs/2603.16784 # Quantum signal processing in Hilbert space fragmented systems, Naoya Egawa, Kaoru Mizuta, Joji Nasu
 
 https://journals.aps.org/prb/abstract/10.1103/wvng-2vyb
 https://journals.aps.org/prb/abstract/10.1103/gqwy-n84r
