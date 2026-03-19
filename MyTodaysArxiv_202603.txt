@@ -1,3 +1,11 @@
+20260318
+
+https://journals.aps.org/prb/abstract/10.1103/wvng-2vyb
+https://journals.aps.org/prb/abstract/10.1103/gqwy-n84r
+https://journals.aps.org/prb/abstract/10.1103/8p79-4r7x
+https://journals.aps.org/prresearch/abstract/10.1103/zn6p-c8w2
+
+
 20260317
 
 * https://arxiv.org/abs/2603.13304 # A Block Belief-Propagation Algorithm for the Contraction of Tensor-Networks, Nir Gutman
