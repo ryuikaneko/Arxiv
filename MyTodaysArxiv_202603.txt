@@ -1,5 +1,23 @@
 20260318
 
+https://arxiv.org/abs/2603.15733
+https://arxiv.org/abs/2603.15756
+https://arxiv.org/abs/2603.15768
+https://arxiv.org/abs/2603.15870
+https://arxiv.org/abs/2603.16029
+https://arxiv.org/abs/2603.16214
+https://arxiv.org/abs/2603.16225
+https://arxiv.org/abs/2603.16321
+https://arxiv.org/abs/2603.16389
+https://arxiv.org/abs/2603.16394
+
+https://arxiv.org/abs/2603.16469
+https://arxiv.org/abs/2603.16492
+https://arxiv.org/abs/2603.16527
+https://arxiv.org/abs/2603.16628
+https://arxiv.org/abs/2603.16650
+https://arxiv.org/abs/2603.16845
+
 https://arxiv.org/abs/2603.15682
 * https://arxiv.org/abs/2603.15741 # Neural-Network Quantum Embedding Solvers for Correlated Materials, Agnes Valenti, Ina Park, Antoine Georges, Andrew J. Millis, Olivier Parcollet
 * https://arxiv.org/abs/2603.15745 # Unified gauge-theory description of quantum spin liquids on square-based frustrated lattices, Atanu Maity, Andreas Feuerpfeil, Ronny Thomale, Subir Sachdev, Yasir Iqbal
