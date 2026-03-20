@@ -6,8 +6,8 @@ https://arxiv.org/abs/2603.17018
 https://arxiv.org/abs/2603.17032
 https://arxiv.org/abs/2603.17282
 https://arxiv.org/abs/2603.17308
-https://arxiv.org/abs/2603.17362
-https://arxiv.org/abs/2603.17379
+* https://arxiv.org/abs/2603.17362 # Extended Hubbard model on fractals: d-Wave superconductivity and competing pairing channels, Robert Canyellas, Mikhail I. Katsnelson, Andrey Bagrov
+* https://arxiv.org/abs/2603.17379 # Exactly Solvable Disorder-free Quantum Breakdown Model: Spectrum, Thermodynamics, and Dynamics, Kinya Guan, Hosho Katsura
 https://arxiv.org/abs/2603.17391
 https://arxiv.org/abs/2603.17393
 
@@ -16,20 +16,20 @@ https://arxiv.org/abs/2603.17447
 https://arxiv.org/abs/2603.17483
 https://arxiv.org/abs/2603.17557
 https://arxiv.org/abs/2603.17591
-https://arxiv.org/abs/2603.17635
-https://arxiv.org/abs/2603.17657
+* https://arxiv.org/abs/2603.17635 # Field-induced quasi-bound state within the two-magnon continuum of a square-lattice Heisenberg antiferromagnet, F. Elson, M. Nayak, A. A. Eberharter, M. Skoulatos, S. Ward, U. Stuhr, N. B. Christensen, D. Voneshen, C. Fiolka, K. W. Kraemer, Ch. Rueegg, H. M. Ronnow, B. Normand, M. Mourigal, F. Mila, A. M. Laeuchli, M. Mansson
+* https://arxiv.org/abs/2603.17657 # Superconducting Lanthanum Nickel Oxides with Bilayered and Trilayered Crystal Structures, Hiroya Sakurai, Yoshihiko Takano
 https://arxiv.org/abs/2603.17707
 https://arxiv.org/abs/2603.17738
-https://arxiv.org/abs/2603.17788
+* https://arxiv.org/abs/2603.17788 # Hamiltonian Monte Carlo enhanced by Exact Diagonalization, Finn L. Temmen, Martina Gisti, David J. Luitz, Thomas Luu, Johann Ostmeyer
 
-https://arxiv.org/abs/2603.17807
+* https://arxiv.org/abs/2603.17807 # Emergent superconformal symmetry in the phase diagram of a 1D Z2 lattice gauge theory, Bachana Beradze, Mikheil Tsitsishvili, Sergej Moroz
 https://arxiv.org/abs/2603.17818
 https://arxiv.org/abs/2603.17835
 https://arxiv.org/abs/2603.17854
-https://arxiv.org/abs/2603.17856
+* https://arxiv.org/abs/2603.17856 # Toward bootstrapping tensor-network contractions, Seishiro Ono, Yanbai Zhang, Hoi Chun Po
 https://arxiv.org/abs/2603.17873
 https://arxiv.org/abs/2603.13544
-https://arxiv.org/abs/2603.16993
+* https://arxiv.org/abs/2603.16993 # Chiral and bond-ordered phases in a triangular-ladder superconducting-qubit quantum simulator, Matthew Molinelli, Joshua C. Wang, Jeronimo G. C. Martinez, Sonny Lowe, Andrew Osborne, Rhine Samajdar, Andrew A. Houck
 https://arxiv.org/abs/2603.17071
 https://arxiv.org/abs/2603.17565
 
