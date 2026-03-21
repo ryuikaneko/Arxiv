@@ -1,5 +1,14 @@
 20260320
 
+https://arxiv.org/abs/2603.18650
+https://arxiv.org/abs/2603.18672
+https://arxiv.org/abs/2603.18816
+https://arxiv.org/abs/2603.18843
+https://arxiv.org/abs/2603.18854
+https://arxiv.org/abs/2603.18909
+* https://arxiv.org/abs/2603.18982 # Photoemission Signatures of Photoinduced Carriers and Excitons in One-Dimensional Mott Insulators, Taiga Nakamoto, Yuta Murakami, Naoto Tsuji
+https://arxiv.org/abs/2603.18989
+https://arxiv.org/abs/2603.18996
 * https://arxiv.org/abs/2603.18998 # Computation of thermal entropy for the doped Hubbard Model, Yu-Feng Song, Youjin Deng, Yuan-Yao He
 
 https://arxiv.org/abs/2603.19049
