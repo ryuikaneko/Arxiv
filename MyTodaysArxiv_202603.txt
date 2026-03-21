@@ -1,5 +1,13 @@
 20260320
 
+https://arxiv.org/abs/2603.18125
+https://arxiv.org/abs/2603.18134
+https://arxiv.org/abs/2603.18137
+* https://arxiv.org/abs/2603.18148 # Removing nodal and support-mismatch pathologies in Variational Monte Carlo via blurred sampling, Zhou-Quan Wan, Roeland Wiersema, Shiwei Zhang
+https://arxiv.org/abs/2603.18155
+https://arxiv.org/abs/2603.18170
+https://arxiv.org/abs/2603.18182
+
 * https://arxiv.org/abs/2603.18205 # Tackling the Sign Problem in the Doped Hubbard Model with Normalizing Flows, Dominic Schuh, Lena Funcke, Janik Kreit, Thomas Luu, Simran Singh
 https://arxiv.org/abs/2603.18278
 https://arxiv.org/abs/2603.18285
