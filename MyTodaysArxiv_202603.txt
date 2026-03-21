@@ -1,15 +1,17 @@
 20260320
 
-https://arxiv.org/abs/2603.18998
+* https://arxiv.org/abs/2603.18998 # Computation of thermal entropy for the doped Hubbard Model, Yu-Feng Song, Youjin Deng, Yuan-Yao He
+
 https://arxiv.org/abs/2603.19049
 https://arxiv.org/abs/2603.19060
-https://arxiv.org/abs/2603.19090
+* https://arxiv.org/abs/2603.19090 # Probing Coherent Many-Body Spin Dynamics in a Molecular Tweezer Array Quantum Simulator, Yukai Lu, Connor M. Holland, Callum L. Welsh, Xing-Yan Chen, Lawrence W. Cheuk
 https://arxiv.org/abs/2603.19189
 https://arxiv.org/abs/2603.18478
-https://arxiv.org/abs/2603.18825
-https://arxiv.org/abs/2603.18946
+* https://arxiv.org/abs/2603.18825 # Quantum Advantage: a Tensor Network Perspective, Augustine Kshetrimayum, Saeed S. Jahromi, Sukhbinder Singh, Roman Orus
+* https://arxiv.org/abs/2603.18946 # Dependence of Lindbladian spectral statistics on the integrability of no-jump Hamiltonians and the recycling terms, Dingzu Wang, Hao Zhu, Guo-Feng Zhang, Dario Poletti
 https://arxiv.org/abs/2603.19081
 https://arxiv.org/abs/2603.19094
+https://arxiv.org/abs/2603.18033
 
 https://arxiv.org/abs/2603.18052
 https://arxiv.org/abs/2603.18060
