@@ -5,7 +5,7 @@ https://arxiv.org/abs/2603.19007
 https://arxiv.org/abs/2603.19024
 https://arxiv.org/abs/2603.19110
 https://arxiv.org/abs/2603.19117
-https://arxiv.org/abs/2603.19200
+* https://arxiv.org/abs/2603.19200 # Measurement-Induced Quantum Neural Network, Paul Argyle, Djamil Lakhdar-Hamina, Sarah H. Miller, Victor Galitski
 https://arxiv.org/abs/2603.19208
 https://arxiv.org/abs/2603.19210
 https://arxiv.org/abs/2603.18374
