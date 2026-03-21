@@ -1,5 +1,16 @@
 20260320
 
+* https://arxiv.org/abs/2603.18205 # Tackling the Sign Problem in the Doped Hubbard Model with Normalizing Flows, Dominic Schuh, Lena Funcke, Janik Kreit, Thomas Luu, Simran Singh
+https://arxiv.org/abs/2603.18278
+https://arxiv.org/abs/2603.18285
+https://arxiv.org/abs/2603.18286
+https://arxiv.org/abs/2603.18316
+https://arxiv.org/abs/2603.18317
+https://arxiv.org/abs/2603.18445
+* https://arxiv.org/abs/2603.18486 # Phase Transitions in a Modified Ising Spin Glass Model: A Tensor-Network-based Sampling Approach, Takumi Oshima, Yamato Arai, Koji Hukushima
+* https://arxiv.org/abs/2603.18515 # Stationary 1/f^alpha noise in discrete models of the Kardar-Parisi-Zhang class, Rahul Chhimpa, Avinash Chand Yadav
+https://arxiv.org/abs/2603.18537
+
 https://arxiv.org/abs/2603.18650
 https://arxiv.org/abs/2603.18672
 https://arxiv.org/abs/2603.18816
