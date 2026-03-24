@@ -1,7 +1,7 @@
 20260323
 
 https://arxiv.org/abs/2603.19351
-https://arxiv.org/abs/2603.19363
+* https://arxiv.org/abs/2603.19363 # Logarithmic growth of operator entanglement in a clean non-integrable circuit, Mao Tian Tan, Tomaz Prosen
 https://arxiv.org/abs/2603.19378
 https://arxiv.org/abs/2603.19404
 https://arxiv.org/abs/2603.19408
@@ -12,13 +12,13 @@ https://arxiv.org/abs/2603.19694
 https://arxiv.org/abs/2603.19729
 
 https://arxiv.org/abs/2603.19737
-https://arxiv.org/abs/2603.19743
+* https://arxiv.org/abs/2603.19743 # Spin subdiffusion in perturbed infinite-U Hubbard chain, Jakub Rekas, Marcin Mierzejewski, Zala Lenarcic, Peter Prelovsek
 https://arxiv.org/abs/2603.19816
 https://arxiv.org/abs/2603.19850
 https://arxiv.org/abs/2603.19875
 https://arxiv.org/abs/2603.19885
 https://arxiv.org/abs/2603.19902
-https://arxiv.org/abs/2603.19951
+* https://arxiv.org/abs/2603.19951 # Quantum Fisher Information as a Probe of Critical Scaling in Frustrated Magnets: Signatures from Kagome Quantum Spin Liquid, Zhengbang Zhou, Chengkang Zhou, Menghan Song, Yong Baek Kim, Zi Yang Meng
 https://arxiv.org/abs/2603.19982
 https://arxiv.org/abs/2603.20010
 
@@ -30,10 +30,9 @@ https://arxiv.org/abs/2603.20157
 https://arxiv.org/abs/2306.05259
 https://arxiv.org/abs/2603.19320
 https://arxiv.org/abs/2603.19359
-https://arxiv.org/abs/2603.19866
 https://arxiv.org/abs/2603.19932
-
 https://arxiv.org/abs/2603.20007
+
 https://arxiv.org/abs/2603.20070
 
 https://arxiv.org/abs/2603.19475
