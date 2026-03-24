@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2603.19475
 https://arxiv.org/abs/2603.19381
 https://arxiv.org/abs/2603.19444
-https://arxiv.org/abs/2603.19866
+* https://arxiv.org/abs/2603.19866 # Structure and Classification of Matrix Product Quantum Channels, Giorgio Stucchi, J. Ignacio Cirac, Rahul Trivedi, Georgios Styliaris
 
 https://journals.aps.org/prb/abstract/10.1103/znfb-96vf
 https://journals.aps.org/prb/abstract/10.1103/msyr-c9yl
@@ -430,9 +430,6 @@ https://journals.aps.org/prb/abstract/10.1103/8vzv-y74m
 https://journals.aps.org/prb/abstract/10.1103/kx3p-phyq
 https://journals.aps.org/prl/abstract/10.1103/l43p-py55
 https://journals.aps.org/prl/abstract/10.1103/8c73-l4nk
-
-
-====
 
 
 20260313
