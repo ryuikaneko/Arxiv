@@ -1,5 +1,18 @@
 20260323
 
+https://arxiv.org/abs/2603.19388
+https://arxiv.org/abs/2603.19785
+https://arxiv.org/abs/2603.19870
+https://arxiv.org/abs/2603.19980
+https://arxiv.org/abs/2603.20029
+https://arxiv.org/abs/2603.20035
+https://arxiv.org/abs/2603.20038
+https://arxiv.org/abs/2603.20072
+https://arxiv.org/abs/2603.20167
+https://arxiv.org/abs/2603.20168
+
+https://arxiv.org/abs/2603.19498
+
 https://arxiv.org/abs/2603.19351
 * https://arxiv.org/abs/2603.19363 # Logarithmic growth of operator entanglement in a clean non-integrable circuit, Mao Tian Tan, Tomaz Prosen
 https://arxiv.org/abs/2603.19378
