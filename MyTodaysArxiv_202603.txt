@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2603.20294
 
 https://arxiv.org/abs/2603.20369
-https://arxiv.org/abs/2603.20372
+* https://arxiv.org/abs/2603.20372 # One-to-one quantum simulation of the low-dimensional frustrated quantum magnet TmMgGaO4 with 256 qubits
 https://arxiv.org/abs/2603.20376
 https://arxiv.org/abs/2603.20399
 https://arxiv.org/abs/2603.20401
