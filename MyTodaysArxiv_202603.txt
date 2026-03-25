@@ -1,20 +1,31 @@
 20260324
 
+https://arxiv.org/abs/2603.21793
+* https://arxiv.org/abs/2603.21812 # Fiber-optic quantum interface with an array of more than 100 individually addressable atoms on an optical nanofiber, Mitsuyoshi Takahata, Jameesh Keloth, Takashi Yamamoto, Ken-ichi Harada, Shigehito Miki, Takao Aoki
+https://arxiv.org/abs/2603.21839
+https://arxiv.org/abs/2603.21982
+https://arxiv.org/abs/2603.22142
+https://arxiv.org/abs/2603.22149
+https://arxiv.org/abs/2603.22238
+https://arxiv.org/abs/2603.20240
+https://arxiv.org/abs/2603.20253
+https://arxiv.org/abs/2603.20412
+
 https://arxiv.org/abs/2603.20241
 https://arxiv.org/abs/2603.20330
-https://arxiv.org/abs/2603.20368
+* https://arxiv.org/abs/2603.20368 # Evolution of superconductivity from charge clusters to stripes in the t-t'-J model, Aritra Sinha, Hannes Karlsson, Martin Ulaga, Alexander Wietek
 https://arxiv.org/abs/2603.20370
 https://arxiv.org/abs/2603.20389
-https://arxiv.org/abs/2603.20393
+* https://arxiv.org/abs/2603.20393 # Non-Hermitian Disordered Systems, Kohei Kawabata, Shinsei Ryu
 https://arxiv.org/abs/2603.20436
 https://arxiv.org/abs/2603.20439
 https://arxiv.org/abs/2603.20459
 https://arxiv.org/abs/2603.20540
 
-https://arxiv.org/abs/2603.20559
+* https://arxiv.org/abs/2603.20559 # Unifying Variational and Dynamical Quantum Embedding: From Ghost Gutzwiller Approximation to Dynamical Mean-Field Theory, Samuele Giuli, Tsung-Han Lee, Yong-Xin Yao, Gabriel Kotliar, Andrei E. Ruckenstein, Olivier Gingras, Nicola Lanata
 https://arxiv.org/abs/2603.20610
 https://arxiv.org/abs/2603.20693
-https://arxiv.org/abs/2603.20705
+* https://arxiv.org/abs/2603.20705 # Role of interstitial s orbital in a model of infinite-layer nickelates, Yan Peng, Rui Peng, Mi Jiang
 https://arxiv.org/abs/2603.20709
 https://arxiv.org/abs/2603.20763
 https://arxiv.org/abs/2603.20849
@@ -22,29 +33,29 @@ https://arxiv.org/abs/2603.20852
 https://arxiv.org/abs/2603.20871
 https://arxiv.org/abs/2603.20949
 
-https://arxiv.org/abs/2603.21147
+* https://arxiv.org/abs/2603.21147 # Chiral Spin Liquid in Rydberg Atom Arrays, Yu-Feng Mao, Shicheng Ma, Yong Xu
 https://arxiv.org/abs/2603.21203
 https://arxiv.org/abs/2603.21207
 https://arxiv.org/abs/2603.21238
 https://arxiv.org/abs/2603.21242
 https://arxiv.org/abs/2603.21246
 https://arxiv.org/abs/2603.21290
-https://arxiv.org/abs/2603.21303
+* https://arxiv.org/abs/2603.21303 # The phase boundary of the random site Ising model, Riccardo Ben Ali Zinati, Giacomo Gori, Alessandro Codello
 https://arxiv.org/abs/2603.21312
 https://arxiv.org/abs/2603.21320
 
-https://arxiv.org/abs/2603.21513
-https://arxiv.org/abs/2603.21807
+* https://arxiv.org/abs/2603.21513 # Dynamical spin correlations in kagome antiferromagnets: comparison of Abrikosov fermion and Schwinger boson approaches beyond mean field, Daiki Sasamoto, Joji Nasu
+* https://arxiv.org/abs/2603.21807 # Many-body mobility edges in one dimension revealed by efficient and interpretable feature-based learning with Kolmogorov-Arnold Networks, Siqi Dai, Tian-Cheng Yi, Xingbo Wei, Yunbo Zhang
 https://arxiv.org/abs/2603.21927
 https://arxiv.org/abs/2603.21954
-https://arxiv.org/abs/2603.22077
-https://arxiv.org/abs/2603.22163
+* https://arxiv.org/abs/2603.22077 # Semiclassical picture of the Heisenberg spin glass in two dimensions: from weak localization to hydrodynamics, Giacomo Bracci-Testasecca, Jacopo Niedda, Aldo Coraggio, Roderich Moessner, Antonello Scardicchio
+* https://arxiv.org/abs/2603.22163 # Dissipative free fermions in disguise, Kohei Fukai, Hironobu Yoshida, Hosho Katsura
 https://arxiv.org/abs/2603.22217
 https://arxiv.org/abs/2603.22243
-https://arxiv.org/abs/2603.22244
-https://arxiv.org/abs/2603.22259
+* https://arxiv.org/abs/2603.22244 # Probing the Spacetime Structure of Entanglement in Monitored Quantum Circuits with Graph Neural Networks, Javad Vahedi, Stefan Kettemann
+* https://arxiv.org/abs/2603.22259 # Emergent relativistic symmetry from interacting fermions on the honeycomb bilayer, Zi Hong Liu, Lukas Janssen
 
-https://arxiv.org/abs/2603.20400
+* https://arxiv.org/abs/2603.20400 # Noise-induced contraction of MPO truncation errors in noisy random circuits and Lindbladian dynamics, Zhi-Yuan Wei, Joel Rajakumar, Jon Nelson, Daniel Malz, Michael J. Gullans, Alexey V. Gorshkov
 https://arxiv.org/abs/2603.20786
 https://arxiv.org/abs/2603.21281
 https://arxiv.org/abs/2603.21968
