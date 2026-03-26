@@ -1,5 +1,16 @@
 20260325
 
+https://arxiv.org/abs/2603.23124
+https://arxiv.org/abs/2603.23200
+https://arxiv.org/abs/2603.23258
+https://arxiv.org/abs/2603.23290
+https://arxiv.org/abs/2603.23388
+https://arxiv.org/abs/2603.23407
+* https://arxiv.org/abs/2603.23432 # Tensor network influence functionals for open quantum systems with general Gaussian bosonic baths, Valentin Link
+https://arxiv.org/abs/2603.23444
+* https://arxiv.org/abs/2603.23468 # Information-Theoretic Scaling Laws of Neural Quantum States, Yiming Lu, Sriram Bharadwaj, Dikshant Rathore, Di Luo
+https://arxiv.org/abs/2603.20610
+
 https://journals.aps.org/prl/abstract/10.1103/3kk2-3fsj
 https://journals.aps.org/prresearch/abstract/10.1103/4741-cvvs
 https://journals.aps.org/prb/abstract/10.1103/wshz-mrnb
