@@ -1,5 +1,49 @@
 20260325
 
+https://arxiv.org/abs/2603.22481
+https://arxiv.org/abs/2603.22643
+https://arxiv.org/abs/2603.22662
+https://arxiv.org/abs/2603.22695
+https://arxiv.org/abs/2603.22696
+https://arxiv.org/abs/2603.22736
+https://arxiv.org/abs/2603.22830
+https://arxiv.org/abs/2603.22848
+https://arxiv.org/abs/2603.22919
+https://arxiv.org/abs/2603.23001
+
+https://arxiv.org/abs/2603.23021
+* https://arxiv.org/abs/2603.23058 # Basis dependence of eigenstate thermalization, Lennart Dabelow, Christian Eidecker-Dunkel, Peter Reimann
+https://arxiv.org/abs/2603.23130
+* https://arxiv.org/abs/2603.23145 # Impurity quadrupole moments as local probes of flux sectors in the Kitaev spin liquid, Masahiro O. Takahashi, Wen-Han Kao, Satoshi Fujimoto, Natalia B. Perkins
+* https://arxiv.org/abs/2603.23154 # From Quantum Dimers to the pi-flux Toric Code via Deconfined Multicriticality, Ankush Chaubey, Sergej Moroz, Subhro Bhattacharjee
+https://arxiv.org/abs/2603.23163
+https://arxiv.org/abs/2603.23174
+https://arxiv.org/abs/2603.23281
+https://arxiv.org/abs/2603.23307
+https://arxiv.org/abs/2603.23314
+
+https://arxiv.org/abs/2603.23347
+https://arxiv.org/abs/2603.23350
+https://arxiv.org/abs/2603.23377
+https://arxiv.org/abs/2603.23493
+* https://arxiv.org/abs/2603.22396 # Boundary Floquet Control of Bulk non-Hermitian Systems, Yu-Min Hu, Yu-Bo Shi, Linhu Li, Gianluca Teza, Ching Hua Lee, Roderich Moessner, Shu Zhang, Sen Mu
+https://arxiv.org/abs/2603.22452
+https://arxiv.org/abs/2603.23109
+* https://arxiv.org/abs/2603.23422 # Quantum simulation of Motzkin spin chain with Rydberg atoms, Kaustav Mukherjee, Hatem Barghathi, Adrian Del Maestro, Rick Mukherjee
+https://arxiv.org/abs/2603.23469
+https://arxiv.org/abs/2603.22354
+
+https://arxiv.org/abs/2603.22401
+* https://arxiv.org/abs/2603.22422 # Preparing Fermions via Classical Sampling and Linear Combinations of Unitaries, Erik J. Gustafson, Henry Lamm
+https://arxiv.org/abs/2603.22532
+https://arxiv.org/abs/2603.22686
+https://arxiv.org/abs/2603.22746
+https://arxiv.org/abs/2603.22778
+https://arxiv.org/abs/2603.22789
+https://arxiv.org/abs/2603.22891
+https://arxiv.org/abs/2603.22986
+https://arxiv.org/abs/2603.23011
+
 https://arxiv.org/abs/2603.23124
 https://arxiv.org/abs/2603.23200
 https://arxiv.org/abs/2603.23258
