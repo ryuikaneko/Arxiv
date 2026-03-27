@@ -1,5 +1,32 @@
 20260326
 
+https://arxiv.org/abs/2603.23616
+https://arxiv.org/abs/2603.24007
+https://arxiv.org/abs/2603.24031
+https://arxiv.org/abs/2603.24211
+* https://arxiv.org/abs/2603.24223 # Hidden Unit Interpretability in RBM Quantum States:Encoding Antiferromagnetic Order in Heisenberg Spin Rings, Bharadwaj Chowdary Mummaneni, Manas Sajjan
+https://arxiv.org/abs/2603.24289
+https://arxiv.org/abs/2603.24311
+https://arxiv.org/abs/2603.24446
+* https://arxiv.org/abs/2603.24453 # Intertwined spin and charge dynamics in one-dimensional supersymmetric t-J model, Yunjing Gao, Jianda Wu
+https://arxiv.org/abs/2603.24494
+
+https://arxiv.org/abs/2603.24551
+https://arxiv.org/abs/2603.24592
+https://arxiv.org/abs/2603.23602
+https://arxiv.org/abs/2603.23626
+https://arxiv.org/abs/2603.23936
+https://arxiv.org/abs/2603.24035
+* https://arxiv.org/abs/2603.24225 # Large deviations and conditioned monitored quantum systems: a tensor network approach, Maria Cea, Marcel Cech, Federico Carollo, Igor Lesanovsky, Mari Carmen Banuls
+* https://arxiv.org/abs/2603.24342 # Strong-to-Weak Spontaneous Symmetry Breaking in a (2+1)D Transverse-Field Ising Model under Decoherence, Yi-Ming Ding, Yuxuan Guo, Zhen Bi, Zheng Yan
+https://arxiv.org/abs/2603.24360
+https://arxiv.org/abs/2603.24370
+
+https://arxiv.org/abs/2603.24399
+https://arxiv.org/abs/2603.24444
+https://arxiv.org/abs/2603.24487
+https://arxiv.org/abs/2603.24557
+
 https://journals.aps.org/prl/abstract/10.1103/rpj5-cns6
 https://journals.aps.org/prl/abstract/10.1103/z2tj-cwzb
 https://journals.aps.org/prl/abstract/10.1103/r8ww-qw7j
@@ -9,9 +36,6 @@ https://journals.aps.org/prx/abstract/10.1103/rbt4-psfd
 https://journals.aps.org/prresearch/abstract/10.1103/9vdr-vhxg
 https://journals.aps.org/prd/abstract/10.1103/mb67-9rkf
 https://journals.aps.org/prb/abstract/10.1103/spgd-r3ht
-
-
-====
 
 
 20260325
