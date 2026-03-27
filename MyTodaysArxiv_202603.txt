@@ -1,5 +1,33 @@
 20260326
 
+https://arxiv.org/abs/2603.23598
+https://arxiv.org/abs/2603.23641
+https://arxiv.org/abs/2603.23774
+https://arxiv.org/abs/2603.23798
+https://arxiv.org/abs/2603.23892
+https://arxiv.org/abs/2603.23999
+https://arxiv.org/abs/2603.24017
+https://arxiv.org/abs/2603.24032
+https://arxiv.org/abs/2603.24067
+https://arxiv.org/abs/2603.24196
+
+https://arxiv.org/abs/2603.24205
+https://arxiv.org/abs/2603.24206
+https://arxiv.org/abs/2603.24237
+https://arxiv.org/abs/2603.24279
+https://arxiv.org/abs/2603.24290
+https://arxiv.org/abs/2603.24298
+https://arxiv.org/abs/2603.24346
+https://arxiv.org/abs/2603.24522
+https://arxiv.org/abs/2603.24573
+* https://arxiv.org/abs/2603.23887 # Predicting quantum ground-state energy by data-driven Koopman analysis of variational parameter nonlinear dynamics, Nobuyuki Okuma
+
+https://arxiv.org/abs/2603.23931
+https://arxiv.org/abs/2603.23948
+https://arxiv.org/abs/2603.24183
+https://arxiv.org/abs/2603.24347
+https://arxiv.org/abs/2603.24429
+
 https://arxiv.org/abs/2603.23616
 https://arxiv.org/abs/2603.24007
 https://arxiv.org/abs/2603.24031
