@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2603.24672
 * https://arxiv.org/abs/2603.24701 # Bound states of anyons: a geometric quantization approach, Qingchen Li, Pavel A. Nosov, Taige Wang, Eslam Khalaf
 https://arxiv.org/abs/2603.24766
-https://arxiv.org/abs/2603.24918
+* https://arxiv.org/abs/2603.24918 # Dynamical Response of the Kitaev Spin Liquid under Third-Nearest-Neighbor Heisenberg Interaction, Chuan Chen, Jiucai Wang
 https://arxiv.org/abs/2603.24976
 https://arxiv.org/abs/2603.24977
 https://arxiv.org/abs/2603.25045
@@ -11,11 +11,11 @@ https://arxiv.org/abs/2603.25119
 https://arxiv.org/abs/2603.25156
 https://arxiv.org/abs/2603.25271
 
-https://arxiv.org/abs/2603.25314
+* https://arxiv.org/abs/2603.25314 # Thermal stability of pair density wave in a d-wave altermagnetic superconductor, Amrutha N Madhusuthanan, Madhuparna Karmakar
 https://arxiv.org/abs/2603.25504
-https://arxiv.org/abs/2603.25557
+* https://arxiv.org/abs/2603.25557 # Neural network as low-cost surrogates for impurity solvers in quantum embedding methods, Rohan Nain, Philip M. Dee, Kipton Barros, Steven Johnston, Thomas A. Maier
 https://arxiv.org/abs/2603.25577
-https://arxiv.org/abs/2603.25647
+* https://arxiv.org/abs/2603.25647 # Majorana-assisted nonlocal spin correlation in quasi-one-dimensional Kitaev spin liquids, Yuki Yamazaki, Shingo Kobayashi, Akira Furusaki
 https://arxiv.org/abs/2603.25700
 https://arxiv.org/abs/2603.25705
 https://arxiv.org/abs/2603.25742
