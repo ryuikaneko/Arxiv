@@ -1,7 +1,7 @@
 20260327
 
 https://arxiv.org/abs/2603.24672
-https://arxiv.org/abs/2603.24701
+* https://arxiv.org/abs/2603.24701 # Bound states of anyons: a geometric quantization approach, Qingchen Li, Pavel A. Nosov, Taige Wang, Eslam Khalaf
 https://arxiv.org/abs/2603.24766
 https://arxiv.org/abs/2603.24918
 https://arxiv.org/abs/2603.24976
