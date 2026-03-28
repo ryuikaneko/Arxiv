@@ -1,5 +1,32 @@
 20260327
 
+https://arxiv.org/abs/2603.24672
+https://arxiv.org/abs/2603.24701
+https://arxiv.org/abs/2603.24766
+https://arxiv.org/abs/2603.24918
+https://arxiv.org/abs/2603.24976
+https://arxiv.org/abs/2603.24977
+https://arxiv.org/abs/2603.25045
+https://arxiv.org/abs/2603.25119
+https://arxiv.org/abs/2603.25156
+https://arxiv.org/abs/2603.25271
+
+https://arxiv.org/abs/2603.25314
+https://arxiv.org/abs/2603.25504
+https://arxiv.org/abs/2603.25557
+https://arxiv.org/abs/2603.25577
+https://arxiv.org/abs/2603.25647
+https://arxiv.org/abs/2603.25700
+https://arxiv.org/abs/2603.25705
+https://arxiv.org/abs/2603.25742
+https://arxiv.org/abs/2603.24638
+https://arxiv.org/abs/2603.24642
+
+https://arxiv.org/abs/2603.24676
+https://arxiv.org/abs/2603.25023
+https://arxiv.org/abs/2603.25579
+https://arxiv.org/abs/2603.25667
+
 * https://arxiv.org/abs/2603.24654 # Spectral methods: crucial for machine learning, natural for quantum computers?, Vasilis Belis, Joseph Bowles, Rishabh Gupta, Evan Peters, Maria Schuld
 * https://arxiv.org/abs/2603.24671 # Inequality for Strong-Weak Spontaneous Symmetry Breaking in Fermionic Open Quantum systems, Abhijat Sarma, Cenke Xu
 https://arxiv.org/abs/2603.24679
