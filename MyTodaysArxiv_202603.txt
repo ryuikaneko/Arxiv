@@ -1,14 +1,14 @@
 20260327
 
-https://arxiv.org/abs/2603.24654
-https://arxiv.org/abs/2603.24671
+* https://arxiv.org/abs/2603.24654 # Spectral methods: crucial for machine learning, natural for quantum computers?, Vasilis Belis, Joseph Bowles, Rishabh Gupta, Evan Peters, Maria Schuld
+* https://arxiv.org/abs/2603.24671 # Inequality for Strong-Weak Spontaneous Symmetry Breaking in Fermionic Open Quantum systems, Abhijat Sarma, Cenke Xu
 https://arxiv.org/abs/2603.24679
-https://arxiv.org/abs/2603.24728
+* https://arxiv.org/abs/2603.24728 # Auto-regressive Neural Quantum State Sampling for Selected Configuration Interaction, Shane Thompson, Daniel Gunlycke
 https://arxiv.org/abs/2603.24731
 https://arxiv.org/abs/2603.24822
-https://arxiv.org/abs/2603.25066
-https://arxiv.org/abs/2603.25101
-https://arxiv.org/abs/2603.25128
+* https://arxiv.org/abs/2603.25066 # Neural Operator Quantum State: A Foundation Model for Quantum Dynamics, Zihao Qi, Christopher Earls, Yang Peng
+* https://arxiv.org/abs/2603.25101 # T Count as a Numerically Solvable Minimization Problem, Marc Grau Davis, Ed Younis, Mathias Weiden, Hyeongrak Choi, Dirk Englund
+* https://arxiv.org/abs/2603.25128 # Optimal measurement-based quantum thermal machines in a finite-size system, Chinonso Onah, Obinna Uzoh, Obinna Abah
 https://arxiv.org/abs/2603.25138
 
 https://arxiv.org/abs/2603.25341
@@ -16,21 +16,21 @@ https://arxiv.org/abs/2603.25345
 https://arxiv.org/abs/2603.25358
 https://arxiv.org/abs/2603.25360
 https://arxiv.org/abs/2603.25387
-https://arxiv.org/abs/2603.25394
+* https://arxiv.org/abs/2603.25394 # Quantum Finite Temperature Lanczos Method, Gian Gentinetta, Friederike Metz, William Kirby, Giuseppe Carleo
 https://arxiv.org/abs/2603.25409
-https://arxiv.org/abs/2603.25582
+* https://arxiv.org/abs/2603.25582 # A unified quantum computing quantum Monte Carlo framework through structured state preparation, Giuseppe Buonaiuto, Antonio Marquez Romero, Brian Coyle, Annie E. Paine, Vicente P. Soloviev, Stefano Scali, Michal Krompiec
 https://arxiv.org/abs/2603.25639
 https://arxiv.org/abs/2603.25708
 
-https://arxiv.org/abs/2603.24698
+* https://arxiv.org/abs/2603.24698 # String-breaking statics and dynamics in a (1+1)D SU(2) lattice gauge theory, Navya Gupta, Emil Mathew, Saurabh V. Kadam, Jesse R. Stryker, Aniruddha Bapat, Niklas Mueller, Zohreh Davoudi, Indrakshi Raychowdhury
 https://arxiv.org/abs/2603.24789
 https://arxiv.org/abs/2603.24881
 https://arxiv.org/abs/2603.24971
 https://arxiv.org/abs/2603.25090
 https://arxiv.org/abs/2603.25451
-https://arxiv.org/abs/2603.25492
+* https://arxiv.org/abs/2603.25492 # Lattice and PT symmetries in tensor-network renormalization group: a case study of a hard-square lattice gas model, Xinliang Lyu
 https://arxiv.org/abs/2603.25665
-https://arxiv.org/abs/2603.25724
+* https://arxiv.org/abs/2603.25724 # Krylov-space anatomy and spread complexity of a disordered quantum spin chain, Bikram Pain, David E. Logan, Sthitadhi Roy
 https://arxiv.org/abs/2603.24607
 
 https://journals.aps.org/prxquantum/abstract/10.1103/qttm-y8t1
