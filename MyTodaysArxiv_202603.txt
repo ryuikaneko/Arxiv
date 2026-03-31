@@ -1,5 +1,24 @@
 20260331
 
+https://arxiv.org/abs/2603.25775
+* https://arxiv.org/abs/2603.25784 # A Dipolar Chiral Spin Liquid on the Breathed Kagome Lattice, Francisco Machado, Sabrina Chern, Michael P. Zaletel, Norman Y. Yao
+https://arxiv.org/abs/2603.25807
+https://arxiv.org/abs/2603.25858
+https://arxiv.org/abs/2603.25884
+https://arxiv.org/abs/2603.25908
+https://arxiv.org/abs/2603.26001
+
+https://arxiv.org/abs/2603.26079
+* https://arxiv.org/abs/2603.26118 # Phase Coherence of Strongly Interacting Bosons in One-Dimensional Optical Lattices, R. Vatre, G. Morettini, J. Beugnon, R. Lopes, L. Mazza, F. Gerbier
+* https://arxiv.org/abs/2603.26185 # Multifractal Analysis of the Non-Hermitian Skin Effect: From Many-Body to Tree Models, Shu Hamanaka
+https://arxiv.org/abs/2603.26281
+https://arxiv.org/abs/2603.26452
+https://arxiv.org/abs/2603.26471
+https://arxiv.org/abs/2603.26477
+https://arxiv.org/abs/2603.26490
+https://arxiv.org/abs/2603.26505
+https://arxiv.org/abs/2603.26593
+
 https://arxiv.org/abs/2603.26598
 https://arxiv.org/abs/2603.25789
 https://arxiv.org/abs/2603.25952
