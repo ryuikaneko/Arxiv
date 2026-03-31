@@ -1,5 +1,30 @@
 20260331
 
+https://arxiv.org/abs/2603.25757
+https://arxiv.org/abs/2603.25774
+https://arxiv.org/abs/2603.25876
+https://arxiv.org/abs/2603.25920
+https://arxiv.org/abs/2603.26039
+https://arxiv.org/abs/2603.26063
+https://arxiv.org/abs/2603.26102
+https://arxiv.org/abs/2603.26160
+https://arxiv.org/abs/2603.26278
+https://arxiv.org/abs/2603.26345
+
+https://arxiv.org/abs/2603.26359
+https://arxiv.org/abs/2603.26494
+https://arxiv.org/abs/2603.26519
+* https://arxiv.org/abs/2603.26561 # Complexity of Quadratic Bosonic Hamiltonian Simulation: BQP-Completeness and PostBQP-Hardness, Lilith Zschetzsche, Refik Mansuroglu, Norbert Schuch
+https://arxiv.org/abs/2603.26602
+https://arxiv.org/abs/2603.26606
+https://arxiv.org/abs/2603.26619
+https://arxiv.org/abs/2507.13867
+* https://arxiv.org/abs/2512.07742 # Strong zero modes in integrable spin-S chains, Fabian H.L. Essler, Paul Fendley, Eric Vernier
+https://arxiv.org/abs/2603.26090
+
+https://arxiv.org/abs/2603.26232
+https://arxiv.org/abs/2603.26318
+
 https://arxiv.org/abs/2603.26209
 
 https://arxiv.org/abs/2603.25775
