@@ -35,7 +35,7 @@ https://arxiv.org/abs/2603.28527
 
 https://arxiv.org/abs/2603.28587
 https://arxiv.org/abs/2603.28623
-https://arxiv.org/abs/2603.28627
+* https://arxiv.org/abs/2603.28627 # Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits, Madelyn Cain, Qian Xu, Robbie King, Lewis R. B. Picard, Harry Levine, Manuel Endres, John Preskill, Hsin-Yuan Huang, Dolev Bluvstein
 https://arxiv.org/abs/2603.28667
 https://arxiv.org/abs/2603.26718
 https://arxiv.org/abs/2603.26881
