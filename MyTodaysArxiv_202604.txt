@@ -1,5 +1,45 @@
 20260401
 
+https://arxiv.org/abs/2603.26819
+https://arxiv.org/abs/2603.26874
+https://arxiv.org/abs/2603.26875
+https://arxiv.org/abs/2603.26904
+https://arxiv.org/abs/2603.26933
+https://arxiv.org/abs/2603.27004
+https://arxiv.org/abs/2603.27028
+https://arxiv.org/abs/2603.27037
+https://arxiv.org/abs/2603.27041
+https://arxiv.org/abs/2603.27063
+
+https://arxiv.org/abs/2603.27269
+https://arxiv.org/abs/2603.27278
+https://arxiv.org/abs/2603.27297
+https://arxiv.org/abs/2603.27377
+https://arxiv.org/abs/2603.27387
+https://arxiv.org/abs/2603.27397
+https://arxiv.org/abs/2603.27480
+https://arxiv.org/abs/2603.27511
+https://arxiv.org/abs/2603.27532
+https://arxiv.org/abs/2603.27551
+
+https://arxiv.org/abs/2603.27627
+https://arxiv.org/abs/2603.27671
+https://arxiv.org/abs/2603.27761
+https://arxiv.org/abs/2603.27836
+https://arxiv.org/abs/2603.27978
+https://arxiv.org/abs/2603.28122
+https://arxiv.org/abs/2603.28294
+https://arxiv.org/abs/2603.28307
+https://arxiv.org/abs/2603.28413
+https://arxiv.org/abs/2603.28527
+
+https://arxiv.org/abs/2603.28587
+https://arxiv.org/abs/2603.28623
+https://arxiv.org/abs/2603.28627
+https://arxiv.org/abs/2603.28667
+https://arxiv.org/abs/2603.26718
+https://arxiv.org/abs/2603.26881
+
 * https://arxiv.org/abs/2603.26870 # Ergodicity breaking in matrix-product-state effective Hamiltonians, Andrew Hallam, Jared Jeyaretnam, Zlatko Papic
 https://arxiv.org/abs/2603.26884
 * https://arxiv.org/abs/2603.26897 # Nonequilibrium from Equilibrium: Chiral Current-Carrying States in the Spin-1 Babujian-Takhtajan Chain, Bahar Jafari-Zadeh, Chenan Wei, Hrachya M. Babujian, Tigran A. Sedrakyan
