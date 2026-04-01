@@ -19,7 +19,7 @@ https://arxiv.org/abs/2603.27387
 https://arxiv.org/abs/2603.27397
 https://arxiv.org/abs/2603.27480
 https://arxiv.org/abs/2603.27511
-https://arxiv.org/abs/2603.27532
+* https://arxiv.org/abs/2603.27532 # Phase transitions in parametrized quantum circuits, Xiaoyang Wang, Han Xu, Lukas Broers, Tomonori Shirakawa, Seiji Yunoki
 https://arxiv.org/abs/2603.27551
 
 https://arxiv.org/abs/2603.27627
