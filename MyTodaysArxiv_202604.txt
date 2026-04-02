@@ -2,8 +2,8 @@
 
 https://arxiv.org/abs/2603.28821
 https://arxiv.org/abs/2603.28869
-https://arxiv.org/abs/2603.28870
-https://arxiv.org/abs/2603.28877
+* https://arxiv.org/abs/2603.28870 # Non-stabilizerness and U(1) symmetry in chaotic many-body quantum systems, Daniele Iannotti, Angelo Russotto, Barbara Jasser, Jovan Odavic, Alioscia Hamma
+* https://arxiv.org/abs/2603.28877 # Effects of measurements on entanglement dynamics for 1+1D Z2 lattice gauge theory, Nilachal Chakrabarti, Nisa Ara, Neha Nirbhan, Arpan Bhattacharyya, Indrakshi Raychowdhury
 https://arxiv.org/abs/2603.28892
 https://arxiv.org/abs/2603.28894
 https://arxiv.org/abs/2603.28933
@@ -18,9 +18,9 @@ https://arxiv.org/abs/2603.29737
 https://arxiv.org/abs/2603.29754
 https://arxiv.org/abs/2603.29795
 https://arxiv.org/abs/2603.29809
-https://arxiv.org/abs/2603.29857
-https://arxiv.org/abs/2603.29894
-https://arxiv.org/abs/2603.29900
+* https://arxiv.org/abs/2603.29857 # Trotter Scars: Trotter Error Suppression in Quantum Simulation, Bozhen Zhou, Qi Zhao, Pan Zhang
+* https://arxiv.org/abs/2603.29894 # LLM-Guided Evolutionary Search for Algebraic T-Count Optimization, Daniil Fisher, Valentin Khrulkov, Mikhail Saygin, Ivan Oseledets, Stanislav Straupe
+* https://arxiv.org/abs/2603.29900 # Dynamics of entanglement entropy for a locally monitored lattice gauge theory, Nisa Ara, Arpan Bhattacharyya, Nilachal Chakrabarti, Neha Nirbhan, Indrakshi Raychowdhury
 
 https://arxiv.org/abs/2603.28849
 https://arxiv.org/abs/2603.28893
