@@ -1,5 +1,26 @@
 20260402
 
+https://arxiv.org/abs/2603.29984
+https://arxiv.org/abs/2603.29951
+https://arxiv.org/abs/2603.29949
+* https://arxiv.org/abs/2603.29932 # Bethe Ansatz with a Large Language Model, Balazs Pozsgay, Istvan Vona
+https://arxiv.org/abs/2603.29821
+https://arxiv.org/abs/2603.29641
+* https://arxiv.org/abs/2603.29551 # Ground State Properties of the Doped Kitaev-Heisenberg Chain: Topological Superconducting and Mott Insulating Phases Driven by Magnetic Frustration, Clio Efthimia Agrapidis, Satoshi Nishimoto
+https://arxiv.org/abs/2603.29389
+https://arxiv.org/abs/2603.29377
+https://arxiv.org/abs/2603.29390
+
+https://arxiv.org/abs/2603.29177
+https://arxiv.org/abs/2603.29173
+https://arxiv.org/abs/2603.29106
+* https://arxiv.org/abs/2603.28871 # Fractionalization from Kinetic Frustration in Doped Two-Dimensional SU(4) Quantum Magnets, Wilhelm Kadow, Ivan Morera, Eugene Demler, Michael Knap
+* https://arxiv.org/abs/2603.28860 # Higgs criticality of Dirac spin liquids on depleted triangular lattices, Andreas Feuerpfeil, Atanu Maity, Ronny Thomale, Yasir Iqbal, Subir Sachdev
+https://arxiv.org/abs/2603.28812
+https://arxiv.org/abs/2603.29562
+https://arxiv.org/abs/2603.27436
+https://arxiv.org/abs/2603.24478
+
 https://arxiv.org/abs/2603.28821
 https://arxiv.org/abs/2603.28869
 * https://arxiv.org/abs/2603.28870 # Non-stabilizerness and U(1) symmetry in chaotic many-body quantum systems, Daniele Iannotti, Angelo Russotto, Barbara Jasser, Jovan Odavic, Alioscia Hamma
