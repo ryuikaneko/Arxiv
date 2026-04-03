@@ -1,11 +1,37 @@
 20260403
 
+https://arxiv.org/abs/2604.00113
+https://arxiv.org/abs/2604.00114
+https://arxiv.org/abs/2604.00347
+https://arxiv.org/abs/2604.00354
+https://arxiv.org/abs/2604.00358
+https://arxiv.org/abs/2604.00482
+https://arxiv.org/abs/2604.00571
+https://arxiv.org/abs/2604.00665
+https://arxiv.org/abs/2604.00705
+https://arxiv.org/abs/2604.00870
+
+https://arxiv.org/abs/2604.00895
+https://arxiv.org/abs/2604.00905
+https://arxiv.org/abs/2604.00910
+https://arxiv.org/abs/2604.01140
+https://arxiv.org/abs/2604.00127
+https://arxiv.org/abs/2604.00639
+https://arxiv.org/abs/2604.00815
+https://arxiv.org/abs/2604.00947
+https://arxiv.org/abs/2604.01157
+* https://arxiv.org/abs/2604.01165 # Variational Dynamics of Open Quantum Spin Systems in Phase Space, Jacopo Tosca, Zejian Li, Francesco Carnazza, Cristiano Ciuti
+
+https://arxiv.org/abs/2604.01184
+https://arxiv.org/abs/2604.01197
+
 https://arxiv.org/abs/2604.00149
 https://arxiv.org/abs/2604.00386
 https://arxiv.org/abs/2604.00888
 https://arxiv.org/abs/2604.01050
 https://arxiv.org/abs/2603.29509
 
+https://journals.aps.org/pra/abstract/10.1103/4ds8-1jt8
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.113.130001
 
 
