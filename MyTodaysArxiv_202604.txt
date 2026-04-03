@@ -1,24 +1,24 @@
 20260403
 
 https://arxiv.org/abs/2604.00113
-https://arxiv.org/abs/2604.00114
+* https://arxiv.org/abs/2604.00114 # Crystals Caught Doping: Metallic Wigner Crystals in Rhombohedral Graphene, Junkai Dong, Tomohiro Soejima, Daniel E. Parker, Ashvin Vishwanath
 https://arxiv.org/abs/2604.00347
 https://arxiv.org/abs/2604.00354
-https://arxiv.org/abs/2604.00358
+* https://arxiv.org/abs/2604.00358 # Anomalous waiting-time distributions in postselection-free quantum many-body dynamics under continuous monitoring, Kazuki Yamamoto, Ryusuke Hamazaki
 https://arxiv.org/abs/2604.00482
 https://arxiv.org/abs/2604.00571
 https://arxiv.org/abs/2604.00665
 https://arxiv.org/abs/2604.00705
-https://arxiv.org/abs/2604.00870
+* https://arxiv.org/abs/2604.00870 # The Klein bottle ratio of two-dimensional ferromagnetic Potts models, Zi-Han Wang, Li-Ping Yang
 
 https://arxiv.org/abs/2604.00895
 https://arxiv.org/abs/2604.00905
 https://arxiv.org/abs/2604.00910
-https://arxiv.org/abs/2604.01140
+* https://arxiv.org/abs/2604.01140 # Principal component analysis of wavefunction snapshots in non-equilibrium dynamics, Dharmesh Yadav, Devendra Singh Bhakuni, Bijay Kumar Agarwalla
 https://arxiv.org/abs/2604.00127
 https://arxiv.org/abs/2604.00639
-https://arxiv.org/abs/2604.00815
-https://arxiv.org/abs/2604.00947
+* https://arxiv.org/abs/2604.00815 # Stable Determinant Monte Carlo Simulations at Large Inverse Temperature beta, Thomas Luu, Johann Ostmeyer, Petar Sinilkov, Finn L. Temmen
+* https://arxiv.org/abs/2604.00947 # Phase transition on a context-sensitive random language model with short range interactions, Yuma Toji, Jun Takahashi, Vwani Roychowdhury, Hideyuki Miyahara
 https://arxiv.org/abs/2604.01157
 * https://arxiv.org/abs/2604.01165 # Variational Dynamics of Open Quantum Spin Systems in Phase Space, Jacopo Tosca, Zejian Li, Francesco Carnazza, Cristiano Ciuti
 
