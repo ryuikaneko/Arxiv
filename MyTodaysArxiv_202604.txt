@@ -1,13 +1,23 @@
 20260404
 
+https://arxiv.org/abs/2604.01250
+https://arxiv.org/abs/2604.01282
+https://arxiv.org/abs/2604.01301
+https://arxiv.org/abs/2604.01426
+https://arxiv.org/abs/2604.01555
+https://arxiv.org/abs/2604.01616
+https://arxiv.org/abs/2604.01983
+https://arxiv.org/abs/2604.02064
+https://arxiv.org/abs/2604.02269
+
 https://arxiv.org/abs/2604.01227
-https://arxiv.org/abs/2604.01285
-https://arxiv.org/abs/2604.01291
+* https://arxiv.org/abs/2604.01285 # Temperature and integrability-breaking correspondence via adiabatic transformations, Hyeongjin Kim, Souvik Bandyopadhyay, Anatoli Polkovnikov
+* https://arxiv.org/abs/2604.01291 # Dissipative Floquet engineering of gapped many-body phases using thermal baths, Lorenz Wanckel, Andre Eckardt
 https://arxiv.org/abs/2604.01317
 https://arxiv.org/abs/2604.01484
 https://arxiv.org/abs/2604.01512
 https://arxiv.org/abs/2604.01543
-https://arxiv.org/abs/2604.01649
+* https://arxiv.org/abs/2604.01649 # Isolated extended states and anomalous critical behavior in the generalized SSH model, Jia-Ming Zhang
 https://arxiv.org/abs/2604.01688
 https://arxiv.org/abs/2604.01737
 
@@ -25,17 +35,17 @@ https://arxiv.org/abs/2604.02001
 https://arxiv.org/abs/2604.02114
 https://arxiv.org/abs/2604.02246
 https://arxiv.org/abs/2604.02263
-https://arxiv.org/abs/2604.02298
-https://arxiv.org/abs/2604.02307
-https://arxiv.org/abs/2604.02321
+* https://arxiv.org/abs/2604.02298 # Chiral skyrmionic superconductivity from doping a Chern Ferromagnet, Miguel Goncalves, Kun Yang, Shi-Zeng Lin
+* https://arxiv.org/abs/2604.02307 # Detecting Symmetry-Resolved Entanglement: A Quantum Monte Carlo Approach, Kuangjie Chen, Weizhen Jia, Xiaopeng Li, Rene Meyer, Jiarui Zhao
+* https://arxiv.org/abs/2604.02321 # Robust Correlation-Induced Localization Under Time-Reversal Symmetry Breaking, Bikram Pain, Sthitadhi Roy, Jens H. Bardarson, Ivan M. Khaymovich
 https://arxiv.org/abs/2604.01296
-https://arxiv.org/abs/2604.01320
+* https://arxiv.org/abs/2604.01320 # Solving Levy Sachdev-Ye-Kitaev Model, Budhaditya Bhattacharjee, William. E. Salazar, Alexei Andreanov, Dario Rosa
 https://arxiv.org/abs/2604.01360
 https://arxiv.org/abs/2604.01436
 
 https://arxiv.org/abs/2604.01638
 https://arxiv.org/abs/2604.01918
-https://arxiv.org/abs/2604.02033
+* https://arxiv.org/abs/2604.02033 # High-threshold decoding of non-Pauli codes for 2D universality, Julio C. Magdalena de la Fuente, Noa Feldman, Jens Eisert, Andreas Bauer
 https://arxiv.org/abs/2604.02054
 https://arxiv.org/abs/2604.02075
 https://arxiv.org/abs/2604.02078
