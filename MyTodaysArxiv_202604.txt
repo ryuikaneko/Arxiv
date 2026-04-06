@@ -1,3 +1,7 @@
+20260406
+
+
+
 20260404
 
 https://arxiv.org/abs/2604.01250
@@ -56,9 +60,6 @@ https://journals.aps.org/prb/abstract/10.1103/lxhl-wq7l
 https://journals.aps.org/prb/abstract/10.1103/zc8g-9fw7
 https://journals.aps.org/prb/abstract/10.1103/q6dt-kzgc
 https://journals.aps.org/prb/abstract/10.1103/yv52-wm2s
-
-
-====
 
 
 20260403
