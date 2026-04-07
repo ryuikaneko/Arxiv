@@ -1,6 +1,57 @@
 20260406
 
+https://arxiv.org/abs/2604.02416
+https://arxiv.org/abs/2604.02420
+https://arxiv.org/abs/2604.02428
+https://arxiv.org/abs/2604.02484
+https://arxiv.org/abs/2604.02530
+https://arxiv.org/abs/2604.02536
+https://arxiv.org/abs/2604.02550
+https://arxiv.org/abs/2604.02569
+https://arxiv.org/abs/2604.02874
+https://arxiv.org/abs/2604.03155
+
+https://arxiv.org/abs/2604.03184
+https://arxiv.org/abs/2604.02364
+https://arxiv.org/abs/2604.02777
+https://arxiv.org/abs/2604.02856
+
+* https://arxiv.org/abs/2604.02426 # Transport and Temperature 1: Exact spectrum and resistivity for the one-dimensional infinite-U Hubbard model, Shuo Liu, Yuhao Ma, Hitesh J. Changlani, Philip W. Phillips, B. Andrei Bernevig
+https://arxiv.org/abs/2604.02538
+* https://arxiv.org/abs/2604.02584 # Fermionic mean-field dynamics for spin systems beyond free fermions, Rishab Dutta, Marc Illa, Niranjan Govind, Karol Kowalski
+https://arxiv.org/abs/2604.02620
+* https://arxiv.org/abs/2604.02769 # Semiclassical representation of the Hubbard model, Yuki Yamasaki, Hidemaro Suwa, Cristian D. Batista, Shintaro Hoshino
+https://arxiv.org/abs/2604.02789
+https://arxiv.org/abs/2604.02790
+https://arxiv.org/abs/2604.02879
+https://arxiv.org/abs/2604.02914
+https://arxiv.org/abs/2604.02922
+
+https://arxiv.org/abs/2604.02950
+https://arxiv.org/abs/2604.02959
+https://arxiv.org/abs/2604.03026
+* https://arxiv.org/abs/2604.03099 # Proximate quantum spin liquids and Majorana continua in magnetically ordered Kitaev magnets, Peng Rao, Roderich Moessner, Johannes Knolle
+* https://arxiv.org/abs/2604.03115 # Testing the Role of Diagonal Interactions in High-Order Hopfield Models via Dynamical Mean-Field Theory, Yuto Sumikawa, Yoshiyuki Kabashima
+https://arxiv.org/abs/2604.03183
+https://arxiv.org/abs/2604.03210
+https://arxiv.org/abs/2604.02313
+https://arxiv.org/abs/2604.02417
+https://arxiv.org/abs/2604.02424
+
+https://arxiv.org/abs/2604.02537
+https://arxiv.org/abs/2604.02576
+https://arxiv.org/abs/2604.02731
+* https://arxiv.org/abs/2604.03228 # Belief Propagation and Tensor Network Expansions for Many-Body Quantum Systems: Rigorous Results and Fundamental Limits, Siddhant Midha, Grace M. Sommers, Joseph Tindall, Dmitry A. Abanin
+
 https://journals.aps.org/prxquantum/abstract/10.1103/8qt9-72ts
+https://journals.aps.org/prb/abstract/10.1103/zp5y-6d5w
+https://journals.aps.org/prb/abstract/10.1103/rvpc-jw1n
+https://journals.aps.org/prb/abstract/10.1103/c8p4-637v
+https://journals.aps.org/prb/abstract/10.1103/ccyk-yzqm
+https://journals.aps.org/prb/abstract/10.1103/vqlz-4rtz
+https://journals.aps.org/prb/abstract/10.1103/5fp1-y42d
+https://journals.aps.org/prb/abstract/10.1103/4dyh-rbfq
+https://journals.aps.org/prb/abstract/10.1103/76vf-63zr
 
 
 20260404
