@@ -11,7 +11,7 @@ https://arxiv.org/abs/2604.02569
 https://arxiv.org/abs/2604.02874
 https://arxiv.org/abs/2604.03155
 
-https://arxiv.org/abs/2604.03184
+* https://arxiv.org/abs/2604.03184 # Quantum Contact Processes on a Topological Lattice, Julius Bohm, Richard Schmidt, Michael Fleischhauer, Daniel Brady
 https://arxiv.org/abs/2604.02364
 https://arxiv.org/abs/2604.02777
 https://arxiv.org/abs/2604.02856
