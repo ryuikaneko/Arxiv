@@ -1,5 +1,27 @@
 20260407
 
+https://arxiv.org/abs/2604.03346
+https://arxiv.org/abs/2604.03360
+https://arxiv.org/abs/2604.03435
+https://arxiv.org/abs/2604.03469
+https://arxiv.org/abs/2604.03482
+https://arxiv.org/abs/2604.03546
+* https://arxiv.org/abs/2604.03550 # Post-Selection-Free Decoding of Measurement-Induced Area-Law Phases via Neural Networks, Hui Yu, Jiangping Hu, Shi-Xin Zhang
+https://arxiv.org/abs/2604.03725
+https://arxiv.org/abs/2604.03731
+https://arxiv.org/abs/2604.03884
+
+* https://arxiv.org/abs/2604.04046 # Dismagicker: Unitary Gate for Non-Stabilizerness Reduction, Jiale Huang, Rongyi Lv, Xiangjian Qian, Mingpu Qin
+https://arxiv.org/abs/2604.04137
+https://arxiv.org/abs/2604.04292
+https://arxiv.org/abs/2604.04298
+https://arxiv.org/abs/2604.04438
+* https://arxiv.org/abs/2604.04600 # Phase-Stable Hologram Updates for Large-Scale Neutral-Atom Array Reconfiguration, Erdong Huang, Jiayi Huang, Hongshun Yao, Xin Wang, Jin-Guo Liu
+https://arxiv.org/abs/2604.04761
+https://arxiv.org/abs/2604.03367
+https://arxiv.org/abs/2604.04081
+* https://arxiv.org/abs/2604.04778 # QCommute: a tool for symbolic computation of nested commutators in quantum many-body spin-1/2 systems, Oleg Lychkovskiy, Viacheslav Khrushchev, Ilya Shirokov
+
 https://journals.aps.org/prb/abstract/10.1103/1yh5-zc63
 
 
