@@ -7,17 +7,17 @@ https://arxiv.org/abs/2604.03977
 https://arxiv.org/abs/2604.04062
 https://arxiv.org/abs/2604.04104
 https://arxiv.org/abs/2604.04114
-https://arxiv.org/abs/2604.04123
-https://arxiv.org/abs/2604.04232
-https://arxiv.org/abs/2604.04346
+* https://arxiv.org/abs/2604.04123 # The optical Su-Schrieffer-Heeger model on a triangular lattice, Max Casebolt, Sohan Malkaruge Costa, Benjamin Cohen-Stead, Richard Scalettar, Steven Johnston
+* https://arxiv.org/abs/2604.04232 # BosonFlow: A C++ codebase for dynamic fRG and single-boson exchange in correlated fermion systems, Aiman Al-Eryani, Miriam Patricolo, Kilian Fraboulet
+* https://arxiv.org/abs/2604.04346 # Topological Phase Transitions and Their Thermodynamic Fate in Arbitrary-S Pyrochlore Spin Ice, Sena Watanabe, Yukitoshi Motome, Haruki Watanabe
 
-https://arxiv.org/abs/2604.04435
+* https://arxiv.org/abs/2604.04435 # Neural-network quantum states for solving few-body problems: application to Efimov physics, Sora Yokoi, Shimpei Endo, Hiroki Saito
 https://arxiv.org/abs/2604.04596
-https://arxiv.org/abs/2604.04627
-https://arxiv.org/abs/2604.04631
+* https://arxiv.org/abs/2604.04627 # The Roaming Bethe Roots: An Effective Bethe Ansatz Beyond Integrability, Wenlong Zhao, Yunfeng Jiang, Rui-Dong Zhu
+* https://arxiv.org/abs/2604.04631 # Strongly Correlated Superconductivity in Twisted Bilayer Graphene: A Gutzwiller Study, Matthew Shu Liang, Yi-Jie Wang, Geng-Dong Zhou, Zhi-Da Song, Xi Dai
 https://arxiv.org/abs/2604.04635
 https://arxiv.org/abs/2604.04636
-https://arxiv.org/abs/2604.04640
+* https://arxiv.org/abs/2604.04640 # Effective Bethe Ansatz for Spin-1 Non-integrable Models, Zhuohang Wang, Rui-Dong Zhu
 https://arxiv.org/abs/2604.04643
 https://arxiv.org/abs/2604.04730
 https://arxiv.org/abs/2604.03286
@@ -26,9 +26,9 @@ https://arxiv.org/abs/2604.03373
 https://arxiv.org/abs/2604.03411
 https://arxiv.org/abs/2604.03960
 https://arxiv.org/abs/2604.04089
-https://arxiv.org/abs/2604.04205
+* https://arxiv.org/abs/2604.04205 # Three Hamiltonians are Sufficient for Unitary k-Design in Temporal Ensemble, Yi-Neng Zhou, Tian-Gang Zhou, Julian Sonner
 https://arxiv.org/abs/2604.04329
-https://arxiv.org/abs/2604.04375
+* https://arxiv.org/abs/2604.04375 # Measurement-enhanced entanglement in a monitored superconducting chain, Rui-Jing Guo, Ji-Yao Chen, Zhi-Yuan Wei
 https://arxiv.org/abs/2604.04655
 https://arxiv.org/abs/2604.04922
 
