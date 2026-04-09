@@ -16,19 +16,19 @@ https://arxiv.org/abs/2604.05346
 https://arxiv.org/abs/2604.05356
 https://arxiv.org/abs/2604.05391
 https://arxiv.org/abs/2604.05408
-https://arxiv.org/abs/2604.05457
-https://arxiv.org/abs/2604.05501
+* https://arxiv.org/abs/2604.05457 # Novel Light-Induced States in Triangular Metallic Magnet, Yao Wang
+* https://arxiv.org/abs/2604.05501 # Valence Bond Glass and Glassy Spin Liquid in Disordered Frustrated Magnets, Soumyaranjan Dash, Vansh Narang, Sanjeev Kumar
 https://arxiv.org/abs/2604.05503
 https://arxiv.org/abs/2604.05506
-https://arxiv.org/abs/2604.05582
+* https://arxiv.org/abs/2604.05582 # Grassmann corner transfer-matrix renormalization group approach to one-dimensional fermionic models, Jian-Gang Kong, Zhi Yuan Xie
 
 https://arxiv.org/abs/2604.05585
 https://arxiv.org/abs/2604.05588
 https://arxiv.org/abs/2604.05710
-https://arxiv.org/abs/2604.05772
+* https://arxiv.org/abs/2604.05772 # Percolation in the three-dimensional Ising model, Jinhong Zhu, Tao Chen, Zhiyi Li, Sheng Fang, Youjin Deng
 https://arxiv.org/abs/2604.05784
 https://arxiv.org/abs/2604.05803
-https://arxiv.org/abs/2604.05928
+* https://arxiv.org/abs/2604.05928 # Quantum phases in the interacting generalized Su-Schrieffer-Heeger model, Jing-Hua Niu, Jia-Lin Liu, Ke Wang, Shan-Wen Tsai, Jin Zhang
 https://arxiv.org/abs/2604.05968
 https://arxiv.org/abs/2604.05994
 https://arxiv.org/abs/2604.05997
