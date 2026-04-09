@@ -1,5 +1,41 @@
 20260409
 
+https://arxiv.org/abs/2604.05036
+https://arxiv.org/abs/2604.05038
+https://arxiv.org/abs/2604.05047
+https://arxiv.org/abs/2604.05048
+https://arxiv.org/abs/2604.05105
+https://arxiv.org/abs/2604.05170
+https://arxiv.org/abs/2604.05317
+https://arxiv.org/abs/2604.05325
+https://arxiv.org/abs/2604.05331
+https://arxiv.org/abs/2604.05452
+
+https://arxiv.org/abs/2604.05456
+https://arxiv.org/abs/2604.05577
+https://arxiv.org/abs/2604.05627
+https://arxiv.org/abs/2604.05628
+https://arxiv.org/abs/2604.05637
+https://arxiv.org/abs/2604.05660
+https://arxiv.org/abs/2604.05741
+https://arxiv.org/abs/2604.05747
+https://arxiv.org/abs/2604.05871
+https://arxiv.org/abs/2604.05874
+
+https://arxiv.org/abs/2604.05881
+https://arxiv.org/abs/2604.05973
+https://arxiv.org/abs/2604.05986
+https://arxiv.org/abs/2604.06007
+https://arxiv.org/abs/2604.06027
+https://arxiv.org/abs/2604.06077
+https://arxiv.org/abs/2604.06087
+https://arxiv.org/abs/2604.06094
+https://arxiv.org/abs/2604.06127
+https://arxiv.org/abs/2604.06135
+
+https://arxiv.org/abs/2604.06147
+* https://arxiv.org/abs/2604.05850 # Generalized hydrodynamics of free fermions under extensive-charge monitoring, Pablo Bayona-Pena, Michele Mazzoni, Lorenzo Piroli
+
 https://arxiv.org/abs/2604.04968
 * https://arxiv.org/abs/2604.05027 # From Ferrimagnetic Insulator to superconducting Luther-Emery Liquid: A DMRG Study of the Two-Leg Lieb Lattice, Alexander Nikolaenko, Subir Sachdev
 https://arxiv.org/abs/2604.05043
