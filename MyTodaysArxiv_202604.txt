@@ -1,15 +1,15 @@
 20260409
 
 https://arxiv.org/abs/2604.04968
-https://arxiv.org/abs/2604.05027
+* https://arxiv.org/abs/2604.05027 # From Ferrimagnetic Insulator to superconducting Luther-Emery Liquid: A DMRG Study of the Two-Leg Lieb Lattice, Alexander Nikolaenko, Subir Sachdev
 https://arxiv.org/abs/2604.05043
-https://arxiv.org/abs/2604.05052
+* https://arxiv.org/abs/2604.05052 # Predicting spin-orbit coupling in hole spin qubit arrays with vision-transformer-based neural networks on a generalized Hubbard model, Jacob R. Taylor, Katharina Laubscher, Sankar Das Sarma
 https://arxiv.org/abs/2604.05132
-https://arxiv.org/abs/2604.05198
+* https://arxiv.org/abs/2604.05198 # Decoding Equilibrium and Dynamical Criticality in the 2D Topological Order, Xiao-Ming Zhao, Cui-Xian Guo, Gaoyong Sun, Su-Peng Kou
 https://arxiv.org/abs/2604.05216
 https://arxiv.org/abs/2604.05258
 https://arxiv.org/abs/2604.05311
-https://arxiv.org/abs/2604.05319
+* https://arxiv.org/abs/2604.05319 # H-NESSi: The Hierarchical Non-Equilibrium Systems Simulation package, Thomas Blommel, Jeremija Kovacevic, Jason Kaye, Emanuel Gull, Jaksa Vucicevic, Denis Golez
 
 https://arxiv.org/abs/2604.05322
 https://arxiv.org/abs/2604.05346
