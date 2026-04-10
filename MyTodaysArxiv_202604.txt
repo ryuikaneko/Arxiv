@@ -1,5 +1,24 @@
 20260410
 
+https://arxiv.org/abs/2604.07291
+https://arxiv.org/abs/2604.06716
+* https://arxiv.org/abs/2604.06541 # Quantum-Inspired Tensor Network Autoencoders for Anomaly Detection: A MERA-Based Approach, Emre Gurkanli, Michael Spannowsky
+https://arxiv.org/abs/2604.07257
+https://arxiv.org/abs/2604.07214
+https://arxiv.org/abs/2604.07013
+https://arxiv.org/abs/2604.06891
+https://arxiv.org/abs/2604.06866
+https://arxiv.org/abs/2604.06679
+https://arxiv.org/abs/2604.06639
+
+https://arxiv.org/abs/2604.06606
+https://arxiv.org/abs/2604.06528
+https://arxiv.org/abs/2604.06523
+https://arxiv.org/abs/2604.06412
+https://arxiv.org/abs/2604.06319
+https://arxiv.org/abs/2604.06303
+https://arxiv.org/abs/2604.06270
+
 * https://arxiv.org/abs/2604.07346 # Interaction-Mediated Non-Reciprocal Dynamics in Open Quantum Systems: From an Exactly Solvable Model to Generic Behavior, Pietro Borchia, Johannes Knolle, Andreas Nunnenkamp
 https://arxiv.org/abs/2604.07130
 * https://arxiv.org/abs/2604.06841 # Spin-adapted neural network backflow for strongly correlated electrons, Yunzhi Li, Zibo Wu, Bohan Zhang, Wei-Hai Fang, Zhendong Li
