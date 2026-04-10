@@ -1,25 +1,25 @@
 20260410
 
-https://arxiv.org/abs/2604.07346
+* https://arxiv.org/abs/2604.07346 # Interaction-Mediated Non-Reciprocal Dynamics in Open Quantum Systems: From an Exactly Solvable Model to Generic Behavior, Pietro Borchia, Johannes Knolle, Andreas Nunnenkamp
 https://arxiv.org/abs/2604.07130
-https://arxiv.org/abs/2604.06841
+* https://arxiv.org/abs/2604.06841 # Spin-adapted neural network backflow for strongly correlated electrons, Yunzhi Li, Zibo Wu, Bohan Zhang, Wei-Hai Fang, Zhendong Li
 https://arxiv.org/abs/2604.06461
 https://arxiv.org/abs/2604.06307
-https://arxiv.org/abs/2604.07185
+* https://arxiv.org/abs/2604.07185 # Perpendicular electric field induced s+--wave to d-wave superconducting transition in thin film La3Ni2O7, Yongping Wei, Xun Liu, Fan Yang, Mi Jiang
 https://arxiv.org/abs/2604.07174
 https://arxiv.org/abs/2604.07112
 https://arxiv.org/abs/2604.06998
 https://arxiv.org/abs/2604.06944
 
 https://arxiv.org/abs/2604.06927
-https://arxiv.org/abs/2604.06922
+* https://arxiv.org/abs/2604.06922 # A Practical Introduction to Tensor Network Renormalization with TNRKit.jl, Victor Vanthilt, Adwait Naravane, Chenqi Meng, Atsushi Ueda
 https://arxiv.org/abs/2604.06886
 https://arxiv.org/abs/2604.06867
-https://arxiv.org/abs/2604.06741
+* https://arxiv.org/abs/2604.06741 # Projector, Neural, and Tensor-Network Representations of Z_N Cluster and Dipolar-cluster SPT States, Seungho Lee, Daesik Kim, Hyun-Yong Lee, Jung Hoon Han
 https://arxiv.org/abs/2604.06730
-https://arxiv.org/abs/2604.06700
-https://arxiv.org/abs/2604.06588
-https://arxiv.org/abs/2604.06324
+* https://arxiv.org/abs/2604.06700 # Magnon harmonic generation in antiferromagnets: Dynamical symmetry enriched by symmetry breaking, Yuto Jita, Minoru Kanega, Takumi Ogawa, Shunsuke C. Furuya, Masahiro Sato
+* https://arxiv.org/abs/2604.06588 # Decomposing momentum scales in the Hubbard Model: From Hatsugai-Kohmoto to Aubry-Andre, Dmitry Manning-Coe, Barry Bradlyn
+* https://arxiv.org/abs/2604.06324 # Higher Nishimori Criticality and Exact Results at the Learning Transition of Deformed Toric Codes, Rushikesh A. Patil, Malte Puetz, Simon Trebst, Guo-Yi Zhu, Andreas W. W. Ludwig
 https://arxiv.org/abs/2604.06316
 
 https://arxiv.org/abs/2604.06309
