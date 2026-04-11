@@ -1,13 +1,13 @@
 20260411
 
 https://arxiv.org/abs/2604.07379
-https://arxiv.org/abs/2604.07391
+* https://arxiv.org/abs/2604.07391 # Classification of magnon thermal Hall systems based on U(1) to non-Abelian gauge fields, Masataka Kawano, Chisa Hotta
 https://arxiv.org/abs/2604.07401
 https://arxiv.org/abs/2604.07404
 https://arxiv.org/abs/2604.07407
 https://arxiv.org/abs/2604.07459
 https://arxiv.org/abs/2604.07504
-https://arxiv.org/abs/2604.07511
+* https://arxiv.org/abs/2604.07511 # d-Wave pair density wave superconductivity in a two-orbital model, Samuel Vadnais, Arun Paramekanti
 https://arxiv.org/abs/2604.07620
 https://arxiv.org/abs/2604.07631
 
@@ -16,17 +16,17 @@ https://arxiv.org/abs/2604.07690
 https://arxiv.org/abs/2604.07700
 https://arxiv.org/abs/2604.08043
 https://arxiv.org/abs/2604.08058
-https://arxiv.org/abs/2604.08085
+* https://arxiv.org/abs/2604.08085 # Hubbard vs. Emery model: spectra, transport and relevance for cuprates, Jaksa Vucicevic, Rok Zitko
 https://arxiv.org/abs/2604.08150
-https://arxiv.org/abs/2604.08221
+* https://arxiv.org/abs/2604.08221 # Co-operating multiorbital and nonlocal correlations in bilayer nickelate, Evgeny A. Stepanov, Steffen Boetzel, Ilya M. Eremin, Frank Lechermann
 https://arxiv.org/abs/2604.08227
 https://arxiv.org/abs/2604.08233
 
-https://arxiv.org/abs/2604.08235
-https://arxiv.org/abs/2604.08319
+* https://arxiv.org/abs/2604.08235 # Topological multicomponent-pairing superconductivity in twisted bilayer cuprates, Yu-Hang Li, Congjun Wu, Wang Yang
+* https://arxiv.org/abs/2604.08319 # Orbital-Selective d-wave Superconductivity in the Two-Band t-J Model: Possible Applications to La3Ni2O7, Zhan Wang, Kun Jiang, Fu-Chun Zhang, Hui-Ke Jin
 https://arxiv.org/abs/2604.08430
-https://arxiv.org/abs/2604.07435
-https://arxiv.org/abs/2604.07436
+* https://arxiv.org/abs/2604.07435 # Observation of glueball excitations and string breaking in a 2+1D Z2 lattice gauge theory on a trapped-ion quantum computer, Kaidi Xu, Umberto Borla, Kevin Hemery, Rohan Joshi, Henrik Dreyer, Enrico Rinaldi, Jad C. Halimeh
+* https://arxiv.org/abs/2604.07436 # Observation of genuine 2+1D string dynamics in a U(1) lattice gauge theory with a tunable plaquette term on a trapped-ion quantum computer, Rohan Joshi, Yizhuo Tian, Kevin Hemery, N. S. Srivatsa, Jesse J. Osborne, Henrik Dreyer, Enrico Rinaldi, Jad C. Halimeh
 https://arxiv.org/abs/2604.07463
 https://arxiv.org/abs/2604.08459
 
