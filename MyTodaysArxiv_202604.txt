@@ -28,7 +28,7 @@ https://arxiv.org/abs/2604.08247
 https://arxiv.org/abs/2604.08277
 https://arxiv.org/abs/2604.08318
 https://arxiv.org/abs/2604.08349
-https://arxiv.org/abs/2604.08358
+* https://arxiv.org/abs/2604.08358 # Scalable Neural Decoders for Practical Fault-Tolerant Quantum Computation, Andi Gu, J. Pablo Bonilla Ataides, Mikhail D. Lukin, Susanne F. Yelin
 https://arxiv.org/abs/2604.08466
 
 https://arxiv.org/abs/2604.07379
