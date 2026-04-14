@@ -1,5 +1,37 @@
 20260413
 
+https://arxiv.org/abs/2604.08663
+https://arxiv.org/abs/2604.08672
+https://arxiv.org/abs/2604.08692
+https://arxiv.org/abs/2604.08827
+https://arxiv.org/abs/2604.08919
+https://arxiv.org/abs/2604.09002
+https://arxiv.org/abs/2604.09306
+https://arxiv.org/abs/2604.09314
+* https://arxiv.org/abs/2604.09337 # Tailoring tensor network techniques to the quantics representation for highly inhomogeneous problems and few body problems, Jheng-Wei Li, Nicolas Jolly, Xavier Waintal
+https://arxiv.org/abs/2604.09341
+
+https://arxiv.org/abs/2604.09357
+https://arxiv.org/abs/2604.09384
+https://arxiv.org/abs/2604.08570
+https://arxiv.org/abs/2604.08587
+
+https://arxiv.org/abs/2604.08635
+* https://arxiv.org/abs/2604.08650 # Decoding coherent errors in toric codes on honeycomb and square lattices: duality to Majorana monitored dynamics and symmetry classes, Zhou Yang, Andreas W. W. Ludwig, Chao-Ming Jian
+* https://arxiv.org/abs/2604.08662 # Nucleation of Sachdev-Ye-Kitaev Clusters in One Spatial Dimension, Hrant Topchyan, Tigran A. Sedrakyan
+https://arxiv.org/abs/2604.08669
+https://arxiv.org/abs/2604.08702
+https://arxiv.org/abs/2604.08845
+https://arxiv.org/abs/2604.08934
+* https://arxiv.org/abs/2604.08937 # Superconductivity and competing orders in honeycomb t-J model: interplay of lattice geometry and next-nearest-neighbor hopping, Zhi Xu, Hong-Chen Jiang, Yi-Fan Jiang
+* https://arxiv.org/abs/2604.09180 # Eigenstate entanglement entropy in Bose-Hubbard models, G. Medos, L. Vidmar
+* https://arxiv.org/abs/2604.09224 # Many-body dynamical localization in Fock space, Nathan Dupont, Bruno Peaudecerf, David Guery-Odelin, Gabriel Lemarie, Bertrand Georgeot, Christian Miniatura, Nathan Goldman
+
+https://arxiv.org/abs/2604.09362
+* https://arxiv.org/abs/2604.08661 # Geometry-Induced Long-Range Correlations in Recurrent Neural Network Quantum States, Asif Bin Ayub, Amine Mohamed Aboussalah, Mohamed Hibat-Allah
+https://arxiv.org/abs/2604.09412
+https://arxiv.org/abs/2604.09503
+
 https://journals.aps.org/prl/abstract/10.1103/5m5q-f7vc
 https://journals.aps.org/prl/abstract/10.1103/wz27-6nhx
 https://journals.aps.org/prb/abstract/10.1103/bp8f-rhj4
