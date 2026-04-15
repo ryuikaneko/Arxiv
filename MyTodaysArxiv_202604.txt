@@ -5,7 +5,7 @@ https://arxiv.org/abs/2604.09798
 https://arxiv.org/abs/2604.09801
 https://arxiv.org/abs/2604.09807
 https://arxiv.org/abs/2604.09979
-https://arxiv.org/abs/2604.10043
+* https://arxiv.org/abs/2604.10043 # Quantum geometry of the non-Hermitian skin effect, Ken-Ichiro Imura, Kohei Kawabata
 https://arxiv.org/abs/2604.10133
 https://arxiv.org/abs/2604.10173
 https://arxiv.org/abs/2604.10254
@@ -20,12 +20,12 @@ https://arxiv.org/abs/2604.10621
 https://arxiv.org/abs/2604.10759
 https://arxiv.org/abs/2604.10775
 https://arxiv.org/abs/2604.10839
-https://arxiv.org/abs/2604.10961
+* https://arxiv.org/abs/2604.10961 # Dynamical Regimes of Discrete Diffusion Models, Tomoei Takahashi, Takashi Takahashi, Yoshiyuki Kabashima
 
-https://arxiv.org/abs/2604.11015
+* https://arxiv.org/abs/2604.11015 # Scar subspaces stabilized by algebraic closure: Beyond equally-spaced spectra and exact solvability, Chihiro Matsui
 https://arxiv.org/abs/2604.11054
 https://arxiv.org/abs/2604.11057
-https://arxiv.org/abs/2604.11155
+* https://arxiv.org/abs/2604.11155 # Tensor-Network Population Annealing, Takumi Oshima, Yuma Ichikawa, Koji Hukushima
 https://arxiv.org/abs/2604.11361
 https://arxiv.org/abs/2604.11392
 https://arxiv.org/abs/2604.11420
@@ -37,16 +37,16 @@ https://arxiv.org/abs/2604.11739
 https://arxiv.org/abs/2604.09769
 https://arxiv.org/abs/2604.09772
 https://arxiv.org/abs/2604.09892
-https://arxiv.org/abs/2604.10128
+* https://arxiv.org/abs/2604.10128 # A Framework for Predicting Entanglement Spectra of Gapless Symmetry-Protected Topological States in One Dimension, Wen-Tao Xu, Frank Pollmann, Michael Knap
 https://arxiv.org/abs/2604.10153
 https://arxiv.org/abs/2604.10163
 https://arxiv.org/abs/2604.10284
-https://arxiv.org/abs/2604.10543
+* https://arxiv.org/abs/2604.10543 # Finite-temperature quantum Krylov method from real-time overlaps, Hiroto Yamamoto, Katsuhiro Morita
 https://arxiv.org/abs/2604.10838
 
-https://arxiv.org/abs/2604.11085
+* https://arxiv.org/abs/2604.11085 # Protecting Quantum Simulations of Lattice Gauge Theories through Engineered Emergent Hierarchical Symmetries, Zhanpeng Fu, Wei Zheng, Roderich Moessner, Marin Bukov, Hongzheng Zhao
 https://arxiv.org/abs/2604.11455
-https://arxiv.org/abs/2604.11795
+* https://arxiv.org/abs/2604.11795 # Many-Body Super- and Subradiance in Ordered Atomic Arrays, Alec Douglas, Lin Su, Michal Szurek, Robin Groth, Sandra Brandstetter, Ognjen Markovic, Oriol Rubies-Bigorda, Stefan Ostermann, Susanne F. Yelin, Markus Greiner
 
 https://journals.aps.org/prl/abstract/10.1103/bt23-4y1t
 https://journals.aps.org/prl/abstract/10.1103/hhdf-xpwg
