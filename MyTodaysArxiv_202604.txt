@@ -5,7 +5,7 @@ https://arxiv.org/abs/2604.09735
 https://arxiv.org/abs/2604.09756
 https://arxiv.org/abs/2604.09775
 https://arxiv.org/abs/2604.09980
-https://arxiv.org/abs/2604.10122
+* https://arxiv.org/abs/2604.10122 # Unitary Designs from Two Chaotic Hamiltonians and a Random Pauli Operation, Ning Sun, Pengfei Zhang
 https://arxiv.org/abs/2604.10197
 https://arxiv.org/abs/2604.10255
 https://arxiv.org/abs/2604.10396
@@ -28,7 +28,7 @@ https://arxiv.org/abs/2604.11614
 https://arxiv.org/abs/2604.11688
 https://arxiv.org/abs/2604.11743
 https://arxiv.org/abs/2604.09430
-https://arxiv.org/abs/2604.10090
+* https://arxiv.org/abs/2604.10090 # Quantum simulation of traversable-wormhole-inspired quantum teleportation in a chaotic binary sparse SYK model, Moongul Byun, Keun-Young Kim, Hyeonsoo Lee
 https://arxiv.org/abs/2604.10933
 https://arxiv.org/abs/2604.11381
 
