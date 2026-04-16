@@ -30,7 +30,7 @@ https://arxiv.org/abs/2604.12549
 https://arxiv.org/abs/2604.12635
 https://arxiv.org/abs/2604.12707
 https://arxiv.org/abs/2604.12741
-https://arxiv.org/abs/2604.12745
+* https://arxiv.org/abs/2604.12745 # Quantum chaos in many-body systems of indistinguishable particles, Juan-Diego Urbina, Klaus Richter
 https://arxiv.org/abs/2604.12796
 
 https://arxiv.org/abs/2604.01455
