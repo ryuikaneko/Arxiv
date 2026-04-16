@@ -2,8 +2,8 @@
 
 https://arxiv.org/abs/2604.11846
 https://arxiv.org/abs/2604.11855
-https://arxiv.org/abs/2604.11870
-https://arxiv.org/abs/2604.11880
+* https://arxiv.org/abs/2604.11870 # Three-body interactions in Rydberg lattices, Rhine Samajdar, Mikhail D. Lukin, Valentin Walther
+* https://arxiv.org/abs/2604.11880 # Classification and correlation signatures of chiral spin liquids on the pyrochlore lattice, Chunxiao Liu, Leon Balents, Yasir Iqbal
 https://arxiv.org/abs/2604.11953
 https://arxiv.org/abs/2604.11997
 https://arxiv.org/abs/2604.12101
@@ -15,7 +15,7 @@ https://arxiv.org/abs/2604.12313
 https://arxiv.org/abs/2604.12328
 https://arxiv.org/abs/2604.12430
 https://arxiv.org/abs/2604.12451
-https://arxiv.org/abs/2604.12472
+* https://arxiv.org/abs/2604.12472 # Mobility-edge-embedded Hofstadter butterfly from a tilt-induced quasiperiodic potential, Sanghoon Lee, Kyoung-Min Kim
 https://arxiv.org/abs/2604.12475
 https://arxiv.org/abs/2604.12489
 https://arxiv.org/abs/2604.12544
@@ -26,7 +26,7 @@ https://arxiv.org/abs/2604.12674
 https://arxiv.org/abs/2604.12680
 https://arxiv.org/abs/2604.12682
 https://arxiv.org/abs/2604.12726
-https://arxiv.org/abs/2604.12754
+* https://arxiv.org/abs/2604.12754 # Unconventional entanglement scaling and quantum criticality in the long-range spin-one Heisenberg chain with single-ion anisotropy, Patrick Adelhardt, Sean R. Muleady, Kai P. Schmidt, Alexey V. Gorshkov
 https://arxiv.org/abs/2604.12759
 https://arxiv.org/abs/2604.12761
 https://arxiv.org/abs/2604.12764
