@@ -34,11 +34,11 @@ https://arxiv.org/abs/2604.12824
 https://arxiv.org/abs/2604.12939
 
 https://arxiv.org/abs/2604.12950
-https://arxiv.org/abs/2604.12975
+* https://arxiv.org/abs/2604.12975 # Probing spinon interactions in the spin-1 bilinear-biquadratic chain, Yonatan Lin, Oleg A. Starykh, Anna Keselman
 https://arxiv.org/abs/2604.10861
 https://arxiv.org/abs/2604.11814
 https://arxiv.org/abs/2604.11827
-https://arxiv.org/abs/2604.11872
+* https://arxiv.org/abs/2604.11872 # Eigenstate thermalization, Rohit Patil, Marcos Rigol
 https://arxiv.org/abs/2604.11900
 https://arxiv.org/abs/2604.12198
 https://arxiv.org/abs/2604.12316
@@ -47,12 +47,12 @@ https://arxiv.org/abs/2604.12340
 https://arxiv.org/abs/2604.12347
 https://arxiv.org/abs/2604.12388
 https://arxiv.org/abs/2604.12450
-https://arxiv.org/abs/2604.12464
+* https://arxiv.org/abs/2604.12464 # Many-body localization, Jakub Zakrzewski
 https://arxiv.org/abs/2604.12739
 https://arxiv.org/abs/2604.12763
-https://arxiv.org/abs/2604.12784
+* https://arxiv.org/abs/2604.12784 # Quantum chaos and the holographic principle, Alexander Altland, Julian Sonner
 https://arxiv.org/abs/2604.12907
-https://arxiv.org/abs/2604.13027
+* https://arxiv.org/abs/2604.13027 # Floquet Many-Body Cages, Tom Ben-Ami, Roderich Moessner, Markus Heyl
 
 https://journals.aps.org/prb/abstract/10.1103/z7sk-7sq8
 https://journals.aps.org/prb/abstract/10.1103/12pf-d8p8
