@@ -4,32 +4,32 @@ https://arxiv.org/abs/2604.11817
 https://arxiv.org/abs/2604.11831
 https://arxiv.org/abs/2604.11858
 https://arxiv.org/abs/2604.11864
-https://arxiv.org/abs/2604.11876
+* https://arxiv.org/abs/2604.11876 # Quantum Mpemba effect in chaotic systems with conservation laws, Thomas Martin Mueller, Silvia Pappalardi, Rosario Fazio
 https://arxiv.org/abs/2604.11910
 https://arxiv.org/abs/2604.11952
 https://arxiv.org/abs/2604.11963
 https://arxiv.org/abs/2604.12131
-https://arxiv.org/abs/2604.12141
+* https://arxiv.org/abs/2604.12141 # Quantum chaotic systems: a random-matrix approach, Mario Kieburg
 
 https://arxiv.org/abs/2604.12157
 https://arxiv.org/abs/2604.12186
 https://arxiv.org/abs/2604.12187
-https://arxiv.org/abs/2604.12267
+* https://arxiv.org/abs/2604.12267 # Quantum Chaos and Quantum Information: Interactions and Implications, Arul Lakshminarayan, Karol Zyczkowski
 https://arxiv.org/abs/2604.12276
 https://arxiv.org/abs/2604.12279
-https://arxiv.org/abs/2604.12296
+* https://arxiv.org/abs/2604.12296 # Dynamical signatures of conventional and asymptotic quantum many-body scars on a trapped ion simulator, Leonard Logaric, John Goold, Shane Dooley
 https://arxiv.org/abs/2604.12330
 https://arxiv.org/abs/2604.12338
-https://arxiv.org/abs/2604.12345
+* https://arxiv.org/abs/2604.12345 # Quantum Kicked Top: A Paradigmatic Model, Avadhut V. Purohit, Udaysinh T. Bhosale
 
 https://arxiv.org/abs/2604.12361
 https://arxiv.org/abs/2604.12369
-https://arxiv.org/abs/2604.12465
+* https://arxiv.org/abs/2604.12465 # Demonstrating Record Fidelity for the Quantum Fourier Transform, Philipp Aumann, Michael Fellner, David Alber, Max Cykiert, Christoph Fleckenstein, Roeland ter Hoeven, Leo Stenzel, Riccardo J. Valencia-Tortora, Wolfgang Lechner
 https://arxiv.org/abs/2604.12476
 https://arxiv.org/abs/2604.12549
 https://arxiv.org/abs/2604.12635
-https://arxiv.org/abs/2604.12707
-https://arxiv.org/abs/2604.12741
+* https://arxiv.org/abs/2604.12707 # Quantum analogues of exponential sensitivity: from Loschmidt echo to Krylov complexity, Ignacio Garcia-Mata, Diego A. Wisniacki
+* https://arxiv.org/abs/2604.12741 # Quantum Chaos in Phase Space, Martina Hentschel
 * https://arxiv.org/abs/2604.12745 # Quantum chaos in many-body systems of indistinguishable particles, Juan-Diego Urbina, Klaus Richter
 https://arxiv.org/abs/2604.12796
 
