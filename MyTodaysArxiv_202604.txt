@@ -1,5 +1,7 @@
 20260416
 
+https://arxiv.org/abs/2604.15300
+
 https://arxiv.org/abs/2604.13087
 * https://arxiv.org/abs/2604.13093 # Entanglement in a molecular Lieb-lattice quantum computing circuit: A tensor network study, Wei Wu
 https://arxiv.org/abs/2604.13104
