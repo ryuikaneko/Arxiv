@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2604.13144
 https://arxiv.org/abs/2604.13158
 https://arxiv.org/abs/2604.13165
-https://arxiv.org/abs/2604.13172
+* https://arxiv.org/abs/2604.13172 # Simple slow operators and quantum thermalization, Tian-Hua Yang, Sarang Gopalakrishnan, Dmitry A. Abanin
 https://arxiv.org/abs/2604.13382
 https://arxiv.org/abs/2604.13430
 https://arxiv.org/abs/2604.13457
