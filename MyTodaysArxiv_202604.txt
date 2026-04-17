@@ -1,22 +1,18 @@
 20260416
 
 https://arxiv.org/abs/2604.13087
-https://arxiv.org/abs/2604.13093
+* https://arxiv.org/abs/2604.13093 # Entanglement in a molecular Lieb-lattice quantum computing circuit: A tensor network study, Wei Wu
 https://arxiv.org/abs/2604.13104
 https://arxiv.org/abs/2604.13161
-https://arxiv.org/abs/2604.13164
 https://arxiv.org/abs/2604.13185
-https://arxiv.org/abs/2604.13257
+* https://arxiv.org/abs/2604.13257 # Long-lived revivals and real-space fragmentation in chains of multispecies Rydberg atoms, Jose Soto-Garcia, Natalia Chepiga
 https://arxiv.org/abs/2604.13266
 https://arxiv.org/abs/2604.13532
 https://arxiv.org/abs/2604.13553
-
 https://arxiv.org/abs/2604.13682
+
 https://arxiv.org/abs/2604.13875
 https://arxiv.org/abs/2604.14012
-https://arxiv.org/abs/2604.14143
-https://arxiv.org/abs/2604.14150
-https://arxiv.org/abs/2604.13172
 https://arxiv.org/abs/2604.13639
 https://arxiv.org/abs/2604.13647
 
