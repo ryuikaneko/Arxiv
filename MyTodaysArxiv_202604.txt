@@ -2,32 +2,32 @@
 
 https://arxiv.org/abs/2604.14278
 https://arxiv.org/abs/2604.14286
-https://arxiv.org/abs/2604.14289
+* https://arxiv.org/abs/2604.14289 # Quantum Charge-4e Superconductivity and Deconfined Pseudocriticality in the Attractive SU(4) Hubbard Model, Zhou-Quan Wan, Huan Jiang, Xuan Zou, Shiwei Zhang, Shao-Kai Jian
 https://arxiv.org/abs/2604.14295
-https://arxiv.org/abs/2604.14303
+* https://arxiv.org/abs/2604.14303 # Twisted Bilayer Graphene Lifetimes At Integer Fillings: An Analytic Result, Haoyu Hu, Yuelin Shao, Lorenzo Crippa, Dumitru Calugaru, Giorgio Sangiovanni, Tim Wehling, Leonid I. Glazman, B. Andrei Bernevig
 https://arxiv.org/abs/2604.14470
 https://arxiv.org/abs/2604.14529
-https://arxiv.org/abs/2604.14533
+* https://arxiv.org/abs/2604.14533 # The Two Orbital, Interacting Hatano-Nelson Model, Jonah Huang, Rubem Mondaini, Nancy Aggarwal, Richard Scalettar
 https://arxiv.org/abs/2604.14538
 https://arxiv.org/abs/2604.14665
 
-https://arxiv.org/abs/2604.14695
+* https://arxiv.org/abs/2604.14695 # Level statistics of the disordered Haldane-Shastry model with 1/r^alpha interaction, Vengatesan Ganapathy, Pranay Patil, Ajit C. Balram
 https://arxiv.org/abs/2604.14701
 https://arxiv.org/abs/2604.14737
-https://arxiv.org/abs/2604.14767
+* https://arxiv.org/abs/2604.14767 # Nontrivial three-sublattice magnetization in the easy-axis spin-1/2 XXZ antiferromagnet on the triangular lattice, Masahiro Kadosawa, Masaaki Nakamura, Yukinori Ohta, Satoshi Nishimoto
 https://arxiv.org/abs/2604.14771
-https://arxiv.org/abs/2604.15056
+* https://arxiv.org/abs/2604.15056 # High-temperature charge-4e superconductivity in SU(4) interacting fermions, Shao-Hang Shi, Zhengzhi Wu, Jiangping Hu, Zi-Xiang Li
 https://arxiv.org/abs/2604.15095
 https://arxiv.org/abs/2604.15120
-https://arxiv.org/abs/2604.15234
+* https://arxiv.org/abs/2604.15234 # Universal magnetic energy scale in the doped Fermi-Hubbard model, Radu Andrei, Ivan Morera, Jonathan B. Curtis, Immanuel Bloch, Eugene Demler
 https://arxiv.org/abs/2604.14224
 
-https://arxiv.org/abs/2604.14291
+* https://arxiv.org/abs/2604.14291 # Operator Space Transport and the Emergence of Boundary Time Crystals, Dominik Nemeth, Ahsan Nazir, Robert-Jan Slager, Alessandro Principi
 https://arxiv.org/abs/2604.14335
 https://arxiv.org/abs/2604.14382
 https://arxiv.org/abs/2604.14387
 https://arxiv.org/abs/2604.14718
-https://arxiv.org/abs/2604.15268
+* https://arxiv.org/abs/2604.15268 # Assembling Extensive Quantum Fisher Information in Stabilizer Systems, Arnau Lira-Solanilla, Sreemayee Aditya, Xhek Turkeshi, Silvia Pappalardi
 
 https://journals.aps.org/prb/abstract/10.1103/92zf-8lbg
 https://journals.aps.org/prb/abstract/10.1103/l4xx-plmv
