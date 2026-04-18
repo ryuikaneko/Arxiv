@@ -8,7 +8,7 @@ https://arxiv.org/abs/2604.14323
 https://arxiv.org/abs/2604.14381
 https://arxiv.org/abs/2604.14435
 https://arxiv.org/abs/2604.14740
-https://arxiv.org/abs/2604.14798
+* https://arxiv.org/abs/2604.14798 # Integrable, Mixed, and Chaotic Dynamics in a Single All-to-All Ising Spin Model, David Amaro-Alcala, Carlos Pineda
 https://arxiv.org/abs/2604.14812
 
 https://arxiv.org/abs/2604.14855
