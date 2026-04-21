@@ -1,5 +1,31 @@
 20260420
 
+https://arxiv.org/abs/2604.15393
+https://arxiv.org/abs/2604.15405
+https://arxiv.org/abs/2604.15412
+* https://arxiv.org/abs/2604.15427 # Tensor Networks with Belief Propagation Cannot Feasibly Simulate Google's Quantum Echoes Experiment, Pablo Bermejo, Benjamin Villalonga, Brayden Ware, Guifre Vidal, Aaron Szasz
+https://arxiv.org/abs/2604.15441
+https://arxiv.org/abs/2604.15510
+https://arxiv.org/abs/2604.15540
+https://arxiv.org/abs/2604.15552
+https://arxiv.org/abs/2604.15626
+https://arxiv.org/abs/2604.15666
+
+https://arxiv.org/abs/2604.15693
+https://arxiv.org/abs/2604.15765
+https://arxiv.org/abs/2604.15886
+* https://arxiv.org/abs/2604.16015 # Discovering quantum phenomena with Interpretable Machine Learning, Paulin de Schoulepnikoff, Hendrik Poulsen Nautrup, Hans J. Briegel, Gorka Munoz-Gil
+https://arxiv.org/abs/2604.16023
+https://arxiv.org/abs/2604.16139
+https://arxiv.org/abs/2604.16164
+https://arxiv.org/abs/2604.16283
+https://arxiv.org/abs/2604.16210
+https://arxiv.org/abs/2604.16209
+
+https://arxiv.org/abs/2604.15820
+* https://arxiv.org/abs/2604.15888 # Enhancing Neural-Network Variational Monte Carlo through Basis Transformation, Zhixuan Liu, Dongheng Qian, Jing Wang
+https://arxiv.org/abs/2604.16102
+
 https://journals.aps.org/prresearch/abstract/10.1103/yyvr-dtsb
 https://journals.aps.org/prb/abstract/10.1103/lpz6-3v48
 https://journals.aps.org/prb/abstract/10.1103/35d7-qgx4
