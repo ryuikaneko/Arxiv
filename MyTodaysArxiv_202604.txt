@@ -1,9 +1,9 @@
 20260420
 
-https://arxiv.org/abs/2604.15433
+* https://arxiv.org/abs/2604.15433 # The Phase Transitions in a p spin Glass Model: A Numerical Study, Prerak Gupta, Auditya Sharma, Bharadwaj Vedula, J. Yeo, M.A. Moore
 https://arxiv.org/abs/2604.15454
 https://arxiv.org/abs/2604.15595
-https://arxiv.org/abs/2604.15749
+* https://arxiv.org/abs/2604.15749 # Extracting conformal data from finite-size tensor-network flow in critical two-dimensional classical models, Sing-Hong Chan, Pochung Chen
 https://arxiv.org/abs/2604.15906
 https://arxiv.org/abs/2604.15908
 https://arxiv.org/abs/2604.15924
@@ -14,7 +14,7 @@ https://arxiv.org/abs/2604.15952
 https://arxiv.org/abs/2604.15960
 https://arxiv.org/abs/2604.15976
 https://arxiv.org/abs/2604.15985
-https://arxiv.org/abs/2604.16063
+* https://arxiv.org/abs/2604.16063 # Spinon shift current in a noncentrosymmetric quantum spin chain, Ryosuke Yamashita, Shintaro Takayoshi, Takahiro Morimoto
 https://arxiv.org/abs/2604.16290
 https://arxiv.org/abs/2604.16293
 https://arxiv.org/abs/2604.15634
