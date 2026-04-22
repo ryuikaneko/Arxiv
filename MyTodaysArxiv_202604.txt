@@ -1,5 +1,23 @@
 20260421
 
+* https://arxiv.org/abs/2604.18533 # Hamiltonian dynamics from pure dissipation, Zhong-Xia Shang, Daniel Stilck Franca
+https://arxiv.org/abs/2604.18531
+https://arxiv.org/abs/2604.18506
+https://arxiv.org/abs/2604.18495
+https://arxiv.org/abs/2604.18456
+https://arxiv.org/abs/2604.18446
+https://arxiv.org/abs/2604.18119
+* https://arxiv.org/abs/2604.17412 # Theory of Quantum Imaginary-Time Mpemba Effect, Yumeng Zeng, Jeongrak Son, Mile Gu, Xiao Yuan
+https://arxiv.org/abs/2604.17317
+https://arxiv.org/abs/2604.17489
+
+https://arxiv.org/abs/2604.17303
+https://arxiv.org/abs/2604.17262
+https://arxiv.org/abs/2604.17196
+https://arxiv.org/abs/2604.16953
+https://arxiv.org/abs/2604.16869
+https://arxiv.org/abs/2604.16578
+
 https://arxiv.org/abs/2604.16433
 https://arxiv.org/abs/2604.16439
 https://arxiv.org/abs/2604.16460
@@ -12,31 +30,31 @@ https://arxiv.org/abs/2604.16820
 https://arxiv.org/abs/2604.16847
 
 https://arxiv.org/abs/2604.16938
-https://arxiv.org/abs/2604.17181
+* https://arxiv.org/abs/2604.17181 # Pairing Mechanism in Bilayer Nickelate La3Ni2O7 Superconductors, Xianxin Wu, Tao Xiang, Jiangping Hu
 https://arxiv.org/abs/2604.17438
-https://arxiv.org/abs/2604.17479
+* https://arxiv.org/abs/2604.17479 # Quantum higher-spin Hall insulators, Takuto Kawakami, Igor Kuzmenko, Yshai Avishai, Yigal Meir, Masatoshi Sato
 https://arxiv.org/abs/2604.17540
-https://arxiv.org/abs/2604.17641
+* https://arxiv.org/abs/2604.17641 # Chiral Magnetism and Quantum Anomalous Hall Effect in a Low-energy Kondo Model on the Triangular Lattice, Kai Vylet, Xingkai Huang, Leon Balents
 https://arxiv.org/abs/2604.17665
 https://arxiv.org/abs/2604.17700
-https://arxiv.org/abs/2604.17812
+* https://arxiv.org/abs/2604.17812 # Pairing properties of correlated three-leg ladders with strong interchain couplings near 1/3 filling, Yushi Yamada, Tatsuya Kaneko, Masataka Kakoi, Ryota Ueda, Kazuhiko Kuroki
 https://arxiv.org/abs/2604.17824
 
 https://arxiv.org/abs/2604.17936
-https://arxiv.org/abs/2604.17939
+* https://arxiv.org/abs/2604.17939 # Monte Carlo Study of the Phase Transition of the XY Model on a Diamond Lattice, Sena Watanabe, Yukitoshi Motome, Haruki Watanabe
 https://arxiv.org/abs/2604.18219
-https://arxiv.org/abs/2604.18425
+* https://arxiv.org/abs/2604.18425 # Quantum quenches in a spin-1 chain with tunable symmetry, Luis Eduardo Ramos-Solis, Sayan Choudhury, Freddy Jackson Poveda-Cuevas, Eduardo Ibarra-Garcia-Padilla
 https://arxiv.org/abs/2604.18451
 https://arxiv.org/abs/2604.18582
 https://arxiv.org/abs/2604.16431
 https://arxiv.org/abs/2604.16468
-https://arxiv.org/abs/2604.17649
+* https://arxiv.org/abs/2604.17649 # Holography and Optimal Transport: Emergent Wasserstein Spacetime in Harmonic Oscillator, SYK and Krylov Complexity, Koji Hashimoto, Norihiro Tanahashi
 https://arxiv.org/abs/2604.17719
 
 https://arxiv.org/abs/2604.18022
-https://arxiv.org/abs/2604.18244
+* https://arxiv.org/abs/2604.18244 # Quantum many-body scars in random unitary circuits, Luca Capizzi, Benoit Ferte
 https://arxiv.org/abs/2604.18457
-https://arxiv.org/abs/2604.18542
+* https://arxiv.org/abs/2604.18542 # Dissipative Preparation of Correlated Quantum States in Dipolar Rydberg Arrays, Mingsheng Tian, Zhen Bi, Thomas Iadecola, Bryce Gadway
 
 https://journals.aps.org/prb/abstract/10.1103/y9n7-d6vr
 https://journals.aps.org/prb/abstract/10.1103/kvr3-phyd
