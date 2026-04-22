@@ -1,3 +1,12 @@
+20260421
+
+https://journals.aps.org/prb/abstract/10.1103/y9n7-d6vr
+https://journals.aps.org/prb/abstract/10.1103/kvr3-phyd
+https://journals.aps.org/prb/abstract/10.1103/49yw-h27c
+https://journals.aps.org/pra/abstract/10.1103/fdd3-qz1s
+https://journals.aps.org/prd/abstract/10.1103/19c2-k9x9
+
+
 20260420
 
 * https://arxiv.org/abs/2604.15433 # The Phase Transitions in a p spin Glass Model: A Numerical Study, Prerak Gupta, Auditya Sharma, Bharadwaj Vedula, J. Yeo, M.A. Moore
