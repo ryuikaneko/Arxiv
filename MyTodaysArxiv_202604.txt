@@ -6,10 +6,10 @@ https://arxiv.org/abs/2604.18690
 https://arxiv.org/abs/2604.18694
 https://arxiv.org/abs/2604.18695
 https://arxiv.org/abs/2604.18705
-https://arxiv.org/abs/2604.18710
-https://arxiv.org/abs/2604.18711
+* https://arxiv.org/abs/2604.18710 # Charge Transport Capacity as a Probe of Resonances in Models of Many-Body Localization, Jessica Kaijia Jiang, Federica Maria Surace, Olexei I. Motrunich
+* https://arxiv.org/abs/2604.18711 # Large Scale Optimization of Disordered Hubbard Models through Tensor and Neural Networks, Jacob R. Taylor, Sankar Das Sarma
 https://arxiv.org/abs/2604.18854
-https://arxiv.org/abs/2604.18890
+* https://arxiv.org/abs/2604.18890 # Stabilization of bulk quantum orders in finite Rydberg atom arrays, Yash M. Lokare, Matthew J. Coley-O'Rourke
 
 https://arxiv.org/abs/2604.18902
 https://arxiv.org/abs/2604.18998
