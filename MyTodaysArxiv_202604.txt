@@ -7,7 +7,7 @@ https://arxiv.org/abs/2604.18720
 https://arxiv.org/abs/2604.18734
 https://arxiv.org/abs/2604.18846
 https://arxiv.org/abs/2604.18884
-https://arxiv.org/abs/2604.18960
+* https://arxiv.org/abs/2604.18960 # Entanglement dynamics of delocalized interacting particles, M. F. V. Oliveira, F. A. B. F. de Moura, M. L. Lyra, G. M. A. Almeida
 https://arxiv.org/abs/2604.18990
 https://arxiv.org/abs/2604.18996
 
