@@ -1,3 +1,9 @@
+20260422
+
+https://journals.aps.org/prxquantum/abstract/10.1103/fb28-wlv2
+https://journals.aps.org/pra/abstract/10.1103/v5zg-gybr
+
+
 20260421
 
 * https://arxiv.org/abs/2604.18533 # Hamiltonian dynamics from pure dissipation, Zhong-Xia Shang, Daniel Stilck Franca
