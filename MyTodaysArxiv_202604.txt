@@ -6,7 +6,7 @@ https://arxiv.org/abs/2604.19862
 https://arxiv.org/abs/2604.19889
 https://arxiv.org/abs/2604.20118
 https://arxiv.org/abs/2604.20149
-https://arxiv.org/abs/2604.20180
+* https://arxiv.org/abs/2604.20180 # Tensor network surrogate models for variational quantum computation, Ryo Watanabe, Dries Sels, Joseph Tindall
 https://arxiv.org/abs/2604.20284
 https://arxiv.org/abs/2604.20303
 https://arxiv.org/abs/2604.20321
@@ -20,9 +20,9 @@ https://arxiv.org/abs/2604.20513
 https://arxiv.org/abs/2604.20561
 https://arxiv.org/abs/2604.20619
 https://arxiv.org/abs/2604.20624
-https://arxiv.org/abs/2604.20828
+* https://arxiv.org/abs/2604.20828 # Arrow of Time as an indicator of Measurement-Induced Phase Transitions, Nitay Hurvitz, Alon Kochol, Victor Fleurov, Eran Sela
 
-https://arxiv.org/abs/2604.20831
+* https://arxiv.org/abs/2604.20831 # Unconventional Quantum Criticality in Long-Range Spin-1 Chains: Insights from Entanglement Entropy and Bipartite Fluctuations, Justin Tim-Lok Chau, Jiarui Zhao, Nicolas Laflorencie, Zi Yang Meng
 
 https://journals.aps.org/prresearch/abstract/10.1103/z4gs-c6h6
 https://journals.aps.org/prx/abstract/10.1103/69d7-83xh
