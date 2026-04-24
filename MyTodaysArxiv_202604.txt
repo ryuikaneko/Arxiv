@@ -1,6 +1,6 @@
 20260423
 
-https://arxiv.org/abs/2604.19870
+* https://arxiv.org/abs/2604.19870 # Melting temperature shifts from quantum fluctuations in generalized Wigner crystals, Aman Kumar, Sogoud Sherif, Veit Elser, Hitesh J. Changlani
 https://arxiv.org/abs/2604.19876
 https://arxiv.org/abs/2604.19929
 https://arxiv.org/abs/2604.20162
@@ -13,9 +13,9 @@ https://arxiv.org/abs/2604.20304
 
 https://arxiv.org/abs/2604.20312
 https://arxiv.org/abs/2604.20388
-https://arxiv.org/abs/2604.20419
+* https://arxiv.org/abs/2604.20419 # Quantum many-body scars leading to time-translation symmetry breaking in kicked interacting spin models, Angel L. Corps, Armando Relano, Angelo Russomanno
 https://arxiv.org/abs/2604.20546
-https://arxiv.org/abs/2604.20613
+* https://arxiv.org/abs/2604.20613 # Superconductivity in bilayer La3Ni2O7: A review focusing on the strong-coupling Hund's rule assisted pairing mechanism, Zhiming Pan, Chen Lu, Fan Yang, Congjun Wu
 https://arxiv.org/abs/2604.20636
 https://arxiv.org/abs/2604.20797
 https://arxiv.org/abs/2604.20821
