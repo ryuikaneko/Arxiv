@@ -4,7 +4,7 @@ https://arxiv.org/abs/2604.20899
 https://arxiv.org/abs/2604.21069
 https://arxiv.org/abs/2604.21073
 https://arxiv.org/abs/2604.21091
-https://arxiv.org/abs/2604.21206
+* https://arxiv.org/abs/2604.21206 # Magnetic-field control of interactions in alkaline-earth Rydberg atoms and applications to {\it XXZ} models, Masaya Kunimi, Takafumi Tomita
 https://arxiv.org/abs/2604.21222
 https://arxiv.org/abs/2604.21244
 https://arxiv.org/abs/2604.21281
@@ -12,12 +12,12 @@ https://arxiv.org/abs/2604.21296
 https://arxiv.org/abs/2604.21318
 
 https://arxiv.org/abs/2604.21353
-https://arxiv.org/abs/2604.21434
+* https://arxiv.org/abs/2604.21434 # Decomposing Fractional Quantum Hall Wave Functions via Operator Contraction Multiplication, Dong-Hao Guan, Licheng Wang, Yuan Zhou, Ai-Lei He, Yi-Fei Wang
 https://arxiv.org/abs/2604.21488
 https://arxiv.org/abs/2604.21524
 https://arxiv.org/abs/2604.21533
 https://arxiv.org/abs/2604.21562
-https://arxiv.org/abs/2604.21563
+* https://arxiv.org/abs/2604.21563 # Dynamical mean-field theory for dense spin systems at finite temperature, Przemyslaw Bieniek, Timo Graesser, Goetz S. Uhrig
 https://arxiv.org/abs/2604.21643
 https://arxiv.org/abs/2604.21732
 https://arxiv.org/abs/2604.21753
@@ -28,10 +28,10 @@ https://arxiv.org/abs/2604.21807
 https://arxiv.org/abs/2604.20961
 https://arxiv.org/abs/2604.21089
 https://arxiv.org/abs/2604.21158
-https://arxiv.org/abs/2604.21513
-https://arxiv.org/abs/2604.21574
+* https://arxiv.org/abs/2604.21513 # Quantum jump correlations in long-range dissipative spin systems, Giulia Salatino, Anna Delmonte, Zejian Li, Rosario Fazio, Alberto Biella
+* https://arxiv.org/abs/2604.21574 # Generalized stochastic spin-wave theory for open quantum spin systems, Zejian Li, Anna Delmonte, Rosario Fazio
 https://arxiv.org/abs/2604.21820
-https://arxiv.org/abs/2604.21919
+* https://arxiv.org/abs/2604.21919 # Algorithmic Locality via Provable Convergence in Quantum Tensor Networks, Siddhant Midha, Yifan F. Zhang, Daniel Malz, Dmitry A. Abanin, Sarang Gopalakrishnan
 
 https://journals.aps.org/prb/abstract/10.1103/ljrz-1h8y
 https://journals.aps.org/prb/abstract/10.1103/k9dl-fd7z
