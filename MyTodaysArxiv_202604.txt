@@ -1,3 +1,16 @@
+20260424
+
+https://journals.aps.org/prb/abstract/10.1103/ljrz-1h8y
+https://journals.aps.org/prb/abstract/10.1103/k9dl-fd7z
+https://journals.aps.org/prb/abstract/10.1103/x7xc-dkk9
+https://journals.aps.org/prb/abstract/10.1103/8qtr-dm7g
+https://journals.aps.org/prxquantum/abstract/10.1103/m5zb-z4nn
+https://journals.aps.org/prl/abstract/10.1103/k46f-8m8t
+
+
+====
+
+
 20260423
 
 * https://arxiv.org/abs/2604.19870 # Melting temperature shifts from quantum fluctuations in generalized Wigner crystals, Aman Kumar, Sogoud Sherif, Veit Elser, Hitesh J. Changlani
