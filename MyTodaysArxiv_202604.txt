@@ -1,13 +1,13 @@
 20260427
 
 https://arxiv.org/abs/2604.21973
-https://arxiv.org/abs/2604.21978
-https://arxiv.org/abs/2604.21992
+* https://arxiv.org/abs/2604.21978 # Beyond Variational Bias: Resolving Intertwined Orders in the Hubbard Model, Luciano Loris Viteritti, Riccardo Rende, Christopher Roth, Anirvan Sengupta, Giuseppe Carleo, Antoine Georges
+* https://arxiv.org/abs/2604.21992 # Floquet mobility edges and transport in a periodically driven generalized Aubry-Andre model, Jayashis Das, Vatsana Tiwari, Manish Kumar, Auditya Sharma
 https://arxiv.org/abs/2604.22044
 https://arxiv.org/abs/2604.22131
 https://arxiv.org/abs/2604.22148
 https://arxiv.org/abs/2604.22151
-https://arxiv.org/abs/2604.22223
+* https://arxiv.org/abs/2604.22223 # QAssemble: A Pure Python Package for Quantum Many-Body Theory, Seongjun Mo, Dongming Li, Mancheon Han, Johan Joensson, Byungkyun Kang, Hoonkyung Lee, Gabriel Kotliar, Sangkook Choi
 https://arxiv.org/abs/2604.22329
 https://arxiv.org/abs/2604.22342
 
@@ -16,9 +16,9 @@ https://arxiv.org/abs/2604.22353
 https://arxiv.org/abs/2604.22484
 https://arxiv.org/abs/2604.22561
 https://arxiv.org/abs/2604.22628
-https://arxiv.org/abs/2604.22718
-https://arxiv.org/abs/2604.22743
-https://arxiv.org/abs/2604.22022
+* https://arxiv.org/abs/2604.22718 # Replica Tensor Train, Miha Srdinsek, Gabriel Gouraud, Xavier Waintal
+* https://arxiv.org/abs/2604.22743 # Thermometry for a Kagome Lattice Dipolar Rydberg Simulator, Erik Fitzner, Igor Lesanovsky, Bjoern Sbierski
+* https://arxiv.org/abs/2604.22022 # Entanglement and information scrambling in long-range measurement-only circuits, Abigail McClain Gomez, Fiona Abney-McPeek, Hong-Ye Hu, Susanne F. Yelin, Ceren B. Dag
 https://arxiv.org/abs/2604.22521
 
 https://journals.aps.org/prl/abstract/10.1103/b7sb-nhjq
