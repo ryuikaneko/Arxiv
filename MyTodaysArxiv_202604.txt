@@ -1,5 +1,20 @@
 20260427
 
+https://arxiv.org/abs/2604.21955
+https://arxiv.org/abs/2604.21967
+https://arxiv.org/abs/2604.22010
+https://arxiv.org/abs/2604.22185
+https://arxiv.org/abs/2604.22295
+https://arxiv.org/abs/2604.22368
+https://arxiv.org/abs/2604.22421
+https://arxiv.org/abs/2604.22471
+https://arxiv.org/abs/2604.22481
+https://arxiv.org/abs/2604.22483
+
+https://arxiv.org/abs/2604.22588
+https://arxiv.org/abs/2604.22627
+https://arxiv.org/abs/2604.22751
+
 https://arxiv.org/abs/2604.21973
 * https://arxiv.org/abs/2604.21978 # Beyond Variational Bias: Resolving Intertwined Orders in the Hubbard Model, Luciano Loris Viteritti, Riccardo Rende, Christopher Roth, Anirvan Sengupta, Giuseppe Carleo, Antoine Georges
 * https://arxiv.org/abs/2604.21992 # Floquet mobility edges and transport in a periodically driven generalized Aubry-Andre model, Jayashis Das, Vatsana Tiwari, Manish Kumar, Auditya Sharma
