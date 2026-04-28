@@ -9,7 +9,7 @@ https://arxiv.org/abs/2604.22368
 https://arxiv.org/abs/2604.22421
 https://arxiv.org/abs/2604.22471
 https://arxiv.org/abs/2604.22481
-https://arxiv.org/abs/2604.22483
+* https://arxiv.org/abs/2604.22483 # Programming long-range interactions in analog quantum simulators, Cristian Tabares, Alberto Munoz de las Heras, Jan T. Schneider, Alejandro Gonzalez-Tudela
 
 https://arxiv.org/abs/2604.22588
 https://arxiv.org/abs/2604.22627
