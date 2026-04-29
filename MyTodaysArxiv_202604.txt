@@ -23,9 +23,9 @@ https://arxiv.org/abs/2604.23811
 https://arxiv.org/abs/2604.23821
 
 https://arxiv.org/abs/2604.23868
-https://arxiv.org/abs/2604.24055
+* https://arxiv.org/abs/2604.24055 # Spin excitation of the Heisenberg antiferromagnet with frustration: from the bounce-lattice antiferromagnet through the maple-leaf-lattice antiferromagnet to the exact-dimer system, Hiroki Nakano, Toru Sakai
 https://arxiv.org/abs/2604.24058
-https://arxiv.org/abs/2604.24068
+* https://arxiv.org/abs/2604.24068 # Ground state of the Hubbard model with spin-dependent linear potential, Jacek Dobrzyniecki, Thomas Busch
 https://arxiv.org/abs/2604.24075
 https://arxiv.org/abs/2604.24141
 https://arxiv.org/abs/2604.24208
@@ -39,7 +39,7 @@ https://arxiv.org/abs/2604.24688
 https://arxiv.org/abs/2604.24695
 https://arxiv.org/abs/2604.24722
 https://arxiv.org/abs/2604.24734
-https://arxiv.org/abs/2604.24744
+* https://arxiv.org/abs/2604.24744 # Dynamical preparation of U(1) quantum spin liquids in an analogue quantum simulator, Simon Karch, Melissa Will, Irene Prieto Rodriguez, Nikolas Liebster, SeungJung Huh, Michael Knap, Frank Pollmann, Clemens Kuhlenkamp, Immanuel Bloch, Monika Aidelsburger
 https://arxiv.org/abs/2604.22976
 https://arxiv.org/abs/2604.23007
 https://arxiv.org/abs/2604.23138
@@ -55,7 +55,7 @@ https://arxiv.org/abs/2604.23758
 https://arxiv.org/abs/2604.24112
 https://arxiv.org/abs/2604.24409
 
-https://arxiv.org/abs/2604.24760
+* https://arxiv.org/abs/2604.24760 # Contracting Tensor Networks with Generalized Belief Propagation, Joseph Tindall, Grace M. Sommers, Hilbert Kappen
 
 https://journals.aps.org/prb/abstract/10.1103/r2ws-31z1
 https://journals.aps.org/prb/abstract/10.1103/plrd-q8vq
