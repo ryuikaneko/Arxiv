@@ -2,14 +2,14 @@
 
 https://arxiv.org/abs/2604.22919
 https://arxiv.org/abs/2604.22938
-https://arxiv.org/abs/2604.22955
+* https://arxiv.org/abs/2604.22955 # Realizing multi-orbital Emery models with ultracold atoms, Conall McCabe, Jamie Boyd, Kaizhao Wang, Martin Lebrat, Cindy Regal, Adam Kaufman, Ana Maria Rey, Lukas Homeier
 https://arxiv.org/abs/2604.22968
 https://arxiv.org/abs/2604.22987
-https://arxiv.org/abs/2604.23014
+* https://arxiv.org/abs/2604.23014 # Visons in Kitaev Spin Liquids with Majorana Fermi Surfaces, Caio V. S. Soares, Rodrigo G. Pereira
 https://arxiv.org/abs/2604.23082
-https://arxiv.org/abs/2604.23149
+* https://arxiv.org/abs/2604.23149 # Exact momentum-space analysis of small spin-1/2 J1-J2 rings, Zimeng Li, Ning Wu
 https://arxiv.org/abs/2604.23297
-https://arxiv.org/abs/2604.23301
+* https://arxiv.org/abs/2604.23301 # Grassmann time-evolving matrix product operators for fermionic impurities coupled to a superconducting bath, Chu Guo, Wei Wu, Xiansong Xu, Ping-Xing Chen, Changming Yue, Tian Jiang, Ruofan Chen
 
 https://arxiv.org/abs/2604.23346
 https://arxiv.org/abs/2604.23405
