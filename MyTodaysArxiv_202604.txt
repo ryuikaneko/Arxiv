@@ -2,9 +2,9 @@
 
 https://arxiv.org/abs/2604.24791
 https://arxiv.org/abs/2604.24792
-https://arxiv.org/abs/2604.24850
-https://arxiv.org/abs/2604.24854
-https://arxiv.org/abs/2604.24886
+* https://arxiv.org/abs/2604.24850 # Emergent prethermal Bethe integrability in a periodically driven Rydberg chain, Saptadip Roy, Arnab Sen, Diptiman Sen, K. Sengupta
+* https://arxiv.org/abs/2604.24854 # Randomised measurements of a disorder-induced entanglement transition in a neutral atom quantum processor, Apollonas S. Matsoukas-Roubeas, Oscar Scholin, Lucas Sa, Arinjoy De, Majd Hamdan, Alexei Bylinskii, Andrew J. Daley, Dorian A. Gangloff
+* https://arxiv.org/abs/2604.24886 # Getting large-scale quantum neural networks ready for quantum hardware, Mario Boneberg, Simon Kochsiek, Igor Lesanovsky
 https://arxiv.org/abs/2604.24912
 https://arxiv.org/abs/2604.24976
 https://arxiv.org/abs/2604.25058
