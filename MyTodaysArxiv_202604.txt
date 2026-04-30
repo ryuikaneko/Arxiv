@@ -11,11 +11,11 @@ https://arxiv.org/abs/2604.24872
 * https://arxiv.org/abs/2604.24883 # Uncovering Exotic Paired States in the 2D Spin-Imbalanced Fermi Gas with Neural Wave Functions, Wan Tong Lou, Gino Cassella, Andres Perez Fadon, Halvard Sutterud, David Pfau, James S. Spencer, Johannes Knolle, W.M.C. Foulkes
 * https://arxiv.org/abs/2604.24887 # Symmetry-Protected Topological Phases in the Triangular Majorana-Hubbard Ladder, Will Holdhusen, Alberto Nocera, Jian-Xin Zhu, Armin Rahmani
 
-https://arxiv.org/abs/2604.24889
+* https://arxiv.org/abs/2604.24889 # Phase diagram of a dual-species Rydberg atom ladder, Lei-Yi-Nan Liu, Shi-Rong Peng, Ze-Yuan Huang, Xing-Man Wei, Yun-Han Zou, Su Yi, Jian Cui
 https://arxiv.org/abs/2604.24917
 https://arxiv.org/abs/2604.24948
 https://arxiv.org/abs/2604.24951
-https://arxiv.org/abs/2604.25060
+* https://arxiv.org/abs/2604.25060 # Statistical mechanics in continuous space with tensor network methods, Gunhee Park, Tomislav Begusic, Si-Jing Du, Johnnie Gray, Garnet Kin-Lic Chan
 https://arxiv.org/abs/2604.25095
 https://arxiv.org/abs/2604.25169
 https://arxiv.org/abs/2604.25199
@@ -24,12 +24,12 @@ https://arxiv.org/abs/2604.25248
 
 https://arxiv.org/abs/2604.25262
 https://arxiv.org/abs/2604.25351
-https://arxiv.org/abs/2604.25401
+* https://arxiv.org/abs/2604.25401 # Raman Characterization of Two-Dimensional Quasiperiodic Antiferromagnets on Various Lattices: Spin-Orbit Mechanism, Takashi Inoue, Shoji Yamamoto
 https://arxiv.org/abs/2604.25431
-https://arxiv.org/abs/2604.25450
-https://arxiv.org/abs/2604.25493
+* https://arxiv.org/abs/2604.25450 # Differentiation of electron doping and oxygen reduction in electron-doped cuprates, M. Miyamoto, M. Horio, K. Moriya, A. Takahashi, K. Tanaka, Y. Koike, T. Adachi, I. Matsuda
+* https://arxiv.org/abs/2604.25493 # Non-magnetic floating phases in frustrated Haldane chains with a single-ion anisotropy, Bowy M. La Riviere, Natalia Chepiga
 https://arxiv.org/abs/2604.25537
-https://arxiv.org/abs/2604.25575
+* https://arxiv.org/abs/2604.25575 # Topochemical Fluorination of La2NiO4+delta Single Crystals, Hasan Yilmaz, Masahiko Isobe, Oliver Clemens, Pascal Puphal
 https://arxiv.org/abs/2604.25588
 https://arxiv.org/abs/2604.25598
 
@@ -39,12 +39,12 @@ https://arxiv.org/abs/2604.25658
 https://arxiv.org/abs/2604.25694
 https://arxiv.org/abs/2604.25706
 https://arxiv.org/abs/2604.25712
-https://arxiv.org/abs/2604.25775
+* https://arxiv.org/abs/2604.25775 # Pareto Frontier of Neural Quantum States: Scalable, Affordable, and Accurate Convolutional Backflow for Strongly Correlated Lattice Fermions, Yuntian Gu, Zeyao Han, Wenrui Li, Zhiyu Xiao, Tao Xiang, Mingpu Qin, Liwei Wang, Dingshun Lv
 https://arxiv.org/abs/2604.25798
 https://arxiv.org/abs/2604.25837
 https://arxiv.org/abs/2604.25843
 
-https://arxiv.org/abs/2604.25640
+* https://arxiv.org/abs/2604.25640 # Continuous Reset-Induced Phase Transition in Measurement-Free Random Quantum Circuits, Hinata Yokoyama, Kengo Anzai, Dina Syverud-Lindland, Yoshihito Kuno, Hiroaki Matsueda
 https://arxiv.org/abs/2604.25697
 https://arxiv.org/abs/2604.25747
 
