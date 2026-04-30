@@ -9,7 +9,7 @@ https://arxiv.org/abs/2604.24912
 https://arxiv.org/abs/2604.24976
 https://arxiv.org/abs/2604.25058
 https://arxiv.org/abs/2604.25094
-https://arxiv.org/abs/2604.25137
+* https://arxiv.org/abs/2604.25137 # Quantum Dynamics via Score Matching on Bohmian Trajectories, Lei Wang
 
 https://arxiv.org/abs/2604.25148
 https://arxiv.org/abs/2604.25162
