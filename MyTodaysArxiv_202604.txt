@@ -3,13 +3,13 @@
 https://arxiv.org/abs/2604.24784
 https://arxiv.org/abs/2604.24789
 https://arxiv.org/abs/2604.24840
-https://arxiv.org/abs/2604.24848
+* https://arxiv.org/abs/2604.24848 # Magnetic phases of the anisotropic triangular Hubbard model from the ghost-Gutzwiller approximation in the rotating spin-frame, Azin Kazemi-Moridani, Samuele Giuli, Tsung-Han Lee, A.-M. S. Tremblay, Michel Cote, Nicola Lanata, Olivier Gingras
 https://arxiv.org/abs/2604.24851
 https://arxiv.org/abs/2604.24859
-https://arxiv.org/abs/2604.24868
+* https://arxiv.org/abs/2604.24868 # Dynamical dimer structure factor of the triangular S=1/2 Heisenberg antiferromagnet, Markus Drescher, Laurens Vanderstraeten, Roderich Moessner, Frank Pollmann, Johannes Knolle
 https://arxiv.org/abs/2604.24872
-https://arxiv.org/abs/2604.24883
-https://arxiv.org/abs/2604.24887
+* https://arxiv.org/abs/2604.24883 # Uncovering Exotic Paired States in the 2D Spin-Imbalanced Fermi Gas with Neural Wave Functions, Wan Tong Lou, Gino Cassella, Andres Perez Fadon, Halvard Sutterud, David Pfau, James S. Spencer, Johannes Knolle, W.M.C. Foulkes
+* https://arxiv.org/abs/2604.24887 # Symmetry-Protected Topological Phases in the Triangular Majorana-Hubbard Ladder, Will Holdhusen, Alberto Nocera, Jian-Xin Zhu, Armin Rahmani
 
 https://arxiv.org/abs/2604.24889
 https://arxiv.org/abs/2604.24917
