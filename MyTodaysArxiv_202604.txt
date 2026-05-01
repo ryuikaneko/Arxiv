@@ -1,13 +1,13 @@
 20260430
 
 https://arxiv.org/abs/2604.25993
-https://arxiv.org/abs/2604.25995
+* https://arxiv.org/abs/2604.25995 # Solvable Random Unitary Dynamics in a Disordered Tomonaga-Luttinger Liquid, Tian-Gang Zhou, Thierry Giamarchi
 https://arxiv.org/abs/2604.26043
 https://arxiv.org/abs/2604.25950
 https://arxiv.org/abs/2604.25971
 https://arxiv.org/abs/2604.25976
-https://arxiv.org/abs/2604.25983
-https://arxiv.org/abs/2604.25987
+* https://arxiv.org/abs/2604.25983 # Characterization of Thermalization Behaviour in a Generalized Aubry-Andre Model, S. Mal, D. K. Nandy, B. K. Sahoo
+* https://arxiv.org/abs/2604.25987 # High-fidelity entangling gates and nonlocal circuits with neutral atoms, Simon J. Evered, Muqing Xu, Sophie H. Li, Alexandra A. Geim, J. Pablo Bonilla Ataides, Marcin Kalinowski, Dolev Bluvstein, Nishad Maskara, Christian Kokail, Markus Greiner, Vladan Vuletic, Mikhail D. Lukin
 https://arxiv.org/abs/2604.26008
 https://arxiv.org/abs/2604.26040
 
@@ -42,7 +42,7 @@ https://arxiv.org/abs/2604.26861
 https://arxiv.org/abs/2604.26865
 https://arxiv.org/abs/2604.26914
 https://arxiv.org/abs/2604.26927
-https://arxiv.org/abs/2604.25992
+* https://arxiv.org/abs/2604.25992 # Towards a microscopic model for an electronic quantum charge liquid, Jacob R. Taylor, Sankar Das Sarma, Seth Musser
 
 https://arxiv.org/abs/2604.25999
 https://arxiv.org/abs/2604.26007
