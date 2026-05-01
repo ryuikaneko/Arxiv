@@ -1,7 +1,7 @@
 20260430
 
 https://arxiv.org/abs/2604.26014
-https://arxiv.org/abs/2604.26018
+* https://arxiv.org/abs/2604.26018 # QERNEL: a Scalable Large Electron Model, Khachatur Nazaryan, Liang Fu
 https://arxiv.org/abs/2604.26215
 https://arxiv.org/abs/2604.26528
 https://arxiv.org/abs/2604.26551
@@ -9,9 +9,9 @@ https://arxiv.org/abs/2604.26617
 https://arxiv.org/abs/2604.26627
 https://arxiv.org/abs/2604.26698
 https://arxiv.org/abs/2604.26800
-https://arxiv.org/abs/2604.26827
+* https://arxiv.org/abs/2604.26827 # Finite-Temperature Ferromagnetic Correlations of the Kagome Lattice Hubbard Model, Francisco Correia, Kyle Corbett, Ehsan Khatami
 
-https://arxiv.org/abs/2604.26907
+* https://arxiv.org/abs/2604.26907 # Schwinger-Boson Mean-Field Study of the Anisotropic Kagome Antiferromagnet, Sankha Subhra Bakshi, Brandon B. Le, Seung-Hun Lee, Gia-Wei Chern
 
 https://arxiv.org/abs/2604.25993
 * https://arxiv.org/abs/2604.25995 # Solvable Random Unitary Dynamics in a Disordered Tomonaga-Luttinger Liquid, Tian-Gang Zhou, Thierry Giamarchi
