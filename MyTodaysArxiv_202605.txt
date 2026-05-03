@@ -1,5 +1,24 @@
 20260501
 
+https://arxiv.org/abs/2604.27030
+https://arxiv.org/abs/2604.27040
+https://arxiv.org/abs/2604.27058
+https://arxiv.org/abs/2604.27135
+https://arxiv.org/abs/2604.27170
+https://arxiv.org/abs/2604.27183
+https://arxiv.org/abs/2604.27248
+https://arxiv.org/abs/2604.27324
+https://arxiv.org/abs/2604.27459
+https://arxiv.org/abs/2604.27482
+
+https://arxiv.org/abs/2604.27567
+https://arxiv.org/abs/2604.27824
+https://arxiv.org/abs/2604.27829
+https://arxiv.org/abs/2604.27838
+https://arxiv.org/abs/2604.27943
+https://arxiv.org/abs/2604.28121
+https://arxiv.org/abs/2604.28137
+
 * https://arxiv.org/abs/2604.27048 # Momentum-Space Entanglement Signatures and Spinon Breakdown in the J1-J2 Zig-Zag Heisenberg Chain, Tom Oeffner, Ludwig Bordfeldt, Andreas Feuerpfeil, Lukas Elter, Tobias Helbig, Tobias Hofmann, Martin Greiter, Ronny Thomale
 https://arxiv.org/abs/2604.27051
 https://arxiv.org/abs/2604.27072
