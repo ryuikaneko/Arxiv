@@ -1,5 +1,53 @@
 20260501
 
+* https://arxiv.org/abs/2604.27048 # Momentum-Space Entanglement Signatures and Spinon Breakdown in the J1-J2 Zig-Zag Heisenberg Chain, Tom Oeffner, Ludwig Bordfeldt, Andreas Feuerpfeil, Lukas Elter, Tobias Helbig, Tobias Hofmann, Martin Greiter, Ronny Thomale
+https://arxiv.org/abs/2604.27051
+https://arxiv.org/abs/2604.27072
+https://arxiv.org/abs/2604.27250
+https://arxiv.org/abs/2604.27304
+https://arxiv.org/abs/2604.27310
+https://arxiv.org/abs/2604.27331
+https://arxiv.org/abs/2604.27342
+* https://arxiv.org/abs/2604.27440 # Evidence for interior-gap pair-density-wave state in Kondo-Heisenberg chains, Yuto Hirose, Shunsuke C. Furuya, Yasuhiro Tada
+* https://arxiv.org/abs/2604.27489 # Anomalous tunneling as a low-energy theorem for Nambu-Goldstone modes, Keisuke Fujii, Daichi Kagamihara, Masaru Hongo
+
+https://arxiv.org/abs/2604.27507
+* https://arxiv.org/abs/2604.27632 # Quantum Scalar Spin Chirality in Coplanar Kagome Antiferromagnets, Nanse Esaki, Gyungchoon Go, Se Kwon Kim
+https://arxiv.org/abs/2604.27685
+https://arxiv.org/abs/2604.27738
+https://arxiv.org/abs/2604.27746
+https://arxiv.org/abs/2604.27775
+https://arxiv.org/abs/2604.27788
+https://arxiv.org/abs/2604.27881
+https://arxiv.org/abs/2604.27885
+https://arxiv.org/abs/2604.27910
+
+https://arxiv.org/abs/2604.27946
+https://arxiv.org/abs/2604.28003
+https://arxiv.org/abs/2604.28008
+https://arxiv.org/abs/2604.28026
+https://arxiv.org/abs/2604.28042
+https://arxiv.org/abs/2604.28088
+https://arxiv.org/abs/2604.28117
+https://arxiv.org/abs/2604.28167
+https://arxiv.org/abs/2604.28184
+https://arxiv.org/abs/2604.28187
+
+* https://arxiv.org/abs/2604.27049 # Non-Local Magic Resources for Fermionic Gaussian States, Daniele Iannotti, Beatrice Magni, Riccardo Cioli, Alioscia Hamma, Xhek Turkeshi
+https://arxiv.org/abs/2604.27053
+* https://arxiv.org/abs/2604.27055 # Nonlocal nonstabilizerness in free fermion models, Mario Collura, Benjamin Beri, Emanuele Tirrito
+https://arxiv.org/abs/2604.27171
+https://arxiv.org/abs/2604.27189
+https://arxiv.org/abs/2604.27220
+https://arxiv.org/abs/2604.27381
+https://arxiv.org/abs/2604.27565
+https://arxiv.org/abs/2604.27585
+https://arxiv.org/abs/2604.27648
+
+https://arxiv.org/abs/2604.27749
+https://arxiv.org/abs/2604.27751
+https://arxiv.org/abs/2604.27858
+
 https://journals.aps.org/prl/abstract/10.1103/fhfy-dh85
 https://journals.aps.org/prl/abstract/10.1103/rw6g-w7my
 https://journals.aps.org/prb/abstract/10.1103/9thx-j8lp
