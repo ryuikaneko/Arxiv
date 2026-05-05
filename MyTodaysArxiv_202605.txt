@@ -11,7 +11,7 @@ https://arxiv.org/abs/2605.00567
 https://arxiv.org/abs/2605.00669
 https://arxiv.org/abs/2605.00679
 
-https://arxiv.org/abs/2605.00732
+* https://arxiv.org/abs/2605.00732 # Reconstruction of spin structures from topological charge distributions via generative neural network systems, Kyra H. M. Klos, Jan Disselhoff, Michael Wand, Karin Everschor-Sitte, Friederike Schmid
 https://arxiv.org/abs/2511.00124
 https://arxiv.org/abs/2605.00414
 https://arxiv.org/abs/2605.00435
