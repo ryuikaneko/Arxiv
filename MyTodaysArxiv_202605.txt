@@ -7,7 +7,7 @@ https://arxiv.org/abs/2605.00211
 https://arxiv.org/abs/2605.00537
 https://arxiv.org/abs/2605.00543
 https://arxiv.org/abs/2605.00567
-https://arxiv.org/abs/2605.00568
+* https://arxiv.org/abs/2605.00568 # Dynamical magnetotropic susceptibility as a new probe of Kitaev materials and beyond, Joao C. Inacio, J. Schwab, G. Rakhmanova, S. Safari, V. Zambra, H. Nasir, S. Paschen, K. A. Modic, Fakher F. Assaad, Toshihiro Sato
 https://arxiv.org/abs/2605.00669
 https://arxiv.org/abs/2605.00679
 
