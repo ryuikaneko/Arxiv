@@ -23,7 +23,7 @@ https://arxiv.org/abs/2605.00770
 https://arxiv.org/abs/2605.00807
 
 https://arxiv.org/abs/2605.00026
-https://arxiv.org/abs/2605.00104
+* https://arxiv.org/abs/2605.00104 # Criticality on Renyi defects at (2+1)d O(3) quantum critical points, Yanzhang Zhu, Zhe Wang, Meng Cheng, Zheng Yan
 https://arxiv.org/abs/2605.00112
 https://arxiv.org/abs/2605.00596
 https://arxiv.org/abs/2605.00784
