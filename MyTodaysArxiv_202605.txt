@@ -1,3 +1,16 @@
+20260504
+
+https://journals.aps.org/prxquantum/abstract/10.1103/25v1-my1x
+https://journals.aps.org/prb/abstract/10.1103/7yn2-22h6
+https://journals.aps.org/prb/abstract/10.1103/9t2w-8zzd
+https://journals.aps.org/prb/abstract/10.1103/l9zp-kg96
+https://journals.aps.org/prb/abstract/10.1103/r75d-zhkz
+https://journals.aps.org/prb/abstract/10.1103/vkcb-mxdg
+https://journals.aps.org/prb/abstract/10.1103/l1cp-6gzr
+https://journals.aps.org/prb/abstract/10.1103/yfwf-vxwb
+https://journals.aps.org/prb/abstract/10.1103/ptls-kr9z
+
+
 20260501
 
 https://arxiv.org/abs/2604.27030
@@ -76,5 +89,3 @@ https://journals.aps.org/prb/abstract/10.1103/69gj-6wm8
 https://journals.aps.org/prresearch/abstract/10.1103/bj6c-t252
 https://journals.aps.org/prresearch/abstract/10.1103/qh7t-jsjm
 https://journals.aps.org/pra/abstract/10.1103/7y57-1x19
-
-====
