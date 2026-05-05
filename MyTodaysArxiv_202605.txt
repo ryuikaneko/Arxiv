@@ -19,7 +19,7 @@ https://arxiv.org/abs/2605.00739
 https://arxiv.org/abs/2605.00745
 https://arxiv.org/abs/2605.00747
 https://arxiv.org/abs/2605.00770
-https://arxiv.org/abs/2605.00772
+* https://arxiv.org/abs/2605.00772 # Entanglement capacity of complex networks from quantum walks, Pravy Prerana, Sascha Wald
 https://arxiv.org/abs/2605.00807
 
 https://arxiv.org/abs/2605.00026
