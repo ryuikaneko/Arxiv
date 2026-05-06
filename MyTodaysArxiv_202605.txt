@@ -29,12 +29,12 @@ https://arxiv.org/abs/2605.02203
 https://arxiv.org/abs/2605.02293
 https://arxiv.org/abs/2605.02352
 https://arxiv.org/abs/2605.02465
-https://arxiv.org/abs/2605.02494
+* https://arxiv.org/abs/2605.02494 # A Critical Assessment of the Sample-Based Quantum Diagonalization for Heisenberg and Hubbard Models, Cedric Gaberle, Manpreet Singh Jattana
 https://arxiv.org/abs/2605.02498
 https://arxiv.org/abs/2605.02536
 
 https://arxiv.org/abs/2605.02564
-https://arxiv.org/abs/2605.02565
+* https://arxiv.org/abs/2605.02565 # Sample-Based Quantum Diagonalization with Amplitude Amplification, Nina Stockinger, Ludwig Nuetzel, Michael J. Hartmann
 https://arxiv.org/abs/2605.02571
 https://arxiv.org/abs/2605.02621
 https://arxiv.org/abs/2605.02650
@@ -49,8 +49,8 @@ https://arxiv.org/abs/2605.02872
 https://arxiv.org/abs/2605.02876
 https://arxiv.org/abs/2605.02877
 https://arxiv.org/abs/2605.00867
-https://arxiv.org/abs/2605.00998
-https://arxiv.org/abs/2605.01494
+* https://arxiv.org/abs/2605.00998 # Accurate, full-dimensional computations of thousands of complex vibrational eigenstates with tree tensor network states, Henrik R. Larsson, Brieuc Le De, Gino E. Gamboni
+* https://arxiv.org/abs/2605.01494 # Completely Positive and Trace Preserving Schemes with Tensor Train Compression for the Lindblad Equation, Peter DelMastro, Daniel Appeloe, Yingda Cheng
 https://arxiv.org/abs/2605.02446
 
 https://arxiv.org/abs/2605.00919
