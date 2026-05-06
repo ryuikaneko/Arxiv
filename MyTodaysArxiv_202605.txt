@@ -1,15 +1,15 @@
 20260505
 
 https://arxiv.org/abs/2605.00919
-https://arxiv.org/abs/2605.01029
+* https://arxiv.org/abs/2605.01029 # Model-agnostic cooling algorithms for strongly interacting fermions, Henning Schloemer, Liyuan Chen, Susanne F. Yelin, Hong-Ye Hu
 https://arxiv.org/abs/2605.01119
 https://arxiv.org/abs/2605.01316
-https://arxiv.org/abs/2605.01360
+* https://arxiv.org/abs/2605.01360 # Reservoir computing by thin film embedded with magnetic impurities, Shuto Kamakura, Tomi Ohtsuki, Jun-ichiro Ohe
 https://arxiv.org/abs/2605.01366
 https://arxiv.org/abs/2605.01421
-https://arxiv.org/abs/2605.01595
+* https://arxiv.org/abs/2605.01595 # Entanglement dynamics after quenches with inhomogeneous Hamiltonians, Andrea Di Pasquale, Federico Rottoli, Vincenzo Alba
 https://arxiv.org/abs/2605.01645
-https://arxiv.org/abs/2605.01651
+* https://arxiv.org/abs/2605.01651 # Metallic crossover through the tilt-free transition in La3Ni2O7 at high pressure and temperature, Bastien Michon, Yingpeng Yu, Beatrice D'Alo, Elena Stellino, Gergely Nemeth, Bosen Wang, Jianping Sun, Jinguang Cheng, Paolo Postorino, Ferenc Borondics, Francesco Capitani
 
 https://arxiv.org/abs/2605.01686
 https://arxiv.org/abs/2605.01969
@@ -18,18 +18,18 @@ https://arxiv.org/abs/2605.02156
 https://arxiv.org/abs/2605.02228
 https://arxiv.org/abs/2605.02482
 https://arxiv.org/abs/2605.02581
-https://arxiv.org/abs/2605.02606
+* https://arxiv.org/abs/2605.02606 # NESSi 2.0: The Non-Equilibrium Systems Simulation package version 2.0, Fabian Kuenzel, Michael Schueler, Denis Golez, Yuta Murakami, Sujay Ray, Christopher Stahl, Jiajun Li, Hugo U. R. Strand, Philipp Werner, Martin Eckstein
 https://arxiv.org/abs/2605.02619
 https://arxiv.org/abs/2605.02625
 
 https://arxiv.org/abs/2605.02671
 https://arxiv.org/abs/2605.02679
 https://arxiv.org/abs/2605.02683
-https://arxiv.org/abs/2605.02717
+* https://arxiv.org/abs/2605.02717 # Benchmarking the Dual Fermion approach on the Falicov-Kimball model, Akshat Mishra, Hugo U. R. Strand, Erik G. C. P. van Loon
 https://arxiv.org/abs/2605.02768
 https://arxiv.org/abs/2605.02891
 https://arxiv.org/abs/2605.01064
-https://arxiv.org/abs/2605.01912
+* https://arxiv.org/abs/2605.01912 # Quantum-enhanced sensing from the interplay of long-range interactions and non-Hermiticity, Keshav Das Agarwal, Tanoy Kanti Konar, Leela Ganesh Chandra Lakkaraju, Aditi Sen De
 https://arxiv.org/abs/2605.01998
 https://arxiv.org/abs/2605.02066
 
