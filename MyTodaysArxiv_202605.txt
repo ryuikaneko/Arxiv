@@ -15,9 +15,9 @@ https://arxiv.org/abs/2605.01375
 https://arxiv.org/abs/2605.01411
 https://arxiv.org/abs/2605.01433
 https://arxiv.org/abs/2605.01438
-https://arxiv.org/abs/2605.01440
+* https://arxiv.org/abs/2605.01440 # Spectral functions on a quantum computer through system-environment interaction, Etienne Granet, Ramil Nigmatullin, David T. Stephen, Henrik Dreyer
 https://arxiv.org/abs/2605.01551
-https://arxiv.org/abs/2605.01585
+* https://arxiv.org/abs/2605.01585 # From Qubit to Qubit: A Graduate Course in Quantum Mechanics, Jeremy Levy
 https://arxiv.org/abs/2605.01620
 https://arxiv.org/abs/2605.01728
 https://arxiv.org/abs/2605.01974
