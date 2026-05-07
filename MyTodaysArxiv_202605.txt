@@ -12,25 +12,25 @@ https://arxiv.org/abs/2605.03545
 https://arxiv.org/abs/2605.03564
 
 https://arxiv.org/abs/2605.03565
-https://arxiv.org/abs/2605.03579
+* https://arxiv.org/abs/2605.03579 # Quantum Spin Liquid State of a Dual-Species Atomic Array on Kagome Lattice, Ahmed M. Farouk, Ilya I. Beterov, Ghadeer Suliman, Junxi Chen, Igor I. Ryabtsev
 https://arxiv.org/abs/2605.03605
 https://arxiv.org/abs/2605.03612
 https://arxiv.org/abs/2605.03616
 https://arxiv.org/abs/2605.03629
 https://arxiv.org/abs/2605.03715
 https://arxiv.org/abs/2605.03729
-https://arxiv.org/abs/2605.03761
+* https://arxiv.org/abs/2605.03761 # A density-matrix derivation of the Hartree--Fock equations in a nonorthogonal atomic-orbital basis, Thomas Kjaergaard
 https://arxiv.org/abs/2605.03773
 
 https://arxiv.org/abs/2605.03807
 https://arxiv.org/abs/2605.03864
-https://arxiv.org/abs/2605.03930
-https://arxiv.org/abs/2605.03951
+* https://arxiv.org/abs/2605.03930 # Time-dependent variational Monte Carlo without bias, Wladislaw Krinitsin, Markus Schmitt
+* https://arxiv.org/abs/2605.03951 # Factoring 2048 bit RSA integers with a half-million-qubit modular atomic processor, Tian Xue, Jacob P. Covey
 https://arxiv.org/abs/2605.03958
 https://arxiv.org/abs/2605.03972
 https://arxiv.org/abs/2605.03975
 https://arxiv.org/abs/2605.03978
-https://arxiv.org/abs/2605.04025
+* https://arxiv.org/abs/2605.04025 # Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor, Gavin S. Hartnett, Khadijeh Sona Najafi, Aleksei Khindanov, Haoran Liao, Michael Schutzman, Michael R. Hush, Michael J. Biercuk, Yuval Baum
 https://arxiv.org/abs/2605.03434
 
 https://arxiv.org/abs/2605.04016
