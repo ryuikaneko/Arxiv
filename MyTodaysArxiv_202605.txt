@@ -1,41 +1,41 @@
 20260506
 
-https://arxiv.org/abs/2605.03001
+* https://arxiv.org/abs/2605.03001 # Parafermionic and decoupled multicritical points in a frustrated \mathbb{Z}_6 clock chain, Andrea Kouta Dagnino, Attila Szabo
 https://arxiv.org/abs/2605.03026
 https://arxiv.org/abs/2605.03087
 https://arxiv.org/abs/2605.03133
 https://arxiv.org/abs/2605.03191
-https://arxiv.org/abs/2605.03448
+* https://arxiv.org/abs/2605.03448 # Nature of magnetism in bilayer nickelate La3Ni2O7 single crystals, Lixing Chen, Enkang Zhang, Yiqing Hao, Yinghao Zhu, Bingkun Cui, Douglas L. Abernathy, Travis J. Williams, Yoichi Ikeda, Hao Zhang, Feiyang Liu, Wenbin Wang, Qisi Wang, Jun Zhao
 https://arxiv.org/abs/2605.03459
 https://arxiv.org/abs/2605.03515
 https://arxiv.org/abs/2605.03526
-https://arxiv.org/abs/2605.03582
+* https://arxiv.org/abs/2605.03582 # Renormalization group analysis for bosonization coefficients in half-odd-integer Kitaev spin chains, Jianxun Li, Chao Xu, Wang Yang
 
-https://arxiv.org/abs/2605.03700
-https://arxiv.org/abs/2605.03766
+* https://arxiv.org/abs/2605.03700 # Numerical evidence of a critical point in the (2+1)D SO(5) nonlinear sigma model with Wess-Zumino-Witten term, Yuan Da Liao, Bin-Bin Chen, Fakher F. Assaad, Lukas Janssen, Zi Yang Meng
+* https://arxiv.org/abs/2605.03766 # Gossamer Superconductivity in Moire WSe2 Bilayer, Hui-Ke Jin, Guangyue Ji, Zhan Wang, Jie Wang, Fu-Chun Zhang
 https://arxiv.org/abs/2605.03774
 https://arxiv.org/abs/2605.03826
 https://arxiv.org/abs/2605.03859
 https://arxiv.org/abs/2605.03865
 https://arxiv.org/abs/2605.03891
-https://arxiv.org/abs/2605.03901
+* https://arxiv.org/abs/2605.03901 # Graph Neural Networks in the Wilson Loop Representation of Abelian Lattice Gauge Theories, Ali Rayat, Gia-Wei Chern
 https://arxiv.org/abs/2605.03987
 https://arxiv.org/abs/2605.02947
 
 https://arxiv.org/abs/2605.02968
-https://arxiv.org/abs/2605.02995
+* https://arxiv.org/abs/2605.02995 # Page Curve for Local-Operator Entanglement from Free Probability, Neil Dowling, Silvia Pappalardi
 https://arxiv.org/abs/2605.03011
-https://arxiv.org/abs/2605.03017
-https://arxiv.org/abs/2605.03020
+* https://arxiv.org/abs/2605.03017 # Preparing High-Fidelity Thermofield Double States, Brian J. J. Khor, Nadie LiTenn, Martin Sasieta, Brian Swingle
+* https://arxiv.org/abs/2605.03020 # Exact Quantum Many-Body Scars by a generalized Matrix-Product Ansatz, Sascha Gehrmann, Fabian H.L. Essler
 https://arxiv.org/abs/2605.03032
-https://arxiv.org/abs/2605.03043
+* https://arxiv.org/abs/2605.03043 # Information in Many-body Eigenstates: A Question of Learnability, Maksymilian Kliczkowski, Jaroslaw Pawlowski, Masudul Haque
 https://arxiv.org/abs/2605.03197
 https://arxiv.org/abs/2605.03340
-https://arxiv.org/abs/2605.03600
+* https://arxiv.org/abs/2605.03600 # Interplay of Nonstabilizerness and Ergotropy in Quantum Batteries, Tanoy Kanti Konar, Jakub Zakrzewski
 
 https://arxiv.org/abs/2605.03829
-https://arxiv.org/abs/2605.03981
-https://arxiv.org/abs/2605.04026
+* https://arxiv.org/abs/2605.03981 # Selecting optimal unrestricted Hartree-Fock trial wavefunctions for phaseless auxiliary-field quantum Monte Carlo: Accuracy and limitations in modeling three iron-sulfur clusters, Don Danilov, Brad Ganoe, Leon Otis, Zhi Gong, Zixiang Lu, James Shee
+* https://arxiv.org/abs/2605.04026 # Entanglement transitions in translation-invariant tensor networks, Yi-Cheng Wang, Samuel J. Garratt, Ehud Altman
 
 https://journals.aps.org/prx/abstract/10.1103/7717-1mw2
 
