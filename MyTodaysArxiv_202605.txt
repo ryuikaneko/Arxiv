@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2605.04136
 https://arxiv.org/abs/2605.04139
 https://arxiv.org/abs/2605.04153
-https://arxiv.org/abs/2605.04155
+* https://arxiv.org/abs/2605.04155 # Nonstabilizerness Mpemba Effects, Zhenyu Xiao, Hao-Kai Zhang, Shuo Liu
 https://arxiv.org/abs/2605.04159
 https://arxiv.org/abs/2605.04161
 https://arxiv.org/abs/2605.04203
