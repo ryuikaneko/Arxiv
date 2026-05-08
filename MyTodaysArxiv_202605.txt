@@ -2,8 +2,8 @@
 
 https://arxiv.org/abs/2605.05205
 https://arxiv.org/abs/2605.05199
-https://arxiv.org/abs/2605.05196
-https://arxiv.org/abs/2605.05162
+* https://arxiv.org/abs/2605.05196 # Frustrated magnetic order in hybrid Kitaev spin-orbital models, Ivan Dutta, Aayush Vijayvargia, Anamitra Mukherjee, Onur Erten, Kush Saha
+* https://arxiv.org/abs/2605.05162 # Dynamical correlations in a dissipative XXZ spin chain, Catalin Pascu Moca, Doru Sticlet, Ovidiu I. Patu, Balazs Dora
 https://arxiv.org/abs/2605.05156
 https://arxiv.org/abs/2605.05137
 https://arxiv.org/abs/2605.05101
