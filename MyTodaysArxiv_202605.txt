@@ -73,13 +73,11 @@ https://arxiv.org/abs/2605.03829
 * https://arxiv.org/abs/2605.04026 # Entanglement transitions in translation-invariant tensor networks, Yi-Cheng Wang, Samuel J. Garratt, Ehud Altman
 
 https://journals.aps.org/prx/abstract/10.1103/7717-1mw2
-
 https://journals.aps.org/pra/abstract/10.1103/jc6b-txy9
 https://journals.aps.org/pra/abstract/10.1103/yq8q-9nkx
 https://journals.aps.org/pre/abstract/10.1103/bk3f-cwkm
-
-
-====
+https://journals.aps.org/prb/abstract/10.1103/hl65-tls5
+https://journals.aps.org/prb/abstract/10.1103/7trg-ft2t
 
 
 20260505
