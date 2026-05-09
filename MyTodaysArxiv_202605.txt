@@ -3,18 +3,18 @@
 https://arxiv.org/abs/2605.05288
 https://arxiv.org/abs/2605.05292
 https://arxiv.org/abs/2605.05294
-https://arxiv.org/abs/2605.05296
-https://arxiv.org/abs/2605.05306
+* https://arxiv.org/abs/2605.05296 # Engineering Quantum Many-Body Scars through Lattice Geometry, Erick Parra Verde, Kevin P. Mours, Johannes Zeiher, Ana Hudomal, Jad C. Halimeh
+* https://arxiv.org/abs/2605.05306 # Measurement-induced phase transitions in disordered fermions, Yunxiang Liao, Max Matheussen, Xinghai Zhang
 https://arxiv.org/abs/2605.05316
 https://arxiv.org/abs/2605.05393
 https://arxiv.org/abs/2605.05423
-https://arxiv.org/abs/2605.05431
+* https://arxiv.org/abs/2605.05431 # A transition in the hole probability at finite temperature for free fermions in d dimensions, Giuseppe Del Vecchio Del Vecchio, Pierre Le Doussal, Gregory Schehr
 https://arxiv.org/abs/2605.05433
 
 https://arxiv.org/abs/2605.05445
 https://arxiv.org/abs/2605.05448
 https://arxiv.org/abs/2605.05587
-https://arxiv.org/abs/2605.05589
+* https://arxiv.org/abs/2605.05589 # Galois Solvability of Finite-Size Bethe Solutions in the Heisenberg Chain, Oliver R. Bellwood, William J. Munro
 https://arxiv.org/abs/2605.05681
 https://arxiv.org/abs/2605.05915
 https://arxiv.org/abs/2605.06069
@@ -22,15 +22,15 @@ https://arxiv.org/abs/2605.06089
 https://arxiv.org/abs/2605.06171
 https://arxiv.org/abs/2605.06244
 
-https://arxiv.org/abs/2605.06302
-https://arxiv.org/abs/2605.06394
+* https://arxiv.org/abs/2605.06302 # Quantum Electron Quasicrystal, Pierre-Antoine Graham, Filippo Gaggioli, Liang Fu
+* https://arxiv.org/abs/2605.06394 # Lecture Notes on Statistical Physics and Neural Networks, Olaf Hohm
 https://arxiv.org/abs/2605.06422
 https://arxiv.org/abs/2605.06436
 https://arxiv.org/abs/2605.06661
-https://arxiv.org/abs/2605.06666
+* https://arxiv.org/abs/2605.06666 # The Kubo-Thermalization Correspondence, Songtao Huang, Xingyu Li, Jianyi Chen, Alan Tsidilkovski, Gabriel G. T. Assumpcao, Pengfei Zhang, Hui Zhai, Nir Navon
 https://arxiv.org/abs/2605.04830
-https://arxiv.org/abs/2605.05297
-https://arxiv.org/abs/2605.05299
+* https://arxiv.org/abs/2605.05297 # Systematic construction of quantum many-body scars in frustrated Rydberg arrays, Jean-Yves Desaules, Aron Kerschbaumer, Marko Ljubotina, Maksym Serbyn
+* https://arxiv.org/abs/2605.05299 # Universal Neural Propagator: Learning Time Evolution in Many-Body Quantum Systems, Zihao Qi, Christopher Earls, Yang Peng
 https://arxiv.org/abs/2605.05307
 
 https://arxiv.org/abs/2605.05376
