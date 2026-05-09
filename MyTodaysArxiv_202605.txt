@@ -1,5 +1,43 @@
 20260508
 
+https://arxiv.org/abs/2605.05288
+https://arxiv.org/abs/2605.05292
+https://arxiv.org/abs/2605.05294
+https://arxiv.org/abs/2605.05296
+https://arxiv.org/abs/2605.05306
+https://arxiv.org/abs/2605.05316
+https://arxiv.org/abs/2605.05393
+https://arxiv.org/abs/2605.05423
+https://arxiv.org/abs/2605.05431
+https://arxiv.org/abs/2605.05433
+
+https://arxiv.org/abs/2605.05445
+https://arxiv.org/abs/2605.05448
+https://arxiv.org/abs/2605.05587
+https://arxiv.org/abs/2605.05589
+https://arxiv.org/abs/2605.05681
+https://arxiv.org/abs/2605.05915
+https://arxiv.org/abs/2605.06069
+https://arxiv.org/abs/2605.06089
+https://arxiv.org/abs/2605.06171
+https://arxiv.org/abs/2605.06244
+
+https://arxiv.org/abs/2605.06302
+https://arxiv.org/abs/2605.06394
+https://arxiv.org/abs/2605.06422
+https://arxiv.org/abs/2605.06436
+https://arxiv.org/abs/2605.06661
+https://arxiv.org/abs/2605.06666
+https://arxiv.org/abs/2605.04830
+https://arxiv.org/abs/2605.05297
+https://arxiv.org/abs/2605.05299
+https://arxiv.org/abs/2605.05307
+
+https://arxiv.org/abs/2605.05376
+https://arxiv.org/abs/2605.05417
+https://arxiv.org/abs/2605.05604
+https://arxiv.org/abs/2605.05827
+
 https://journals.aps.org/prresearch/abstract/10.1103/wswv-nq6d
 https://journals.aps.org/prl/abstract/10.1103/g41t-8456
 https://journals.aps.org/prl/abstract/10.1103/dgx2-mwrk
@@ -7,6 +45,9 @@ https://journals.aps.org/pra/abstract/10.1103/ykj9-8gwj
 https://journals.aps.org/prb/abstract/10.1103/tkt1-hzyx
 https://journals.aps.org/prb/abstract/10.1103/jydd-dsjm
 https://journals.aps.org/prb/abstract/10.1103/bzq1-123h
+
+
+===
 
 
 20260507
