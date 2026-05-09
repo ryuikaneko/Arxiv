@@ -14,7 +14,7 @@ https://arxiv.org/abs/2605.05479
 https://arxiv.org/abs/2605.05841
 https://arxiv.org/abs/2605.05841
 https://arxiv.org/abs/2605.06167
-https://arxiv.org/abs/2605.06178
+* https://arxiv.org/abs/2605.06178 # Universal Analog Quantum Simulation, Yiming Huang, Jiaxing Song, Xiaoxia Cai, Xiao Yuan
 https://arxiv.org/abs/2605.06397
 https://arxiv.org/abs/2605.06577
 https://arxiv.org/abs/2605.06579
