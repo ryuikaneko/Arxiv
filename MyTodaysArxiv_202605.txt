@@ -1,5 +1,42 @@
 20260511
 
+https://arxiv.org/abs/2605.06789
+https://arxiv.org/abs/2605.06792
+https://arxiv.org/abs/2605.06848
+* https://arxiv.org/abs/2605.06849 # Tracing complex zeros of the quantum survival amplitude: How the energy distribution controls dynamical phase transitions, Jakub Novotny, Jan Strelecek, Pavel Stransky, Pavel Cejnar
+https://arxiv.org/abs/2605.06857
+https://arxiv.org/abs/2605.06858
+https://arxiv.org/abs/2605.06928
+https://arxiv.org/abs/2605.07144
+https://arxiv.org/abs/2605.07374
+https://arxiv.org/abs/2605.07449
+
+https://arxiv.org/abs/2605.07473
+https://arxiv.org/abs/2605.07518
+* https://arxiv.org/abs/2605.07559 # svPITE: A Python package for the state-vector-based probabilistic imaginary-time evolution algorithm, Pascal Sievers, Satoshi Ejima
+https://arxiv.org/abs/2605.07619
+https://arxiv.org/abs/2605.07621
+https://arxiv.org/abs/2605.07627
+https://arxiv.org/abs/2605.07668
+* https://arxiv.org/abs/2605.07753 # Universal Symmetry-Breaking Dynamics at Continuous Phase Transitions: Evidence for a New Dynamical Critical Exponent, Tobias Wiener, Laurin Brunner, Markus Heyl
+* https://arxiv.org/abs/2605.07779 # Neural network quantum states in the grand canonical ensemble, Anton Hul, Matija Medvidovic, Juan Carrasquilla
+https://arxiv.org/abs/2605.07797
+
+https://arxiv.org/abs/2605.07952
+https://arxiv.org/abs/2605.07983
+https://arxiv.org/abs/2605.08009
+https://arxiv.org/abs/2605.08032
+https://arxiv.org/abs/2605.08056
+https://arxiv.org/abs/2605.08076
+https://arxiv.org/abs/2605.08082
+https://arxiv.org/abs/2605.06734
+https://arxiv.org/abs/2605.06907
+https://arxiv.org/abs/2605.06973
+
+https://arxiv.org/abs/2605.06985
+https://arxiv.org/abs/2605.07906
+https://arxiv.org/abs/2605.08042
+
 https://journals.aps.org/prl/abstract/10.1103/j6h1-hzyz
 https://journals.aps.org/prd/abstract/10.1103/9wb1-rrcn
 https://journals.aps.org/prb/abstract/10.1103/45qp-ktk1
