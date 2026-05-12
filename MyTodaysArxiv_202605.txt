@@ -19,16 +19,16 @@ https://arxiv.org/abs/2605.07435
 https://arxiv.org/abs/2605.07540
 https://arxiv.org/abs/2605.07656
 https://arxiv.org/abs/2605.07685
-https://arxiv.org/abs/2605.07739
+* https://arxiv.org/abs/2605.07739 # Beyond the conventional Emery model: crucial role of long-range hopping for cuprate superconductivity, Eric Jacob, M. O. Malcolms, Viktor Christiansson, Leonard M. Verhoff, Paul Worm, Liang Si, Philipp Hansmann, Thomas Schaefer, Karsten Held
 https://arxiv.org/abs/2605.07862
 
 https://arxiv.org/abs/2605.07867
 https://arxiv.org/abs/2605.07870
 https://arxiv.org/abs/2605.07887
-https://arxiv.org/abs/2605.07906
+* https://arxiv.org/abs/2605.07906 # Checkerboard Bose Hubbard Ladders using Transmon Arrays, Pranjal Praneel, Thomas G Kiely, Andre G Petukhov, Erich J Mueller
 https://arxiv.org/abs/2605.08049
-https://arxiv.org/abs/2605.08067
-https://arxiv.org/abs/2605.08079
+* https://arxiv.org/abs/2605.08067 # Gapped 1/9 Magnetization Plateau in the Anisotropic Kagome Antiferromagnet Y-kapellasite, Dipranjan Chatterjee, Paul A. Goddard, Ewan R. P. Thomas, Katharina M. Zoch, Hank C. H. Wu, Benjamin M. Huddart, Cornelius Krellner, Edwin Kermarrec, Mladen Horvatic, Steffen Kraemer, Pascal Puphal, John Singleton, Stephen J. Blundell, Fabrice Bert
+* https://arxiv.org/abs/2605.08079 # Multiscale Structure of Eigenstate Thermalization, Pavel Orlov, Rustem Sharipov, Enej Ilievski
 https://arxiv.org/abs/2605.05866
 https://arxiv.org/abs/2605.07410
 https://arxiv.org/abs/2605.07702
