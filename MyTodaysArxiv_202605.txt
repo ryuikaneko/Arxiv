@@ -5,20 +5,20 @@ https://arxiv.org/abs/2605.06692
 https://arxiv.org/abs/2605.06701
 https://arxiv.org/abs/2605.06705
 https://arxiv.org/abs/2605.06752
-https://arxiv.org/abs/2605.06784
+* https://arxiv.org/abs/2605.06784 # Bootstrapping ground state properties of classical frustrated magnets, Nisarga Paul, Gil Refael
 https://arxiv.org/abs/2605.06828
 https://arxiv.org/abs/2605.06839
-https://arxiv.org/abs/2605.06852
+* https://arxiv.org/abs/2605.06852 # Fluctuation-driven chiral ferromagnetism, Rokas Veitas, Ahmed Khalifa, Francisco Machado, Shubhayu Chatterjee
 https://arxiv.org/abs/2605.06923
 
 https://arxiv.org/abs/2605.07085
-https://arxiv.org/abs/2605.07231
+* https://arxiv.org/abs/2605.07231 # Topological Characterization of Discrete-Time Classical Stochastic Processes: Dual Role of Point-Gap Topology, Masaya Nakagawa, Masahito Ueda
 https://arxiv.org/abs/2605.07279
 https://arxiv.org/abs/2605.07416
 https://arxiv.org/abs/2605.07435
 https://arxiv.org/abs/2605.07540
 https://arxiv.org/abs/2605.07656
-https://arxiv.org/abs/2605.07685
+* https://arxiv.org/abs/2605.07685 # Ground states of quantum XY dipoles on the Archimedean lattices, Marcus Bintz, Ahmed Khalifa, Vincent S. Liu, Johannes Hauschild, Michael P. Zaletel, Shubhayu Chatterjee, Norman Y. Yao
 * https://arxiv.org/abs/2605.07739 # Beyond the conventional Emery model: crucial role of long-range hopping for cuprate superconductivity, Eric Jacob, M. O. Malcolms, Viktor Christiansson, Leonard M. Verhoff, Paul Worm, Liang Si, Philipp Hansmann, Thomas Schaefer, Karsten Held
 https://arxiv.org/abs/2605.07862
 
