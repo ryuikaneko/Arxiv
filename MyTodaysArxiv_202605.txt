@@ -11,10 +11,10 @@ https://arxiv.org/abs/2605.09135
 https://arxiv.org/abs/2605.09148
 https://arxiv.org/abs/2605.09240
 
-https://arxiv.org/abs/2605.09247
+* https://arxiv.org/abs/2605.09247 # Benchmarking a restricted Boltzmann machine on the Z2 Bose-Hubbard chain in the adiabatic hard-core regime, Gustavo Alejandro Avalos Valentin, Roman Josue Armenta Rico, Isaac Perez Castillo
 https://arxiv.org/abs/2605.09263
 https://arxiv.org/abs/2605.09436
-https://arxiv.org/abs/2605.09453
+* https://arxiv.org/abs/2605.09453 # Emergent critical phases of the Ashkin-Teller model on the Union-Jack Lattice, Changzhi Zhao, Wanzhou Zhang, Yuan Huang, Chengxiang Ding, Youjin Deng
 https://arxiv.org/abs/2605.09499
 https://arxiv.org/abs/2605.09501
 https://arxiv.org/abs/2605.09510
@@ -24,17 +24,17 @@ https://arxiv.org/abs/2605.09713
 
 https://arxiv.org/abs/2605.09962
 https://arxiv.org/abs/2605.09974
-https://arxiv.org/abs/2605.10101
+* https://arxiv.org/abs/2605.10101 # Correlation-Driven Orbital-Selective Fermiology and Superconductivity in the Bilayer Nickelate La3Ni2O7, Yong-Yue Zong, Shun-Li Yu, Jian-Xin Li
 https://arxiv.org/abs/2605.10226
-https://arxiv.org/abs/2605.10238
+* https://arxiv.org/abs/2605.10238 # Local supersolid in moire modulated Bose-Hubbard model using density-matrix renormalization group method, Siyu Xie, Qiang Xu, Qianqian Shi, Wanzhou Zhang
 https://arxiv.org/abs/2605.10254
 https://arxiv.org/abs/2605.10304
-https://arxiv.org/abs/2605.10326
+* https://arxiv.org/abs/2605.10326 # Statistical mechanics of the N-queens problem, Zong-Yue Liu, Hai-Jun Liao, Lei Wang
 https://arxiv.org/abs/2605.10387
 https://arxiv.org/abs/2605.10418
 
 https://arxiv.org/abs/2605.10432
-https://arxiv.org/abs/2605.10459
+* https://arxiv.org/abs/2605.10459 # Renormalization of Quantum Operations: Parity-Time Transition and Chaotic Flows, Atsushi Oyaizu, Hongchao Li, Masaya Nakagawa, Masahito Ueda
 https://arxiv.org/abs/2605.10472
 https://arxiv.org/abs/2605.10528
 https://arxiv.org/abs/2605.10561
