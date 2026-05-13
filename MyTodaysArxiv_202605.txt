@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2605.08341
 https://arxiv.org/abs/2605.08350
-https://arxiv.org/abs/2605.08356
+* https://arxiv.org/abs/2605.08356 # Mesoscopic Regimes of Temporal Entanglement in Ergodic Quantum Systems, Sergio Cerezo-Roquebrun, Jan Thorben Schneider, Stefano Carignano, Aleix Bou-Comas, Mari Carmen Banuls, Esperanza Lopez, Luca Tagliacozzo
 https://arxiv.org/abs/2605.08402
 https://arxiv.org/abs/2605.08523
 https://arxiv.org/abs/2605.08535
@@ -15,7 +15,7 @@ https://arxiv.org/abs/2605.09019
 https://arxiv.org/abs/2605.09142
 https://arxiv.org/abs/2605.09226
 https://arxiv.org/abs/2605.09316
-https://arxiv.org/abs/2605.09385
+* https://arxiv.org/abs/2605.09385 # Truncating loopy tensor networks by zero-mode gauge fixing: the Z2 lattice gauge theory at finite temperature, Jacek Dziarmaga
 https://arxiv.org/abs/2605.09580
 https://arxiv.org/abs/2605.09616
 https://arxiv.org/abs/2605.09671
@@ -38,7 +38,7 @@ https://arxiv.org/abs/2605.10667
 https://arxiv.org/abs/2605.10682
 https://arxiv.org/abs/2605.10708
 https://arxiv.org/abs/2605.10710
-https://arxiv.org/abs/2605.10758
+* https://arxiv.org/abs/2605.10758 # No measurement induced phase transition in the entanglement dynamics of monitored non-interacting one-dimensional fermions in a disordered or quasiperiodic potential, Can Yin, Fan Bo, Antonio M. Garcia-Garcia
 https://arxiv.org/abs/2605.10783
 https://arxiv.org/abs/2605.10800
 https://arxiv.org/abs/2605.10801
@@ -56,7 +56,7 @@ https://arxiv.org/abs/2605.09249
 https://arxiv.org/abs/2605.09274
 
 https://arxiv.org/abs/2605.09812
-https://arxiv.org/abs/2605.10191
+* https://arxiv.org/abs/2605.10191 # Computing eigenpairs of quantum many-body systems with Polfed.jl, Rok Pintar, Konrad Pawlik, Rafal Swietek, Miroslav Hopjan, Jan Suntajs, Jakub Zakrzewski, Piotr Sierant, Lev Vidmar
 https://arxiv.org/abs/2605.10232
 https://arxiv.org/abs/2605.10545
 https://arxiv.org/abs/2605.10786
