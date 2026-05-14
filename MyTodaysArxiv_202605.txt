@@ -5,7 +5,7 @@ https://arxiv.org/abs/2605.10963
 https://arxiv.org/abs/2605.11016
 https://arxiv.org/abs/2605.11092
 https://arxiv.org/abs/2605.11103
-https://arxiv.org/abs/2605.11150
+* https://arxiv.org/abs/2605.11150 # Lecture Notes on Replica Tensor Networks for Random Quantum Circuits, Xhek Turkeshi
 https://arxiv.org/abs/2605.11158
 https://arxiv.org/abs/2605.11162
 https://arxiv.org/abs/2605.11213
