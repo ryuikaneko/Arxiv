@@ -5,7 +5,7 @@ https://arxiv.org/abs/2605.10957
 https://arxiv.org/abs/2605.10970
 https://arxiv.org/abs/2605.11106
 https://arxiv.org/abs/2605.11138
-https://arxiv.org/abs/2605.11146
+* https://arxiv.org/abs/2605.11146 # BCS-BEC crossover in trapped one-dimensional Fermi-Hubbard chains: entanglement and correlation signatures from DMRG and effective-pairing theory, G. Diniz, I. M. Carvalho, M. Sanino, F. Iemini, V. V. Franca
 https://arxiv.org/abs/2605.11183
 https://arxiv.org/abs/2605.11230
 https://arxiv.org/abs/2605.11281
