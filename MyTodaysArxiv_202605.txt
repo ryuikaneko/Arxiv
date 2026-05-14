@@ -20,7 +20,7 @@ https://arxiv.org/abs/2605.11655
 https://arxiv.org/abs/2605.11669
 https://arxiv.org/abs/2605.11787
 https://arxiv.org/abs/2605.11794
-https://arxiv.org/abs/2605.11830
+* https://arxiv.org/abs/2605.11830 # Relationship between doping-induced in-gap states and spin excitations in Kitaev-Hubbard models, Si-Qi Hou, Shun-Li Yu, Zhao-Yang Dong, Jian-Xin Li
 
 https://arxiv.org/abs/2605.11965
 https://arxiv.org/abs/2605.12043
