@@ -17,8 +17,8 @@ https://arxiv.org/abs/2605.11590
 https://arxiv.org/abs/2605.11597
 https://arxiv.org/abs/2605.11610
 https://arxiv.org/abs/2605.11655
-https://arxiv.org/abs/2605.11669
-https://arxiv.org/abs/2605.11787
+* https://arxiv.org/abs/2605.11669 # Altermagnons at the metal-insulator transition, Jonas Issing, Matteo Duerrnagel, Sarbajit Mazumdar, Alena Lorenz, Niklas Witt, Giorgio Sangiovanni, Michael Klett, Lennart Klebl, Ronny Thomale, Jannis Seufert
+* https://arxiv.org/abs/2605.11787 # CERTIFY-ED: A Multi-Layer Verification Framework for Exact Diagonalization of Quantum Many-Body Systems, Sarang Vehale, Ritu Goel
 https://arxiv.org/abs/2605.11794
 * https://arxiv.org/abs/2605.11830 # Relationship between doping-induced in-gap states and spin excitations in Kitaev-Hubbard models, Si-Qi Hou, Shun-Li Yu, Zhao-Yang Dong, Jian-Xin Li
 
