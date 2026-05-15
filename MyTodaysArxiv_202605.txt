@@ -3,12 +3,12 @@
 https://arxiv.org/abs/2605.12538
 https://arxiv.org/abs/2605.12546
 https://arxiv.org/abs/2605.12583
-https://arxiv.org/abs/2605.12600
+* https://arxiv.org/abs/2605.12600 # Fermion lattices can be simulated by same-size qubit lattices with O(1) interaction overhead, Gregor Aigner, Berend Klaver, Martin Lanthaler, Wolfgang Lechner
 https://arxiv.org/abs/2605.12614
 https://arxiv.org/abs/2605.12615
 https://arxiv.org/abs/2605.12638
 https://arxiv.org/abs/2605.12656
-https://arxiv.org/abs/2605.12665
+* https://arxiv.org/abs/2605.12665 # Low Rank Structure of the Reduced Transition Matrix, Cathy Li, Bruno Bertini, Katja Klobas, Tianci Zhou
 https://arxiv.org/abs/2605.12675
 
 https://arxiv.org/abs/2605.12713
@@ -16,7 +16,7 @@ https://arxiv.org/abs/2605.12781
 https://arxiv.org/abs/2605.12783
 https://arxiv.org/abs/2605.12828
 https://arxiv.org/abs/2605.12866
-https://arxiv.org/abs/2605.13008
+* https://arxiv.org/abs/2605.13008 # Quantum dynamics of two XX interacting PT-symmetric non-Hermitian qubits: enhancement of quantum annealing, Yana Komissarova, Mikhail V. Fistul, Ilya M. Eremin
 https://arxiv.org/abs/2605.13051
 https://arxiv.org/abs/2605.13072
 https://arxiv.org/abs/2605.13082
@@ -26,7 +26,7 @@ https://arxiv.org/abs/2605.13271
 https://arxiv.org/abs/2605.13350
 https://arxiv.org/abs/2605.13379
 https://arxiv.org/abs/2605.13494
-https://arxiv.org/abs/2605.13691
+* https://arxiv.org/abs/2605.13691 # Probing Quantum Information Scrambling via Local Randomized Measurements, Yan-Ming Chen, Dan-Bo Zhang
 https://arxiv.org/abs/2605.13747
 https://arxiv.org/abs/2605.13758
 https://arxiv.org/abs/2605.13796
@@ -34,11 +34,11 @@ https://arxiv.org/abs/2605.12588
 https://arxiv.org/abs/2605.13066
 
 https://arxiv.org/abs/2605.13116
-https://arxiv.org/abs/2605.13363
+* https://arxiv.org/abs/2605.13363 # Invertible Symmetry and Spontaneous Duality Breaking in the Transverse-Field Ising Model, Jose Dupont, Jasper van Wezel
 https://arxiv.org/abs/2605.13563
 https://arxiv.org/abs/2605.13774
-https://arxiv.org/abs/2605.13807
-https://arxiv.org/abs/2605.13837
+* https://arxiv.org/abs/2605.13807 # Parallel Scan Recurrent Neural Quantum States for Scalable Variational Monte Carlo, Ejaaz Merali, Mohamed Hibat-Allah, Mohammad Kohandel, Richard T. Scalettar, Ehsan Khatami
+* https://arxiv.org/abs/2605.13837 # Nagaoka supermetal in the particle-doped triangular Hubbard model, Rui Cao, Xiangyue Zhang, Hui Tan, Jian-Shu Xu, Yuan-Yao He, Jianmin Yuan, Yongqiang Li
 
 https://journals.aps.org/prb/abstract/10.1103/2r51-48dl
 https://journals.aps.org/prb/abstract/10.1103/2f5t-gc98
