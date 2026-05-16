@@ -18,17 +18,16 @@ https://arxiv.org/abs/2605.15029
 https://arxiv.org/abs/2605.15076
 https://arxiv.org/abs/2605.15090
 https://arxiv.org/abs/2605.15098
-https://arxiv.org/abs/2605.15150
-https://arxiv.org/abs/2605.15200
-https://arxiv.org/abs/2605.15201
+* https://arxiv.org/abs/2605.15150 # Extensive long-range magic in non-Abelian topological orders, Yuzhen Zhang, Isaac H. Kim, Yimu Bao, Sagar Vijay
+* https://arxiv.org/abs/2605.15200 # Translation symmetry-enforced long-range entanglement in mixed states, Ryan Thorngren, Lei Gioia, Carolyn Zhang
+* https://arxiv.org/abs/2605.15201 # Mixed-State Long-Range Entanglement from Dimensional Constraints, Leonardo A. Lessa, Tsung-Cheng Lu
 
-https://arxiv.org/abs/2602.12340
 https://arxiv.org/abs/2605.13951
 https://arxiv.org/abs/2605.13956
 https://arxiv.org/abs/2605.14219
 https://arxiv.org/abs/2605.14235
 https://arxiv.org/abs/2605.14985
-https://arxiv.org/abs/2605.14993
+* https://arxiv.org/abs/2605.14993 # Accurate Modeling of Rydberg Atoms and Their Interactions: Theory and Implementation in PairInteraction, Johannes Moegerle, Frederic Hummel, Alicia Keil, Tangi Legrand, Eduard J. Braun, Henri Menke, Jonathan King, Beatriz Olmos, Sebastian Hofferberth, Hans Peter Buechler, Sebastian Weber
 https://arxiv.org/abs/2605.15194
 
 https://journals.aps.org/prb/abstract/10.1103/7gjk-qlyq
