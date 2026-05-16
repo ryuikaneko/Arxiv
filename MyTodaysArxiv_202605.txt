@@ -16,22 +16,22 @@ https://arxiv.org/abs/2605.14263
 https://arxiv.org/abs/2605.14328
 https://arxiv.org/abs/2605.14336
 https://arxiv.org/abs/2605.14414
-https://arxiv.org/abs/2605.14522
+* https://arxiv.org/abs/2605.14522 # Matrix-Product Belief Propagation for continuous-state-space variables, Federico Florio, Alfredo Braunstein
 https://arxiv.org/abs/2605.14638
 https://arxiv.org/abs/2605.14639
 https://arxiv.org/abs/2605.14735
 https://arxiv.org/abs/2605.14745
 
-https://arxiv.org/abs/2605.14909
+* https://arxiv.org/abs/2605.14909 # Revealing Hidden Correlations in a Fermi-Hubbard system via Interaction Ramps, Botond Oreg, Carter Turnbaugh, Jens Hertkorn, Ningyuan Jia, Martin Zwierlein
 https://arxiv.org/abs/2605.14969
 https://arxiv.org/abs/2605.15022
-https://arxiv.org/abs/2605.15059
-https://arxiv.org/abs/2605.15060
+* https://arxiv.org/abs/2605.15059 # Quantum criticality in the two-dimensional Hubbard model, Mathias Pelz, Gabriel Kotliar, Jan von Delft, Andreas Gleis
+* https://arxiv.org/abs/2605.15060 # Dynamical scaling near the pseudogap quantum critical point of the two-dimensional Hubbard model, Mathias Pelz, Gabriel Kotliar, Jan von Delft, Andreas Gleis
 https://arxiv.org/abs/2605.13952
 https://arxiv.org/abs/2605.14527
-https://arxiv.org/abs/2605.14685
+* https://arxiv.org/abs/2605.14685 # Spontaneous symmetry breaking and Goldstone modes for deep information propagation, Nabil Iqbal, T. Anderson Keller, Yue Song, Takeru Miyato, Max Welling
 https://arxiv.org/abs/2605.14687
-https://arxiv.org/abs/2605.14965
+* https://arxiv.org/abs/2605.14965 # Analyzing the two-dimensional doped Hubbard model with the Worldvolume HMC method, Masafumi Fukuma, Yusuke Namekawa
 
 https://arxiv.org/abs/2605.15073
 https://arxiv.org/abs/2605.15174
