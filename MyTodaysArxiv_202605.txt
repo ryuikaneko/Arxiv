@@ -71,6 +71,9 @@ https://arxiv.org/abs/2605.15194
 https://journals.aps.org/prb/abstract/10.1103/7gjk-qlyq
 https://journals.aps.org/prb/abstract/10.1103/qv6d-dk21
 https://journals.aps.org/prb/abstract/10.1103/x24t-bd2q
+https://journals.aps.org/pra/abstract/10.1103/f49t-zs9p
+https://journals.aps.org/prresearch/abstract/10.1103/9mt9-9fjr
+https://journals.aps.org/prresearch/abstract/10.1103/6n5b-l8jv
 
 
 ====
