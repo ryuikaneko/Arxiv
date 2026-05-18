@@ -76,9 +76,6 @@ https://journals.aps.org/prresearch/abstract/10.1103/9mt9-9fjr
 https://journals.aps.org/prresearch/abstract/10.1103/6n5b-l8jv
 
 
-====
-
-
 20260514
 
 * https://arxiv.org/abs/2605.12592 # Incommensurate Spin-Density Waves in a Frustrated Maple-Leaf Lattice Ferromagnet, Paul L. Ebert, Yasir Iqbal, Alexander Wietek
