@@ -7,7 +7,7 @@ https://arxiv.org/abs/2605.15447
 https://arxiv.org/abs/2605.15541
 https://arxiv.org/abs/2605.15631
 https://arxiv.org/abs/2605.15703
-https://arxiv.org/abs/2605.15730
+* https://arxiv.org/abs/2605.15730 # Short-time critical dynamics in the classical cubic dimer model, Hu-Xiao Peng, Zheng Yan, Shuai Yin
 https://arxiv.org/abs/2605.15805
 https://arxiv.org/abs/2605.15841
 
