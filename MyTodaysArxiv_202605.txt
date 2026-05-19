@@ -14,7 +14,7 @@ https://arxiv.org/abs/2605.15439
 https://arxiv.org/abs/2605.15476
 https://arxiv.org/abs/2605.15658
 https://arxiv.org/abs/2605.15813
-https://arxiv.org/abs/2605.15945
+* https://arxiv.org/abs/2605.15945 # Generating collective spin cat states via photon-number measurements near the Dicke critical point, Taiga Nakamoto, Shohei Imai, Kazuaki Takasan
 https://arxiv.org/abs/2605.15982
 https://arxiv.org/abs/2605.15985
 https://arxiv.org/abs/2605.16010
@@ -31,7 +31,7 @@ https://arxiv.org/abs/2605.16189
 https://arxiv.org/abs/2605.16195
 https://arxiv.org/abs/2605.16202
 https://arxiv.org/abs/2605.15268
-https://arxiv.org/abs/2605.15899
+* https://arxiv.org/abs/2605.15899 # Solving Classical and Quantum Spin Glasses with Deep Boltzmann Quantum States, Luca Leone, Arka Dutta, Markus Heyl, Enrico Prati, Pietro Torta
 
 https://arxiv.org/abs/2605.15974
 
