@@ -41,21 +41,21 @@ https://arxiv.org/abs/2605.17953
 https://arxiv.org/abs/2605.18009
 * https://arxiv.org/abs/2605.18017 # Hydrostatic Pressure-Induced Evolution of the Superconducting Transition Temperature of Bi-2212: Insights from First-Principles Calculations, Shuhong Tang, Hanyu Wang, Di Peng, Da-yong Liu, Zhi Zeng, and Liang-Jian Zou
 https://arxiv.org/abs/2605.18057
-https://arxiv.org/abs/2605.18064
-https://arxiv.org/abs/2605.18119
+* https://arxiv.org/abs/2605.18064 # Localization Transitions in a Half-Filled Helical Aubry-Andre Model, Taylan Yildiz, B. Tanatar, Balazs Hetenyi
+* https://arxiv.org/abs/2605.18119 # Weak Fragmentation and Thermalization in a Dipole-Conserving Bose-Hubbard Chain, Chenrong Liu
 
 https://arxiv.org/abs/2605.18139
 https://arxiv.org/abs/2605.18405
 https://arxiv.org/abs/2605.18407
 https://arxiv.org/abs/2605.18411
 https://arxiv.org/abs/2605.18429
-https://arxiv.org/abs/2605.18453
+* https://arxiv.org/abs/2605.18453 # Frustration from Localized Zhang-Rice States: A Unified Theory of Doping-Driven Magnetic Transitions in Cuprates, Xiaodong Wang, Ping Xu, Jiong Mei, Shao-Hang Shi, Zi-Xiang Li, Mingpu Qin, Kun Jiang, Hui-Ke Jin
 https://arxiv.org/abs/2605.18453
 https://arxiv.org/abs/2605.18546
-https://arxiv.org/abs/2605.18575
+* https://arxiv.org/abs/2605.18575 # Charge order on a triangular lattice with Mott physics and arbitrary charge density, Aleksey Alekseev, Agnieszka Cichy, Konrad Jerzy Kapcia
 https://arxiv.org/abs/2605.18689
 
-https://arxiv.org/abs/2605.17083
+* https://arxiv.org/abs/2605.17083 # Basis-free neural-network geminal and Jastrow factors for variational Monte Carlo, Jan Kessler, Thomas D. Kuehne
 https://arxiv.org/abs/2605.17675
 https://arxiv.org/abs/2605.17977
 https://arxiv.org/abs/2605.18598
