@@ -13,33 +13,33 @@ https://arxiv.org/abs/2605.16936
 
 https://arxiv.org/abs/2605.16943
 https://arxiv.org/abs/2605.16987
-https://arxiv.org/abs/2605.16988
+* https://arxiv.org/abs/2605.16988 # Incommensurate Antiferromagnetic Order in the Fe-substituted Bi-2201 Cuprate in the Heavily Overdoped Regime, Y. Komiyama, Y. Ikeda, T. Taniguchi, T. J. Williams, M. Matsuda, S. Asai, T. Masuda, H. Kuwahara, H. Kuroe, T. Kawamata, I. Watanabe, M. Fujita, T. Adachi
 https://arxiv.org/abs/2605.17069
 https://arxiv.org/abs/2605.17074
 https://arxiv.org/abs/2605.17224
 https://arxiv.org/abs/2605.17226
 https://arxiv.org/abs/2605.17227
 https://arxiv.org/abs/2605.17338
-https://arxiv.org/abs/2605.17420
+* https://arxiv.org/abs/2605.17420 # Specific heat and susceptibility of S=1/2 antiferromagnets on square, triangular, and kagome lattices, Chisa Hotta
 
-https://arxiv.org/abs/2605.17520
+* https://arxiv.org/abs/2605.17520 # Enhanced s+--wave superconductivity in electron-doped La3Ni2O7, Xun Liu, Chao Deng, Wenfeng Wu, Liang Si, Mi Jiang
 https://arxiv.org/abs/2605.17523
 https://arxiv.org/abs/2605.17600
 https://arxiv.org/abs/2605.17649
-https://arxiv.org/abs/2605.17781
+* https://arxiv.org/abs/2605.17781 # Universal interface fluctuations in absorbing-state phase transitions, Yohsuke T. Fukai, Keiichi Tamai, Tetsuya Hiraiwa
 https://arxiv.org/abs/2605.17805
 https://arxiv.org/abs/2605.17838
 https://arxiv.org/abs/2605.17881
 https://arxiv.org/abs/2605.17939
 https://arxiv.org/abs/2605.17940
 
-https://arxiv.org/abs/2605.17951
+* https://arxiv.org/abs/2605.17951 # Graph-Theoretic Detection of Hilbert Space Fragmentation, A. Rutkowski, M. Mierzejewski, J. Herbrych
+* https://arxiv.org/abs/2605.17953 # Anderson Transition and Mobility Edges in a Family of 3D Fractal Lattices, Tianyu Li, Xin Tang, Sheng Liu, Haiping Hu
 https://arxiv.org/abs/2605.17953
-https://arxiv.org/abs/2605.17953
-https://arxiv.org/abs/2605.17995
-https://arxiv.org/abs/2605.18002
+* https://arxiv.org/abs/2605.17995 # 5/9-Magnetization Plateau and Spin Supersolidity in YCu3(OD)7-xBr2+x under Magnetic Fields up to 120~T, Hiroaki Hayashi, Han Li, Feng-Feng Song, Xu-Guang Zhou, Akira Matsuo, Taeyun Kim, Enze Lv, Yuto Ishii, Zhe Qu, Gang Su, Koichi Kindo, Kwang-Yong Choi, Wei Li, Yasuhiro H. Matsuda
+* https://arxiv.org/abs/2605.18002 # Exact Organization of Density Matrices and Entanglement Structure in the Kitaev Spin Liquid, Chen-Chih Wang, Yi-Ping Huang, Sungkit Yip
 https://arxiv.org/abs/2605.18009
-https://arxiv.org/abs/2605.18017
+* https://arxiv.org/abs/2605.18017 # Hydrostatic Pressure-Induced Evolution of the Superconducting Transition Temperature of Bi-2212: Insights from First-Principles Calculations, Shuhong Tang, Hanyu Wang, Di Peng, Da-yong Liu, Zhi Zeng, and Liang-Jian Zou
 https://arxiv.org/abs/2605.18057
 https://arxiv.org/abs/2605.18064
 https://arxiv.org/abs/2605.18119
