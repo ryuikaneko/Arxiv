@@ -20,7 +20,7 @@ https://arxiv.org/abs/2605.17769
 https://arxiv.org/abs/2605.17784
 https://arxiv.org/abs/2605.17802
 https://arxiv.org/abs/2605.17824
-https://arxiv.org/abs/2605.17895
+* https://arxiv.org/abs/2605.17895 # Geometric Prototype Learning in Quantum Hilbert Space with Matrix Product States, Kun Zhang, Lei Ding, Sheng-Chen Bai, Jing Sun, An-Qi Jing, Min Tang, Shi-Ju Ran
 
 https://arxiv.org/abs/2605.18031
 https://arxiv.org/abs/2605.18108
@@ -33,18 +33,18 @@ https://arxiv.org/abs/2605.18345
 https://arxiv.org/abs/2605.18367
 https://arxiv.org/abs/2605.18377
 
-https://arxiv.org/abs/2605.18391
+* https://arxiv.org/abs/2605.18391 # Reduced-State Stabilizer Renyi Entropy as a Probe of Quantum Criticality in the Transverse ANNNI Model and the Quantum Compass Model, Santanu Sarkar, George Biswas, Jun-Yi Wu, Anindya Biswas
 https://arxiv.org/abs/2605.18392
 https://arxiv.org/abs/2605.18394
 https://arxiv.org/abs/2605.18399
-https://arxiv.org/abs/2605.18494
+* https://arxiv.org/abs/2605.18494 # Quantum magic of strongly correlated fermions - the Hubbard dimer, Edoardo Zavatti, Gabriele Bellomia, Massimo Capone
 https://arxiv.org/abs/2605.18525
 https://arxiv.org/abs/2605.18540
 https://arxiv.org/abs/2605.18569
 https://arxiv.org/abs/2605.18594
-https://arxiv.org/abs/2605.18605
+* https://arxiv.org/abs/2605.18605 # Non-Gaussian Entanglement Hierarchy Based on the Schmidt Number, Jiajie Guo, Shuheng Liu, Matteo Fadel, Qiongyi He
 
-https://arxiv.org/abs/2605.18622
+* https://arxiv.org/abs/2605.18622 # Fibonacci many-body scars in a decorated Rule-54 quantum cellular automaton, Han-Ze Li, Jian-Xin Zhong
 https://arxiv.org/abs/2605.18639
 https://arxiv.org/abs/2605.17061
 https://arxiv.org/abs/2605.17908
