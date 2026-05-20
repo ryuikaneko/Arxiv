@@ -55,6 +55,7 @@ https://arxiv.org/abs/2605.15268
 * https://arxiv.org/abs/2605.15899 # Solving Classical and Quantum Spin Glasses with Deep Boltzmann Quantum States, Luca Leone, Arka Dutta, Markus Heyl, Enrico Prati, Pietro Torta
 
 https://arxiv.org/abs/2605.15974
+https://arxiv.org/abs/2605.17018
 
 https://journals.aps.org/prb/abstract/10.1103/cpt2-kqdy
 https://journals.aps.org/prb/abstract/10.1103/x397-3nk5
