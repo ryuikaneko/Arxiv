@@ -4,9 +4,9 @@ https://arxiv.org/abs/2605.18941
 https://arxiv.org/abs/2605.18954
 https://arxiv.org/abs/2605.18957
 https://arxiv.org/abs/2605.18970
-https://arxiv.org/abs/2605.18982
-https://arxiv.org/abs/2605.19011
-https://arxiv.org/abs/2605.19072
+* https://arxiv.org/abs/2605.18982 # Magnetic phases in the J1-J2 antiferromagnetic XY model on the honeycomb lattice, I. V. Lukin, M. O. Luhanko, Yu. V. Slyusarenko, A. G. Sotnikov
+* https://arxiv.org/abs/2605.19011 # Deconfined Boundary Phase Transition of a Quantum Critical Heisenberg Model, Chengxiang Ding, Long Zhang
+* https://arxiv.org/abs/2605.19072 # Banded non-Hermitian random matrices, neural networks, and eigenvalue degeneracies, Richard Huang, David R. Nelson
 https://arxiv.org/abs/2605.19162
 https://arxiv.org/abs/2605.19178
 https://arxiv.org/abs/2605.19280
@@ -14,18 +14,18 @@ https://arxiv.org/abs/2605.19280
 https://arxiv.org/abs/2605.19297
 https://arxiv.org/abs/2605.19318
 https://arxiv.org/abs/2605.19404
-https://arxiv.org/abs/2605.19421
+* https://arxiv.org/abs/2605.19421 # Fractonic Constraints and Magnetic Order in a Dipole-Conserving Spin Chain, Prabhakar, Giuseppe De Tomasi, Soumya Bera
 https://arxiv.org/abs/2605.19643
 https://arxiv.org/abs/2605.19647
 https://arxiv.org/abs/2605.19659
 https://arxiv.org/abs/2605.19670
 https://arxiv.org/abs/2605.19746
-https://arxiv.org/abs/2605.19831
+* https://arxiv.org/abs/2605.19831 # Ground-state Entropy of the Ising model on a Frustrated lattice, B Sriram Shastry, Bill Sutherland, Frederic Mila, Afonso Rufino
 
-https://arxiv.org/abs/2605.20124
+* https://arxiv.org/abs/2605.20124 # Finite-temperature spin diffusion in the two-dimensional XY model, Erik Fitzner, Byungjin Lee, Junhyeok Hur, Minseok Kim, Benedikt Schneider, Jae-yoon Choi, Bjoern Sbierski
 https://arxiv.org/abs/2605.20148
-https://arxiv.org/abs/2605.20160
-https://arxiv.org/abs/2605.20181
+* https://arxiv.org/abs/2605.20160 # Towards a Matrix Product Ansatz in Two Dimensions, Chandraniva Guha Ray, Aikya Banerjee, P. K. Mohanty
+* https://arxiv.org/abs/2605.20181 # Band Structure and topology of a periodically deformed Kitaev honeycomb model, Abdullah AlJishi, Ali AlSwaid, Moayad Ekhwan, Hocine Bahlouli, Raditya Weda Bomantara, Michael Vogl
 https://arxiv.org/abs/2605.19086
 https://arxiv.org/abs/2605.19664
 https://arxiv.org/abs/2605.19925
