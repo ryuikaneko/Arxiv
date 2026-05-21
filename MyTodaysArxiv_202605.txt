@@ -5,16 +5,16 @@ https://arxiv.org/abs/2605.18886
 https://arxiv.org/abs/2605.18896
 https://arxiv.org/abs/2605.18912
 https://arxiv.org/abs/2605.18914
-https://arxiv.org/abs/2605.18943
+* https://arxiv.org/abs/2605.18943 # Noise-induced Simulability Transition from Operator Scrambling, Neil Dowling, Xhek Turkeshi, Jacopo De Nardis, Guglielmo Lami
 https://arxiv.org/abs/2605.18945
 https://arxiv.org/abs/2605.18962
-https://arxiv.org/abs/2605.18966
+* https://arxiv.org/abs/2605.18966 # Clifford symmetries in quantum many-body systems, Charlie Nation, Rick P. A. Simon, Shreya Banerjee, Francesco Martini, Alessandro Ricottone, Federico Cerisola, Luca Dellantonio
 https://arxiv.org/abs/2605.18981
 
 https://arxiv.org/abs/2605.18985
 https://arxiv.org/abs/2605.19019
 https://arxiv.org/abs/2605.19047
-https://arxiv.org/abs/2605.19054
+* https://arxiv.org/abs/2605.19054 # Quantum Koopman Algorithms, David Jennings, Kamil Korzekwa, Matteo Lostaglio, Guoming Wang
 https://arxiv.org/abs/2605.19114
 https://arxiv.org/abs/2605.19182
 https://arxiv.org/abs/2605.19205
@@ -38,20 +38,20 @@ https://arxiv.org/abs/2605.20092
 https://arxiv.org/abs/2605.20111
 https://arxiv.org/abs/2605.20133
 https://arxiv.org/abs/2605.20180
-https://arxiv.org/abs/2605.18986
+* https://arxiv.org/abs/2605.18986 # Non-Gaussianity of random quantum states, Filiberto Ares, Sara Murciano, Pasquale Calabrese
 https://arxiv.org/abs/2605.19036
 https://arxiv.org/abs/2605.19106
 https://arxiv.org/abs/2605.19187
 https://arxiv.org/abs/2605.19272
 
-https://arxiv.org/abs/2605.19281
+* https://arxiv.org/abs/2605.19281 # Finite-temperature crossover from coherent magnons to energy superdiffusion in the PXP model, Shengtao Jiang, Jean-Yves Desaules, Marko Ljubotina, Thomas Scaffidi
 https://arxiv.org/abs/2605.19466
 https://arxiv.org/abs/2605.19725
-https://arxiv.org/abs/2605.19740
+* https://arxiv.org/abs/2605.19740 # Filling-Sensitive Spectral Complexity from Hilbert-Space Holonomy in Fragmented Non-Hermitian Systems, Jiong-Hao Wang, Maria Zelenayova, Christopher Ekman, Emil J. Bergholtz
 https://arxiv.org/abs/2605.19820
 https://arxiv.org/abs/2605.19873
-https://arxiv.org/abs/2605.19960
-https://arxiv.org/abs/2605.20065
+* https://arxiv.org/abs/2605.19960 # PEPSKit.jl: A Julia package for projected entangled-pair state simulations, Paul Brehmer, Lander Burgelman, Zheng-Yuan Yue, Gleb Fedorovich, Jutho Haegeman, Lukas Devos
+* https://arxiv.org/abs/2605.20065 # Non-equilibrium quantum dynamics of interacting integrable models by Monte Carlo sampling Lehmann representations, Riccardo Senese, Fabian H. L. Essler
 
 https://arxiv.org/abs/2605.19800
 https://arxiv.org/abs/2605.20001
