@@ -1,19 +1,54 @@
 20260521
 
+https://arxiv.org/abs/2605.20338
+https://arxiv.org/abs/2605.03022
+
+https://arxiv.org/abs/2605.20219
+https://arxiv.org/abs/2605.20326
+https://arxiv.org/abs/2605.20339
+https://arxiv.org/abs/2605.20343
+https://arxiv.org/abs/2605.20358
+https://arxiv.org/abs/2605.20384
+https://arxiv.org/abs/2605.20437
+https://arxiv.org/abs/2605.20573
+https://arxiv.org/abs/2605.20653
+* https://arxiv.org/abs/2605.20677 # Strain-Tuned Incommensurate Kekule Spiral Order in Twisted Bilayer Graphene: a Quantum Many-Body Study, Cheng Huang, Yves H. Kwan, Maksim Ulybyshev, Fakher F. Assaad, Laura Classen, Zi Yang Meng
+
+https://arxiv.org/abs/2605.20890
+https://arxiv.org/abs/2605.20985
+https://arxiv.org/abs/2605.20990
+* https://arxiv.org/abs/2605.21010 # Properties of the skyrmion crystal SkX-2 in the Heisenberg triangular lattice with scalar chirality, H. Bocquet, C. J. Ganahl, M. Scheurer, P. M. Derlet, A. M. Laeuchli
+https://arxiv.org/abs/2605.21124
+https://arxiv.org/abs/2605.21254
+https://arxiv.org/abs/2605.21277
+https://arxiv.org/abs/2605.21284
+https://arxiv.org/abs/2605.21357
+* https://arxiv.org/abs/2605.21386 # Strange metallicity in the Kagome metal Ni3In: a DMFT investigation, Ruslan Mushkaev, Francesco Petocchi, Philipp Werner
+
+https://arxiv.org/abs/2605.21423
+https://arxiv.org/abs/2605.21441
+https://arxiv.org/abs/2605.21462
+https://arxiv.org/abs/2511.23152
+https://arxiv.org/abs/2605.20321
+https://arxiv.org/abs/2605.20415
+https://arxiv.org/abs/2605.20631
+https://arxiv.org/abs/2605.21327
+https://arxiv.org/abs/2605.21451
+
 https://arxiv.org/abs/2605.20222
 https://arxiv.org/abs/2605.20288
 https://arxiv.org/abs/2605.20330
-https://arxiv.org/abs/2605.20331
+* https://arxiv.org/abs/2605.20331 # Bowtie VarQTE: A Resource-Efficient Quantum State Preparation Primitive, Marc Drudis, Alberto Baiardi, Mattia Chiurco, Francesco Tacchino, Stefan Woerner, Christa Zoufal
 https://arxiv.org/abs/2605.20350
 https://arxiv.org/abs/2605.20378
 https://arxiv.org/abs/2605.20443
-https://arxiv.org/abs/2605.20656
-https://arxiv.org/abs/2605.20661
+* https://arxiv.org/abs/2605.20656 # Entanglement Growth from Structured Initial States in Many-Body Localized Systems, Chen Xu, Pengfei Zhang
+* https://arxiv.org/abs/2605.20661 # Entangling Power: A Probe of Symmetry and Integrability in Quantum Many-Body Systems, Ian Low, Pallab Goswami
 https://arxiv.org/abs/2605.20776
 
 https://arxiv.org/abs/2605.20789
 https://arxiv.org/abs/2605.20857
-https://arxiv.org/abs/2605.20930
+* https://arxiv.org/abs/2605.20930 # Symmetry-Protected Fast Relaxation and the Strong Quantum Mpemba Effect, Zijun Wei, Mingdi Xu, Yefeng Song, Yangqian Yan, Lei Pan
 https://arxiv.org/abs/2605.20958
 https://arxiv.org/abs/2605.20969
 https://arxiv.org/abs/2605.21034
@@ -23,17 +58,17 @@ https://arxiv.org/abs/2605.21243
 https://arxiv.org/abs/2605.21245
 
 https://arxiv.org/abs/2605.21274
-https://arxiv.org/abs/2605.21276
+* https://arxiv.org/abs/2605.21276 # Benchmarking a machine-learning differential equations solver on a neutral-atom logical processor
 https://arxiv.org/abs/2605.21286
 https://arxiv.org/abs/2605.21346
-https://arxiv.org/abs/2605.21447
+* https://arxiv.org/abs/2605.21447 # Combining non-parametric quantum states and MERA tensor networks for ground-state optimization, Julian Schuhmacher, Alberto Baiardi, Francesco Tacchino, Ivano Tavernelli
 https://arxiv.org/abs/2605.21457
 https://arxiv.org/abs/2605.20417
 https://arxiv.org/abs/2605.20491
 https://arxiv.org/abs/2605.20801
-https://arxiv.org/abs/2605.20913
+* https://arxiv.org/abs/2605.20913 # Chaos-Integrability Transition in the BPS Subspace of the N=2 SYK Model, Leon Miyahara, Shono Shibuya
 
-https://arxiv.org/abs/2605.20995
+* https://arxiv.org/abs/2605.20995 # Wasserstein Space of Quantum Chaos, Koji Hashimoto, Norihiro Tanahashi, Kentaroh Yoshida
 https://arxiv.org/abs/2605.21164
 
 https://journals.aps.org/prb/abstract/10.1103/57w8-31vp
