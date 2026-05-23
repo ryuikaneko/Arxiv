@@ -1,5 +1,30 @@
 20260522
 
+https://arxiv.org/abs/2605.21562
+https://arxiv.org/abs/2605.21570
+https://arxiv.org/abs/2605.21597
+https://arxiv.org/abs/2605.21628
+https://arxiv.org/abs/2605.21746
+https://arxiv.org/abs/2605.21795
+https://arxiv.org/abs/2605.21867
+https://arxiv.org/abs/2605.21916
+https://arxiv.org/abs/2605.21959
+https://arxiv.org/abs/2605.21960
+
+https://arxiv.org/abs/2605.22097
+https://arxiv.org/abs/2605.22150
+https://arxiv.org/abs/2605.22165
+https://arxiv.org/abs/2605.22293
+https://arxiv.org/abs/2605.22392
+https://arxiv.org/abs/2605.22433
+https://arxiv.org/abs/2605.22439
+https://arxiv.org/abs/2605.22463
+https://arxiv.org/abs/2605.22758
+https://arxiv.org/abs/2605.22770
+
+https://arxiv.org/abs/2605.21250
+https://arxiv.org/abs/2605.21591
+
 * https://arxiv.org/abs/2605.21585 # Robust fluctuating intertwined charge stripes in the Emery model, Rong Zhang, Sijia Zhao, Hong-Chen Jiang, Brian Moritz, Edwin W. Huang, Thomas P. Devereaux
 * https://arxiv.org/abs/2605.21587 # Large-flavor route to a stable U(1) Dirac spin liquid on the maple-leaf lattice, Yunchao Zhang, Andreas Feuerpfeil, Subir Sachdev, Ronny Thomale, Yasir Iqbal
 * https://arxiv.org/abs/2605.21632 # Diagrammatic Monte Carlo for Fermionic Renyi Entanglement Entropy, Boyuan Shi
