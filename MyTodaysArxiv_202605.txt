@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2605.21562
 https://arxiv.org/abs/2605.21570
-https://arxiv.org/abs/2605.21597
+* https://arxiv.org/abs/2605.21597 # Matrix Product Operator Encodings of the Magnus Expansion and Dyson Series, Victor Vanthilt, Maarten Van Damme, Jutho Haegeman, Ian P. McCulloch, Laurens Vanderstraeten
 https://arxiv.org/abs/2605.21628
 https://arxiv.org/abs/2605.21746
 https://arxiv.org/abs/2605.21795
@@ -15,14 +15,14 @@ https://arxiv.org/abs/2605.22097
 https://arxiv.org/abs/2605.22150
 https://arxiv.org/abs/2605.22165
 https://arxiv.org/abs/2605.22293
-https://arxiv.org/abs/2605.22392
+* https://arxiv.org/abs/2605.22392 # The relative entropy of magic and its nonadditivity, Carolin Deckers, Justus Neumann, Hermann Kampermann, Dagmar Bruss
 https://arxiv.org/abs/2605.22433
 https://arxiv.org/abs/2605.22439
 https://arxiv.org/abs/2605.22463
 https://arxiv.org/abs/2605.22758
 https://arxiv.org/abs/2605.22770
 
-https://arxiv.org/abs/2605.21250
+* https://arxiv.org/abs/2605.21250 # Non-equilibrium exciton dynamics in tailored molecular potentials of Rydberg ion crystals, Simon Euchner, Mathias B. M. Svendsen, Igor Lesanovsky
 https://arxiv.org/abs/2605.21591
 
 * https://arxiv.org/abs/2605.21585 # Robust fluctuating intertwined charge stripes in the Emery model, Rong Zhang, Sijia Zhao, Hong-Chen Jiang, Brian Moritz, Edwin W. Huang, Thomas P. Devereaux
