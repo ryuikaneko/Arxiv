@@ -45,6 +45,17 @@ https://arxiv.org/abs/2605.27326
 
 20260526
 
+https://arxiv.org/abs/2605.25960
+https://arxiv.org/abs/2605.25872
+https://arxiv.org/abs/2605.25774
+https://arxiv.org/abs/2605.25736
+https://arxiv.org/abs/2605.25611
+https://arxiv.org/abs/2605.25128
+https://arxiv.org/abs/2605.24927
+https://arxiv.org/abs/2605.24061
+https://arxiv.org/abs/2605.25320
+https://arxiv.org/abs/2605.24978
+
 https://arxiv.org/abs/2605.24386
 https://arxiv.org/abs/2605.24478
 * https://arxiv.org/abs/2605.24335 # Local Impurity Induced Growth and Scrambling in Clean Free Fermions, Qucheng Gao, Vikram Ravindranath, Xiao Chen
