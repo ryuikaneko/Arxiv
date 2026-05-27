@@ -5,11 +5,11 @@ https://arxiv.org/abs/2605.24563
 https://arxiv.org/abs/2605.25755
 https://arxiv.org/abs/2605.25899
 https://arxiv.org/abs/2605.26024
-https://arxiv.org/abs/2605.24430
+* https://arxiv.org/abs/2605.24430 # Superconfined Antiferromagnons on the Two-Dimensional Penrose Lattice, Takashi Inoue, Shoji Yamamoto
 https://arxiv.org/abs/2605.24555
-https://arxiv.org/abs/2605.24814
+* https://arxiv.org/abs/2605.24814 # Analytic Origin of Green-Function Compression in the Intermediate Representation, Takahiro Misawa
 https://arxiv.org/abs/2605.25108
-https://arxiv.org/abs/2605.25274
+* https://arxiv.org/abs/2605.25274 # Pal's permanent conjecture: proof for block uniform matrices, Andrea Ottolini, Shannon Starr
 
 https://journals.aps.org/prb/abstract/10.1103/prgj-ndfm
 https://journals.aps.org/pre/abstract/10.1103/1tm4-frh9
