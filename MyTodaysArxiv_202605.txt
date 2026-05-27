@@ -1,3 +1,10 @@
+20260526
+
+https://journals.aps.org/prb/abstract/10.1103/prgj-ndfm
+https://journals.aps.org/pre/abstract/10.1103/1tm4-frh9
+https://journals.aps.org/pre/abstract/10.1103/j8xb-xfln
+
+
 20260525
 
 * https://arxiv.org/abs/2605.22909 # Sample-efficient benchmarking of shallow all-to-all random quantum circuits, Gregory Bentsen, Bill Fefferman, Soumik Ghosh, Michael J. Gullans, Yinchen Liu
