@@ -5,7 +5,7 @@ https://arxiv.org/abs/2605.26223
 https://arxiv.org/abs/2605.26226
 https://arxiv.org/abs/2605.26231
 https://arxiv.org/abs/2605.26233
-https://arxiv.org/abs/2605.26261
+* https://arxiv.org/abs/2605.26261 # GPU-accelerated finite-temperature Lanczos method for spin Hamiltonians, Shadan Ghassemi Tabrizi, Thomas D. Kuehne
 https://arxiv.org/abs/2605.26270
 https://arxiv.org/abs/2605.26303
 https://arxiv.org/abs/2605.26336
@@ -15,31 +15,29 @@ https://arxiv.org/abs/2605.26453
 https://arxiv.org/abs/2605.26510
 https://arxiv.org/abs/2605.26622
 https://arxiv.org/abs/2605.26650
-https://arxiv.org/abs/2605.26779
-https://arxiv.org/abs/2605.26814
-https://arxiv.org/abs/2605.26887
+* https://arxiv.org/abs/2605.26779 # Weak first-order phase transition out of the classical kagome spin liquid, Cecilie Glittum, Olav F. Syljuasen
+* https://arxiv.org/abs/2605.26814 # Neural Autoregressive Control Variates for the Quantum Monte Carlo Sign Problem, Bei Qiao, Lei Wang
+* https://arxiv.org/abs/2605.26887 # Self-Consistent Spectral Quadrature Approach to Many-Body Green Functions, Stanislav Yu. Kruchinin
 https://arxiv.org/abs/2605.26889
 https://arxiv.org/abs/2605.26932
 https://arxiv.org/abs/2605.26957
 
 https://arxiv.org/abs/2605.27151
-https://arxiv.org/abs/2605.27151
+https://arxiv.org/abs/2605.27166
 https://arxiv.org/abs/2605.27193
 https://arxiv.org/abs/2605.27199
 https://arxiv.org/abs/2605.27319
-https://arxiv.org/abs/2604.14269
-https://arxiv.org/abs/2605.24335
-https://arxiv.org/abs/2605.26205
-https://arxiv.org/abs/2605.26208
-https://arxiv.org/abs/2605.26218
+* https://arxiv.org/abs/2605.26205 # Exact strong zero modes are generic in integrable spin systems with large anisotropy, Sascha Gehrmann
+* https://arxiv.org/abs/2605.26208 # Mapping twist fields to local operators via tensor networks, Andrea Bulgarelli, Marco Panero, Paolo Stornati, Luca Tagliacozzo
+* https://arxiv.org/abs/2605.26218 # Practical Tests and Witnesses of Fermionic non-Gaussianity, Tobias Haug, Xhek Turkeshi, Piotr Sierant
+* https://arxiv.org/abs/2605.26219 # Entanglement Pattern Transition of Quantum States from Directed Percolation, Julian Boesl, Frank Pollmann, Michael Knap
+* https://arxiv.org/abs/2605.26245 # Preparing thermal states of frustrated quantum spin systems using 139 qubits, Roland C. Farrell, Yongtao Zhan, Lucas Katschke, Lode Pollet, Ilan T. Rosen, Jad C. Halimeh
 
-https://arxiv.org/abs/2605.26219
-https://arxiv.org/abs/2605.26245
 https://arxiv.org/abs/2605.26250
-https://arxiv.org/abs/2605.26389
+* https://arxiv.org/abs/2605.26389 # Scar Full Eigenstate Thermalization Hypothesis, Ning Sun, Yanting Cheng
 https://arxiv.org/abs/2605.26466
-https://arxiv.org/abs/2605.26586
-https://arxiv.org/abs/2605.26813
+* https://arxiv.org/abs/2605.26586 # Analytical Singular-Value Structure of Analytic-Continuation Kernels from Slepian Information Theory, Masayuki Ohzeki
+* https://arxiv.org/abs/2605.26813 # Exact Solution for Non-Hermitian Free Fermions: A Case Study of the XY Chain, Yuguan Li, D.C. Liu, Murray T. Batchelor
 https://arxiv.org/abs/2605.26818
 https://arxiv.org/abs/2605.26973
 https://arxiv.org/abs/2605.27326
