@@ -1,5 +1,40 @@
 20260528
 
+https://arxiv.org/abs/2605.27453
+https://arxiv.org/abs/2605.27484
+https://arxiv.org/abs/2605.27518
+* https://arxiv.org/abs/2605.27524 # Emergence of an antiferromagnetic topological Anderson insulator in the interacting Haldane model, Alejandro J. Uria-Alvarez, Roser Valenti
+https://arxiv.org/abs/2605.27548
+https://arxiv.org/abs/2605.27560
+https://arxiv.org/abs/2605.27608
+https://arxiv.org/abs/2605.27672
+* https://arxiv.org/abs/2605.27679 # On the Equivariant Learning of the Q-tensor Order Parameter, Julia Navarro, Mark Wilkinson
+https://arxiv.org/abs/2605.27777
+
+https://arxiv.org/abs/2605.27812
+https://arxiv.org/abs/2605.27822
+https://arxiv.org/abs/2605.27826
+https://arxiv.org/abs/2605.27888
+https://arxiv.org/abs/2605.27925
+https://arxiv.org/abs/2605.28090
+https://arxiv.org/abs/2605.28118
+https://arxiv.org/abs/2605.28383
+https://arxiv.org/abs/2605.28463
+https://arxiv.org/abs/2605.28606
+
+https://arxiv.org/abs/2605.28688
+https://arxiv.org/abs/2605.28761
+https://arxiv.org/abs/2605.28794
+https://arxiv.org/abs/2605.28800
+https://arxiv.org/abs/2605.27448
+* https://arxiv.org/abs/2605.27512 # Many-Body Quantum Chaos At All Time Scales, Antonio M. Garcia-Garcia, Lucas Sa, Jacobus J. M. Verbaarschot, Jie-Ping Zheng
+* https://arxiv.org/abs/2605.27515 # A multilevel tensor network compression technique for simulating Lindblad dynamics in superconducting circuits, Adrien Moulinas, Xavier Waintal
+https://arxiv.org/abs/2605.27907
+https://arxiv.org/abs/2605.28126
+https://arxiv.org/abs/2605.28287
+
+https://arxiv.org/abs/2605.28319
+
 https://journals.aps.org/pre/abstract/10.1103/9jbx-9kln
 https://journals.aps.org/pre/abstract/10.1103/6dxn-p9nt
 https://journals.aps.org/prxquantum/abstract/10.1103/6frk-891j
@@ -10,6 +45,8 @@ https://journals.aps.org/prb/abstract/10.1103/81fj-tv6w
 
 20260527
 
+* https://arxiv.org/abs/2605.27350 # Postselection-free ballistic-diffusive transition in monitored spin chains, K. G. S. H. Gunawardana, Ali G. Moghaddam, Teemu Ojanen
+https://arxiv.org/abs/2605.27300
 https://arxiv.org/abs/2605.27052
 
 https://arxiv.org/abs/2605.27211
