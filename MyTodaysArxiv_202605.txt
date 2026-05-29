@@ -1,11 +1,11 @@
 20260529
 
-https://arxiv.org/abs/2605.28861
-https://arxiv.org/abs/2605.28929
+* https://arxiv.org/abs/2605.28861 # Comment on "Spin-1/2 Kagome Heisenberg Antiferromagnet: Machine Learning Discovery of the Spinon Pair-Density-Wave Ground State", Helia Kamal, Dominik Kufel, DinhDuy Vu, Chris R. Laumann, Norman Y. Yao
+* https://arxiv.org/abs/2605.28929 # Improving CFT Operators Using Machine Learning, Lior Oppenheim, Snir Gazit, Zohar Ringel
 https://arxiv.org/abs/2605.28937
 https://arxiv.org/abs/2605.28942
 https://arxiv.org/abs/2605.28949
-https://arxiv.org/abs/2605.28956
+* https://arxiv.org/abs/2605.28956 # Symmetry and integrability in the anyon-Hubbard model, Martin Bonkhoff, Grennon Gurney, Friethjof Theel, Peter Schmelcher, Nathan L. Harshman, Thore Posske
 https://arxiv.org/abs/2605.28993
 https://arxiv.org/abs/2605.29017
 https://arxiv.org/abs/2605.29034
@@ -19,36 +19,36 @@ https://arxiv.org/abs/2605.29743
 https://arxiv.org/abs/2605.29745
 https://arxiv.org/abs/2605.29810
 https://arxiv.org/abs/2605.29817
-https://arxiv.org/abs/2605.29875
+* https://arxiv.org/abs/2605.29875 # Estimates of ground state energies for the quantum SK and 2D-EA model, using deGennes-Suzuki-Kubo mean-field annealing dynamics, Soumyaditya Das, Soumyajyoti Biswas, Bikas K. Chakrabarti
 https://arxiv.org/abs/2605.29884
 
 https://arxiv.org/abs/2605.29989
-https://arxiv.org/abs/2605.30007
+* https://arxiv.org/abs/2605.30007 # Hidden Ising models from the generalized Yang-Baxter equation, Akash Sinha, Somnath Maity, Pramod Padmanabhan, Vladimir Korepin
 https://arxiv.org/abs/2605.30012
 https://arxiv.org/abs/2605.30016
 https://arxiv.org/abs/2605.30061
 https://arxiv.org/abs/2605.30125
 https://arxiv.org/abs/2605.30173
 https://arxiv.org/abs/2605.30240
-https://arxiv.org/abs/2605.30297
+* https://arxiv.org/abs/2605.30297 # Electron Doping of La3Ni2O7 Thin Films: Candidate Metal Dopants and Their Potential Impact on Superconductivity, Shi-Cong Mo, Wei Wu
 https://arxiv.org/abs/2605.30316
 
-https://arxiv.org/abs/2605.28925
-https://arxiv.org/abs/2605.28931
+* https://arxiv.org/abs/2605.28925 # A local description of strong symmetries and strong-to-weak symmetry breaking in quantum many-body systems, Ruizhi Liu, Jinmin Yi, Dominic V. Else
+* https://arxiv.org/abs/2605.28931 # Learning quantum ground states in the space of measurement outcomes, Kartiek Agarwal
 https://arxiv.org/abs/2605.28933
 https://arxiv.org/abs/2605.28935
 https://arxiv.org/abs/2605.28946
-https://arxiv.org/abs/2605.28967
+* https://arxiv.org/abs/2605.28967 # Local Strong-to-Weak Spontaneous Symmetry Breaking, Francisco Divi, Leonardo A. Lessa, Chong Wang
 https://arxiv.org/abs/2605.28996
 https://arxiv.org/abs/2605.29086
-https://arxiv.org/abs/2605.29113
+* https://arxiv.org/abs/2605.29113 # Local diagnostics for strong-to-weak spontaneous symmetry breaking and non-equilibrium phase transitions, Carolyn Zhang
 https://arxiv.org/abs/2605.29173
 
 https://arxiv.org/abs/2605.29674
 https://arxiv.org/abs/2605.29681
 https://arxiv.org/abs/2605.29684
 https://arxiv.org/abs/2605.29739
-https://arxiv.org/abs/2605.29838
+* https://arxiv.org/abs/2605.29838 # Gate Parameter Lee-Yang Zeros and Dynamical Phases in Quantum Circuits, Chang Liu, Yu Wu, Yunfeng Jiang, Yang Zhang
 https://arxiv.org/abs/2605.30271
 
 https://arxiv.org/abs/2605.28473
