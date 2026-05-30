@@ -1,5 +1,31 @@
 20260529
 
+https://arxiv.org/abs/2605.28898
+* https://arxiv.org/abs/2605.28986 # Comparing Classical Simulation and Sample-Based Learning of Quantum Systems: Learning the Hardness of Quantum Systems from Samples, Joao Pedro Del Rey, Raul O. Vallejos, Fernando de Melo
+https://arxiv.org/abs/2605.29181
+https://arxiv.org/abs/2605.29197
+https://arxiv.org/abs/2605.29242
+https://arxiv.org/abs/2605.29279
+https://arxiv.org/abs/2605.29436
+* https://arxiv.org/abs/2605.29514 # Non-Clifford Crosstalk Noise in Surface Codes Using Hybrid Stabilizer-Tensor Network Methods, Ben Harper, Azar C. Nakhl, Martin Sevior, Muhammad Usman
+* https://arxiv.org/abs/2605.29521 # Ground-state estimation of the Heisenberg model on frustrated lattices with Sample-based Krylov Quantum Diagonalization, Calvin Brooks, Henry Zou, Trevor David Rhone
+https://arxiv.org/abs/2605.29546
+
+https://arxiv.org/abs/2605.29557
+https://arxiv.org/abs/2605.29694
+https://arxiv.org/abs/2605.29724
+https://arxiv.org/abs/2605.29820
+https://arxiv.org/abs/2605.29877
+https://arxiv.org/abs/2605.29959
+https://arxiv.org/abs/2605.30110
+* https://arxiv.org/abs/2605.30141 # Overcoming the Matrix-Product-State Encoding Barrier via DMRG-Guided Probabilistic Imaginary-Time Evolution, Masari Watanabe, Hirofumi Nishi, Taichi Kosugi, Shinji Tsuneyuki, Yu-ichiro Matsushita
+* https://arxiv.org/abs/2605.30142 # Koopman--von Neumann Molecular Dynamics for Green--Kubo Transport Coefficients, Masari Watanabe, Hirofumi Nishi, Taichi Kosugi, Shigekazu Hidaka, Ryo Sakurai, Yu-ichiro Matsushita
+* https://arxiv.org/abs/2605.30143 # End-to-End Molecular Dynamics with a Langevin Thermostat on Quantum Circuits, Masari Watanabe, Hirofumi Nishi, Taichi Kosugi, Shigekazu Hidaka, Ryo Sakurai, Yu-ichiro Matsushita
+
+https://arxiv.org/abs/2605.30217
+https://arxiv.org/abs/2605.28845
+* https://arxiv.org/abs/2605.28939 # Dynamical Entanglement Phase Transitions in Holographic CFTs, Joseph Dominicus Lap, Jad C. Halimeh, David Horn, Lukas Ebner, Clemens Seidl, Berndt Mueller, Andreas Schaefer, Jakob Minar
+
 * https://arxiv.org/abs/2605.28861 # Comment on "Spin-1/2 Kagome Heisenberg Antiferromagnet: Machine Learning Discovery of the Spinon Pair-Density-Wave Ground State", Helia Kamal, Dominik Kufel, DinhDuy Vu, Chris R. Laumann, Norman Y. Yao
 * https://arxiv.org/abs/2605.28929 # Improving CFT Operators Using Machine Learning, Lior Oppenheim, Snir Gazit, Zohar Ringel
 https://arxiv.org/abs/2605.28937
