@@ -15,7 +15,7 @@ https://arxiv.org/abs/2605.30978
 https://arxiv.org/abs/2605.30986
 https://arxiv.org/abs/2605.31112
 https://arxiv.org/abs/2605.31144
-https://arxiv.org/abs/2605.31240
+* https://arxiv.org/abs/2605.31240 # Emergence of spin entanglement with the pseudogap onset in the Fermi-Hubbard model, Frederic Bippus, Thomas Chalopin, Gabriele Bellomia, Gergo Roosz, Titus Franz, Antoine Georges, Anna Kauch, Immanuel Bloch, Karsten Held
 https://arxiv.org/abs/2605.31453
 https://arxiv.org/abs/2605.31459
 https://arxiv.org/abs/2605.31467
@@ -27,7 +27,7 @@ https://arxiv.org/abs/2605.31601
 https://arxiv.org/abs/2605.31602
 https://arxiv.org/abs/2605.30798
 https://arxiv.org/abs/2605.31374
-https://arxiv.org/abs/2605.31472
+* https://arxiv.org/abs/2605.31472 # (Non-)Traversable Quantum Phase Transitions, Federico Balducci, Paul M. Schindler, Andrea Solfanelli, Marin Bukov
 
 https://journals.aps.org/prl/abstract/10.1103/bscj-r5tg
 https://journals.aps.org/prl/abstract/10.1103/zrs1-j2xd
