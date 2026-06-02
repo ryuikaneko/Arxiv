@@ -8,6 +8,31 @@ https://journals.aps.org/prb/abstract/10.1103/s3kd-bc4q
 
 20260601
 
+https://arxiv.org/abs/2605.30428
+https://arxiv.org/abs/2605.30429
+https://arxiv.org/abs/2605.30455
+https://arxiv.org/abs/2605.30483
+https://arxiv.org/abs/2605.30572
+https://arxiv.org/abs/2605.30676
+https://arxiv.org/abs/2605.30688
+* https://arxiv.org/abs/2605.30724 # Research progress on quantum neural networks and quantum machine learning, Yifan Sun, Boyuan Sun, Jiameng Tian, Xiangdong Zhang
+https://arxiv.org/abs/2605.30732
+https://arxiv.org/abs/2605.30765
+
+https://arxiv.org/abs/2605.30866
+* https://arxiv.org/abs/2605.31006 # Quantum State Preparation via Neural Network Encoding in Quantum Machine Learning, Kevin W. Aoun, Florian J. Kiwit, Carlos A. Riofrio, Samer Saab Jr., Charbel Al Bateh, Joe Tekli, Andre Luckow
+https://arxiv.org/abs/2605.31139
+https://arxiv.org/abs/2605.31168
+https://arxiv.org/abs/2605.31248
+https://arxiv.org/abs/2605.31442
+https://arxiv.org/abs/2605.31448
+https://arxiv.org/abs/2605.31519
+* https://arxiv.org/abs/2605.31544 # More efficient Clifford+T synthesis for small-angle rotations and application to Trotterization, Marius Bothe, Christoph Suenderhauf, Michael J. Witham, Earl T. Campbell, Nick S. Blunt
+https://arxiv.org/abs/2605.27807
+
+https://arxiv.org/abs/2605.30358
+https://arxiv.org/abs/2605.30405
+
 https://arxiv.org/abs/2605.30663
 https://arxiv.org/abs/2605.31379
 https://arxiv.org/abs/2605.31491
