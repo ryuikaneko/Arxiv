@@ -2,9 +2,9 @@
 
 https://arxiv.org/abs/2606.00185
 https://arxiv.org/abs/2606.00211
-https://arxiv.org/abs/2606.00214
-https://arxiv.org/abs/2606.00223
-https://arxiv.org/abs/2606.00339
+* https://arxiv.org/abs/2606.00214 # Extracting central charge from ground-state overlaps of spatially deformed Hamiltonians, Chen Bai, Xinyu Sun, Liang-Hong Mo, Hong-Hao Tu
+* https://arxiv.org/abs/2606.00223 # Electron vs. hole doping in infinite-layer nickelates: electronic structure, magnetism and correlations, Ezra Day-Roberts, Fabio Bernardini, Harrison LaBollita, Yi-Feng Zhao, Andres Cano, Antia S. Botana
+* https://arxiv.org/abs/2606.00339 # Magnetic self-frustration from spontaneous structural distortion, T. Vignau Costa, G. L. Rossini, D. C. Cabra, S. A. Grigera, R. A. Borzi
 https://arxiv.org/abs/2606.00409
 https://arxiv.org/abs/2606.00474
 https://arxiv.org/abs/2606.00479
@@ -16,15 +16,15 @@ https://arxiv.org/abs/2606.00657
 https://arxiv.org/abs/2606.00696
 https://arxiv.org/abs/2606.00698
 https://arxiv.org/abs/2606.00882
-https://arxiv.org/abs/2606.00924
-https://arxiv.org/abs/2606.01116
+* https://arxiv.org/abs/2606.00924 # Locality-Induced Hierarchical Backflow Wavefunctions for Correlated Fermions, Yu-Tong Zhou, Zheng-Wei Zhou, Wen-Yuan Liu
+* https://arxiv.org/abs/2606.01116 # Ground-state phase diagram of Rydberg atoms in a triangular-prism array, Qing-Yuan Zuo, Shuo Geng, Shan-Wen Tsai, Jin Zhang
 https://arxiv.org/abs/2606.01235
 https://arxiv.org/abs/2606.01404
 https://arxiv.org/abs/2606.01712
 
-https://arxiv.org/abs/2606.01716
+* https://arxiv.org/abs/2606.01716 # Doping- and temperature-dependent electronic structure and spin dynamics in the Hubbard model on a square lattice within cluster perturbation theory, V. I. Kuz'min, S. G. Ovchinnikov
 https://arxiv.org/abs/2606.01728
-https://arxiv.org/abs/2606.01744
+* https://arxiv.org/abs/2606.01744 # Integer quantum Hall effect, Hideo Aoki
 https://arxiv.org/abs/2606.01785
 https://arxiv.org/abs/2606.02052
 https://arxiv.org/abs/2606.02084
@@ -46,9 +46,9 @@ https://arxiv.org/abs/2606.01444
 
 https://arxiv.org/abs/2606.02098
 https://arxiv.org/abs/2606.02155
-https://arxiv.org/abs/2606.02207
+* https://arxiv.org/abs/2606.02207 # Information scrambling in all-to-all interacting models, Abhik Kumar Saha, Tanay Pathak, Masaki Tezuka
 https://arxiv.org/abs/2606.02505
-https://arxiv.org/abs/2606.02555
+* https://arxiv.org/abs/2606.02555 # Strong-to-Weak Spontaneous Symmetry Breaking, Chong Wang
 
 https://journals.aps.org/prb/abstract/10.1103/338m-mvsg
 https://journals.aps.org/prb/abstract/10.1103/7h87-lgv2
