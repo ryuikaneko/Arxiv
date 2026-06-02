@@ -1,5 +1,8 @@
 20260602
 
+https://arxiv.org/abs/2606.00749
+https://arxiv.org/abs/2606.01918
+
 https://arxiv.org/abs/2606.00185
 https://arxiv.org/abs/2606.00211
 * https://arxiv.org/abs/2606.00214 # Extracting central charge from ground-state overlaps of spatially deformed Hamiltonians, Chen Bai, Xinyu Sun, Liang-Hong Mo, Hong-Hao Tu
