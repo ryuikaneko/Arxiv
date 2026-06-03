@@ -1,5 +1,27 @@
 20260603
 
+https://arxiv.org/abs/2606.01852
+https://arxiv.org/abs/2606.00806
+https://arxiv.org/abs/2606.00045
+https://arxiv.org/abs/2606.02291
+https://arxiv.org/abs/2606.02283
+https://arxiv.org/abs/2606.02201
+https://arxiv.org/abs/2606.02169
+https://arxiv.org/abs/2606.02018
+https://arxiv.org/abs/2606.01943
+https://arxiv.org/abs/2606.01826
+
+https://arxiv.org/abs/2606.01807
+https://arxiv.org/abs/2606.01589
+https://arxiv.org/abs/2606.01588
+https://arxiv.org/abs/2606.01341
+https://arxiv.org/abs/2606.01030
+https://arxiv.org/abs/2606.00932
+https://arxiv.org/abs/2606.00877
+https://arxiv.org/abs/2606.00607
+https://arxiv.org/abs/2606.00541
+https://arxiv.org/abs/2606.00259
+
 https://journals.aps.org/pre/abstract/10.1103/rz4l-krv6
 https://journals.aps.org/pre/abstract/10.1103/mm75-dmt4
 https://journals.aps.org/pre/abstract/10.1103/9bc4-ddkc
@@ -9,9 +31,6 @@ https://journals.aps.org/prl/abstract/10.1103/rn48-7j6y
 https://journals.aps.org/pra/abstract/10.1103/6bsx-k4m6
 https://journals.aps.org/prb/abstract/10.1103/z4zz-s58d
 https://journals.aps.org/prxquantum/abstract/10.1103/qw5z-3bwz
-
-
-====
 
 
 20260602
