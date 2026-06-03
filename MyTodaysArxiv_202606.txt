@@ -1,12 +1,25 @@
 20260603
 
+https://journals.aps.org/pre/abstract/10.1103/rz4l-krv6
+https://journals.aps.org/pre/abstract/10.1103/mm75-dmt4
+https://journals.aps.org/pre/abstract/10.1103/9bc4-ddkc
+https://journals.aps.org/prx/abstract/10.1103/qdh9-2pc7
+https://journals.aps.org/prresearch/abstract/10.1103/436b-cnh8
+https://journals.aps.org/prl/abstract/10.1103/rn48-7j6y
+https://journals.aps.org/pra/abstract/10.1103/6bsx-k4m6
+https://journals.aps.org/prb/abstract/10.1103/z4zz-s58d
+https://journals.aps.org/prxquantum/abstract/10.1103/qw5z-3bwz
+
+
+20260602
+
 https://arxiv.org/abs/2606.01852
 https://arxiv.org/abs/2606.00806
 https://arxiv.org/abs/2606.00045
-https://arxiv.org/abs/2606.02291
+* https://arxiv.org/abs/2606.02291 # Is the most random pattern random? Maximizing localization in a two-dimensional lattice with engineered disorder, Morgan Berkane, Sahel Ashhab
 https://arxiv.org/abs/2606.02283
 https://arxiv.org/abs/2606.02201
-https://arxiv.org/abs/2606.02169
+* https://arxiv.org/abs/2606.02169 # Spin Hamiltonian as Matrix-Free Linear Map, Aditya Dev
 https://arxiv.org/abs/2606.02018
 https://arxiv.org/abs/2606.01943
 https://arxiv.org/abs/2606.01826
@@ -21,19 +34,6 @@ https://arxiv.org/abs/2606.00877
 https://arxiv.org/abs/2606.00607
 https://arxiv.org/abs/2606.00541
 https://arxiv.org/abs/2606.00259
-
-https://journals.aps.org/pre/abstract/10.1103/rz4l-krv6
-https://journals.aps.org/pre/abstract/10.1103/mm75-dmt4
-https://journals.aps.org/pre/abstract/10.1103/9bc4-ddkc
-https://journals.aps.org/prx/abstract/10.1103/qdh9-2pc7
-https://journals.aps.org/prresearch/abstract/10.1103/436b-cnh8
-https://journals.aps.org/prl/abstract/10.1103/rn48-7j6y
-https://journals.aps.org/pra/abstract/10.1103/6bsx-k4m6
-https://journals.aps.org/prb/abstract/10.1103/z4zz-s58d
-https://journals.aps.org/prxquantum/abstract/10.1103/qw5z-3bwz
-
-
-20260602
 
 https://arxiv.org/abs/2606.00749
 https://arxiv.org/abs/2606.01918
