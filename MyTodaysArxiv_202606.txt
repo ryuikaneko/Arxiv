@@ -1,3 +1,9 @@
+20260604
+
+
+====
+
+
 20260603
 
 https://arxiv.org/abs/2606.02600
@@ -59,6 +65,7 @@ https://journals.aps.org/prl/abstract/10.1103/rn48-7j6y
 https://journals.aps.org/pra/abstract/10.1103/6bsx-k4m6
 https://journals.aps.org/prb/abstract/10.1103/z4zz-s58d
 https://journals.aps.org/prxquantum/abstract/10.1103/qw5z-3bwz
+https://journals.aps.org/prl/abstract/10.1103/29yw-9grr
 
 
 20260602
