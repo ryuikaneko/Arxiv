@@ -17,24 +17,23 @@ https://arxiv.org/abs/2606.04948
 https://arxiv.org/abs/2606.04976
 https://arxiv.org/abs/2606.04984
 https://arxiv.org/abs/2606.05013
-https://arxiv.org/abs/2606.05092
+* https://arxiv.org/abs/2606.05092 # eta-pairing in metallic and particle-hole asymmetric systems, Philipp Werner, Aaram J. Kim, Lei Geng
 https://arxiv.org/abs/2606.05013
 https://arxiv.org/abs/2606.05092
-https://arxiv.org/abs/2606.05095
+* https://arxiv.org/abs/2606.05095 # Soliton-antisoliton pairs in the supersymmetric gapped phase of an interacting Majorana chain, Alberto Nocera, Mobin Shakeri, Armin Rahmani, Ian Affleck
 
 https://arxiv.org/abs/2606.05164
-https://arxiv.org/abs/2606.04079
+* https://arxiv.org/abs/2606.04079 # Quantum error correction with the toric code, Atom Computing, Collaborators
 https://arxiv.org/abs/2606.04390
 https://arxiv.org/abs/2606.04426
-https://arxiv.org/abs/2606.04558
-https://arxiv.org/abs/2606.04771
-https://arxiv.org/abs/2606.05148
+* https://arxiv.org/abs/2606.04558 # Extremely slow scaling of minimal Hamming distance in quantum sampling data, P. S. Golubev, I. A. Iakovlev, V. V. Mazurenko
+* https://arxiv.org/abs/2606.04771 # Pushing the Classical Frontier of 1D Fermi-Hubbard Quench Dynamics Beyond Current Quantum Simulations, Roman Rausch, Sukhbinder Singh, Saeed S. Jahromi, Augustine Kshetrimayum, Roman Orus
+* https://arxiv.org/abs/2606.05148 # Variational low-energy subspaces for chemically accurate excited states, Clemens Giuliani, Rocco Martinazzo, Giuseppe Carleo, Riccardo Rossi
 https://arxiv.org/abs/2606.04068
 https://arxiv.org/abs/2606.04447
 https://arxiv.org/abs/2606.04506
 
 https://arxiv.org/abs/2606.05153
-https://arxiv.org/abs/2606.04079
 
 https://journals.aps.org/prresearch/abstract/10.1103/xjvk-hks4
 https://journals.aps.org/prc/abstract/10.1103/rmfy-34vc
