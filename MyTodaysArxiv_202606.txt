@@ -1,5 +1,7 @@
 20260604
 
+https://arxiv.org/abs/2606.04470
+
 https://arxiv.org/abs/2606.04000
 https://arxiv.org/abs/2606.04097
 https://arxiv.org/abs/2606.04187
@@ -44,6 +46,9 @@ https://journals.aps.org/pre/abstract/10.1103/c3qf-wvjr
 https://journals.aps.org/pra/abstract/10.1103/n59n-3rf3
 https://journals.aps.org/pra/abstract/10.1103/nzxg-5lbg
 https://journals.aps.org/pra/abstract/10.1103/7hzd-lv9k
+https://journals.aps.org/prb/abstract/10.1103/xxnx-g9jy
+https://journals.aps.org/prb/abstract/10.1103/byv6-h2m2
+https://journals.aps.org/prb/abstract/10.1103/pmrb-qk7j
 
 
 20260603
