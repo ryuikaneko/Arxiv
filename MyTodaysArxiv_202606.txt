@@ -1,7 +1,7 @@
 20260605
 
 https://arxiv.org/abs/2606.05231
-https://arxiv.org/abs/2606.05293
+* https://arxiv.org/abs/2606.05293 # Breakdown of Thermalization from Real-Time Dynamics in the Two-Dimensional Hubbard Model, Alessandro Sinibaldi, Luciano Loris Viteritti, Riccardo Rende, Fakher F. Assaad, Giuseppe Carleo
 https://arxiv.org/abs/2606.05302
 https://arxiv.org/abs/2606.05356
 https://arxiv.org/abs/2606.05426
@@ -11,21 +11,21 @@ https://arxiv.org/abs/2606.05496
 https://arxiv.org/abs/2606.05498
 https://arxiv.org/abs/2606.05502
 
-https://arxiv.org/abs/2606.05517
+* https://arxiv.org/abs/2606.05517 # A universal and efficient hybrid digital-analog fermionic quantum simulator, Hao-Tian Wei, Kaden R. A. Hazzard
 https://arxiv.org/abs/2606.05653
 https://arxiv.org/abs/2606.05746
 https://arxiv.org/abs/2606.05822
-https://arxiv.org/abs/2606.05837
-https://arxiv.org/abs/2606.05856
+* https://arxiv.org/abs/2606.05837 # Odd-parity magnons in the Haldane-Hubbard model from topological exciton condensation, Rintaro Eto, Johannes Knolle
+* https://arxiv.org/abs/2606.05856 # Understanding deconfined quantum critical points from crystalline categorical Landau paradigm, Hiromi Ebisu, Bo Han, Weiguang Cao
 https://arxiv.org/abs/2606.06017
 https://arxiv.org/abs/2606.06111
 https://arxiv.org/abs/2606.06119
-https://arxiv.org/abs/2606.06138
+* https://arxiv.org/abs/2606.06138 # Charge-Conjugation Violation and Population Asymmetry in Bipartite Fermionic Lattices, Di Xiao, Xue-Ting Fang, Lushuai Cao, Zhong-Kun Hu, Peter Schmelcher
 
 https://arxiv.org/abs/2606.06184
 https://arxiv.org/abs/2606.06304
 https://arxiv.org/abs/2606.06343
-https://arxiv.org/abs/2606.06362
+* https://arxiv.org/abs/2606.06362 # A closed system setting for quantum thermalisation in free fermions, Purvaash Panduranghan-Udhayashankar, Filiberto Ares, Pasquale Calabrese
 https://arxiv.org/abs/2606.06389
 https://arxiv.org/abs/2606.06412
 https://arxiv.org/abs/2606.06415
@@ -33,7 +33,7 @@ https://arxiv.org/abs/2606.06432
 https://arxiv.org/abs/2606.06437
 https://arxiv.org/abs/2606.06450
 
-https://arxiv.org/abs/2606.06466
+* https://arxiv.org/abs/2606.06466 # Enhancement of charge correlations and real-space topological marker on an interacting non-Hermitian Su-Schrieffer-Heeger model, Sebastiao dos A. Sousa-Junior, Pedro B. Melo, Rubem Mondaini, Arnob Kumar Ghosh, Rodrigo Arouca
 https://arxiv.org/abs/2606.05278
 https://arxiv.org/abs/2606.05279
 https://arxiv.org/abs/2606.05294
@@ -41,6 +41,10 @@ https://arxiv.org/abs/2606.05303
 https://arxiv.org/abs/2606.05442
 https://arxiv.org/abs/2606.05542
 https://arxiv.org/abs/2606.06238
+
+https://arxiv.org/abs/2606.05385
+https://arxiv.org/abs/2606.06093
+https://arxiv.org/abs/2606.05199
 
 
 20260604
