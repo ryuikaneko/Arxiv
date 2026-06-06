@@ -1,6 +1,6 @@
 20260605
 
-https://arxiv.org/abs/2606.05288
+* https://arxiv.org/abs/2606.05288 # Emergent Self-Similar Quantum Revivals in Spiral Drives, Xin-Chi Zhou, Liang-Hong Mo, Hongzheng Zhao, Bastien Lapierre
 https://arxiv.org/abs/2606.05297
 https://arxiv.org/abs/2606.05311
 https://arxiv.org/abs/2606.05387
@@ -8,14 +8,14 @@ https://arxiv.org/abs/2606.05397
 https://arxiv.org/abs/2606.05579
 https://arxiv.org/abs/2606.05690
 https://arxiv.org/abs/2606.05696
-https://arxiv.org/abs/2606.05719
+* https://arxiv.org/abs/2606.05719 # Symmetries and overparametrization properties of Hamiltonian variational ansatzes for the (1+1)d Z2 lattice gauge theory, Kanta Yamanaka, Takanori Daiza, Katsumi Imaizumi, Yutaro Iiyama, Lento Nagano, Ryu Sawada, Koji Terashi
 https://arxiv.org/abs/2606.05767
 
 https://arxiv.org/abs/2606.05815
-https://arxiv.org/abs/2606.05865
+* https://arxiv.org/abs/2606.05865 # Symmetry-adapted qubit encoding with complete active space and Bravyi--Kitaev mapping for quantum chemistry on a quantum computer, Dario Picozzi, Jonathan Tennyson
 https://arxiv.org/abs/2606.05904
-https://arxiv.org/abs/2606.05947
-https://arxiv.org/abs/2606.05968
+* https://arxiv.org/abs/2606.05947 # Double-bracket quantum algorithms for thermal state preparation, Andrew Wright, Reyhaneh Aghaei Saem, Supanut Thanasilp, Yudai Suzuki, Zoe Holmes
+* https://arxiv.org/abs/2606.05968 # Shattering the Symmetry Trap in Fixed-Ansatz VQE: An Accelerated ADAPT-VQE Study of Three Pillar Molecules under Bravyi-Kitaev Mapping, Hermawan Kresno Dipojono
 https://arxiv.org/abs/2606.05992
 https://arxiv.org/abs/2606.06070
 https://arxiv.org/abs/2606.06101
