@@ -1,8 +1,11 @@
+20260609
+
+
 20260608
 
 https://arxiv.org/abs/2606.06579
-https://arxiv.org/abs/2606.06584
-https://arxiv.org/abs/2606.06605
+* https://arxiv.org/abs/2606.06584 # Bootstrap bounds for Quantum Spin Systems using String Operators, Nisarg Chadha, Michael G. Scheer, Eslam Khalaf
+* https://arxiv.org/abs/2606.06605 # Tensor network study of deconfined quantum criticality in a one-dimensional spin-phonon model, Anton Romen, Josef Willsher, David Hofmeier, Johannes Knolle, Michael Knap
 https://arxiv.org/abs/2606.06626
 https://arxiv.org/abs/2606.06649
 https://arxiv.org/abs/2606.06659
@@ -19,24 +22,24 @@ https://arxiv.org/abs/2606.07111
 https://arxiv.org/abs/2606.07178
 https://arxiv.org/abs/2606.07184
 https://arxiv.org/abs/2606.07188
-https://arxiv.org/abs/2606.07197
-https://arxiv.org/abs/2606.07199
+* https://arxiv.org/abs/2606.07197 # On the true low-energy excitations of the three-dimensional spin glass, Claudio Chilin, Enzo Marinari, Victor Martin-Mayor, Giorgio Parisi, Juan J. Ruiz-Lorenzo, David Yllanes
+* https://arxiv.org/abs/2606.07199 # Squeezing dynamical singlets in bilayer nickelates, Harrison LaBollita, Andrew J. Millis, Olivier Gingras
 
 https://arxiv.org/abs/2606.07262
 https://arxiv.org/abs/2606.07274
 https://arxiv.org/abs/2606.07323
 https://arxiv.org/abs/2606.07327
-https://arxiv.org/abs/2606.07349
+* https://arxiv.org/abs/2606.07349 # Direct High-Magnetic-Field Coupling to Stripe Order in a Cuprate Superconductor
 https://arxiv.org/abs/2606.07380
 https://arxiv.org/abs/2606.07415
 https://arxiv.org/abs/2606.07438
 https://arxiv.org/abs/2606.07517
 https://arxiv.org/abs/2606.06597
 
-https://arxiv.org/abs/2606.06611
-https://arxiv.org/abs/2606.06653
+* https://arxiv.org/abs/2606.06611 # Sensing ac fields with quantum many-body scars, Matheus Fibger, Andrei Tsypilnikov, Thiago R. de Oliveira, Fernando Iemini
+* https://arxiv.org/abs/2606.06653 # Higher-order Symmetric Quantum Mpemba Effect in Fragmented Systems, Sreemayee Aditya, Sara Murciano, Xhek Turkeshi
 https://arxiv.org/abs/2606.06658
-https://arxiv.org/abs/2606.06919
+* https://arxiv.org/abs/2606.06919 # Scalable Quantum Algorithms for Gutzwiller Projection, Byungmin Kang, Hyunwoong Kwon, Vito W. Scarola, Kwon Park
 https://arxiv.org/abs/2606.07018
 https://arxiv.org/abs/2606.07051
 https://arxiv.org/abs/2606.07168
