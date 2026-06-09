@@ -3,58 +3,61 @@
 https://journals.aps.org/prapplied/abstract/10.1103/wgtl-wsvy
 
 
+====
+
+
 20260609
 
-https://arxiv.org/abs/2606.07609
-https://arxiv.org/abs/2606.07634
+* https://arxiv.org/abs/2606.07609 # Finite-temperature formation of magnetic plateaus and simplex liquid states on the frustrated ruby lattice, Antonio Francesco Mello, E. Miles Stoudenmire, Joseph Tindall
+* https://arxiv.org/abs/2606.07634 # Topological Melting of Magnetic Stripes and the Emergence of Macroscopic d-wave Superconductivity in the 2D Hubbard Model, Jin Hyung Cho
 https://arxiv.org/abs/2606.07671
 https://arxiv.org/abs/2606.07712
 https://arxiv.org/abs/2606.07740
-https://arxiv.org/abs/2606.07774
+* https://arxiv.org/abs/2606.07774 # Length-resolved Operator Growth and Path-Entropy Obstructions to Many-Body Localization, J. Sirker
 https://arxiv.org/abs/2606.07784
-https://arxiv.org/abs/2606.08004
+* https://arxiv.org/abs/2606.08004 # Tracking metastable phases by complex Lee-Yang zeros, Yi-Hua Dong, Ling Liu, Fang-Cheng Wang, Qi-Jun Ye, Xin-Zheng Li
 https://arxiv.org/abs/2606.08010
-https://arxiv.org/abs/2606.08079
+* https://arxiv.org/abs/2606.08079 # Exact spectrum and anomalous relaxation in the open disorder-free Sachdev-Ye-Kitaev system, Soshun Ozaki, Hironobu Yoshida, Hosho Katsura
 
-https://arxiv.org/abs/2606.08181
-https://arxiv.org/abs/2606.08235
-https://arxiv.org/abs/2606.08342
+* https://arxiv.org/abs/2606.08181 # Microscopic mechanism of high-temperature superconductivity revealed by ab initio studies on hole-doped multilayer cuprates HgBa2Ca2Cu3O8 under pressure, Ryui Kaneko, Masatoshi Imada
+* https://arxiv.org/abs/2606.08235 # Correlated PT-Symmetric Antiferromagnetic Topological Insulators with Giant Nonlinear Anomalous Thermoelectrics, Heng-Yu Di, Zhen-Gang Zhu, Gang Su
+* https://arxiv.org/abs/2606.08342 # A spectral model of power-law decay in natural and engineered systems, Balazs Sandor, Mark Honti, Henrique Santos Lima
 https://arxiv.org/abs/2606.08509
 https://arxiv.org/abs/2606.08558
-https://arxiv.org/abs/2606.08643
+* https://arxiv.org/abs/2606.08643 # Coexistence of High Temperature Superconductivity and Antiferromagnetic Order in a Cuprate with Multiple Hole Fermi Pockets, Xiangyu Luo, Yinghao Li, Hao Chen, Yiwen Chen, Jumin Shi, Taimin Miao, Bo Liang, Wenpei Zhu, Neng Cai, Xiaolin Ren, Yingjie Shu, Chaohui Yin, Jiuxiang Zhang, Chengtian Lin, Shenjin Zhang, Zhimin Wang, Fengfeng Zhang, Feng Yang, Qinjun Peng, Zuyan Xu, Guodong Liu, Xintong Li, Hanqing Mao, Tao Xiang, Lin Zhao, X. J. Zhou
 https://arxiv.org/abs/2606.08686
 https://arxiv.org/abs/2606.08689
-https://arxiv.org/abs/2606.08694
+* https://arxiv.org/abs/2606.08694 # Discovering and decoding latent mean-field structure with variational autoencoders, Marco Biroli, Max Welling, Vincenzo Vitelli
 https://arxiv.org/abs/2606.08706
 
 https://arxiv.org/abs/2606.08805
 https://arxiv.org/abs/2606.08868
 https://arxiv.org/abs/2606.09023
-https://arxiv.org/abs/2606.09106
-https://arxiv.org/abs/2606.09179
-https://arxiv.org/abs/2606.09201
-https://arxiv.org/abs/2606.09297
-https://arxiv.org/abs/2606.09462
+* https://arxiv.org/abs/2606.09106 # Dynamic scaling and Family-Vicsek universality in the Hubbard model at infinite temperature, Catalin Pascu Moca, Doru Sticlet, Balazs Dora
+* https://arxiv.org/abs/2606.09179 # Designing electronic magnetoelectric matter with organic quantum spin trimers, Yuko Hosokoshi, Christopher P. Aoyama, Zhuowei Zhang, Toshio Ono, Kosuke Takada, Ayaka Higashiguchi, Seitaro Iisaka, Koudai Yamasaki, Hironori Yamaguchi, Shengzhi Zhang, Mohammad Irfan, Minseong Lee, Eun Sang Choi, Yasuyuki Shimura, Toshiro Sakakibara, Zhiyuan Xie, Hiroki Nakano, Yasu Takano, Cristian D. Batista, Yoshitomo Kamiya
+* https://arxiv.org/abs/2606.09201 # Order parameters and ground-state phase diagram of the interacting topological Su-Schrieffer-Heeger model with extended-range hoppings, Tsz Hin Hui, Pedro D. Sacramento, Wing Chi Yu
+* https://arxiv.org/abs/2606.09297 # Control transition in a temporally random classical spin chain, Elisha Shmalo, J. H. Pixley, Manas Kulkarni, Sarang Gopalakrishnan, David A. Huse
+* https://arxiv.org/abs/2606.09462 # Free fermions in disguise without exponential degeneracies, Balazs Pozsgay
 https://arxiv.org/abs/2606.09575
 https://arxiv.org/abs/2606.09628
 
 https://arxiv.org/abs/2606.09708
 https://arxiv.org/abs/2606.09797
-https://arxiv.org/abs/2606.09823
-https://arxiv.org/abs/2606.07736
-https://arxiv.org/abs/2606.07757
+* https://arxiv.org/abs/2606.09823 # Topological Triplons in the Pinwheel Valence Bond Solid on the Kagome Lattice, Laura Calonge-Martinez, Peng Rao, Frederic Mila, Johannes Knolle
+* https://arxiv.org/abs/2606.07736 # Exact metastability in a class of driven-dissipative quantum many-body systems, David D. Noachtar, Aashish A. Clerk
+* https://arxiv.org/abs/2606.07757 # REM universality and Poisson-Dirichlet Gibbs weights for linear random energy, Francesco Concetti, Simone Franchini
 https://arxiv.org/abs/2606.08149
 https://arxiv.org/abs/2606.08287
 https://arxiv.org/abs/2606.08579
-https://arxiv.org/abs/2606.08606
-https://arxiv.org/abs/2606.08756
+* https://arxiv.org/abs/2606.08606 # Hidden Conformal Boundary Data in Finite-Temperature Stabilizer Entropy, Reyhaneh Khasseh, M. A. Rajabpour
+* https://arxiv.org/abs/2606.08756 # Quantum resource localizability transitions in deep thermalization, Xiaozhou Feng, Chang Liu, Zihan Cheng, Wen Wei Ho, Matteo Ippoliti
 
 https://arxiv.org/abs/2606.08794
 https://arxiv.org/abs/2606.08874
 https://arxiv.org/abs/2606.09308
 https://arxiv.org/abs/2606.09720
 https://arxiv.org/abs/2606.09727
-https://arxiv.org/abs/2606.09791
+* https://arxiv.org/abs/2606.09791 # Certified spectral functions from lattice Monte Carlo data, Sophie Mutzel, Antoine Tilloy
 https://arxiv.org/abs/2606.08215
 https://arxiv.org/abs/2606.08753
 https://arxiv.org/abs/2606.08900
