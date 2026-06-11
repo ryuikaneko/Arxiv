@@ -1,14 +1,19 @@
 20260610
 
+https://arxiv.org/abs/2606.09948
+https://arxiv.org/abs/2606.09911
+https://arxiv.org/abs/2606.10003
+https://arxiv.org/abs/2606.10043
+
 https://arxiv.org/abs/2606.10349
 https://arxiv.org/abs/2606.10418
 https://arxiv.org/abs/2606.10424
 * https://arxiv.org/abs/2606.10548 # Interaction-driven dynamics in graphene flakes as a benchmark for quantum simulation, Fabian Eickhoff, Satoshi Ejima, Lukas Windgaetter, Florian G. Eich, Hannah Rittich, Sebastian Zanker, Peter Schmitteckert
-https://arxiv.org/abs/2606.10564
+* https://arxiv.org/abs/2606.10564 # Dichotomous electronic system in a bilayer Ni1+ nickelate, Young-Joon Song, W. E. Pickett, K.-W. Lee
 https://arxiv.org/abs/2606.10604
 https://arxiv.org/abs/2606.10754
 https://arxiv.org/abs/2606.10757
-https://arxiv.org/abs/2606.10773
+* https://arxiv.org/abs/2606.10773 # Nonequilibrium Green Functions Simulations for Large Correlated Systems, Erik Schroedter, Michael Bonitz, Jan-Philip Joost
 https://arxiv.org/abs/2606.10812
 
 https://arxiv.org/abs/2606.10814
