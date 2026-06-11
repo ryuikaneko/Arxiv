@@ -5,7 +5,7 @@ https://arxiv.org/abs/2606.10821
 https://arxiv.org/abs/2606.10976
 https://arxiv.org/abs/2606.10980
 https://arxiv.org/abs/2606.11056
-https://arxiv.org/abs/2606.11095
+* https://arxiv.org/abs/2606.11095 # Hybrid Hamiltonian-diagrammatic quantum impurity solver, Yang Yu, Gaurav Harsha, Lei Zhang, Agnieszka Jazdzewska, Dominika Zgid, Xinyang Dong, Emanuel Gull
 https://arxiv.org/abs/2606.11128
 https://arxiv.org/abs/2606.09984
 https://arxiv.org/abs/2606.09985
