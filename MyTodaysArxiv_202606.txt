@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2606.09948
 https://arxiv.org/abs/2606.09911
-https://arxiv.org/abs/2606.10003
+* https://arxiv.org/abs/2606.10003 # Exactly solvable non-planar Z2 dimer liquids on checkerboard and ruby lattices, Julia Wildeboer, Zohar Nussinov, Thomas Iadecola, Alexander Seidel
 https://arxiv.org/abs/2606.10043
 
 https://arxiv.org/abs/2606.10349
