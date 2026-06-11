@@ -3,13 +3,13 @@
 https://arxiv.org/abs/2606.08504
 https://arxiv.org/abs/2606.08536
 https://arxiv.org/abs/2606.08579
-https://arxiv.org/abs/2606.08606
+* https://arxiv.org/abs/2606.08606 # Hidden Conformal Boundary Data in Finite-Temperature Stabilizer Entropy, Reyhaneh Khasseh, M. A. Rajabpour
 https://arxiv.org/abs/2606.08760
 https://arxiv.org/abs/2606.08794
 https://arxiv.org/abs/2606.08874
 https://arxiv.org/abs/2606.08929
-https://arxiv.org/abs/2606.09306
-https://arxiv.org/abs/2606.08079
+* https://arxiv.org/abs/2606.09306 # Range-controlled entanglement in Lindbladian skin states of monitored fermions, Gianluca Passarelli, Angelo Russomanno, Davide Rossini, Procolo Lucignano
+* https://arxiv.org/abs/2606.08079 # Exact spectrum and anomalous relaxation in the open disorder-free Sachdev-Ye-Kitaev system, Soshun Ozaki, Hironobu Yoshida, Hosho Katsura
 
 https://journals.aps.org/prapplied/abstract/10.1103/wgtl-wsvy
 https://journals.aps.org/prx/abstract/10.1103/ksyh-mb4s
