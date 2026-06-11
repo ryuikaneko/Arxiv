@@ -23,6 +23,7 @@ https://arxiv.org/abs/2606.11000
 * https://arxiv.org/abs/2606.11010 # Bosonic Cyclic Codes: Trading Stabilizers for Gaussian Non-Clifford Phase Gates, Owen C. Wetherbee, Yijia Xu, Victor V. Albert, Baptiste Royer, Valla Fatemi
 https://arxiv.org/abs/2606.10800
 https://arxiv.org/abs/2606.10957
+https://arxiv.org/abs/2606.11579
 
 * https://arxiv.org/abs/2606.11302 # Ferromagnetism from the geometry of localized wavefunctions in moire systems, Miguel Goncalves, Sarang Gopalakrishnan
 * https://arxiv.org/abs/2606.11303 # Exact Dynamics of Topological Order Across a CDW--SPT Transition, Pradip Kattel, Yicheng Tang, Natan Andrei
