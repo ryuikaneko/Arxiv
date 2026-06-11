@@ -1,5 +1,16 @@
 20260610
 
+https://arxiv.org/abs/2606.10349
+https://arxiv.org/abs/2606.10418
+https://arxiv.org/abs/2606.10424
+* https://arxiv.org/abs/2606.10548 # Interaction-driven dynamics in graphene flakes as a benchmark for quantum simulation, Fabian Eickhoff, Satoshi Ejima, Lukas Windgaetter, Florian G. Eich, Hannah Rittich, Sebastian Zanker, Peter Schmitteckert
+https://arxiv.org/abs/2606.10564
+https://arxiv.org/abs/2606.10604
+https://arxiv.org/abs/2606.10754
+https://arxiv.org/abs/2606.10757
+https://arxiv.org/abs/2606.10773
+https://arxiv.org/abs/2606.10812
+
 https://arxiv.org/abs/2606.10814
 https://arxiv.org/abs/2606.10821
 * https://arxiv.org/abs/2606.10976 # Thermal Signatures of the Slater-Mott Crossover in the Hubbard Model: From Double Occupancy to Antiferromagnetic Correlation Length, Mingzhong Lu, Yu-Feng Song, Youjin Deng, Yuan-Yao He
