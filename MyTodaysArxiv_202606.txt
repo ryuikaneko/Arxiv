@@ -7,6 +7,23 @@ https://journals.aps.org/prl/abstract/10.1103/wtq7-qy11
 
 20260611
 
+https://arxiv.org/abs/2606.09964
+* https://arxiv.org/abs/2606.09971 # Magic and entanglement in 1+1-dimensional SU(2) lattice gauge theory, Raghav G. Jha, Goksu C. Toga, Jaber I. Taher, Bojko N. Bakalov, Alexander F. Kemper
+* https://arxiv.org/abs/2606.09995 # Quantum resources in non-stoquastic quantum annealing, Chiara Capecci, Sebastian Nagies, Naga Dileep Varikuti, Philipp Hauke
+https://arxiv.org/abs/2606.10042
+https://arxiv.org/abs/2606.10179
+https://arxiv.org/abs/2606.10230
+https://arxiv.org/abs/2606.10430
+https://arxiv.org/abs/2606.10510
+https://arxiv.org/abs/2606.10555
+https://arxiv.org/abs/2606.10700
+
+https://arxiv.org/abs/2606.10994
+https://arxiv.org/abs/2606.11000
+* https://arxiv.org/abs/2606.11010 # Bosonic Cyclic Codes: Trading Stabilizers for Gaussian Non-Clifford Phase Gates, Owen C. Wetherbee, Yijia Xu, Victor V. Albert, Baptiste Royer, Valla Fatemi
+https://arxiv.org/abs/2606.10800
+https://arxiv.org/abs/2606.10957
+
 * https://arxiv.org/abs/2606.11302 # Ferromagnetism from the geometry of localized wavefunctions in moire systems, Miguel Goncalves, Sarang Gopalakrishnan
 * https://arxiv.org/abs/2606.11303 # Exact Dynamics of Topological Order Across a CDW--SPT Transition, Pradip Kattel, Yicheng Tang, Natan Andrei
 https://arxiv.org/abs/2606.11338
