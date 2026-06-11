@@ -4,7 +4,7 @@ https://arxiv.org/abs/2606.10032
 https://arxiv.org/abs/2606.10291
 https://arxiv.org/abs/2606.10324
 https://arxiv.org/abs/2606.10529
-https://arxiv.org/abs/2606.10585
+* https://arxiv.org/abs/2606.10585 # Anomalous mobility edges and extended-localized transition in a quasiperiodic emitter-cavity array, H. T. Cui, H. Z. Shen, M. Qin, X. X. Yi
 https://arxiv.org/abs/2606.10680
 https://arxiv.org/abs/2606.11146
 https://arxiv.org/abs/2606.09977
