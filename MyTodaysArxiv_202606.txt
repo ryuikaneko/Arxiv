@@ -1,3 +1,10 @@
+20260612
+
+https://journals.aps.org/prb/abstract/10.1103/g8nb-zh4p
+https://journals.aps.org/prb/abstract/10.1103/lr2x-nnks
+https://journals.aps.org/prl/abstract/10.1103/wtq7-qy11
+
+
 20260611
 
 * https://arxiv.org/abs/2606.11302 # Ferromagnetism from the geometry of localized wavefunctions in moire systems, Miguel Goncalves, Sarang Gopalakrishnan
