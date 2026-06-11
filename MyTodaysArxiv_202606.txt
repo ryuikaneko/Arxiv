@@ -1,9 +1,20 @@
 20260610
 
+https://arxiv.org/abs/2606.10032
+https://arxiv.org/abs/2606.10291
+https://arxiv.org/abs/2606.10324
+https://arxiv.org/abs/2606.10529
+https://arxiv.org/abs/2606.10585
+https://arxiv.org/abs/2606.10680
+https://arxiv.org/abs/2606.11146
+https://arxiv.org/abs/2606.09977
+https://arxiv.org/abs/2606.10343
+https://arxiv.org/abs/2606.11177
+
 https://arxiv.org/abs/2606.07666
-https://arxiv.org/abs/2606.07736
+* https://arxiv.org/abs/2606.07736 # Exact metastability in a class of driven-dissipative quantum many-body systems, David D. Noachtar, Aashish A. Clerk
 https://arxiv.org/abs/2606.07797
-https://arxiv.org/abs/2606.07825
+* https://arxiv.org/abs/2606.07825 # Projected Inverse Iteration: An Eigenvalue Approach to Ground-State Computation with Neural Quantum States, Hang Zhang, Victor Armegioiu, Juan Carrasquilla, Siddhartha Mishra, Johannes Mueller, Jannes Nys, Marius Zeinhofer
 https://arxiv.org/abs/2606.07852
 https://arxiv.org/abs/2606.08053
 https://arxiv.org/abs/2606.08189
