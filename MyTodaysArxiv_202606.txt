@@ -1,48 +1,48 @@
 20260611
 
-https://arxiv.org/abs/2606.11302
-https://arxiv.org/abs/2606.11303
+* https://arxiv.org/abs/2606.11302 # Ferromagnetism from the geometry of localized wavefunctions in moire systems, Miguel Goncalves, Sarang Gopalakrishnan
+* https://arxiv.org/abs/2606.11303 # Exact Dynamics of Topological Order Across a CDW--SPT Transition, Pradip Kattel, Yicheng Tang, Natan Andrei
 https://arxiv.org/abs/2606.11338
 https://arxiv.org/abs/2606.11364
 https://arxiv.org/abs/2606.11384
-https://arxiv.org/abs/2606.11392
+* https://arxiv.org/abs/2606.11392 # Compressed minimum-purity time evolution for late-time quantum dynamics, Moksh Bhateja, Jonas B. Rigo, Markus Schmitt
 https://arxiv.org/abs/2606.11427
-https://arxiv.org/abs/2606.11441
+* https://arxiv.org/abs/2606.11441 # Screening of the Coulomb interaction in Carbon Nanotubes: A First-Principles cRPA study, Mohadese Rezayi, Hanif Hadipour
 https://arxiv.org/abs/2606.11481
-https://arxiv.org/abs/2606.11495
+* https://arxiv.org/abs/2606.11495 # Superconductivity near quarter- and half-filling of a strongly correlated triangular Hubbard band in twisted trilayer WSe2, Yungi Jeong, Kenji Watanabe, Takashi Taniguchi, Joonho Jang
 
-https://arxiv.org/abs/2606.11524
+* https://arxiv.org/abs/2606.11524 # Unveiling the Interplay of Charge and Magnetic Excitations in HgBa2Ca2Cu3O8+delta, Karn Rongrueangkul, Martina Fedele, Leonardo Martinelli, Giacomo Merzoni, Roberto Sant, Nicholas B. Brookes, Dorothee Colson, Alain Sacuto, Goetz Seibold, Sergio Caprara, Marco Moretti Sala, Giacomo Ghiringhelli, Riccardo Arpaia
 https://arxiv.org/abs/2606.11527
 https://arxiv.org/abs/2606.11703
 https://arxiv.org/abs/2606.11777
 https://arxiv.org/abs/2606.11810
 https://arxiv.org/abs/2606.11862
 https://arxiv.org/abs/2606.11870
-https://arxiv.org/abs/2606.11885
+* https://arxiv.org/abs/2606.11885 # Universal Information-Theoretic Structure of the Quasi-Stationary Domany--Kinzel Automaton, Hyun-Yong Lee, Kenji Harada, Naoki Kawashima
 https://arxiv.org/abs/2606.11912
 https://arxiv.org/abs/2606.11965
 
 https://arxiv.org/abs/2606.11985
-https://arxiv.org/abs/2606.11991
-https://arxiv.org/abs/2606.12089
-https://arxiv.org/abs/2606.12132
-https://arxiv.org/abs/2606.12159
-https://arxiv.org/abs/2606.12204
+* https://arxiv.org/abs/2606.11991 # Estimation of conserved charges for a one dimensional system with inhomogeneous hopping, Triparna Mondal
+* https://arxiv.org/abs/2606.12089 # Non-Hermitian Delocalization Realizes Random Dirac Criticality in One Dimension, Bo Li, Shen Zhang, Ren Zhang
+* https://arxiv.org/abs/2606.12132 # From Topological Order to Mixed-State Phases: A Ground-State Probe of Fractionalized Excitations, Yunlong Zang, Yu-Bin Li, Shenghan Jiang
+* https://arxiv.org/abs/2606.12159 # Grand-canonical phase diagram and chiral-current suppression at pi flux in a bosonic two-leg ladder, Meng Zhang, Qingyun Xu, Zhi Lin
+* https://arxiv.org/abs/2606.12204 # Kinetic kagome magnetism: from self-trapping RVB polarons to semiclassical correlations, Yufei Pei, Shuai A. Chen, Claudio Castelnovo, Roderich Moessner
 https://arxiv.org/abs/2606.12208
 https://arxiv.org/abs/2606.12269
-https://arxiv.org/abs/2606.12409
-https://arxiv.org/abs/2606.11311
+* https://arxiv.org/abs/2606.12409 # A Pfaffian quantum Hall state of ultracold bosons, Joyce Kwan, Perrin Segura, Yanfei Li, Tizian Blatz, Annie Zhi, Brice Bakkali-Hassani, Annabelle Bohrdt, Martin Greiter, Fabian Grusdt, Markus Greiner
+* https://arxiv.org/abs/2606.11311 # Exact Entanglement Dynamics Beyond Nearest-Neighbor Dual-Unitary Floquet Systems, Tanay Pathak
 
 https://arxiv.org/abs/2606.11317
-https://arxiv.org/abs/2606.11319
-https://arxiv.org/abs/2606.11333
+* https://arxiv.org/abs/2606.11319 # Learning from almost nothing: How neural networks survive heavy input corruption, Justin Tahmassebpur, Asadullah Bhuiyan, Hyejin Kim, Omri Lesser
+* https://arxiv.org/abs/2606.11333 # Observable signatures of exceptional points from left-right eigenstate distinction, Leela Ganesh Chandra Lakkaraju, Soumik Bandyopadhyay, Sudipto Singha Roy, Philipp Hauke
 https://arxiv.org/abs/2606.11484
-https://arxiv.org/abs/2606.11561
-https://arxiv.org/abs/2606.11882
-https://arxiv.org/abs/2606.12058
+* https://arxiv.org/abs/2606.11561 # Diffusive Relaxation of Participation Entropy in U(1)-symmetric Dynamics, Hanchen Liu, Tianci Zhou, Xiao Chen
+* https://arxiv.org/abs/2606.11882 # Tensor-Network Algorithm for Many-Body Trace Norms, Seunghun Lee, Eun-Gook Moon
+* https://arxiv.org/abs/2606.12058 # Phase Transitions in Attention: A Bayesian Theory of Copy Head Emergence, Itay Lavie, Kirsten Fischer, Andrey Lekov, Frederic Van Maele, Zohar Ringel, Moritz Helias
 https://arxiv.org/abs/2606.12367
 https://arxiv.org/abs/2606.11958
-https://arxiv.org/abs/2606.12026
+* https://arxiv.org/abs/2606.12026 # Generalizing Perron--Frobenius theory and eigenvector-based centralities to networks with complex edge weights, Yu Tian, Mason A. Porter, Lucas Boettcher
 
 https://journals.aps.org/prx/abstract/10.1103/tbh2-jq9r
 https://journals.aps.org/prresearch/abstract/10.1103/h2ls-9b5b
