@@ -2,14 +2,14 @@
 
 https://arxiv.org/abs/2606.10814
 https://arxiv.org/abs/2606.10821
-https://arxiv.org/abs/2606.10976
+* https://arxiv.org/abs/2606.10976 # Thermal Signatures of the Slater-Mott Crossover in the Hubbard Model: From Double Occupancy to Antiferromagnetic Correlation Length, Mingzhong Lu, Yu-Feng Song, Youjin Deng, Yuan-Yao He
 https://arxiv.org/abs/2606.10980
 https://arxiv.org/abs/2606.11056
 * https://arxiv.org/abs/2606.11095 # Hybrid Hamiltonian-diagrammatic quantum impurity solver, Yang Yu, Gaurav Harsha, Lei Zhang, Agnieszka Jazdzewska, Dominika Zgid, Xinyang Dong, Emanuel Gull
 https://arxiv.org/abs/2606.11128
 https://arxiv.org/abs/2606.09984
 https://arxiv.org/abs/2606.09985
-https://arxiv.org/abs/2606.09985
+* https://arxiv.org/abs/2606.09988 # Absence of poor local minima in matrix product states, Hao-Kai Zhang, Chenghong Zhu, Shuo Liu, Shi-Xin Zhang, Tao Xiang
 
 https://arxiv.org/abs/2606.10032
 https://arxiv.org/abs/2606.10291
