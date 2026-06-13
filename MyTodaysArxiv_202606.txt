@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2606.12520
 https://arxiv.org/abs/2606.12525
-https://arxiv.org/abs/2606.12530
+* https://arxiv.org/abs/2606.12530 # Hidden antiferromagnetism, persistent valley fluctuations, and U(6) crossovers in triangular-lattice M-point moire materials via determinantal quantum Monte Carlo, Konstantinos Vasiliou, Dumitru Calugaru, Johannes S. Hofmann, S.A. Parameswaran
 https://arxiv.org/abs/2606.12538
 https://arxiv.org/abs/2606.12544
 https://arxiv.org/abs/2606.12572
@@ -11,7 +11,7 @@ https://arxiv.org/abs/2606.12665
 https://arxiv.org/abs/2606.12795
 https://arxiv.org/abs/2606.12928
 
-https://arxiv.org/abs/2606.13015
+* https://arxiv.org/abs/2606.13015 # A Geometric Design Principle for Z2 Topological Phases in Twisted Triangular-Lattice Bilayers, Jiaheng Li, Jiaxuan Liu, Yan Zhang, Zhong Fang, Hongming Weng, Quansheng Wu
 https://arxiv.org/abs/2606.13045
 https://arxiv.org/abs/2606.13144
 https://arxiv.org/abs/2606.13263
