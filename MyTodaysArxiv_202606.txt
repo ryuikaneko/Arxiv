@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2606.13667
 https://arxiv.org/abs/2606.13638
-https://arxiv.org/abs/2606.13499
+* https://arxiv.org/abs/2606.13499 # Observation of Non-Gaussian Magnon Dynamics in a Two-Dimensional Long-Range XY Model, S.-A. Guo, J.-Y. Tan, J. Ye, Y. Jiang, L. Zhang, Y.-X. Chen, H.-J. Chen, H.-Y. Hu, W.-X. Guo, B.-X. Qi, L. He, Z.-C. Zhou, Y.-K. Wu, L.-M. Duan
 https://arxiv.org/abs/2606.13470
 https://arxiv.org/abs/2606.13387
 https://arxiv.org/abs/2606.13380
@@ -14,7 +14,7 @@ https://arxiv.org/abs/2606.12961
 https://arxiv.org/abs/2606.12877
 https://arxiv.org/abs/2606.12781
 https://arxiv.org/abs/2606.12769
-https://arxiv.org/abs/2606.12545
+* https://arxiv.org/abs/2606.12545 # Spectral analysis of equilibration: information leakage in isolated quantum systems, Andre T. Cesario, Marcos G. Alpino, Reinaldo O. Vianna, Tiago Debarba
 https://arxiv.org/abs/2606.12480
 
 https://arxiv.org/abs/2606.12056
