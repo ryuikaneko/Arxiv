@@ -1,5 +1,25 @@
 20260612
 
+https://arxiv.org/abs/2606.12056
+https://arxiv.org/abs/2606.11475
+https://arxiv.org/abs/2606.11557
+https://arxiv.org/abs/2606.11580
+https://arxiv.org/abs/2606.11655
+https://arxiv.org/abs/2606.11673
+https://arxiv.org/abs/2606.11731
+https://arxiv.org/abs/2606.11759
+https://arxiv.org/abs/2606.11784
+https://arxiv.org/abs/2606.11814
+
+https://arxiv.org/abs/2606.11822
+https://arxiv.org/abs/2606.11843
+https://arxiv.org/abs/2606.12030
+https://arxiv.org/abs/2606.12035
+https://arxiv.org/abs/2606.12301
+https://arxiv.org/abs/2606.12307
+https://arxiv.org/abs/2606.12363
+https://arxiv.org/abs/2606.12383
+
 https://arxiv.org/abs/2606.12520
 https://arxiv.org/abs/2606.12525
 * https://arxiv.org/abs/2606.12530 # Hidden antiferromagnetism, persistent valley fluctuations, and U(6) crossovers in triangular-lattice M-point moire materials via determinantal quantum Monte Carlo, Konstantinos Vasiliou, Dumitru Calugaru, Johannes S. Hofmann, S.A. Parameswaran
