@@ -3,29 +3,29 @@
 https://arxiv.org/abs/2606.12520
 https://arxiv.org/abs/2606.12525
 * https://arxiv.org/abs/2606.12530 # Hidden antiferromagnetism, persistent valley fluctuations, and U(6) crossovers in triangular-lattice M-point moire materials via determinantal quantum Monte Carlo, Konstantinos Vasiliou, Dumitru Calugaru, Johannes S. Hofmann, S.A. Parameswaran
-https://arxiv.org/abs/2606.12538
+* https://arxiv.org/abs/2606.12538 # Influence-solvability: a systematic theory of (1+1)D solvability and its application to brickwork circuits, Friedrich Huebner, Sun Woo P. Kim
 https://arxiv.org/abs/2606.12544
 https://arxiv.org/abs/2606.12572
 https://arxiv.org/abs/2606.12606
 https://arxiv.org/abs/2606.12665
 https://arxiv.org/abs/2606.12795
-https://arxiv.org/abs/2606.12928
+* https://arxiv.org/abs/2606.12928 # Continuum Neural Momentum Eigenstate for Variationally Solving Quasiparticles, David D. Dai, Marin Soljacic
 
 * https://arxiv.org/abs/2606.13015 # A Geometric Design Principle for Z2 Topological Phases in Twisted Triangular-Lattice Bilayers, Jiaheng Li, Jiaxuan Liu, Yan Zhang, Zhong Fang, Hongming Weng, Quansheng Wu
 https://arxiv.org/abs/2606.13045
 https://arxiv.org/abs/2606.13144
-https://arxiv.org/abs/2606.13263
-https://arxiv.org/abs/2606.13265
+* https://arxiv.org/abs/2606.13263 # Phase diagram of the Kitaev-Heisenberg-Gamma model: Classical and quantum magnetism, frustration, and subdominant interactions, Kiyu Fukui, Yukitoshi Motome
+* https://arxiv.org/abs/2606.13265 # Frustration effects on the magnetization plateau physics in a trimerized quantum spin-1/2 chain, L. M. Ramos, M. Schmidt, F. M. Zimmer
 https://arxiv.org/abs/2606.13290
-https://arxiv.org/abs/2606.13342
+* https://arxiv.org/abs/2606.13342 # Variational Monte Carlo study of a two-orbital Hubbard model for the iron pnictides, Vito Marino, Gabriele Gatti, Massimo Capone, Luca F. Tocchio
 https://arxiv.org/abs/2606.13541
 https://arxiv.org/abs/2606.13617
-https://arxiv.org/abs/2606.12478
+* https://arxiv.org/abs/2606.12478 # Boltzmann Attention: Learnable Ising Couplings for Cooperative Attention, Gilhan Kim, Daniel K. Park
 
 https://arxiv.org/abs/2606.12510
 https://arxiv.org/abs/2606.12526
 https://arxiv.org/abs/2606.12540
-https://arxiv.org/abs/2606.12545
+* https://arxiv.org/abs/2606.12545 # Spectral analysis of equilibration: information leakage in isolated quantum systems, Andre T. Cesario, Marcos G. Alpino, Reinaldo O. Vianna, Tiago Debarba
 https://arxiv.org/abs/2606.12624
 https://arxiv.org/abs/2606.12685
 https://arxiv.org/abs/2606.13072
@@ -34,7 +34,7 @@ https://arxiv.org/abs/2606.13428
 https://arxiv.org/abs/2606.13434
 
 https://arxiv.org/abs/2606.13454
-https://arxiv.org/abs/2606.13606
+* https://arxiv.org/abs/2606.13606 # Diffusive Dynamics of Nonstabilizerness, Zhenyu Xiao, Shinsei Ryu
 
 https://arxiv.org/abs/2606.12455
 https://arxiv.org/abs/2606.12458
