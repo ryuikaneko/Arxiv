@@ -1,5 +1,41 @@
 20260612
 
+https://arxiv.org/abs/2606.12520
+https://arxiv.org/abs/2606.12525
+https://arxiv.org/abs/2606.12530
+https://arxiv.org/abs/2606.12538
+https://arxiv.org/abs/2606.12544
+https://arxiv.org/abs/2606.12572
+https://arxiv.org/abs/2606.12606
+https://arxiv.org/abs/2606.12665
+https://arxiv.org/abs/2606.12795
+https://arxiv.org/abs/2606.12928
+
+https://arxiv.org/abs/2606.13015
+https://arxiv.org/abs/2606.13045
+https://arxiv.org/abs/2606.13144
+https://arxiv.org/abs/2606.13263
+https://arxiv.org/abs/2606.13265
+https://arxiv.org/abs/2606.13290
+https://arxiv.org/abs/2606.13342
+https://arxiv.org/abs/2606.13541
+https://arxiv.org/abs/2606.13617
+https://arxiv.org/abs/2606.12478
+
+https://arxiv.org/abs/2606.12510
+https://arxiv.org/abs/2606.12526
+https://arxiv.org/abs/2606.12540
+https://arxiv.org/abs/2606.12545
+https://arxiv.org/abs/2606.12624
+https://arxiv.org/abs/2606.12685
+https://arxiv.org/abs/2606.13072
+https://arxiv.org/abs/2606.13377
+https://arxiv.org/abs/2606.13428
+https://arxiv.org/abs/2606.13434
+
+https://arxiv.org/abs/2606.13454
+https://arxiv.org/abs/2606.13606
+
 https://arxiv.org/abs/2606.12455
 https://arxiv.org/abs/2606.12458
 https://arxiv.org/abs/2606.13075
@@ -17,7 +53,7 @@ https://arxiv.org/abs/2606.13521
 https://arxiv.org/abs/2606.13551
 https://arxiv.org/abs/2606.13568
 https://arxiv.org/abs/2606.12508
-https://arxiv.org/abs/2606.12512
+* https://arxiv.org/abs/2606.12512 # Spin correlations, low-energy scales, and anisotropy scaling in kagome frustrated magnets, Phillip Popp, Stephan Rosenkranz, Arthur P. Ramirez, Sergey Syzranov
 
 https://journals.aps.org/prb/abstract/10.1103/g8nb-zh4p
 https://journals.aps.org/prb/abstract/10.1103/lr2x-nnks
