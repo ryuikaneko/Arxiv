@@ -1,7 +1,13 @@
 20260615
 
-https://arxiv.org/abs/2606.13721
-https://arxiv.org/abs/2606.13772
+https://arxiv.org/abs/2606.13695
+https://arxiv.org/abs/2606.13829
+https://arxiv.org/abs/2606.14043
+https://arxiv.org/abs/2606.14052
+https://arxiv.org/abs/2606.14111
+
+* https://arxiv.org/abs/2606.13721 # Controlling Defects and Probing Dynamics in Active Nematics with Deep Reinforcement Learning, Russ Islam, Kyogo Kawaguchi, Yuto Ashida
+* https://arxiv.org/abs/2606.13772 # Digital programming of spin correlations in a fermionic lattice quantum simulator, Yann Kiefer, Lars Fischer, Zijie Zhu, Konrad Viebahn, Tilman Esslinger
 https://arxiv.org/abs/2606.13828
 https://arxiv.org/abs/2606.13830
 https://arxiv.org/abs/2606.13833
@@ -9,7 +15,7 @@ https://arxiv.org/abs/2606.13912
 https://arxiv.org/abs/2606.14055
 https://arxiv.org/abs/2606.14062
 https://arxiv.org/abs/2606.14075
-https://arxiv.org/abs/2606.14101
+* https://arxiv.org/abs/2606.14101 # Altermagnetism and bond-nematicity in the spin-1/2 square lattice J1-J2-delta model, Tanja Duric, Shenlong Yu, Pinaki Sengupta
 
 https://arxiv.org/abs/2606.14133
 https://arxiv.org/abs/2606.14135
@@ -17,14 +23,14 @@ https://arxiv.org/abs/2606.14186
 https://arxiv.org/abs/2606.14196
 https://arxiv.org/abs/2606.14213
 https://arxiv.org/abs/2606.14338
-https://arxiv.org/abs/2606.14352
+* https://arxiv.org/abs/2606.14352 # Modeling light-matter coupled systems with neural quantum states, Noe Salmeron, Marin Bukov, Markus Schmitt
 https://arxiv.org/abs/2606.14374
 https://arxiv.org/abs/2606.14378
 https://arxiv.org/abs/2606.14387
 
 https://arxiv.org/abs/2606.14390
 https://arxiv.org/abs/2606.14424
-https://arxiv.org/abs/2606.14425
+* https://arxiv.org/abs/2606.14425 # SmoQyElPhQMC.jl: An open-source Julia package for efficient and scalable quantum Monte Carlo simulations of electron-phonon coupled models, Benjamin Cohen-Stead, James Neuhaus, Kipton Barros, Thomas A. Maier, Steven Johnston
 https://arxiv.org/abs/2606.14542
 https://arxiv.org/abs/2606.14635
 https://arxiv.org/abs/2606.14651
@@ -33,14 +39,14 @@ https://arxiv.org/abs/2606.14685
 https://arxiv.org/abs/2606.13750
 https://arxiv.org/abs/2606.13792
 
-https://arxiv.org/abs/2606.13810
+* https://arxiv.org/abs/2606.13810 # Universal Crossovers of Stabilizer Entropy Beyond Criticality, Reyhaneh Khasseh, E. A. Ramirez Trino, M. A. Rajabpour
 https://arxiv.org/abs/2606.13857
 https://arxiv.org/abs/2606.14034
 https://arxiv.org/abs/2606.14073
-https://arxiv.org/abs/2606.14140
+* https://arxiv.org/abs/2606.14140 # Quantum Entanglement of Bethe States, Yu Hao, Yunfeng Jiang, Bi-Quan Yang, De-liang Zhong
 https://arxiv.org/abs/2606.14174
-https://arxiv.org/abs/2606.14177
-https://arxiv.org/abs/2606.14208
+* https://arxiv.org/abs/2606.14177 # Dynamically frozen long-distance entanglement via non-Hermitian PT-symmetric systems, Sejal Ahuja, Keshav Das Agarwal, Aditi Sen De
+* https://arxiv.org/abs/2606.14208 # Real-time pseudo entropy and modular-Hamiltonian correlations, Tatsuhiro Misumi
 https://arxiv.org/abs/2606.14331
 https://arxiv.org/abs/2606.14526
 
