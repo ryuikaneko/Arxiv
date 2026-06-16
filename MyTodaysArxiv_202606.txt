@@ -6,7 +6,7 @@ https://arxiv.org/abs/2606.14455
 https://arxiv.org/abs/2606.14206
 https://arxiv.org/abs/2606.13930
 https://arxiv.org/abs/2606.13811
-https://arxiv.org/abs/2606.13779
+* https://arxiv.org/abs/2606.13779 # Computational regimes in matrix-product-state-based quantum trajectory simulations, Aaron Sander, Simon Cichy, Martin Eigel, Jens Eisert, Maximilian Froehlich, Tom Peham, Robert Wille
 
 https://arxiv.org/abs/2606.14613
 
