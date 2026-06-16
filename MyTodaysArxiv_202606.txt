@@ -1,5 +1,13 @@
 20260616
 
+https://arxiv.org/abs/2606.14593
+https://arxiv.org/abs/2606.14489
+https://arxiv.org/abs/2606.14455
+https://arxiv.org/abs/2606.14206
+https://arxiv.org/abs/2606.13930
+https://arxiv.org/abs/2606.13811
+https://arxiv.org/abs/2606.13779
+
 https://arxiv.org/abs/2606.14613
 
 * https://arxiv.org/abs/2606.14825 # Experimental realization of the complete seven-phase Anderson-localization landscape, Yao Qin, Chao Yang, Yuzhe Zhang, Yucheng Wang, Jingyun Fan
