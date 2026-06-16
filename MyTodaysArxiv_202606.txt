@@ -1,68 +1,68 @@
 20260616
 
-https://arxiv.org/abs/2606.14825
+* https://arxiv.org/abs/2606.14825 # Experimental realization of the complete seven-phase Anderson-localization landscape, Yao Qin, Chao Yang, Yuzhe Zhang, Yucheng Wang, Jingyun Fan
 https://arxiv.org/abs/2606.14829
 https://arxiv.org/abs/2606.14851
 https://arxiv.org/abs/2606.14861
 https://arxiv.org/abs/2606.14978
-https://arxiv.org/abs/2606.15124
-https://arxiv.org/abs/2606.15126
+* https://arxiv.org/abs/2606.15124 # Programmable Gauge-Field Textures with Ultracold Atoms in Momentum Space, Hongru Wang, Hang Li, Yichen Pan, Yuyan Luo, Bryce Gadway, Tao Chen, Bo Yan
+* https://arxiv.org/abs/2606.15126 # Interaction-enabled topological pumping of Rydberg electrons, Chenxi Huang, Tao Chen, Kaden R. A. Hazzard, Jacob P. Covey, Bryce Gadway
 https://arxiv.org/abs/2606.15212
 https://arxiv.org/abs/2606.15245
 https://arxiv.org/abs/2606.15293
 
-https://arxiv.org/abs/2606.15294
-https://arxiv.org/abs/2606.15298
+* https://arxiv.org/abs/2606.15294 # Identifying Mobility Edge from Finite Temperature Spectral Form Factor, Basudha Roy, Anandamohan Ghosh, Adway Kumar Das
+* https://arxiv.org/abs/2606.15298 # Interlayer pairing mechanism for bilayer nickelate superconductors, Jiangfan Wang, Yi-feng Yang
 https://arxiv.org/abs/2606.15312
 https://arxiv.org/abs/2606.15522
 https://arxiv.org/abs/2606.15580
-https://arxiv.org/abs/2606.15588
-https://arxiv.org/abs/2606.15605
+* https://arxiv.org/abs/2606.15588 # Topological Tricritical Ising Universality Class in One Dimension, Sheng Yang, Hai-Qing Lin, Xue-Jia Yu
+* https://arxiv.org/abs/2606.15605 # Dressed Floquet scars from protected zero modes in a Rydberg chain, Saptadip Roy, Bhaskar Mukherjee, K. Sengupta, Arnab Sen
 https://arxiv.org/abs/2606.15697
 https://arxiv.org/abs/2606.15711
 https://arxiv.org/abs/2606.15721
 
 https://arxiv.org/abs/2606.15750
-https://arxiv.org/abs/2606.15799
+* https://arxiv.org/abs/2606.15799 # Machine Learning Topological Order from Defect Partition Functions, Kazem Bitaghsir Fadafan, Wei Cui, Babak Haghighat, Shailesh Lal
 https://arxiv.org/abs/2606.16013
 https://arxiv.org/abs/2606.16029
 https://arxiv.org/abs/2606.16030
-https://arxiv.org/abs/2606.16128
+* https://arxiv.org/abs/2606.16128 # Luttinger liquid parameters in one-dimensional Rydberg arrays, Shu-Ao Liao, Li-Ping Yang, Jin Zhang
 https://arxiv.org/abs/2606.16155
-https://arxiv.org/abs/2606.16195
+* https://arxiv.org/abs/2606.16195 # Electronic structure trends in La2RNi2O7 (R= Pr, Nd, Sm) from first-principles, Yi-Feng Zhao, Antia S. Botana
 https://arxiv.org/abs/2606.16217
 https://arxiv.org/abs/2606.16260
 
 https://arxiv.org/abs/2606.16312
 https://arxiv.org/abs/2606.16399
-https://arxiv.org/abs/2606.16424
+* https://arxiv.org/abs/2606.16424 # Real-space spectral functions of three-dimensional billion-size topological non-Hermitian matter with tensor networks, Yitao Sun, Jose L. Lado, Guangze Chen
 https://arxiv.org/abs/2606.16443
 https://arxiv.org/abs/2606.16483
 https://arxiv.org/abs/2606.16550
-https://arxiv.org/abs/2606.16598
+* https://arxiv.org/abs/2606.16598 # Ultracold atomic lattice systems for simulating topological phases: A review, Bei-Bei Wang, Xiao-Dong Lin, Jinyi Zhang, Long Zhang
 https://arxiv.org/abs/2606.16676
-https://arxiv.org/abs/2606.16704
-https://arxiv.org/abs/2606.16785
+* https://arxiv.org/abs/2606.16704 # Field-selected seven-site topological magnons in a classical frustrated triangular-lattice K-Gamma-Gamma' magnet, Bin Xi, Jie Lu, Shun-Li Yu, Yafang Xu
+* https://arxiv.org/abs/2606.16785 # Extracting Boundary Conformal Data from Periodic Non-Hermitian Critical Chains, Yifan Liu, Haruki Shimizu, Dongchang Liu, Kohei Kawabata
 
 https://arxiv.org/abs/2606.16704
 https://arxiv.org/abs/2606.16785
 https://arxiv.org/abs/2606.16848
 https://arxiv.org/abs/2606.16875
-https://arxiv.org/abs/2606.16968
+* https://arxiv.org/abs/2606.16968 # Electronic Green's function across the pseudogap to stripe transition in the t-t'-J model, Martin Ulaga, Aritra Sinha, Alexander Wietek
 https://arxiv.org/abs/2606.16992
-https://arxiv.org/abs/2606.17045
+* https://arxiv.org/abs/2606.17045 # Compact Spin-Charge Separated Neural Quantum States for Valence-Bond States, Ang-Kun Wu, Louis Primeau, Yixin Zhang, Jingtao Zhang, Adrian Del Maestro, Yang Zhang
 https://arxiv.org/abs/2604.04659
-https://arxiv.org/abs/2606.14855
-https://arxiv.org/abs/2606.14873
+* https://arxiv.org/abs/2606.14855 # Magic transfer in quantum spin chains, Antonio Palamara, Chad Nelmes, Enrico C. Domanti, Francesco Perciavalle
+* https://arxiv.org/abs/2606.14873 # Finite-Element Matrix Product States for Continuum Models in One Dimension, Akshay Shankar, Karel Van Acoleyen, Jutho Haegeman
 
 https://arxiv.org/abs/2606.15061
-https://arxiv.org/abs/2606.15062
-https://arxiv.org/abs/2606.15350
-https://arxiv.org/abs/2606.15481
+* https://arxiv.org/abs/2606.15062 # Discontinuous strong-to-weak symmetry breaking transition from thermal pure states, Taiki Haga, Masaya Kunimi, Masaya Nakagawa
+* https://arxiv.org/abs/2606.15350 # Linear algebra at exponential scale via tensor network dimension reduction, Chris Camano, Ethan N. Epperly, Raphael A. Meyer, Joel A. Tropp
+* https://arxiv.org/abs/2606.15481 # Connecting entanglement growth with local integrals of motion in the disordered Fermi-Hubbard model, Ahad Nokhostin Helm, Brandon Leipner-Johns, Rachel Wortis
 https://arxiv.org/abs/2606.15505
 https://arxiv.org/abs/2606.15518
 https://arxiv.org/abs/2606.15791
-https://arxiv.org/abs/2606.15983
+* https://arxiv.org/abs/2606.15983 # Learning ground state observables from quantum computing experiments, Ben Jaderberg, Freya Shah, Minjun Jeon, M. Emre Sahin, Christa Zoufal, Kunal Sharma
 https://arxiv.org/abs/2606.16259
 https://arxiv.org/abs/2606.16288
 
