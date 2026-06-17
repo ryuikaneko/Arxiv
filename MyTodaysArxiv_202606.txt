@@ -14,7 +14,7 @@ https://arxiv.org/abs/2606.18084
 https://arxiv.org/abs/2606.18163
 * https://arxiv.org/abs/2606.18164 # Learning Dynamics of Chain-of-Thought State Tracking in a Solvable Transformer Model, Niklas Forner, Marcel Kuehn, Matthias Thamm, Bernd Rosenow
 https://arxiv.org/abs/2606.18251
-https://arxiv.org/abs/2606.17140
+* https://arxiv.org/abs/2606.17140 # Projected logical ensembles in surface codes via the random-matrix theory of quantum dots, Mircea Bejan, Jan Behrends, Max McGinley, Benjamin Beri
 https://arxiv.org/abs/2606.17158
 https://arxiv.org/abs/2606.17161
 https://arxiv.org/abs/2606.17167
