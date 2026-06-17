@@ -13,7 +13,7 @@ https://arxiv.org/abs/2606.15071
 
 https://arxiv.org/abs/2606.15083
 https://arxiv.org/abs/2606.15101
-https://arxiv.org/abs/2606.15213
+* https://arxiv.org/abs/2606.15213 # Quantum-classical hybrid models based on error correction for time series forecasting, Jonathan H. A. de Carvalho, Filipe C. de L. Duarte, Fernando M. de Paula Neto, Paulo S. G. de Mattos Neto
 https://arxiv.org/abs/2606.15230
 https://arxiv.org/abs/2606.15382
 https://arxiv.org/abs/2606.15383
@@ -23,7 +23,7 @@ https://arxiv.org/abs/2606.15489
 https://arxiv.org/abs/2606.15558
 
 https://arxiv.org/abs/2606.15586
-https://arxiv.org/abs/2606.15664
+* https://arxiv.org/abs/2606.15664 # Synthesizing Arbitrary Non-Hermitian Hamiltonian with Stochastic Floquet Engineering, Lingzhen Guo, Hui Jing
 https://arxiv.org/abs/2606.15808
 https://arxiv.org/abs/2606.15873
 https://arxiv.org/abs/2606.15922
@@ -44,7 +44,7 @@ https://arxiv.org/abs/2606.16604
 https://arxiv.org/abs/2606.16623
 https://arxiv.org/abs/2606.16712
 
-https://arxiv.org/abs/2606.16823
+* https://arxiv.org/abs/2606.16823 # Physically Motivated Ansatz for Open Fermionic Systems on Quantum Computer, Yi Liu, Xiaopeng Li, Zhen Liu, Zhenyu Li
 https://arxiv.org/abs/2606.16916
 https://arxiv.org/abs/2606.16918
 https://arxiv.org/abs/2606.16932
