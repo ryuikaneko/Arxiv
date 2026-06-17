@@ -12,7 +12,7 @@ https://journals.aps.org/prb/abstract/10.1103/wbvd-z9s4
 https://arxiv.org/abs/2606.18084
 * https://arxiv.org/abs/2606.18125 # Making complex CFTs real: The two-dimensional Potts model for Q>4 and complex Q, Jesper Lykke Jacobsen, Kay Joerg Wiese
 https://arxiv.org/abs/2606.18163
-* https://arxiv.org/abs/2606.18164 # Learning Dynamics of Chain-of-Thought State Tracking in a Solvable Transformer Model, Niklas Forner, Marcel Kühn, Matthias Thamm, Bernd Rosenow
+* https://arxiv.org/abs/2606.18164 # Learning Dynamics of Chain-of-Thought State Tracking in a Solvable Transformer Model, Niklas Forner, Marcel Kuehn, Matthias Thamm, Bernd Rosenow
 https://arxiv.org/abs/2606.18251
 https://arxiv.org/abs/2606.17140
 https://arxiv.org/abs/2606.17158
