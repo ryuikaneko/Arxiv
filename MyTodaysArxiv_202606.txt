@@ -6,20 +6,20 @@ https://arxiv.org/abs/2606.18461
 https://arxiv.org/abs/2606.18477
 https://arxiv.org/abs/2606.18493
 https://arxiv.org/abs/2606.18513
-https://arxiv.org/abs/2606.18529
+* https://arxiv.org/abs/2606.18529 # Tunable Chaos in the Finite Mean SYK Model, Arkaprava Mukherjee (Department of Physics, The Ohio State University, USA), Sumilan Banerjee (Centre for Condensed Matter Theory, Department of Physics, Indian Institute of Science, Bangalore, India), Sandip P. Trivedi (Department of Theoretical Physics, Tata Institute of Fundamental Research, Mumbai, India), Nandini Trivedi (Department of Physics, The Ohio State University, USA)
 https://arxiv.org/abs/2606.18546
 https://arxiv.org/abs/2606.18647
 https://arxiv.org/abs/2606.18657
 
 https://arxiv.org/abs/2606.18683
-https://arxiv.org/abs/2606.18800
+* https://arxiv.org/abs/2606.18800 # Mimicry of chaos and k-design in higher order OTOCs of Luttinger liquids, Balazs Dora, Catalin Pascu Moca, Roderich Moessner
 https://arxiv.org/abs/2606.18848
 https://arxiv.org/abs/2606.18858
 https://arxiv.org/abs/2606.18891
 https://arxiv.org/abs/2606.18931
 https://arxiv.org/abs/2606.18945
 https://arxiv.org/abs/2606.18973
-https://arxiv.org/abs/2606.19009
+* https://arxiv.org/abs/2606.19009 # Observation of anyonic thermodynamics and generalized Pauli principle, Fansu Wei, Chi Zhang, Zimeng Ye, Dengbo Wang, Botao Wang, Xiaoji Zhou, Hepeng Yao
 https://arxiv.org/abs/2606.19012
 
 https://arxiv.org/abs/2606.19024
@@ -30,11 +30,11 @@ https://arxiv.org/abs/2606.19254
 https://arxiv.org/abs/2606.19274
 https://arxiv.org/abs/2606.19290
 https://arxiv.org/abs/2606.19310
-https://arxiv.org/abs/2606.19331
+* https://arxiv.org/abs/2606.19331 # Topological spectral form factor reveals emergent non-Hermitian single-particle PT transitions from many-body quantum chaos, Daniel Harkin, Chun Y. Leung, Amos Chan
 https://arxiv.org/abs/2604.18733
 
 https://arxiv.org/abs/2606.18275
-https://arxiv.org/abs/2606.18339
+* https://arxiv.org/abs/2606.18339 # Ground state preparation of random all-to-all Hamiltonians using ADAPT-VQE, Sabhyata Gupta, Bharath Sambasivam, Sophia E. Economou, Edwin Barnes, Alexander F. Kemper, Raghav G. Jha
 https://arxiv.org/abs/2606.18348
 https://arxiv.org/abs/2606.18351
 https://arxiv.org/abs/2606.18360
@@ -42,7 +42,7 @@ https://arxiv.org/abs/2606.18361
 https://arxiv.org/abs/2606.18694
 https://arxiv.org/abs/2606.18752
 https://arxiv.org/abs/2606.18779
-https://arxiv.org/abs/2606.18982
+* https://arxiv.org/abs/2606.18982 # Probing chaos and thermalization through out-of-time-ordered correlators in random field spin chains, C Jisha, Shivam Mishra, Ravi Prakash
 
 https://arxiv.org/abs/2606.19133
 https://arxiv.org/abs/2606.19137
