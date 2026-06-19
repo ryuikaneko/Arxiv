@@ -3,8 +3,8 @@
 https://arxiv.org/abs/2606.19418
 https://arxiv.org/abs/2606.19421
 https://arxiv.org/abs/2606.19426
-https://arxiv.org/abs/2606.19437
-https://arxiv.org/abs/2606.19444
+* https://arxiv.org/abs/2606.19437 # Many-Body Protection of Topological Edge Memory in Strong Interacting Quenches, Yuxiao Hang, Stephan Haas, Rishabh Jha
+* https://arxiv.org/abs/2606.19444 # Unleashing Emergent Fermions with Rydberg Atom Simulators, Hanteng Wang, Xingyu Li, Shang Liu, Yingfei Gu, Chengshu Li
 https://arxiv.org/abs/2606.19465
 https://arxiv.org/abs/2606.19785
 https://arxiv.org/abs/2606.19900
@@ -14,9 +14,9 @@ https://arxiv.org/abs/2606.19977
 https://arxiv.org/abs/2606.20020
 https://arxiv.org/abs/2606.20116
 https://arxiv.org/abs/2606.20157
-https://arxiv.org/abs/2606.20168
+* https://arxiv.org/abs/2606.20168 # Norms, overlaps and Yangian descendants for the Haldane--Shastry spin chain, Yunfeng Jiang, Jules Lamers, Yuan Miao
 https://arxiv.org/abs/2606.20178
-https://arxiv.org/abs/2606.20187
+* https://arxiv.org/abs/2606.20187 # Truncated Wigner dynamics of biclique quantum spin glasses, Dries Sels
 https://arxiv.org/abs/2606.20259
 https://arxiv.org/abs/2606.20260
 https://arxiv.org/abs/2606.20279
@@ -24,7 +24,7 @@ https://arxiv.org/abs/2606.20281
 
 https://arxiv.org/abs/2606.20294
 https://arxiv.org/abs/2606.20296
-https://arxiv.org/abs/2606.20309
+* https://arxiv.org/abs/2606.20309 # Fractional excitations in Kitaev quasi-one-dimensional chain, Ritwika Majumder
 https://arxiv.org/abs/2606.20321
 https://arxiv.org/abs/2606.20339
 https://arxiv.org/abs/2606.20377
@@ -33,19 +33,19 @@ https://arxiv.org/abs/2606.20403
 https://arxiv.org/abs/2606.20425
 https://arxiv.org/abs/2606.20440
 
-https://arxiv.org/abs/2606.20445
+* https://arxiv.org/abs/2606.20445 # Space-time duality approach to (inhomogeneous) integrable quenches, Riccardo Travaglino, Pasquale Calabrese, Katja Klobas, Bruno Bertini
 https://arxiv.org/abs/2606.20460
 https://arxiv.org/abs/2606.20466
-https://arxiv.org/abs/2606.20522
-https://arxiv.org/abs/2606.20533
+* https://arxiv.org/abs/2606.20522 # Transfer-matrix functions for algebraically decaying interactions in variational infinite matrix product states, Qi Yang
+* https://arxiv.org/abs/2606.20533 # Magnetic configurations and excitations in high-Tc multilayer nickelates, Jun Zhan, Xianxin Wu, Jiangping Hu
 https://arxiv.org/abs/2606.19020
-https://arxiv.org/abs/2606.19430
+* https://arxiv.org/abs/2606.19430 # Solving Nonequilibrium Dynamics via Influence Matrix Bootstrap: Floquet-PXP Model, Xiao-Yang Yang, He-Ran Wang, Zhong Wang
 https://arxiv.org/abs/2606.19471
 https://arxiv.org/abs/2606.19480
-https://arxiv.org/abs/2606.19601
+* https://arxiv.org/abs/2606.19601 # String dynamics of a (2+1)D U(1) quantum link model on a digital quantum computer, Anthony Gandon, Alessandro Mariani, Debasish Banerjee, Emilie Huffman, Gurtej Kanwar, Francesco Tacchino, Uwe-Jens Wiese, Ivano Tavernelli
 
 https://arxiv.org/abs/2606.19678
-https://arxiv.org/abs/2606.19732
+* https://arxiv.org/abs/2606.19732 # Quantum models with the Yang-Lee phase transition, Erick Arguello Cruz, Grigory Tarnopolsky
 https://arxiv.org/abs/2606.19748
 https://arxiv.org/abs/2606.19873
 https://arxiv.org/abs/2606.20153
