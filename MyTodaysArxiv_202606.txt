@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2606.23738
 https://arxiv.org/abs/2606.23795
-https://arxiv.org/abs/2606.23799
+* https://arxiv.org/abs/2606.23799 # Fermi surface change and d-wave superconductivity in the square lattice Kondo-Heisenberg model, Alexander Nikolaenko, Riccardo Rende, Luciano Loris Viteritti, Subir Sachdev, Ya-Hui Zhang
 https://arxiv.org/abs/2606.23810
 https://arxiv.org/abs/2606.23822
 https://arxiv.org/abs/2606.23828
@@ -13,7 +13,7 @@ https://arxiv.org/abs/2606.24031
 
 https://arxiv.org/abs/2606.24091
 https://arxiv.org/abs/2606.24125
-https://arxiv.org/abs/2606.24126
+* https://arxiv.org/abs/2606.24126 # Fluctuation exchange study on the electron-hole asymmetry of the superconductivity across 1/3 filling in the trilayer Hubbard model, Yushi Yamada, Masataka Kakoi, Masayuki Ochi, Kazuhiko Kuroki
 https://arxiv.org/abs/2606.24150
 https://arxiv.org/abs/2606.24199
 https://arxiv.org/abs/2606.24241
@@ -25,22 +25,22 @@ https://arxiv.org/abs/2606.24494
 https://arxiv.org/abs/2606.24527
 https://arxiv.org/abs/2606.24541
 https://arxiv.org/abs/2606.24580
-https://arxiv.org/abs/2606.24671
+* https://arxiv.org/abs/2606.24671 # Anderson localization on the Bethe lattice, Dafne Prado Bandeira, Angelica Vecchiarelli, Marco Tarzia
 https://arxiv.org/abs/2606.24673
 https://arxiv.org/abs/2606.24674
 https://arxiv.org/abs/2606.24755
 https://arxiv.org/abs/2606.24800
-https://arxiv.org/abs/2606.24803
+* https://arxiv.org/abs/2606.24803 # Introduction to matrix-product states and tensor networks, Gregoire Misguich
 https://arxiv.org/abs/2606.24818
 
 https://arxiv.org/abs/2606.24864
 https://arxiv.org/abs/2606.22679
-https://arxiv.org/abs/2606.23022
+* https://arxiv.org/abs/2606.23022 # Structural symmetry effects on the competition of density waves and superconductivity in bilayer nickelates, Steffen Boetzel, Aiman Al-Eryani, Jun Zhan, Xianxin Wu, Frank Lechermann, Michael M. Scherer, Ilya M. Eremin
 https://arxiv.org/abs/2606.23785
 https://arxiv.org/abs/2606.23803
 https://arxiv.org/abs/2606.23823
 https://arxiv.org/abs/2606.23934
-https://arxiv.org/abs/2606.24185
+* https://arxiv.org/abs/2606.24185 # Initial-state-dependent dephasing effect in non-Hermitian Su-Schrieffer-Heeger models, Tao Min, Junjie Liu
 https://arxiv.org/abs/2606.24713
 
 
