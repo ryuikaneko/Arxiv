@@ -77,7 +77,7 @@ https://arxiv.org/abs/2606.24713
 
 20260623
 
-https://arxiv.org/abs/2606.21813
+* https://arxiv.org/abs/2606.21813 # Prethermal cooling with many-body quantum quenches, Jacob F. Steiner, Mohammad Hafezi, Stefan Kehrein, Gil Refael
 https://arxiv.org/abs/2606.22273
 https://arxiv.org/abs/2606.21953
 https://arxiv.org/abs/2606.21950
@@ -88,22 +88,22 @@ https://arxiv.org/abs/2606.21570
 https://arxiv.org/abs/2606.21355
 https://arxiv.org/abs/2606.21283
 
-https://arxiv.org/abs/2606.21242
+* https://arxiv.org/abs/2606.21242 # Entanglement-entropy analysis of critical and topological quantum phases in a frustrated spin-1/2 Heisenberg ladder, Azadeh Ghannadan, Hana Vargova, Jozef Genzor, Roman Krcmar, Andrej Gendiar
 https://arxiv.org/abs/2606.21192
 https://arxiv.org/abs/2606.23350
 https://arxiv.org/abs/2606.23234
-https://arxiv.org/abs/2606.23117
-https://arxiv.org/abs/2606.22816
+* https://arxiv.org/abs/2606.23117 # Angular-time evolution and edge-spin dynamics in the Haldane phase of the S=1 bilinear-biquadratic chain, Takuma Kaise, Kouichi Okunishi
+* https://arxiv.org/abs/2606.22816 # Isometrization of Tensor Network States via Gauge Propagation, Zhiyu Jiang, Hiroshi Ueda
 https://arxiv.org/abs/2606.22407
 https://arxiv.org/abs/2606.21563
-https://arxiv.org/abs/2606.20791
+* https://arxiv.org/abs/2606.20791 # Neural Wavefunctions in Quantum Field Theory I: Asymptotic Freedom, Paulo F. Bedaque, Hersh Kumar, Suryansh Rajawat, Gregory Ridgway
 https://arxiv.org/abs/2606.20790
 
 https://arxiv.org/abs/2606.23652
 https://arxiv.org/abs/2606.23612
 https://arxiv.org/abs/2606.23592
 https://arxiv.org/abs/2606.23544
-https://arxiv.org/abs/2606.23451
+* https://arxiv.org/abs/2606.23451 # Dissipative preparation of Laughlin-like states, Tong Liu
 https://arxiv.org/abs/2606.23411
 https://arxiv.org/abs/2606.23324
 https://arxiv.org/abs/2606.23262
@@ -113,7 +113,7 @@ https://arxiv.org/abs/2606.22843
 https://arxiv.org/abs/2606.22713
 https://arxiv.org/abs/2606.22517
 https://arxiv.org/abs/2606.22530
-https://arxiv.org/abs/2606.22507
+* https://arxiv.org/abs/2606.22507 # Hierarchy of mixed symmetry protected topological states in extended cluster states under subsystem decoherence, Yoshihito Kuno, Takahiro Orito
 https://arxiv.org/abs/2606.22418
 https://arxiv.org/abs/2606.22405
 https://arxiv.org/abs/2606.22376
