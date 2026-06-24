@@ -11,7 +11,7 @@ https://arxiv.org/abs/2606.23967
 https://arxiv.org/abs/2606.24048
 https://arxiv.org/abs/2606.24170
 
-https://arxiv.org/abs/2606.24205
+* https://arxiv.org/abs/2606.24205 # From Spectral Singularities to Multipartite Entanglement Scaling at Higher-Order Exceptional Points, Chunlai Yang, Shuheng Liu, Xinyao Huang, Kaiye Shi, Qiongyi He
 https://arxiv.org/abs/2606.24238
 https://arxiv.org/abs/2606.24242
 https://arxiv.org/abs/2606.24310
