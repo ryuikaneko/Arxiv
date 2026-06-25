@@ -74,6 +74,17 @@ https://arxiv.org/abs/2606.23934
 * https://arxiv.org/abs/2606.24185 # Initial-state-dependent dephasing effect in non-Hermitian Su-Schrieffer-Heeger models, Tao Min, Junjie Liu
 https://arxiv.org/abs/2606.24713
 
+https://journals.aps.org/prl/abstract/10.1103/vnbs-r69s
+https://journals.aps.org/prl/abstract/10.1103/22h2-jxh4
+https://journals.aps.org/prxquantum/abstract/10.1103/p7c9-x1m9
+https://journals.aps.org/prb/abstract/10.1103/hvlq-d179
+https://journals.aps.org/prb/abstract/10.1103/9vbp-dv48
+https://journals.aps.org/prb/abstract/10.1103/hvzz-8zmt
+https://journals.aps.org/prb/abstract/10.1103/h7z2-rft1
+https://journals.aps.org/prb/abstract/10.1103/9d8q-cjk7
+https://journals.aps.org/prb/abstract/10.1103/kl58-rj3r
+https://journals.aps.org/pra/abstract/10.1103/lldh-d7y1
+
 
 20260623
 
