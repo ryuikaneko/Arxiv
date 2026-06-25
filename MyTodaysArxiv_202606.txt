@@ -13,17 +13,15 @@ https://arxiv.org/abs/2606.25261
 
 https://arxiv.org/abs/2606.25264
 https://arxiv.org/abs/2606.25267
-https://arxiv.org/abs/2606.25397
 https://arxiv.org/abs/2606.25471
-https://arxiv.org/abs/2606.25600
 https://arxiv.org/abs/2606.25650
 https://arxiv.org/abs/2606.25690
 https://arxiv.org/abs/2606.25789
 https://arxiv.org/abs/2606.25870
-https://arxiv.org/abs/2606.25889
-
-https://arxiv.org/abs/2606.25974
+* https://arxiv.org/abs/2606.25889 # Resonant false vacuum decay in two dimensions on a 4000-qubit quantum annealer, Gregor Humar, Jean-Yves Desaules, Luka Pavesic, Marko Ljubotina, Zlatko Papic, Kristel Michielsen, Jaka Vodeb
+* https://arxiv.org/abs/2606.25974 # Tensor network characterization and mitigation of readout errors, Yuchen Guo, Shuo Yang
 https://arxiv.org/abs/2606.26034
+
 https://arxiv.org/abs/2606.26076
 https://arxiv.org/abs/2606.26084
 https://arxiv.org/abs/2606.26085
