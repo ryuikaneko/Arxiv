@@ -1,3 +1,13 @@
+20260629
+
+https://journals.aps.org/prb/abstract/10.1103/j3g1-wrpl
+https://journals.aps.org/prb/abstract/10.1103/22k3-zgsf
+https://journals.aps.org/pra/abstract/10.1103/ngk1-9zy3
+
+
+====
+
+
 20260626
 
 https://arxiv.org/abs/2606.26222
@@ -18,7 +28,7 @@ https://arxiv.org/abs/2606.27040
 https://arxiv.org/abs/2606.27102
 https://arxiv.org/abs/2606.27121
 https://arxiv.org/abs/2606.27132
-https://arxiv.org/abs/2606.27204
+* https://arxiv.org/abs/2606.27204 # Finite temperature precursors of Mottness in the Fermi Hubbard model, Sayantan Roy, Abhisek Samanta, Nandini Trivedi
 https://arxiv.org/abs/2606.27310
 https://arxiv.org/abs/2606.27351
 
