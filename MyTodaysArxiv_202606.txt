@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2606.26162
 https://arxiv.org/abs/2606.26167
 https://arxiv.org/abs/2606.26220
-https://arxiv.org/abs/2606.26233
+* https://arxiv.org/abs/2606.26233 # A fidelity metric for quantum annealing benchmarked by extreme scaling quantum Monte-Carlo simulations, Gabriel Gouraud, Miha Srdinsek, Xavier Waintal
 https://arxiv.org/abs/2606.26235
 https://arxiv.org/abs/2606.26254
 https://arxiv.org/abs/2606.26312
@@ -15,7 +15,7 @@ https://arxiv.org/abs/2606.26542
 https://arxiv.org/abs/2606.26558
 https://arxiv.org/abs/2606.26770
 https://arxiv.org/abs/2606.26798
-https://arxiv.org/abs/2606.26870
+* https://arxiv.org/abs/2606.26870 # Dissipation-Induced Deviations from Kibble-Zurek Scaling in Non-Hermitian Quantum Annealing, H. Najafzadeh, S. Sadeghizade, R. Jafari, A. Langari
 https://arxiv.org/abs/2606.26882
 https://arxiv.org/abs/2606.27017
 https://arxiv.org/abs/2606.27119
@@ -24,11 +24,11 @@ https://arxiv.org/abs/2606.27211
 
 https://arxiv.org/abs/2606.27224
 https://arxiv.org/abs/2606.27231
-https://arxiv.org/abs/2606.27249
+* https://arxiv.org/abs/2606.27249 # Quantum computer architecture with ions in tweezer arrays, Benjamin F. Schiffer, Christopher Monroe, Peter Zoller, J. Ignacio Cirac
 https://arxiv.org/abs/2606.27254
 https://arxiv.org/abs/2606.27266
 https://arxiv.org/abs/2606.27358
-https://arxiv.org/abs/2606.26226
+* https://arxiv.org/abs/2606.26226 # Toric code made subsystem: a framework for topological subsystem codes using anticommuting quantum spin liquids, Vaibhav Sharma, Sumiran Pujari
 https://arxiv.org/abs/2606.26256
 https://arxiv.org/abs/2606.26760
 https://arxiv.org/abs/2606.26865
