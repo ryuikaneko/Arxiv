@@ -1,5 +1,41 @@
 20260630
 
+* https://arxiv.org/abs/2606.28486 # Spectral phase transitions and trainability in neural network learning dynamics, Chanju Park, Dario Bocchi, Francesco D'Amico, Biagio Lucini, Gert Aarts
+https://arxiv.org/abs/2606.28509
+https://arxiv.org/abs/2606.28521
+https://arxiv.org/abs/2606.28549
+https://arxiv.org/abs/2606.28591
+https://arxiv.org/abs/2606.28653
+https://arxiv.org/abs/2606.28735
+https://arxiv.org/abs/2606.28816
+* https://arxiv.org/abs/2606.28855 # Nonequilibrium electron-phonon dynamics with high momentum resolution: Thermalization bottlenecks and the effects of phonon dispersion, Maksymilian Sroda, Philipp Werner
+https://arxiv.org/abs/2606.28877
+
+https://arxiv.org/abs/2606.28892
+https://arxiv.org/abs/2606.28906
+https://arxiv.org/abs/2606.29140
+https://arxiv.org/abs/2606.29249
+https://arxiv.org/abs/2606.29305
+https://arxiv.org/abs/2606.29330
+https://arxiv.org/abs/2606.29470
+https://arxiv.org/abs/2606.29527
+https://arxiv.org/abs/2606.29564
+https://arxiv.org/abs/2606.29717
+
+https://arxiv.org/abs/2606.30176
+* https://arxiv.org/abs/2606.30464 # NQS-Agent: Health-Aware Agentic Hyperparameter Optimization for Neural-Network Quantum States, Jia-Qi Wang, Xiao-Qi Han, Ze-Feng Gao, Rong-Qiang He, Zhong-Yi Lu
+https://arxiv.org/abs/2606.30483
+https://arxiv.org/abs/2606.30540
+https://arxiv.org/abs/2606.30607
+https://arxiv.org/abs/2606.30619
+https://arxiv.org/abs/2606.28485
+https://arxiv.org/abs/2606.28528
+https://arxiv.org/abs/2606.28550
+https://arxiv.org/abs/2606.29459
+
+https://arxiv.org/abs/2606.29539
+https://arxiv.org/abs/2606.29996
+
 https://arxiv.org/abs/2606.30589
 https://arxiv.org/abs/2606.28452
 https://arxiv.org/abs/2606.28483
@@ -88,6 +124,8 @@ https://arxiv.org/abs/2606.30231
 https://arxiv.org/abs/2606.30508
 https://arxiv.org/abs/2606.30539
 
+https://journals.aps.org/prapplied/abstract/10.1103/qz9v-p4j5
+https://journals.aps.org/prapplied/abstract/10.1103/x5xg-whh1
 
 
 20260629
