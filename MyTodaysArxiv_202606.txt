@@ -8,23 +8,23 @@ https://arxiv.org/abs/2606.28518
 https://arxiv.org/abs/2606.28536
 https://arxiv.org/abs/2606.28552
 https://arxiv.org/abs/2606.28640
-https://arxiv.org/abs/2606.28660
+* https://arxiv.org/abs/2606.28660 # Emergence of Thermodynamics from Equilibration in Isolated Quantum Systems, Adalberto D. Varizi, Daniel Jonathan, Thiago R. de Oliveira
 https://arxiv.org/abs/2606.28664
 
 https://arxiv.org/abs/2606.28687
-https://arxiv.org/abs/2606.28750
+* https://arxiv.org/abs/2606.28750 # Dissipative phase decision without ground-state preparation, Hao-En Li, Yilun Yang, Lin Lin
 https://arxiv.org/abs/2606.28784
 https://arxiv.org/abs/2606.28866
 https://arxiv.org/abs/2606.28893
 https://arxiv.org/abs/2606.28952
 https://arxiv.org/abs/2606.28961
-https://arxiv.org/abs/2606.29042
+* https://arxiv.org/abs/2606.29042 # Exact Hilbert-space ergodicity from continuous monitoring, Yue Wu, Yuzhi Tong, Liang Mao, Pengfei Zhang
 https://arxiv.org/abs/2606.29079
-https://arxiv.org/abs/2606.29133
+* https://arxiv.org/abs/2606.29133 # Shadow tomography for classical tensor network simulations, Jiace Sun, Garnet Kin-Lic Chan
 
 https://arxiv.org/abs/2606.29137
 https://arxiv.org/abs/2606.29218
-https://arxiv.org/abs/2606.29235
+* https://arxiv.org/abs/2606.29235 # Imaginary pseudo entropy encodes temporal orientation, Tatsuhiro Misumi
 https://arxiv.org/abs/2606.29276
 https://arxiv.org/abs/2606.29293
 https://arxiv.org/abs/2606.29304
@@ -38,7 +38,7 @@ https://arxiv.org/abs/2606.29647
 https://arxiv.org/abs/2606.29687
 https://arxiv.org/abs/2606.29692
 https://arxiv.org/abs/2606.29739
-https://arxiv.org/abs/2606.29741
+* https://arxiv.org/abs/2606.29741 # Unbiased Hamiltonian Simulation by Reversing Trotter Error Dynamics, Keisuke Murota, Yuta Kikuchi, Enrico Rinaldi, Frederic Sauvage, Synge Todo
 https://arxiv.org/abs/2606.29769
 https://arxiv.org/abs/2606.29770
 https://arxiv.org/abs/2606.29772
@@ -63,7 +63,7 @@ https://arxiv.org/abs/2606.30520
 https://arxiv.org/abs/2606.30525
 https://arxiv.org/abs/2606.30551
 https://arxiv.org/abs/2606.30569
-https://arxiv.org/abs/2606.30601
+* https://arxiv.org/abs/2606.30601 # Provably Efficient Learning of Fermionic Correlations under Particle-Number Symmetry, Yuki Koizumi, Kaito Wada, Toshinori P. Takama, Nobuyuki Yoshioka
 https://arxiv.org/abs/2606.30628
 
 https://arxiv.org/abs/2606.30635
@@ -77,9 +77,9 @@ https://arxiv.org/abs/2606.28894
 https://arxiv.org/abs/2606.29002
 https://arxiv.org/abs/2606.29281
 
-https://arxiv.org/abs/2606.29311
+* https://arxiv.org/abs/2606.29311 # Pseudo entropy and topological phases of matter, Pramod Kamal Kharel, Manghang Limbu, Nabaraj Khatri, Ashish Khanal, Kiran Adhikari
 https://arxiv.org/abs/2606.29316
-https://arxiv.org/abs/2606.29320
+* https://arxiv.org/abs/2606.29320 # Geometric Approach to Zero-Memory Quantum Dot Reservoir Computing, Bongsu Kim, Oscar Lee, Sangjun Jeon, Kun Woo Kim
 https://arxiv.org/abs/2606.29370
 https://arxiv.org/abs/2606.29421
 https://arxiv.org/abs/2606.29827
