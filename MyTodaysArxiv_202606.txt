@@ -1,6 +1,6 @@
 20260630
 
-https://arxiv.org/abs/2606.28034
+https://arxiv.org/abs/2606.30589
 https://arxiv.org/abs/2606.28452
 https://arxiv.org/abs/2606.28483
 https://arxiv.org/abs/2606.28490
@@ -88,7 +88,6 @@ https://arxiv.org/abs/2606.30231
 https://arxiv.org/abs/2606.30508
 https://arxiv.org/abs/2606.30539
 
-https://arxiv.org/abs/2606.30589
 
 
 20260629
