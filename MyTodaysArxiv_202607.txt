@@ -1,5 +1,24 @@
 20260701
 
+https://arxiv.org/abs/2606.30688
+https://arxiv.org/abs/2606.30738
+https://arxiv.org/abs/2606.30741
+https://arxiv.org/abs/2606.30745
+https://arxiv.org/abs/2606.30751
+https://arxiv.org/abs/2606.31165
+https://arxiv.org/abs/2606.31205
+https://arxiv.org/abs/2606.31279
+https://arxiv.org/abs/2606.31568
+https://arxiv.org/abs/2606.31598
+
+https://arxiv.org/abs/2606.31799
+https://arxiv.org/abs/2606.31827
+https://arxiv.org/abs/2606.31837
+https://arxiv.org/abs/2606.31864
+https://arxiv.org/abs/2606.31952
+https://arxiv.org/abs/2606.31697
+https://arxiv.org/abs/2606.31724
+
 https://arxiv.org/abs/2606.28552
 https://arxiv.org/abs/2606.29042
 https://arxiv.org/abs/2606.30762
@@ -7,11 +26,11 @@ https://arxiv.org/abs/2606.30769
 https://arxiv.org/abs/2606.30784
 https://arxiv.org/abs/2606.30808
 https://arxiv.org/abs/2606.30898
-https://arxiv.org/abs/2606.30917
+* https://arxiv.org/abs/2606.30917 # Topological random alloy, Subrata Pachhal, Aziz Hasan, Adhip Agarwala
 https://arxiv.org/abs/2606.30922
 https://arxiv.org/abs/2606.31000
 
-https://arxiv.org/abs/2606.31021
+* https://arxiv.org/abs/2606.31021 # Investigation of the J1-J2 Heisenberg model on the triangular lattice: A study with projected entangled-pair states, Litao Ma, Wei-Lin Tu, Didier Poilblanc, Ji-Yao Chen
 https://arxiv.org/abs/2606.31028
 https://arxiv.org/abs/2606.31067
 https://arxiv.org/abs/2606.31079
