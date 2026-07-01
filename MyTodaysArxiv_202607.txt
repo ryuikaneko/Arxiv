@@ -5,11 +5,11 @@ https://arxiv.org/abs/2606.30738
 https://arxiv.org/abs/2606.30741
 https://arxiv.org/abs/2606.30745
 https://arxiv.org/abs/2606.30751
-https://arxiv.org/abs/2606.31165
+* https://arxiv.org/abs/2606.31165 # Entanglement Structure Across Z_n Phase Transitions in 1D Rydberg Atom Arrays, Hyeonjun Yeo, Kabgyun Jeong, Hyunchul Nha
 https://arxiv.org/abs/2606.31205
 https://arxiv.org/abs/2606.31279
 https://arxiv.org/abs/2606.31568
-https://arxiv.org/abs/2606.31598
+* https://arxiv.org/abs/2606.31598 # Memory-Scalable and Hardware-Adaptive Matrix-Free Quantum Simulation, Uriel Shafir, Ronnie Kosloff
 
 https://arxiv.org/abs/2606.31799
 https://arxiv.org/abs/2606.31827
