@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2607.00040
 https://arxiv.org/abs/2607.00063
 https://arxiv.org/abs/2607.00100
-https://arxiv.org/abs/2607.00131
+* https://arxiv.org/abs/2607.00131 # Work Statistics Under Quantum-Jump and Quench Dynamics in Monitored Ising Chains, Manali Malakar, Alessandro Silva
 https://arxiv.org/abs/2607.00184
 https://arxiv.org/abs/2607.00210
 https://arxiv.org/abs/2607.00235
