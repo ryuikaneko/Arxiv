@@ -13,7 +13,7 @@ https://arxiv.org/abs/2607.00306
 
 https://arxiv.org/abs/2607.00307
 https://arxiv.org/abs/2607.00308
-https://arxiv.org/abs/2607.00365
+* https://arxiv.org/abs/2607.00365 # When AI meets quantum information: A comprehensive review, Min Chen, Yu Gan, Xin Jin, Yuqing Li, Junqi Wang, Zeguan Wu, Yunfei Wang, Bingzhi Zhang, Priyam Srivastava, Tianlong Chen, Ankit Kulshrestha, Yuan Liu, Juan Jose Mendoza-Arenas, Kaushik P. Seshadreesan, Sarvagya Upadhyay, Xueyue Zhang, Quntao Zhuang, Junyu Liu
 https://arxiv.org/abs/2607.00381
 https://arxiv.org/abs/2607.00462
 https://arxiv.org/abs/2607.00490
