@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2607.00126
 https://arxiv.org/abs/2607.00086
-https://arxiv.org/abs/2607.00134
+* https://arxiv.org/abs/2607.00134 # Phase distinction of Gibbs states without symmetry breaking: topological invariants of the 3D toric code, Haruki Watanabe
 https://arxiv.org/abs/2607.00150
 https://arxiv.org/abs/2607.00195
 https://arxiv.org/abs/2607.00271
@@ -15,8 +15,8 @@ https://arxiv.org/abs/2607.00532
 https://arxiv.org/abs/2607.00630
 https://arxiv.org/abs/2607.00662
 https://arxiv.org/abs/2607.00683
-https://arxiv.org/abs/2607.00702
-https://arxiv.org/abs/2607.00762
+* https://arxiv.org/abs/2607.00702 # Weak-coupling tensor cross interpolation impurity solver for nonequilibrium dynamical mean-field theory, Shuta Matsuura, Hiroshi Shinaoka, Philipp Werner, Naoto Tsuji
+* https://arxiv.org/abs/2607.00762 # Deconfined criticality between an antiferromagnetic insulator and a nodal d-wave superconductor: a quantum Monte Carlo study, Chuang Chen, Subir Sachdev, Zi Yang Meng
 https://arxiv.org/abs/2607.00892
 https://arxiv.org/abs/2607.00903
 https://arxiv.org/abs/2607.00997
@@ -25,9 +25,9 @@ https://arxiv.org/abs/2607.01004
 https://arxiv.org/abs/2607.01038
 https://arxiv.org/abs/2607.01052
 https://arxiv.org/abs/2607.01056
-https://arxiv.org/abs/2607.01062
-https://arxiv.org/abs/2607.01076
-https://arxiv.org/abs/2607.01081
+* https://arxiv.org/abs/2607.01062 # Chiral enhancement of two-magnon bound states in an S=1/2 triangular-lattice magnet, Laszlo Rudner, Karlo Penc
+* https://arxiv.org/abs/2607.01076 # Universal Short-Imaginary-Time Quantum Critical Dynamics Near Boundaries, Yu-Rong Shu, Yuan-Biao Li, Shuai Yin
+* https://arxiv.org/abs/2607.01081 # Exact dimer ground states of long-range spin chains and ladders, Jedrzej Wardyn, Milosz Panfil
 https://arxiv.org/abs/2607.01149
 https://arxiv.org/abs/2607.01231
 https://arxiv.org/abs/2607.00082
