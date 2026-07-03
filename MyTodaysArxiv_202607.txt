@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2607.01296
 https://arxiv.org/abs/2607.01320
-https://arxiv.org/abs/2607.01323
+* https://arxiv.org/abs/2607.01323 # Noisy quantum circuit simulation with the tensor jump method, Maximilian Froehlich, Aaron Sander, Martin Eigel, Robert Wille, Michael Hintermüller
 https://arxiv.org/abs/2607.01324
 https://arxiv.org/abs/2607.01326
 https://arxiv.org/abs/2607.01329
