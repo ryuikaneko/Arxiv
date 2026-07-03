@@ -4,26 +4,26 @@ https://arxiv.org/abs/2607.01296
 https://arxiv.org/abs/2607.01320
 * https://arxiv.org/abs/2607.01323 # Noisy quantum circuit simulation with the tensor jump method, Maximilian Froehlich, Aaron Sander, Martin Eigel, Robert Wille, Michael Hintermueller
 https://arxiv.org/abs/2607.01324
-https://arxiv.org/abs/2607.01326
+* https://arxiv.org/abs/2607.01326 # One-Body Purity, Non-Gaussianity, and Entanglement in Interacting Integrable Models, Rafal Swietek, Maksymilian Kliczkowski, Lev Vidmar, Marcos Rigol
 https://arxiv.org/abs/2607.01329
 https://arxiv.org/abs/2607.01332
 https://arxiv.org/abs/2607.01334
 https://arxiv.org/abs/2607.01335
-https://arxiv.org/abs/2607.01336
+* https://arxiv.org/abs/2607.01336 # Mechanistic Interpretability and Causal Feature Steering of Neural Quantum States via Sparse Autoencoders, Zihao Qi, Christopher Earls
 
 https://arxiv.org/abs/2607.01342
 https://arxiv.org/abs/2607.01364
 https://arxiv.org/abs/2607.01422
-https://arxiv.org/abs/2607.01473
+* https://arxiv.org/abs/2607.01473 # Surface code logical operations on a superconducting quantum processor
 https://arxiv.org/abs/2607.01560
 https://arxiv.org/abs/2607.01608
-https://arxiv.org/abs/2607.01624
+* https://arxiv.org/abs/2607.01624 # Shallow Unitary Circuits for Kramers-Wannier Dualities, Yanting Cheng, Shang Liu
 https://arxiv.org/abs/2607.01712
 https://arxiv.org/abs/2607.01787
 https://arxiv.org/abs/2607.01843
 
 https://arxiv.org/abs/2607.01911
-https://arxiv.org/abs/2607.01994
+* https://arxiv.org/abs/2607.01994 # False vacuum decay in a two-dimensional quantum spin system, Luka Pavesic, Ian G. Moss, Simone Montangero
 https://arxiv.org/abs/2607.01998
 https://arxiv.org/abs/2607.02001
 https://arxiv.org/abs/2607.02006
@@ -33,29 +33,29 @@ https://arxiv.org/abs/2607.02146
 https://arxiv.org/abs/2607.02157
 https://arxiv.org/abs/2607.02164
 
-https://arxiv.org/abs/2607.02242
-https://arxiv.org/abs/2607.02341
+* https://arxiv.org/abs/2607.02242 # Computable measures of fermionic non-Gaussianity from the covariance matrix, Poetri Sonya Tarabunga, Bernhard Jobst, Raul Morral-Yepes, Marc Langer, Barbara Kraus, Frank Pollmann, Sheng-Hsuan Lin
+* https://arxiv.org/abs/2607.02341 # Kardar-Parisi-Zhang dynamics in an open integrable system: beyond the spontaneous-symmetry-breaking ansatz, Guo-Qiang Wang, Chang-Ling Zou, Guang-Can Guo, and Xu-Bo Zou
 https://arxiv.org/abs/2607.02346
 https://arxiv.org/abs/2607.02408
 https://arxiv.org/abs/2607.02444
-https://arxiv.org/abs/2607.02462
-https://arxiv.org/abs/2607.02463
+* https://arxiv.org/abs/2607.02462 # Quantum mutual information as a robust probe of integrability in open quantum systems, Nirupam Sen, Keshav Das Agarwal, Aditi Sen De
+* https://arxiv.org/abs/2607.02463 # Topological Control of Quantum Chaos Diagnostics: OTOCs, Spectral Statistics, and Information Scrambling in Ising Model, Reza Pirmoradian, Soheir Rouhani, M. Reza Tanhayi
 https://arxiv.org/abs/2607.02481
 https://arxiv.org/abs/2607.02482
 https://arxiv.org/abs/2607.01341
 
 https://arxiv.org/abs/2607.01446
 https://arxiv.org/abs/2607.01653
-https://arxiv.org/abs/2607.01930
+* https://arxiv.org/abs/2607.01930 # Tuning quantum magic of pure quantum chaotic states with a gravity dual, Antonio M. Garcia-Garcia, Xianlong Liu, Jie-ping Zheng
 https://arxiv.org/abs/2607.01943
 https://arxiv.org/abs/2607.02029
 https://arxiv.org/abs/2607.02058
 https://arxiv.org/abs/2607.02093
 https://arxiv.org/abs/2607.02170
-https://arxiv.org/abs/2607.02292
+* https://arxiv.org/abs/2607.02292 # One More Time: Revisiting Neural Quantum States from a Reinforcement Learning Perspective, Juan Agustin Duque, Sergio Garcia Heredia, Vinicius Hernandes, Eliska Greplova, Thomas Spriggs, Aaron Courville, Anna Dawid
 https://arxiv.org/abs/2607.02359
 
-https://arxiv.org/abs/2607.02506
+* https://arxiv.org/abs/2607.02506 # On the emergence of quantum many-body chaos for tunably-broken integrability, Sounak Biswas, Sthitadhi Roy, Roderich Moessner
 
 https://journals.aps.org/prx/abstract/10.1103/v8ky-vf6d
 https://journals.aps.org/pra/abstract/10.1103/ss6r-ktrr
