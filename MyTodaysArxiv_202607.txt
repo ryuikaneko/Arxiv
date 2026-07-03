@@ -1,5 +1,30 @@
 20260703
 
+https://arxiv.org/abs/2607.01344
+https://arxiv.org/abs/2607.01398
+https://arxiv.org/abs/2607.01434
+https://arxiv.org/abs/2607.01519
+https://arxiv.org/abs/2607.01547
+https://arxiv.org/abs/2607.01720
+* https://arxiv.org/abs/2607.01815 # Evidence for Deconfined Magnetic Order in the Kitaev-J3 Model, Jiucai Wang, Chuan Chen
+https://arxiv.org/abs/2607.01888
+https://arxiv.org/abs/2607.02021
+https://arxiv.org/abs/2607.02094
+
+* https://arxiv.org/abs/2607.02112 # A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku, Venkatesh Vadde, Roman Ovcharov, Victor H. Gonzalez, Roman Khymyn, Artem Litvinenko, Johan Akerman
+https://arxiv.org/abs/2607.02183
+https://arxiv.org/abs/2607.02188
+https://arxiv.org/abs/2607.02221
+https://arxiv.org/abs/2607.02274
+https://arxiv.org/abs/2607.02326
+https://arxiv.org/abs/2607.02358
+https://arxiv.org/abs/2607.02378
+https://arxiv.org/abs/2607.02413
+https://arxiv.org/abs/2607.02422
+
+https://arxiv.org/abs/2607.02172
+https://arxiv.org/abs/2607.02329
+
 https://arxiv.org/abs/2607.01296
 https://arxiv.org/abs/2607.01320
 * https://arxiv.org/abs/2607.01323 # Noisy quantum circuit simulation with the tensor jump method, Maximilian Froehlich, Aaron Sander, Martin Eigel, Robert Wille, Michael Hintermueller
