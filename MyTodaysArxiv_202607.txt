@@ -1,5 +1,7 @@
 20260707
 
+* https://arxiv.org/abs/2607.02746 # CodeJeNN: A simple C++ neural network generator for physics applications, Jay Arcities, Pavel Popov, Eric J Ching, Kamal Viswanath, Ryan F Johnson
+
 https://arxiv.org/abs/2607.02616
 https://arxiv.org/abs/2607.02620
 https://arxiv.org/abs/2607.02622
