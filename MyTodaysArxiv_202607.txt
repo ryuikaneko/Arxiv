@@ -2,14 +2,14 @@
 
 https://arxiv.org/abs/2607.02661
 https://arxiv.org/abs/2607.02667
-https://arxiv.org/abs/2607.02717
+* https://arxiv.org/abs/2607.02717 # Correlation-Induced Topological Reconstruction in a Periodically Driven Kagome Mott Insulator, Rahul Ghosh, Subhajyoti Pal, Ganesh C Paul
 https://arxiv.org/abs/2607.03022
 https://arxiv.org/abs/2607.03032
-https://arxiv.org/abs/2607.03086
+* https://arxiv.org/abs/2607.03086 # Quantum magnetism of the spin-1 kagome-lattice antiferromagnet, Katsuhiro Morita
 https://arxiv.org/abs/2607.03102
 https://arxiv.org/abs/2607.03208
 https://arxiv.org/abs/2607.03294
-https://arxiv.org/abs/2607.03352
+* https://arxiv.org/abs/2607.03352 # What Makes Three-Dimensional Quantum Spin Liquids Possible?, Yasir Iqbal, Ronny Thomale
 
 https://arxiv.org/abs/2607.03363
 https://arxiv.org/abs/2607.03378
@@ -19,10 +19,10 @@ https://arxiv.org/abs/2607.03465
 https://arxiv.org/abs/2607.03534
 https://arxiv.org/abs/2607.03578
 https://arxiv.org/abs/2607.03678
-https://arxiv.org/abs/2607.03762
-https://arxiv.org/abs/2607.03799
+* https://arxiv.org/abs/2607.03762 # Pauli Spectrum and Stabilizer Renyi Entropy in Gapless Symmetry-Protected Topological Phases, Ying-Lin Li, Po-Yao Chang
+* https://arxiv.org/abs/2607.03799 # Measurement-induced spatially nonuniform fluctuations of the local particle number and their crossover in a quasiperiodic free-fermion chain, Toranosuke Matsubara, Kazuki Yamamoto
 
-https://arxiv.org/abs/2607.03845
+* https://arxiv.org/abs/2607.03845 # Quantum tunneling Mpemba effect, Hisao Hayakawa, Satoshi Takada
 https://arxiv.org/abs/2607.03902
 https://arxiv.org/abs/2607.03954
 https://arxiv.org/abs/2607.03961
@@ -35,7 +35,7 @@ https://arxiv.org/abs/2607.04269
 
 https://arxiv.org/abs/2607.04288
 https://arxiv.org/abs/2607.04358
-https://arxiv.org/abs/2607.04621
+* https://arxiv.org/abs/2607.04621 # Orbital-Selective Mott and Antiferromagnetic Phases in Diagonally Compressed Kagome Lattice, Jiewei Ding, Ho-Kin Tang, Wing Chi Yu
 https://arxiv.org/abs/2607.04622
 https://arxiv.org/abs/2607.04771
 https://arxiv.org/abs/2607.04805
@@ -51,7 +51,7 @@ https://arxiv.org/abs/2607.05308
 https://arxiv.org/abs/2607.05328
 https://arxiv.org/abs/2607.05337
 https://arxiv.org/abs/2607.02648
-https://arxiv.org/abs/2607.02673
+* https://arxiv.org/abs/2607.02673 # Quench Spectroscopy of Magnetic Excitations on a Superconducting Quantum Processor, D. A. Millar, G. W. Pennington, N. T. M. Siow, S. Brandhofer, J. Crain, F. H. L. Essler, A. G. Green, S. J. Thomson
 https://arxiv.org/abs/2607.02934
 https://arxiv.org/abs/2607.03039
 
@@ -63,8 +63,8 @@ https://arxiv.org/abs/2607.04075
 https://arxiv.org/abs/2607.04268
 https://arxiv.org/abs/2607.04659
 https://arxiv.org/abs/2607.05015
-https://arxiv.org/abs/2607.05178
-https://arxiv.org/abs/2607.05343
+* https://arxiv.org/abs/2607.05178 # Efficient classical simulation of two-dimensional long-range systems: Rydberg arrays and beyond, Jia-Lin Chan, Tao Xiang, Yantao Wu
+* https://arxiv.org/abs/2607.05343 # Quantum Computational Resources and Conformal Field Theory: Unifying Spins, Bosons, and Fermions, Ryota Matsuda, Masahiro Hoshino, Yuto Ashida
 
 https://journals.aps.org/pre/abstract/10.1103/49zd-8dgw
 https://journals.aps.org/pre/abstract/10.1103/q127-fnz1
