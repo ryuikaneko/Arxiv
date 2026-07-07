@@ -7,7 +7,7 @@ https://arxiv.org/abs/2607.02626
 https://arxiv.org/abs/2607.02652
 https://arxiv.org/abs/2607.02696
 https://arxiv.org/abs/2607.02736
-https://arxiv.org/abs/2607.02767
+* https://arxiv.org/abs/2607.02767 # Self-Attention for Quantum Entanglement Prediction, Anuj Gore, Roopayan Ghosh, Dylan Lewis, Sougato Bose
 https://arxiv.org/abs/2607.02794
 https://arxiv.org/abs/2607.02804
 
@@ -28,12 +28,12 @@ https://arxiv.org/abs/2607.03337
 https://arxiv.org/abs/2607.03340
 https://arxiv.org/abs/2607.03409
 https://arxiv.org/abs/2607.03429
-https://arxiv.org/abs/2607.03438
+* https://arxiv.org/abs/2607.03438 # Dynamical zero modes, boundary dependence, and numerical instability in dynamical quantum phase transitions, Siyan Lin, Xu Feng, Xiuhua Tian, Shu Chen
 https://arxiv.org/abs/2607.03468
-https://arxiv.org/abs/2607.03486
+* https://arxiv.org/abs/2607.03486 # Semiclassical Langevin dynamics of long-range dissipative time crystals, Reyhaneh Khasseh, Rosario Fazio, Angelo Russomanno
 https://arxiv.org/abs/2607.03493
 
-https://arxiv.org/abs/2607.03535
+* https://arxiv.org/abs/2607.03535 # Thermalization hierarchy from irreducible degrees of freedom, Pedro Fittipaldi de Castro, Wladimir A. Benalcazar
 https://arxiv.org/abs/2607.03538
 https://arxiv.org/abs/2607.03779
 https://arxiv.org/abs/2607.03805
@@ -47,7 +47,7 @@ https://arxiv.org/abs/2607.04054
 https://arxiv.org/abs/2607.04082
 https://arxiv.org/abs/2607.04110
 https://arxiv.org/abs/2607.04175
-https://arxiv.org/abs/2607.04279
+* https://arxiv.org/abs/2607.04279 # Weak ergodicity breaking without nonthermal eigenstates, Boning Huang, Yongguan Ke, Li Zhang, Lin Ling, Chaohong Lee
 https://arxiv.org/abs/2607.04320
 https://arxiv.org/abs/2607.04399
 https://arxiv.org/abs/2607.04455
