@@ -1,7 +1,7 @@
 20260708
 
 https://arxiv.org/abs/2607.05447
-https://arxiv.org/abs/2607.05492
+* https://arxiv.org/abs/2607.05492 # Lean-Quantum: Toward AI-Assisted Formalization of Quantum Information, Kazumi Kasaura, Kei Tsukamoto, Kento Mori, Risa Mizuno, Takahiro Namatame, Yuta Oriike, Masaya Taniguchi, Sho Sonoda, Hayata Yamasaki
 https://arxiv.org/abs/2607.05501
 https://arxiv.org/abs/2607.05519
 https://arxiv.org/abs/2607.05578
@@ -24,8 +24,8 @@ https://arxiv.org/abs/2607.06232
 
 https://arxiv.org/abs/2607.06404
 https://arxiv.org/abs/2607.06410
-https://arxiv.org/abs/2607.06472
-https://arxiv.org/abs/2607.06474
+* https://arxiv.org/abs/2607.06472 # Provable learning separation for predicting time-evolution of quantum many-body systems, Rahul Bandyopadhyay, Riccardo Molteni, Jens Eisert, Vedran Dunjko, Sofiene Jerbi
+* https://arxiv.org/abs/2607.06474 # Typical Entanglement of Superpositions, Damien Quinn, Joshuah T. Heath, Graham Kells
 https://arxiv.org/abs/2607.06557
 https://arxiv.org/abs/2607.05448
 https://arxiv.org/abs/2607.05724
