@@ -9,7 +9,7 @@ https://arxiv.org/abs/2607.05900
 https://arxiv.org/abs/2607.06106
 https://arxiv.org/abs/2607.06110
 https://arxiv.org/abs/2607.06146
-https://arxiv.org/abs/2607.06267
+* https://arxiv.org/abs/2607.06267 # Chiral Graviton Modes in Non-Abelian lattice Fractional Quantum Hall states, Zeno Bacciconi, Min Long, Hernan Xavier, Hongyu Lu, Marcello Dalmonte, Zi Yang Meng
 
 https://arxiv.org/abs/2607.06298
 https://arxiv.org/abs/2607.06332
@@ -17,18 +17,18 @@ https://arxiv.org/abs/2607.06390
 https://arxiv.org/abs/2607.06419
 https://arxiv.org/abs/2607.06430
 https://arxiv.org/abs/2607.06448
-https://arxiv.org/abs/2607.06460
-https://arxiv.org/abs/2607.06462
+* https://arxiv.org/abs/2607.06460 # Correlation of maximum superconducting critical temperature with copper-oxygen energy distance and oxygen hole content in the Emery model, Eleanor M. O'Callaghan, Nicolas Kowalski, A.-M. S. Tremblay, Giovanni Sordi
+* https://arxiv.org/abs/2607.06462 # Charge-transfer gap size and oxygen hole content as two mechanisms controlling Tc in the Emery model, Eleanor M. O'Callaghan, Nicolas Kowalski, A.-M. S. Tremblay, Giovanni Sordi
 https://arxiv.org/abs/2607.06463
 https://arxiv.org/abs/2607.06511
 
 https://arxiv.org/abs/2607.06547
 https://arxiv.org/abs/2607.05512
-https://arxiv.org/abs/2607.05611
+* https://arxiv.org/abs/2607.05611 # Entanglement Entropy of Free Fermions on Random Fractal Lattices, Arkadiusz Kosior, Jia Wang
 https://arxiv.org/abs/2607.06050
 https://arxiv.org/abs/2607.06215
 https://arxiv.org/abs/2607.06286
-https://arxiv.org/abs/2607.06293
+* https://arxiv.org/abs/2607.06293 # Calculating strongly correlated ground states from the non-Markovian dissipative dynamics of Gaussian fermions, Giuliano Chiriaco
 https://arxiv.org/abs/2607.06539
 
 https://journals.aps.org/prl/abstract/10.1103/d3fz-5755
