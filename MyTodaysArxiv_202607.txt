@@ -1,3 +1,24 @@
+20260708
+
+https://journals.aps.org/prl/abstract/10.1103/d3fz-5755
+https://journals.aps.org/prl/abstract/10.1103/qprk-k7wn
+https://journals.aps.org/prl/abstract/10.1103/5myp-jksn
+https://journals.aps.org/prl/abstract/10.1103/v4ky-6v45
+https://journals.aps.org/prl/abstract/10.1103/zxtq-d3mk
+https://journals.aps.org/prl/abstract/10.1103/5m4c-5cwx
+https://journals.aps.org/prb/abstract/10.1103/s26s-gd7v
+https://journals.aps.org/prb/abstract/10.1103/d87q-hwqw
+https://journals.aps.org/prb/abstract/10.1103/wl2m-8l4t
+https://journals.aps.org/prb/abstract/10.1103/2dbp-5q6f
+
+https://journals.aps.org/prb/abstract/10.1103/kcfm-n2zx
+https://journals.aps.org/prb/abstract/10.1103/srf2-1f6d
+https://journals.aps.org/pra/abstract/10.1103/7gsd-21tb
+https://journals.aps.org/prresearch/abstract/10.1103/6jk8-w5r8
+https://journals.aps.org/prresearch/abstract/10.1103/qsl5-cyq2
+https://journals.aps.org/prresearch/abstract/10.1103/x7s3-ykb8
+
+
 20260707
 
 * https://arxiv.org/abs/2607.02746 # CodeJeNN: A simple C++ neural network generator for physics applications, Jay Arcities, Pavel Popov, Eric J Ching, Kamal Viswanath, Ryan F Johnson
