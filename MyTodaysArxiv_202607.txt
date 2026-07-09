@@ -1,6 +1,6 @@
 20260709
 
-https://arxiv.org/abs/2607.06689
+* https://arxiv.org/abs/2607.06689 # Local Markov Order and Global Inference in Many-Body Dynamics, Thomas Iadecola
 https://arxiv.org/abs/2607.06711
 https://arxiv.org/abs/2607.06730
 https://arxiv.org/abs/2607.06751
@@ -14,7 +14,7 @@ https://arxiv.org/abs/2607.06969
 https://arxiv.org/abs/2607.07041
 https://arxiv.org/abs/2607.07163
 https://arxiv.org/abs/2607.07199
-https://arxiv.org/abs/2607.07248
+* https://arxiv.org/abs/2607.07248 # Critical SO(5) scaling of entanglement entropy at honeycomb lattice deconfined criticality, Sankalp Kumar, Jonathan D'Emidio, Sumiran Pujari
 https://arxiv.org/abs/2607.07324
 https://arxiv.org/abs/2607.07339
 https://arxiv.org/abs/2607.07341
@@ -23,7 +23,7 @@ https://arxiv.org/abs/2607.07378
 https://arxiv.org/abs/2607.07411
 
 https://arxiv.org/abs/2607.07488
-https://arxiv.org/abs/2607.07501
+* https://arxiv.org/abs/2607.07501 # Crossover and Changeover in Spin-1 Kitaev-Gamma Chain with Uniaxial Single-ion Anisotropy, Qiang Luo, Shijie Hu, Wang Yang, Yuhai Liu, Jinbin Li, Jize Zhao, Xiaoqun Wang
 https://arxiv.org/abs/2607.07556
 https://arxiv.org/abs/2607.07604
 https://arxiv.org/abs/2607.07606
