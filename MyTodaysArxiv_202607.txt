@@ -1,5 +1,36 @@
 20260709
 
+https://arxiv.org/abs/2607.06675
+https://arxiv.org/abs/2607.06752
+https://arxiv.org/abs/2607.06847
+https://arxiv.org/abs/2607.06858
+https://arxiv.org/abs/2607.06953
+https://arxiv.org/abs/2607.06994
+https://arxiv.org/abs/2607.07056
+https://arxiv.org/abs/2607.07081
+https://arxiv.org/abs/2607.07138
+https://arxiv.org/abs/2607.07167
+
+https://arxiv.org/abs/2607.07222
+https://arxiv.org/abs/2607.07223
+https://arxiv.org/abs/2607.07225
+https://arxiv.org/abs/2607.07332
+https://arxiv.org/abs/2607.07338
+https://arxiv.org/abs/2607.07389
+https://arxiv.org/abs/2607.07434
+https://arxiv.org/abs/2607.07445
+https://arxiv.org/abs/2607.07449
+https://arxiv.org/abs/2607.07502
+
+https://arxiv.org/abs/2607.07530
+https://arxiv.org/abs/2607.07560
+https://arxiv.org/abs/2607.07562
+https://arxiv.org/abs/2607.07597
+https://arxiv.org/abs/2607.07634
+https://arxiv.org/abs/2607.07691
+https://arxiv.org/abs/2607.07701
+https://arxiv.org/abs/2607.06584
+
 * https://arxiv.org/abs/2607.06689 # Local Markov Order and Global Inference in Many-Body Dynamics, Thomas Iadecola
 https://arxiv.org/abs/2607.06711
 https://arxiv.org/abs/2607.06730
