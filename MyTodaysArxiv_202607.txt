@@ -2,20 +2,20 @@
 
 https://arxiv.org/abs/2607.06675
 https://arxiv.org/abs/2607.06752
-https://arxiv.org/abs/2607.06847
+* https://arxiv.org/abs/2607.06847 # How thermal is a filtered state?, Yilun Yang, J. Ignacio Cirac, Mari Carmen Banuls
 https://arxiv.org/abs/2607.06858
 https://arxiv.org/abs/2607.06953
 https://arxiv.org/abs/2607.06994
 https://arxiv.org/abs/2607.07056
-https://arxiv.org/abs/2607.07081
-https://arxiv.org/abs/2607.07138
+* https://arxiv.org/abs/2607.07081 # Spectral Chaos Does Not Determine Quantum Mpemba Crossings, Ri-Hua Zheng, Yang Xiao, Yu Wang, Ye-Hong Chen, Yan Xia
+* https://arxiv.org/abs/2607.07138 # Dynamical structure factor with a pumping approach on a trapped-ion quantum computer, Etienne Granet, Keisuke Murota, Henrik Dreyer, Kentaro Yamamoto, Juan Pedersen, Hidemaro Suwa
 https://arxiv.org/abs/2607.07167
 
 https://arxiv.org/abs/2607.07222
 https://arxiv.org/abs/2607.07223
 https://arxiv.org/abs/2607.07225
 https://arxiv.org/abs/2607.07332
-https://arxiv.org/abs/2607.07338
+* https://arxiv.org/abs/2607.07338 # Quantum simulation of real-world nonlinear dynamics via Koopman method, Baoyang Zhang, Dong An, Zhaoyuan Meng, Yefei Yu, Xiaoxiao Xiao, Zhen Lu, Yue Yang
 https://arxiv.org/abs/2607.07389
 https://arxiv.org/abs/2607.07434
 https://arxiv.org/abs/2607.07445
