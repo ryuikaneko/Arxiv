@@ -22,10 +22,10 @@ https://arxiv.org/abs/2607.07789
 https://arxiv.org/abs/2607.07807
 https://arxiv.org/abs/2607.07812
 https://arxiv.org/abs/2607.07868
-https://arxiv.org/abs/2607.07869
+* https://arxiv.org/abs/2607.07869 # Perturbations in the spin-orbital liquid (the Yao-Lee model), A. M. Tsvelik
 
 https://arxiv.org/abs/2607.07948
-https://arxiv.org/abs/2607.08176
+* https://arxiv.org/abs/2607.08176 # Scalable Simulation of Strongly Correlated Electron-Phonon Systems via Non-Gaussian Matrix Product States, Siyuan Jiang, Tao Shi
 https://arxiv.org/abs/2607.08278
 https://arxiv.org/abs/2607.08294
 https://arxiv.org/abs/2607.08353
@@ -37,9 +37,9 @@ https://arxiv.org/abs/2607.08580
 
 https://arxiv.org/abs/2607.08583
 https://arxiv.org/abs/2607.08585
-https://arxiv.org/abs/2607.08589
+* https://arxiv.org/abs/2607.08589 # Universality of Measurement-Induced Criticality under Symmetry-Breaking Measurements, Angelo Russotto, Filiberto Ares, Pasquale Calabrese
 https://arxiv.org/abs/2607.08608
-https://arxiv.org/abs/2607.08616
+* https://arxiv.org/abs/2607.08616 # Accurate Self-Attention Wavefunctions at Large Scale, Filippo Gaggioli, Sam Azadi, Liang Fu
 https://arxiv.org/abs/2607.08702
 https://arxiv.org/abs/2607.08710
 https://arxiv.org/abs/2607.07786
@@ -57,7 +57,7 @@ https://arxiv.org/abs/2607.08568
 https://arxiv.org/abs/2607.08615
 
 https://arxiv.org/abs/2607.08638
-https://arxiv.org/abs/2607.08649
+* https://arxiv.org/abs/2607.08649 # Extracting conformal data from Loschmidt echoes after critical quenches, Aleix Bou-Comas, Stefano Carignano, Sergio Cerezo-Roquebrun, Esperanza Lopez, Luca Tagliacozzo
 https://arxiv.org/abs/2607.08655
 https://arxiv.org/abs/2607.08677
 https://arxiv.org/abs/2607.08708
