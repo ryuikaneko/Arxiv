@@ -14,11 +14,11 @@ https://journals.aps.org/prxquantum/abstract/10.1103/sdlx-d3tn
 20260710
 
 https://arxiv.org/abs/2607.07801
-https://arxiv.org/abs/2607.07714
-https://arxiv.org/abs/2607.07776
+* https://arxiv.org/abs/2607.07714 # Universality and Dynamical Inequivalence in Isospectral Non-Hermitian Anderson Transitions, Aziz Hasan, Anant Vijay Varma, Namit Anand, Sourin Das
+* https://arxiv.org/abs/2607.07776 # Seven- and eight-loop critical exponents of the three-dimensional Ising model, D. Shapoval, Yu. Honchar, B. Delamotte, M. Dudka, Yu. Holovatch
 https://arxiv.org/abs/2607.07789
-https://arxiv.org/abs/2607.07797
-https://arxiv.org/abs/2607.07804
+* https://arxiv.org/abs/2607.07797 # Monte-Carlo solution of the Kondo model, Nicolas Paris, Oscar Bouverot-Dupuis, Christophe Mora
+* https://arxiv.org/abs/2607.07804 # Electron-Phonon Functional Renormalization Group of Fermi Liquid Instabilities, C. Alexander Baum, Matteo Duerrnagel, Ronny Thomale, Lennart Klebl
 https://arxiv.org/abs/2607.07807
 https://arxiv.org/abs/2607.07812
 https://arxiv.org/abs/2607.07868
@@ -43,10 +43,9 @@ https://arxiv.org/abs/2607.08616
 https://arxiv.org/abs/2607.08702
 https://arxiv.org/abs/2607.08710
 https://arxiv.org/abs/2607.07786
-https://arxiv.org/abs/2607.07801
 https://arxiv.org/abs/2607.07802
-
 https://arxiv.org/abs/2607.07835
+
 https://arxiv.org/abs/2607.07845
 https://arxiv.org/abs/2607.07867
 https://arxiv.org/abs/2607.08037
