@@ -17,7 +17,7 @@ https://arxiv.org/abs/2607.08450
 https://arxiv.org/abs/2607.07808
 https://arxiv.org/abs/2607.07816
 https://arxiv.org/abs/2607.07833
-https://arxiv.org/abs/2607.07857
+* https://arxiv.org/abs/2607.07857 # Multi-agent Autoformalization of Tensor Network Theory, Sirui Lu, Erickson Tjoa, J. Ignacio Cirac
 https://arxiv.org/abs/2607.07874
 https://arxiv.org/abs/2607.07942
 https://arxiv.org/abs/2607.08047
