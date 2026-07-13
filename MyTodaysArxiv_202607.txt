@@ -1,9 +1,36 @@
 20260713
 
+https://arxiv.org/abs/2607.08787
+https://arxiv.org/abs/2607.08825
+https://arxiv.org/abs/2607.08826
+https://arxiv.org/abs/2607.08827
+
+https://arxiv.org/abs/2607.08840
+https://arxiv.org/abs/2607.08862
+https://arxiv.org/abs/2607.08890
+https://arxiv.org/abs/2607.08890
+https://arxiv.org/abs/2607.08992
+https://arxiv.org/abs/2607.09019
+https://arxiv.org/abs/2607.09055
+https://arxiv.org/abs/2607.09079
+https://arxiv.org/abs/2607.09140
+https://arxiv.org/abs/2607.09182
+
+https://arxiv.org/abs/2607.09244
+https://arxiv.org/abs/2607.09247
+https://arxiv.org/abs/2607.09274
+https://arxiv.org/abs/2607.09279
+https://arxiv.org/abs/2607.09411
+https://arxiv.org/abs/2607.09427
+https://arxiv.org/abs/2607.09444
+https://arxiv.org/abs/2607.09465
+https://arxiv.org/abs/2607.09470
+https://arxiv.org/abs/2607.09511
+
 https://arxiv.org/abs/2607.09542
 https://arxiv.org/abs/2607.09580
 https://arxiv.org/abs/2607.09652
-https://arxiv.org/abs/2607.07808
+* https://arxiv.org/abs/2607.07808 # Non-Local Magic from the Entanglement Spectrum, Gianpaolo Torre, Fabio Franchini, Salvatore Marco Giampaolo
 https://arxiv.org/abs/2607.08830
 https://arxiv.org/abs/2607.09195
 https://arxiv.org/abs/2607.09396
@@ -17,6 +44,7 @@ https://journals.aps.org/prb/abstract/10.1103/j85h-z664
 https://journals.aps.org/pra/abstract/10.1103/vv11-n11b
 https://journals.aps.org/prresearch/abstract/10.1103/bjxb-8tsk
 https://journals.aps.org/prxquantum/abstract/10.1103/sdlx-d3tn
+https://journals.aps.org/prb/abstract/10.1103/f6mn-jc3r
 
 
 ====
