@@ -6,7 +6,7 @@ https://arxiv.org/abs/2607.08826
 https://arxiv.org/abs/2607.08827
 
 https://arxiv.org/abs/2607.08840
-https://arxiv.org/abs/2607.08862
+* https://arxiv.org/abs/2607.08862 # Loop-current orderings in SU(N) two-leg fermionic ladder through duality symmetries, M. Habchy, F. Rose, P. Lecheminant
 https://arxiv.org/abs/2607.08890
 https://arxiv.org/abs/2607.08890
 https://arxiv.org/abs/2607.08992
@@ -14,7 +14,7 @@ https://arxiv.org/abs/2607.09019
 https://arxiv.org/abs/2607.09055
 https://arxiv.org/abs/2607.09079
 https://arxiv.org/abs/2607.09140
-https://arxiv.org/abs/2607.09182
+* https://arxiv.org/abs/2607.09182 # Topological phase transition driven by Hatsugai-Kohmoto interaction on the Kagome lattice, Zhuo-Xuan Yang, Jiangfan Wang
 
 https://arxiv.org/abs/2607.09244
 https://arxiv.org/abs/2607.09247
