@@ -8,7 +8,7 @@ https://arxiv.org/abs/2607.09893
 https://arxiv.org/abs/2607.09976
 https://arxiv.org/abs/2607.10055
 https://arxiv.org/abs/2607.10057
-https://arxiv.org/abs/2607.10058
+* https://arxiv.org/abs/2607.10058 # Fast and accurate AI-based pre-decoders for color codes, Jan Olle, Christopher Chamberland, Muyuan Li, Igor Baratta
 https://arxiv.org/abs/2607.10218
 
 https://arxiv.org/abs/2607.10227
