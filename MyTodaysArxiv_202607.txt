@@ -19,7 +19,7 @@ https://arxiv.org/abs/2607.10211
 https://arxiv.org/abs/2607.10320
 https://arxiv.org/abs/2607.10328
 https://arxiv.org/abs/2607.10332
-https://arxiv.org/abs/2607.10337
+* https://arxiv.org/abs/2607.10337 # Interwoven long-range order induced by random fields, Jeremiah Bender, Thomas Vojta
 https://arxiv.org/abs/2607.10355
 
 https://arxiv.org/abs/2607.10381
@@ -35,7 +35,7 @@ https://arxiv.org/abs/2607.10857
 
 https://arxiv.org/abs/2607.10865
 https://arxiv.org/abs/2607.10868
-https://arxiv.org/abs/2607.10877
+* https://arxiv.org/abs/2607.10877 # Pinwheel-shaped bound triplet pairs in the magnetization plateaus of SrCu2(BO3)2, Igor Vinograd, Philippe Corboz, Steffen Kraemer, Yanan Li, Frederic Mila, Hiroshi Kageyama, Masashi Takigawa, Mladen Horvatic
 https://arxiv.org/abs/2607.10996
 https://arxiv.org/abs/2607.11009
 https://arxiv.org/abs/2607.11055
@@ -53,7 +53,7 @@ https://arxiv.org/abs/2607.11532
 https://arxiv.org/abs/2607.11554
 https://arxiv.org/abs/2607.11567
 https://arxiv.org/abs/2607.11661
-https://arxiv.org/abs/2607.11662
+* https://arxiv.org/abs/2607.11662 # Emergent quantum chaos from correlations on a random graph, Mrinal Sarkar, Valerio Pagni, Tilman Enss, Nicolo Defenu
 
 https://arxiv.org/abs/2607.11669
 https://arxiv.org/abs/2607.11721
@@ -71,10 +71,10 @@ https://arxiv.org/abs/2607.10454
 https://arxiv.org/abs/2607.10506
 https://arxiv.org/abs/2607.10510
 https://arxiv.org/abs/2607.10561
-https://arxiv.org/abs/2607.10656
+* https://arxiv.org/abs/2607.10656 # Learning Topological Quantum Phases from Limited Subsystems, Mehran Khosrojerdi, Sougato Bose, Alessandro Cuccoli, Paola Verrucchi, Abolfazl Bayat, Leonardo Banchi
 https://arxiv.org/abs/2607.10664
 https://arxiv.org/abs/2607.10765
-https://arxiv.org/abs/2607.10899
+* https://arxiv.org/abs/2607.10899 # Driven Quantum Stars as Controlled Primitives for Real-Time Spin Dynamics, Michael Chertkov
 https://arxiv.org/abs/2607.10921
 
 https://arxiv.org/abs/2607.11206
