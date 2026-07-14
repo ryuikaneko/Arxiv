@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2607.09855
 https://arxiv.org/abs/2607.09857
-https://arxiv.org/abs/2607.09875
+* https://arxiv.org/abs/2607.09875 # Revealing Entanglement-Growth Mechanisms through the Magic Barrier, Lv Zhang, Shi-Xin Zhang, Heng Fan, Shuo Liu
 https://arxiv.org/abs/2607.09882
 https://arxiv.org/abs/2607.09893
 https://arxiv.org/abs/2607.09976
