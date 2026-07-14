@@ -23,7 +23,7 @@ https://arxiv.org/abs/2607.10772
 https://arxiv.org/abs/2607.10899
 
 https://arxiv.org/abs/2607.10958
-https://arxiv.org/abs/2607.11038
+* https://arxiv.org/abs/2607.11038 # Many-Body Physics with Rydberg Atoms: Quantum Simulation and Non-equilibrium Dynamics, Zhengyang Bai, Cheng Chen, Fan Yang, Weibin Li
 https://arxiv.org/abs/2607.11174
 https://arxiv.org/abs/2607.11216
 https://arxiv.org/abs/2607.11217
@@ -44,7 +44,7 @@ https://arxiv.org/abs/2607.11793
 https://arxiv.org/abs/2607.11843
 https://arxiv.org/abs/2607.11856
 
-https://arxiv.org/abs/2607.11882
+* https://arxiv.org/abs/2607.11882 # An efficient algorithm for approximate shadow Hamiltonian simulation, Abhijit Chakraborty, Bharath Sambasivam, Karunya Shirali, Hunter Nelson, Mafalda Ramoa, Sophia E. Economou, Edwin Barnes
 https://arxiv.org/abs/2607.10367
 
 https://arxiv.org/abs/2607.09761
