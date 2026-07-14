@@ -18,7 +18,7 @@ https://arxiv.org/abs/2607.10280
 https://arxiv.org/abs/2607.10281
 https://arxiv.org/abs/2607.10283
 https://arxiv.org/abs/2607.10473
-https://arxiv.org/abs/2607.10714
+* https://arxiv.org/abs/2607.10714 # Nonlocal nonstabilizerness for slightly entangled quantum many-body states, Lei-Yi-Nan Liu, Jian Cui
 https://arxiv.org/abs/2607.10772
 https://arxiv.org/abs/2607.10899
 
