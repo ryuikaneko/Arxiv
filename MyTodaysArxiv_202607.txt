@@ -1,10 +1,10 @@
 20260713
 
-https://arxiv.org/abs/2607.08811
+* https://arxiv.org/abs/2607.08811 # Comment on "Beyond-classical computation in quantum simulation", Wladislaw Krinitsin, Nikita Alert, Matteo Rizzi, Markus Schmitt
 https://arxiv.org/abs/2607.08841
 https://arxiv.org/abs/2607.08911
 https://arxiv.org/abs/2607.08928
-https://arxiv.org/abs/2607.08967
+* https://arxiv.org/abs/2607.08967 # Probing two-spin entanglement at quantum criticality on a quantum processor, Anshumitra Baul, Xiao Xiao, Phillip C. Lotshaw
 https://arxiv.org/abs/2607.09051
 https://arxiv.org/abs/2607.09066
 https://arxiv.org/abs/2607.09118
@@ -17,7 +17,7 @@ https://arxiv.org/abs/2607.09476
 https://arxiv.org/abs/2607.09477
 https://arxiv.org/abs/2607.09508
 https://arxiv.org/abs/2607.09513
-https://arxiv.org/abs/2607.09599
+* https://arxiv.org/abs/2607.09599 # Generalized Nonlinear Imaginary-Time Evolution, Chenyu Shi, Hao Wang, Jin-Fu Chen
 https://arxiv.org/abs/2607.09627
 https://arxiv.org/abs/2607.09632
 https://arxiv.org/abs/2607.09643
