@@ -1,6 +1,6 @@
 20260715
 
-https://arxiv.org/abs/2607.12023
+* https://arxiv.org/abs/2607.12023 # Symmetry-Twisted Multi-Entropies: Order Parameters for 2D SPT Phases, Ramanjit Sohal, Michael Levin, Ruben Verresen
 https://arxiv.org/abs/2607.12027
 https://arxiv.org/abs/2607.12029
 https://arxiv.org/abs/2607.12096
