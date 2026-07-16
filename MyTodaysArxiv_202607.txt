@@ -22,6 +22,15 @@ https://arxiv.org/abs/2607.12585
 * https://arxiv.org/abs/2607.12595 # Halogen control of magnetic competition in Kitaev candidate RuX3 (X= Cl, Br), Ryuta Iwazaki, Shinnosuke Koyama, Takashi Koretsune, Shintaro Hoshino, Joji Nasu
 * https://arxiv.org/abs/2607.12718 # Standard basis operator method for ground-state and temperature properties of single and two-component Bose-Hubbard model, Oliwier Urbanski, Tomasz P. Polak
 
+https://arxiv.org/abs/2607.12925	
+https://arxiv.org/abs/2607.12926
+https://arxiv.org/abs/2607.12955
+https://arxiv.org/abs/2607.12022
+https://arxiv.org/abs/2607.12064
+https://arxiv.org/abs/2607.12581
+https://arxiv.org/abs/2607.12587
+https://arxiv.org/abs/2607.12710
+
 https://journals.aps.org/prb/abstract/10.1103/pgyt-cs59
 https://journals.aps.org/prb/abstract/10.1103/5g5b-5rrz
 https://journals.aps.org/prb/abstract/10.1103/vksd-5gpn
