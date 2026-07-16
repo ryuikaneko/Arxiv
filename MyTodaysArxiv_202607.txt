@@ -8,10 +8,10 @@ https://arxiv.org/abs/2607.12213
 https://arxiv.org/abs/2607.12320
 https://arxiv.org/abs/2607.12323
 https://arxiv.org/abs/2607.12355
-https://arxiv.org/abs/2607.12386
+* https://arxiv.org/abs/2607.12386 # Measurement-induced phase transition in space, Jia-Qiang Li, Liang-Jun Zhai, Shuo Liu, Shuai Yin
 https://arxiv.org/abs/2607.12401
 
-https://arxiv.org/abs/2607.12410
+* https://arxiv.org/abs/2607.12410 # Fractionalized Fermi liquids with the ghost-Gutzwiller Ansatz, Ivan Pasqua, Carlos Mejuto-Zaera, Michele Fabrizio
 https://arxiv.org/abs/2607.12420
 https://arxiv.org/abs/2607.12442
 https://arxiv.org/abs/2607.12484
