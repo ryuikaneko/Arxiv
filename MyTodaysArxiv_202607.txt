@@ -1,7 +1,7 @@
 20260715
 
 * https://arxiv.org/abs/2607.12023 # Symmetry-Twisted Multi-Entropies: Order Parameters for 2D SPT Phases, Ramanjit Sohal, Michael Levin, Ruben Verresen
-https://arxiv.org/abs/2607.12027
+* https://arxiv.org/abs/2607.12027 # Mapping vortices to anyons in toric code phases of generalized Kitaev models, Li Ern Chern, Roderich Moessner, Claudio Castelnovo
 https://arxiv.org/abs/2607.12029
 https://arxiv.org/abs/2607.12096
 https://arxiv.org/abs/2607.12213
@@ -14,13 +14,13 @@ https://arxiv.org/abs/2607.12401
 * https://arxiv.org/abs/2607.12410 # Fractionalized Fermi liquids with the ghost-Gutzwiller Ansatz, Ivan Pasqua, Carlos Mejuto-Zaera, Michele Fabrizio
 https://arxiv.org/abs/2607.12420
 https://arxiv.org/abs/2607.12442
-https://arxiv.org/abs/2607.12484
+* https://arxiv.org/abs/2607.12484 # Solitary waves of attracting SU(N) fermions, Aysha Alsubaihi, Wayne J. Chetcuti, Frederic Chevy, Juan Polo, Luigi Amico
 https://arxiv.org/abs/2607.12498
 https://arxiv.org/abs/2607.12536
 https://arxiv.org/abs/2607.12542
 https://arxiv.org/abs/2607.12585
 https://arxiv.org/abs/2607.12595
-https://arxiv.org/abs/2607.12718
+* https://arxiv.org/abs/2607.12718 # Standard basis operator method for ground-state and temperature properties of single and two-component Bose-Hubbard model, Oliwier Urbanski, Tomasz P. Polak
 
 https://journals.aps.org/prb/abstract/10.1103/pgyt-cs59
 https://journals.aps.org/prb/abstract/10.1103/5g5b-5rrz
