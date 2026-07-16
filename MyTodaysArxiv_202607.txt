@@ -25,7 +25,7 @@ https://arxiv.org/abs/2607.12585
 https://arxiv.org/abs/2607.12925	
 https://arxiv.org/abs/2607.12926
 https://arxiv.org/abs/2607.12955
-https://arxiv.org/abs/2607.12022
+* https://arxiv.org/abs/2607.12022 # Strong-to-Weak Spontaneous Symmetry Breaking from Wormholes in Holography,  Taishi Kawamoto, Kenya Tasuki, Masahito Yamazaki
 https://arxiv.org/abs/2607.12064
 https://arxiv.org/abs/2607.12581
 https://arxiv.org/abs/2607.12587
