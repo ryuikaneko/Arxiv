@@ -6,7 +6,7 @@ https://arxiv.org/abs/2607.14293
 https://arxiv.org/abs/2607.14311
 https://arxiv.org/abs/2607.14370
 https://arxiv.org/abs/2607.14376
-https://arxiv.org/abs/2607.14401
+* https://arxiv.org/abs/2607.14401 # Efficient quantum algorithm for Heisenberg spin systems, Sergey Bravyi, David Gosset, Yinchen Liu, Benjamin Wong
 https://arxiv.org/abs/2607.14441
 https://arxiv.org/abs/2607.14469
 https://arxiv.org/abs/2607.14501
