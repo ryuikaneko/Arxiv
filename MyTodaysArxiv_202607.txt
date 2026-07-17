@@ -1,35 +1,35 @@
 20260717
 
-https://arxiv.org/abs/2607.14221
+* https://arxiv.org/abs/2607.14221 # Spinless charged excitation at the interface between a conventional topological insulator and a topological Mott insulator, Cesar A. Gallegos, Andrew J. Millis, Steven R. White
 https://arxiv.org/abs/2607.14232
-https://arxiv.org/abs/2607.14263
+* https://arxiv.org/abs/2607.14263 # AutoHF: a general Hartree-Fock solver utilizing direct energy minimization with automatic differentiation, Ryan Levy, Brandon Eskridge, Lukas Weber, Miguel A. Morales, Shiwei Zhang
 https://arxiv.org/abs/2607.14383
 https://arxiv.org/abs/2607.14388
 https://arxiv.org/abs/2607.14402
 https://arxiv.org/abs/2607.14520
 https://arxiv.org/abs/2607.14567
 https://arxiv.org/abs/2607.14568
-https://arxiv.org/abs/2607.14766
+* https://arxiv.org/abs/2607.14766 # Emergence of a monopole phase in the J1-J2 Heisenberg model on the triangular lattice for small magnetic fields, Sasank Budaraju, Shi Feng, Josef Willsher, Johannes Knolle, Frank Pollmann, Federico Becca
 
 https://arxiv.org/abs/2607.14829
-https://arxiv.org/abs/2607.14875
+* https://arxiv.org/abs/2607.14875 # Optimization dynamics of Transformer backflow neural quantum states for the two-dimensional Hubbard model, Zong-Yu Liao, Jia-Qi Wang, Rong-Qiang He, Zhong-Yi Lu
 https://arxiv.org/abs/2607.14893
 https://arxiv.org/abs/2607.14917
 https://arxiv.org/abs/2607.15060
 https://arxiv.org/abs/2607.15112
-https://arxiv.org/abs/2607.15158
+* https://arxiv.org/abs/2607.15158 # Fast two-dimensional tensor-network contraction via subspace iteration, Yining Zhang, Philippe Corboz
 https://arxiv.org/abs/2607.15169
 https://arxiv.org/abs/2607.15266
 https://arxiv.org/abs/2607.14384
 
 https://arxiv.org/abs/2607.14549
-https://arxiv.org/abs/2607.14663
+* https://arxiv.org/abs/2607.14663 # Tuning the universality class of a quantum process by Trotterization, Robin Prampain dit Boulan, Jerom Jebai, Hendrik Weimer
 https://arxiv.org/abs/2607.14883
-https://arxiv.org/abs/2607.15030
+* https://arxiv.org/abs/2607.15030 # Implicit differentiation of tensor network algorithms, Lander Burgelman, Anna Francuz, Paul Brehmer, Lukas Devos, Jutho Haegeman, Frank Verstraete, Bram Vanhecke
 https://arxiv.org/abs/2607.15049
-https://arxiv.org/abs/2607.15124
-https://arxiv.org/abs/2607.15132
-https://arxiv.org/abs/2607.15184
+* https://arxiv.org/abs/2607.15124 # On the origin of finite entanglement scaling, Luke Hodgkiss, Laurens Lootens, Atsushi Ueda, Bram Vanhecke, Frank Verstraete
+* https://arxiv.org/abs/2607.15132 # Periodic orbits and quantum many-body scars in integrable spin chains, Elena Petrova, Maksym Serbyn, Marko Ljubotina
+* https://arxiv.org/abs/2607.15184 # Backpropagating Pauli Propagation, Sheng-Hsuan Lin, Etienne Granet, Kevin Hemery, Henrik Dreyer
 https://arxiv.org/abs/2607.15236
 https://arxiv.org/abs/2607.15252
 
