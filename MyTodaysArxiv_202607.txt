@@ -10,6 +10,23 @@ https://journals.aps.org/prresearch/abstract/10.1103/n1tf-8kr7
 
 20260715
 
+https://arxiv.org/abs/2607.11907
+https://arxiv.org/abs/2607.11909
+https://arxiv.org/abs/2607.11911
+https://arxiv.org/abs/2607.11985
+https://arxiv.org/abs/2607.12053
+https://arxiv.org/abs/2607.12055
+https://arxiv.org/abs/2607.12128
+https://arxiv.org/abs/2607.12163
+https://arxiv.org/abs/2607.12174
+https://arxiv.org/abs/2607.12190
+
+https://arxiv.org/abs/2607.12225
+https://arxiv.org/abs/2607.12317
+https://arxiv.org/abs/2607.12444
+https://arxiv.org/abs/2607.12966
+https://arxiv.org/abs/2607.12981
+
 * https://arxiv.org/abs/2607.12023 # Symmetry-Twisted Multi-Entropies: Order Parameters for 2D SPT Phases, Ramanjit Sohal, Michael Levin, Ruben Verresen
 * https://arxiv.org/abs/2607.12027 # Mapping vortices to anyons in toric code phases of generalized Kitaev models, Li Ern Chern, Roderich Moessner, Claudio Castelnovo
 https://arxiv.org/abs/2607.12029
