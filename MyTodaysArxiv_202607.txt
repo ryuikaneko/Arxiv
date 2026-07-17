@@ -1,3 +1,13 @@
+20260716
+
+https://journals.aps.org/prb/abstract/10.1103/vl23-xsyr
+https://journals.aps.org/prb/abstract/10.1103/4kld-1x5d
+https://journals.aps.org/prb/abstract/10.1103/djyg-5jtq
+https://journals.aps.org/pra/abstract/10.1103/4m5r-z4bz
+https://journals.aps.org/pra/abstract/10.1103/mz66-3ty7
+https://journals.aps.org/prresearch/abstract/10.1103/n1tf-8kr7
+
+
 20260715
 
 * https://arxiv.org/abs/2607.12023 # Symmetry-Twisted Multi-Entropies: Order Parameters for 2D SPT Phases, Ramanjit Sohal, Michael Levin, Ruben Verresen
