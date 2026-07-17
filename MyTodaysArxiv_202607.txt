@@ -15,6 +15,16 @@ https://arxiv.org/abs/2607.13993
 https://arxiv.org/abs/2607.13129
 https://arxiv.org/abs/2607.13150
 
+https://arxiv.org/abs/2607.13053
+https://arxiv.org/abs/2607.13166
+https://arxiv.org/abs/2607.13244
+https://arxiv.org/abs/2607.13342
+https://arxiv.org/abs/2607.13351
+https://arxiv.org/abs/2607.13366
+https://arxiv.org/abs/2607.13570
+https://arxiv.org/abs/2607.13790
+* https://arxiv.org/abs/2607.13842 # Post-Critical Meson Dynamics of Kibble-Zurek Excitations in a 5,564-Qubit Quantum Annealer, Francis A. Bayocboc Jr., Jacek Dziarmaga, Marek M. Rams, Jaka Vodeb
+
 https://journals.aps.org/prb/abstract/10.1103/vl23-xsyr
 https://journals.aps.org/prb/abstract/10.1103/4kld-1x5d
 https://journals.aps.org/prb/abstract/10.1103/djyg-5jtq
