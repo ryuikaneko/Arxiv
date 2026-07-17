@@ -1,5 +1,25 @@
 20260717
 
+https://arxiv.org/abs/2607.14212
+https://arxiv.org/abs/2607.14217
+https://arxiv.org/abs/2607.14293
+https://arxiv.org/abs/2607.14311
+https://arxiv.org/abs/2607.14370
+https://arxiv.org/abs/2607.14376
+https://arxiv.org/abs/2607.14401
+https://arxiv.org/abs/2607.14441
+https://arxiv.org/abs/2607.14469
+https://arxiv.org/abs/2607.14501
+
+https://arxiv.org/abs/2607.14861
+https://arxiv.org/abs/2607.14864
+https://arxiv.org/abs/2607.14884
+https://arxiv.org/abs/2607.15210
+https://arxiv.org/abs/2607.14150
+https://arxiv.org/abs/2607.14220
+https://arxiv.org/abs/2607.14988
+https://arxiv.org/abs/2607.13781
+
 * https://arxiv.org/abs/2607.14221 # Spinless charged excitation at the interface between a conventional topological insulator and a topological Mott insulator, Cesar A. Gallegos, Andrew J. Millis, Steven R. White
 https://arxiv.org/abs/2607.14232
 * https://arxiv.org/abs/2607.14263 # AutoHF: a general Hartree-Fock solver utilizing direct energy minimization with automatic differentiation, Ryan Levy, Brandon Eskridge, Lukas Weber, Miguel A. Morales, Shiwei Zhang
