@@ -18,7 +18,7 @@ https://arxiv.org/abs/2607.15210
 https://arxiv.org/abs/2607.14150
 https://arxiv.org/abs/2607.14220
 https://arxiv.org/abs/2607.14988
-https://arxiv.org/abs/2607.13781
+* https://arxiv.org/abs/2607.13781 # jQMC: A JAX-based ab initio quantum Monte Carlo package designed for GPU-accelerated computing, Kousuke Nakano, Michele Casula
 
 * https://arxiv.org/abs/2607.14221 # Spinless charged excitation at the interface between a conventional topological insulator and a topological Mott insulator, Cesar A. Gallegos, Andrew J. Millis, Steven R. White
 https://arxiv.org/abs/2607.14232
@@ -271,7 +271,7 @@ https://arxiv.org/abs/2607.10510
 https://arxiv.org/abs/2607.10561
 * https://arxiv.org/abs/2607.10656 # Learning Topological Quantum Phases from Limited Subsystems, Mehran Khosrojerdi, Sougato Bose, Alessandro Cuccoli, Paola Verrucchi, Abolfazl Bayat, Leonardo Banchi
 https://arxiv.org/abs/2607.10664
-https://arxiv.org/abs/2607.10765
+* https://arxiv.org/abs/2607.10765 # Spectral gap of Lee-Yang Hamiltonians, Chaithanya Rayudu, Jun Takahashi
 * https://arxiv.org/abs/2607.10899 # Driven Quantum Stars as Controlled Primitives for Real-Time Spin Dynamics, Michael Chertkov
 https://arxiv.org/abs/2607.10921
 
