@@ -2,14 +2,14 @@
 
 https://arxiv.org/abs/2607.15307
 https://arxiv.org/abs/2607.15316
-https://arxiv.org/abs/2607.15343
+* https://arxiv.org/abs/2607.15343 # Non-Hermitian Quantum Adiabatic Algorithm, Zi-Bo Jin, Yi Zhang
 https://arxiv.org/abs/2607.15358
 https://arxiv.org/abs/2607.15426
 https://arxiv.org/abs/2607.15493
 https://arxiv.org/abs/2607.15543
 https://arxiv.org/abs/2607.15543
 https://arxiv.org/abs/2607.15597
-https://arxiv.org/abs/2607.15649
+* https://arxiv.org/abs/2607.15649 # Fate of dynamical quantum phase transitions from sudden quench to slow quench limit, Xiang Zhang, Fuxiang Li
 
 https://arxiv.org/abs/2607.15688
 https://arxiv.org/abs/2607.15739
@@ -22,8 +22,8 @@ https://arxiv.org/abs/2607.16030
 https://arxiv.org/abs/2607.16047
 https://arxiv.org/abs/2607.16070
 
-https://arxiv.org/abs/2607.16116
-https://arxiv.org/abs/2607.15350
+* https://arxiv.org/abs/2607.16116 # Quantum-classical crossover in fault-tolerant quantum dynamics simulation
+* https://arxiv.org/abs/2607.15350 # Fragmented ETH: Prethermalization, Timescales, and Ensemble Inequivalence, C. L. Sriram, Soumya Kanti Pal, Lea F. Santos
 https://arxiv.org/abs/2607.15433
 
 
