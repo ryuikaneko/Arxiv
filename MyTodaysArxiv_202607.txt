@@ -1,5 +1,21 @@
 20260720
 
+https://arxiv.org/abs/2607.15346
+https://arxiv.org/abs/2607.15665
+https://arxiv.org/abs/2607.15720
+https://arxiv.org/abs/2607.15763
+https://arxiv.org/abs/2607.15767
+https://arxiv.org/abs/2607.15798
+https://arxiv.org/abs/2607.15902
+https://arxiv.org/abs/2607.15911
+https://arxiv.org/abs/2607.15954
+https://arxiv.org/abs/2607.16039
+
+https://arxiv.org/abs/2607.16150
+https://arxiv.org/abs/2607.15682
+https://arxiv.org/abs/2607.15425
+https://arxiv.org/abs/2607.16026
+
 https://arxiv.org/abs/2607.15307
 https://arxiv.org/abs/2607.15316
 * https://arxiv.org/abs/2607.15343 # Non-Hermitian Quantum Adiabatic Algorithm, Zi-Bo Jin, Yi Zhang
