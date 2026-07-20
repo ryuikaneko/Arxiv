@@ -1,6 +1,6 @@
 20260720
 
-https://arxiv.org/abs/2607.15346
+* https://arxiv.org/abs/2607.15346 # Field-induced first order transitions and phase coexistence in the Kitaev quantum spin liquid candidate BaCo2(AsO4)2, Tanner J. Legvold, Bin Gao, Rong-Zhu Lin, Violet Williams, Tong Chen, Dehong Yu, Chien-Lung Huang, Gage Eichman, Renjie Lui, Benedetta Flebus, Pengcheng Dai, Douglas Natelson
 https://arxiv.org/abs/2607.15665
 https://arxiv.org/abs/2607.15720
 https://arxiv.org/abs/2607.15763
