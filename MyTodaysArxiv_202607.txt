@@ -11,7 +11,7 @@ https://arxiv.org/abs/2607.15911
 https://arxiv.org/abs/2607.15954
 https://arxiv.org/abs/2607.16039
 
-https://arxiv.org/abs/2607.16150
+* https://arxiv.org/abs/2607.16150 # Quantum Fisher information of magnetic quantum phase transition on Kondo lattice, Yuan Fang, Lei Chen, Mounica Mahankali, Fang Xie, Yiming Wang, Shouvik Sur, Qimiao Si
 https://arxiv.org/abs/2607.15682
 https://arxiv.org/abs/2607.15425
 https://arxiv.org/abs/2607.16026
