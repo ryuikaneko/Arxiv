@@ -2,9 +2,9 @@
 
 https://arxiv.org/abs/2607.16301
 https://arxiv.org/abs/2607.16315
-https://arxiv.org/abs/2607.16411
-https://arxiv.org/abs/2607.16415
-https://arxiv.org/abs/2607.16515
+* https://arxiv.org/abs/2607.16411 # Multibath Influence Matrices: Universal Scaling from Real-Time Dynamics, Matan Lotem, Michael Sonner, Valentin Link, Alessio Lerose, Dmitry A. Abanin
+* https://arxiv.org/abs/2607.16415 # J1-J2-delta model on a square lattice: From Altermagnet to Columnar antiferromagnet via quantum disordered phase, Subharthi Paul, Darshan G. Joshi
+* https://arxiv.org/abs/2607.16515 # Stroboscopic stability of a Floquet chiral spin liquid beyond the folding frequency, Didier Poilblanc
 https://arxiv.org/abs/2607.16544
 https://arxiv.org/abs/2607.16566
 https://arxiv.org/abs/2607.16570
@@ -12,10 +12,10 @@ https://arxiv.org/abs/2607.16574
 https://arxiv.org/abs/2607.16579
 
 https://arxiv.org/abs/2607.16663
-https://arxiv.org/abs/2607.16684
+* https://arxiv.org/abs/2607.16684 # A Disconnected Superconducting Regime at the Parent Limit of Infinite-Layer Nickelates, Chihao Li, Yutong Chen, Yaolong Bian, Yihao Zhang, Jiahao Ye, Zhitong An, Xingtian Sun, Yu Fan, Zhihui Chen, Zhanze Wang, Jinglei Zhang, Haichao Xu, Rui Peng, Donglai Feng
 https://arxiv.org/abs/2607.16807
 https://arxiv.org/abs/2607.16820
-https://arxiv.org/abs/2607.16852
+* https://arxiv.org/abs/2607.16852 # Marginal-Fermi-Liquid-like Behavior without Pseudogap in Infinite-Layer Nickelates, Yu Fan, Zhitong An, Xiang Ding, Xingtian Sun, Yutong Chen, Zhihui Chen, Shenglin Tang, Chihao Li, Jiahao Ye, Timur Kim, Haichao Xu, Rui Peng, Donglai Feng
 https://arxiv.org/abs/2607.16856
 https://arxiv.org/abs/2607.16865
 https://arxiv.org/abs/2607.16871
@@ -27,20 +27,20 @@ https://arxiv.org/abs/2607.17027
 https://arxiv.org/abs/2607.17049
 https://arxiv.org/abs/2607.17072
 https://arxiv.org/abs/2607.17146
-https://arxiv.org/abs/2607.17234
+* https://arxiv.org/abs/2607.17234 # Statistical-mechanics of a three-body Hopfield model with finite connectivity, Yushi Sugawara, Koji Hukushima
 https://arxiv.org/abs/2607.17239
 https://arxiv.org/abs/2607.17265
 https://arxiv.org/abs/2607.17334
 https://arxiv.org/abs/2607.17361
 
-https://arxiv.org/abs/2607.17429
+* https://arxiv.org/abs/2607.17429 # GPU-accelerated finite-temperature Lanczos method for Heisenberg spin systems with non-Abelian permutation symmetries, Shadan Ghassemi Tabrizi, Thomas D. Kuehne
 https://arxiv.org/abs/2607.17463
 https://arxiv.org/abs/2607.17703
 https://arxiv.org/abs/2607.17911
 https://arxiv.org/abs/2607.17997
-https://arxiv.org/abs/2607.18028
+* https://arxiv.org/abs/2607.18028 # Universal Dynamic Scaling of 2D Quantum Ising Transition on the Fuzzy Sphere, Meng Zeng, Shuai Yin, Roderich Moessner
 https://arxiv.org/abs/2607.18071
-https://arxiv.org/abs/2607.18094
+* https://arxiv.org/abs/2607.18094 # Symmetry-Based Microscopic Theory of the Unconventional Pairing Mechanism in La5Ni3O11, Guan-Hao Feng, Jun Quan
 https://arxiv.org/abs/2607.18179
 https://arxiv.org/abs/2607.18238
 
@@ -51,14 +51,14 @@ https://arxiv.org/abs/2607.16474
 https://arxiv.org/abs/2607.16642
 https://arxiv.org/abs/2607.16735
 https://arxiv.org/abs/2607.16846
-https://arxiv.org/abs/2607.16958
+* https://arxiv.org/abs/2607.16958 # The Lee-Yang property of the Blume-Capel model, Yuri Kozitsky, Yurij Holovatch
 https://arxiv.org/abs/2607.17012
 https://arxiv.org/abs/2607.17302
 
 https://arxiv.org/abs/2607.17314
 https://arxiv.org/abs/2607.17346
 https://arxiv.org/abs/2607.17469
-https://arxiv.org/abs/2607.17534
+* https://arxiv.org/abs/2607.17534 # Neural Gauge-P Representation for Open Quantum Dynamics of Interacting Bosons, Xiaodong Cao, Zhicheng Zhong
 https://arxiv.org/abs/2607.17680
 https://arxiv.org/abs/2607.17975
 https://arxiv.org/abs/2607.17978
