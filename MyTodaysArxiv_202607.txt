@@ -15,7 +15,7 @@ https://arxiv.org/abs/2607.16410
 https://arxiv.org/abs/2607.16503
 https://arxiv.org/abs/2607.16641
 https://arxiv.org/abs/2607.16667
-https://arxiv.org/abs/2607.16857
+* https://arxiv.org/abs/2607.16857 # Universal Parent Hamiltonians for Adiabatic Warm Starts, Feng Qian, Peter J. Love
 https://arxiv.org/abs/2607.16988
 https://arxiv.org/abs/2607.16996
 https://arxiv.org/abs/2607.17081
