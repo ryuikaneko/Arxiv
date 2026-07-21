@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2607.16271
 https://arxiv.org/abs/2607.16275
 https://arxiv.org/abs/2607.16277
-https://arxiv.org/abs/2607.16278
+* https://arxiv.org/abs/2607.16278 # Number Fluctuations and Entanglement-Spectrum Participation in Monitored Free Fermions, Enso O. Torres Alegre
 https://arxiv.org/abs/2607.16281
 https://arxiv.org/abs/2607.16376
 https://arxiv.org/abs/2607.16385
