@@ -53,6 +53,7 @@ https://arxiv.org/abs/2607.18542
 https://arxiv.org/abs/2607.18546
 * https://arxiv.org/abs/2607.19078 # Lower Bounds on Spectral Gaps of Parent Hamiltonians via Tensor Networks, Milan Adam Rozman, Andras Molnar, Norbert Schuch
 
+https://journals.aps.org/prapplied/abstract/10.1103/rjdv-bxgq
 https://journals.aps.org/pra/abstract/10.1103/5l8p-42fv
 https://journals.aps.org/prl/abstract/10.1103/8p6x-w737
 https://journals.aps.org/prl/abstract/10.1103/c9dr-bpn4
