@@ -8,12 +8,12 @@ https://arxiv.org/abs/2607.18552
 https://arxiv.org/abs/2607.18579
 https://arxiv.org/abs/2607.18740
 https://arxiv.org/abs/2607.18799
-https://arxiv.org/abs/2607.18805
+* https://arxiv.org/abs/2607.18805 # Simulating Majorana fermions in black hole with Ising Models, John Vienn A. Estremadura, Kristian Hauser A. Villegas
 https://arxiv.org/abs/2607.18848
 
-https://arxiv.org/abs/2607.18865
+* https://arxiv.org/abs/2607.18865 # Enhanced NQS via Annealed Gradient Descent, Shiwei Zhou, Yiming Huang, Xiao Yuan, Xiaoxia Cai
 https://arxiv.org/abs/2607.18888
-https://arxiv.org/abs/2607.18938
+* https://arxiv.org/abs/2607.18938 # Coherent-disorder-driven complexity transitions in a quantum-advantage architecture, Sung-Bin B. Lee, Chae-Yeun Park, Changhun Oh, Seung-Sup B. Lee
 https://arxiv.org/abs/2607.19017
 https://arxiv.org/abs/2607.19070
 https://arxiv.org/abs/2607.19097
