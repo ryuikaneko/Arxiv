@@ -28,7 +28,7 @@ https://arxiv.org/abs/2607.20409
 https://arxiv.org/abs/2606.26066
 https://arxiv.org/abs/2607.19468
 https://arxiv.org/abs/2607.19807
-https://arxiv.org/abs/2607.20329
+* https://arxiv.org/abs/2607.20329 # Anticoncentration of the Permanent in Ginibre Ensembles, Frederic Koehler, Pui Kuen Leung
 https://arxiv.org/abs/2607.20412
 
 https://journals.aps.org/prapplied/abstract/10.1103/rjdv-bxgq
