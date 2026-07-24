@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2607.20585
 https://arxiv.org/abs/2607.20602
-https://arxiv.org/abs/2607.20623
+* https://arxiv.org/abs/2607.20623 # Learning the closest Slater determinant, Nisarga Paul, Haimeng Zhao, David D. Dai
 https://arxiv.org/abs/2607.20640
 https://arxiv.org/abs/2607.20707
 https://arxiv.org/abs/2607.20795
@@ -11,7 +11,7 @@ https://arxiv.org/abs/2607.20905
 https://arxiv.org/abs/2607.20919
 https://arxiv.org/abs/2607.20943
 
-https://arxiv.org/abs/2607.20959
+* https://arxiv.org/abs/2607.20959 # Large deviations in quantum dynamics and complexity, Xiangyu Cao, Jorge Kurchan
 https://arxiv.org/abs/2607.20998
 https://arxiv.org/abs/2607.21121
 https://arxiv.org/abs/2607.21175
@@ -37,7 +37,7 @@ https://arxiv.org/abs/2607.21563
 https://arxiv.org/abs/2607.21584
 https://arxiv.org/abs/2607.21148
 https://arxiv.org/abs/2607.21216
-https://arxiv.org/abs/2607.21226
+* https://arxiv.org/abs/2607.21226 # Entanglement asymmetry and quantum Mpemba effect for Kramers-Wannier duality, Milo Vescovo, Pasquale Calabrese, Filiberto Ares
 https://arxiv.org/abs/2607.21266
 https://arxiv.org/abs/2607.21296
 
