@@ -1,5 +1,31 @@
 20260724
 
+https://arxiv.org/abs/2607.20619
+https://arxiv.org/abs/2607.20624
+https://arxiv.org/abs/2607.20627
+https://arxiv.org/abs/2607.20629
+https://arxiv.org/abs/2607.20631
+https://arxiv.org/abs/2607.20663
+https://arxiv.org/abs/2607.20681
+https://arxiv.org/abs/2607.20726
+https://arxiv.org/abs/2607.20728
+https://arxiv.org/abs/2607.21221
+
+https://arxiv.org/abs/2607.21359
+https://arxiv.org/abs/2607.21379
+https://arxiv.org/abs/2607.21430
+https://arxiv.org/abs/2607.21470
+https://arxiv.org/abs/2607.21478
+https://arxiv.org/abs/2607.21507
+https://arxiv.org/abs/2607.21525
+https://arxiv.org/abs/2607.21581
+https://arxiv.org/abs/2607.21583
+https://arxiv.org/abs/2501.11004
+
+https://arxiv.org/abs/2607.20605
+https://arxiv.org/abs/2607.20657
+https://arxiv.org/abs/2607.20917
+
 https://arxiv.org/abs/2607.20585
 https://arxiv.org/abs/2607.20602
 * https://arxiv.org/abs/2607.20623 # Learning the closest Slater determinant, Nisarga Paul, Haimeng Zhao, David D. Dai
