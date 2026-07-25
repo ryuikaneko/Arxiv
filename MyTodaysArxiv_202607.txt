@@ -3,11 +3,11 @@
 https://arxiv.org/abs/2607.20619
 https://arxiv.org/abs/2607.20624
 https://arxiv.org/abs/2607.20627
-https://arxiv.org/abs/2607.20629
+* https://arxiv.org/abs/2607.20629 # Ferromagnetic transition in a chiral spin chain, Yuan Xiao, Rimika Jaiswal, Oleg A. Starykh, Leon Balents
 https://arxiv.org/abs/2607.20631
 https://arxiv.org/abs/2607.20663
 https://arxiv.org/abs/2607.20681
-https://arxiv.org/abs/2607.20726
+* https://arxiv.org/abs/2607.20726 # Exact Nagaoka-to-spiral transition in the doped infinite-U triangular lattice, Yang Zhang, Cristian D. Batista
 https://arxiv.org/abs/2607.20728
 https://arxiv.org/abs/2607.21221
 
