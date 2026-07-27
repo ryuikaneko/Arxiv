@@ -8,7 +8,7 @@ https://arxiv.org/abs/2607.21836
 https://arxiv.org/abs/2607.21907
 https://arxiv.org/abs/2607.21919
 https://arxiv.org/abs/2607.21940
-https://arxiv.org/abs/2607.22088
+* https://arxiv.org/abs/2607.22088 # Weak Permanent Anti-Concentration for Random Gaussian Matrices in Boson Sampling, Fei Meng, Bin Cheng, Jianan Li, Man-Hong Yung
 https://arxiv.org/abs/2607.22154
 
 https://arxiv.org/abs/2607.22466
