@@ -75,9 +75,6 @@ https://journals.aps.org/prb/abstract/10.1103/ck1r-724l
 https://journals.aps.org/pra/abstract/10.1103/cqrd-9drk
 
 
-====
-
-
 20260723
 
 * https://arxiv.org/abs/2607.19465 # Quantum Mott semimetal in a one-dimensional Hubbard mode, Boran Zhou, Taige Wang, Ya-Hui Zhang
