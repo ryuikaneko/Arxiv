@@ -1,15 +1,26 @@
 20260728
 
-https://arxiv.org/abs/2607.21669
+https://arxiv.org/abs/2607.22240
+https://arxiv.org/abs/2607.22273
+https://arxiv.org/abs/2607.22283
+* https://arxiv.org/abs/2607.22296 # Unconventional Z2xZ2xZ2 topological order in the kagome XY toric code, C. Koelbl, M. Vieweg, K.P. Schmidt
+https://arxiv.org/abs/2607.22487
+https://arxiv.org/abs/2607.22488
+* https://arxiv.org/abs/2607.22522 # Exact Neural-Network Representations of the Motzkin States, Runde Zha, Yuntian Gu, Chaohui Fan, Jia-lin Chen, Hai-Jun Liao, Tao Xiang
+https://arxiv.org/abs/2607.22528
+https://arxiv.org/abs/2510.23162
+https://arxiv.org/abs/2607.20899
+
+* https://arxiv.org/abs/2607.21669 # Tunable Mpemba Effect in a Prethermal Many-Body Spin Network, Chaitali Shah, Cooper M. Selco, Leo Joon Il Moon, Ashok Ajoy
 https://arxiv.org/abs/2607.21697
 https://arxiv.org/abs/2607.21698
 https://arxiv.org/abs/2607.21706
-https://arxiv.org/abs/2607.21707
+* https://arxiv.org/abs/2607.21707 # Resolving topological order crossovers on NISQ hardware, Ruizhe Shen, Yin Zhong, Ching Hua Lee
 https://arxiv.org/abs/2607.21728
 https://arxiv.org/abs/2607.22372
 https://arxiv.org/abs/2607.22417
 https://arxiv.org/abs/2607.22451
-https://arxiv.org/abs/2607.22495
+* https://arxiv.org/abs/2607.22495 # Fractal quantum many-body scars and Hamiltonian inverse design from ZX-calculus, Marcin Szyniszewski
 
 
 20260724
