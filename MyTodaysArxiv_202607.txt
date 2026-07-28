@@ -56,6 +56,9 @@ https://arxiv.org/abs/2607.22417
 https://arxiv.org/abs/2607.22451
 * https://arxiv.org/abs/2607.22495 # Fractal quantum many-body scars and Hamiltonian inverse design from ZX-calculus, Marcin Szyniszewski
 
+https://journals.aps.org/prresearch/abstract/10.1103/2pg9-nsn8
+https://journals.aps.org/prresearch/abstract/10.1103/fmpt-dp44
+
 
 20260724
 
