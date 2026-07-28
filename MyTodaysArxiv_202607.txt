@@ -1,5 +1,48 @@
 20260728
 
+https://arxiv.org/abs/2607.22810
+https://arxiv.org/abs/2607.22850
+https://arxiv.org/abs/2607.22853
+https://arxiv.org/abs/2607.23039
+https://arxiv.org/abs/2607.23044
+https://arxiv.org/abs/2607.23048
+https://arxiv.org/abs/2607.23112
+https://arxiv.org/abs/2607.23240
+https://arxiv.org/abs/2607.23276
+https://arxiv.org/abs/2607.23324
+
+https://arxiv.org/abs/2607.23407
+https://arxiv.org/abs/2607.23450
+https://arxiv.org/abs/2607.23463
+https://arxiv.org/abs/2607.23574
+https://arxiv.org/abs/2607.23604
+https://arxiv.org/abs/2607.23630
+https://arxiv.org/abs/2607.23683
+https://arxiv.org/abs/2607.23773
+https://arxiv.org/abs/2607.23816
+https://arxiv.org/abs/2607.23847
+
+https://arxiv.org/abs/2607.23871
+https://arxiv.org/abs/2607.23978
+https://arxiv.org/abs/2607.23988
+https://arxiv.org/abs/2607.23990
+https://arxiv.org/abs/2607.23996
+https://arxiv.org/abs/2607.24014
+https://arxiv.org/abs/2607.24050
+https://arxiv.org/abs/2607.24065
+https://arxiv.org/abs/2607.24129
+https://arxiv.org/abs/2607.24258
+
+https://arxiv.org/abs/2607.24264
+https://arxiv.org/abs/2607.24406
+https://arxiv.org/abs/2607.24429
+https://arxiv.org/abs/2607.24496
+https://arxiv.org/abs/2607.24714
+https://arxiv.org/abs/2607.23090
+https://arxiv.org/abs/2607.23137
+https://arxiv.org/abs/2607.23498
+https://arxiv.org/abs/2607.23510
+
 https://arxiv.org/abs/2607.22831
 https://arxiv.org/abs/2607.22933
 https://arxiv.org/abs/2607.22975
@@ -7,9 +50,9 @@ https://arxiv.org/abs/2607.23103
 https://arxiv.org/abs/2607.23127
 https://arxiv.org/abs/2607.23138
 https://arxiv.org/abs/2607.23173
-https://arxiv.org/abs/2607.23392
+* https://arxiv.org/abs/2607.23392 # Hyperdeterminant wavefunctions, Guan-Lin Lin, Di Xiao, Ying Ran
 https://arxiv.org/abs/2607.23547
-https://arxiv.org/abs/2607.23579
+* https://arxiv.org/abs/2607.23579 # Permutationally Invariant Quantum State Tomography for Fermions, Shion Yamashika, Daisuke Yamamoto
 
 https://arxiv.org/abs/2607.23603
 https://arxiv.org/abs/2607.23654
@@ -17,16 +60,16 @@ https://arxiv.org/abs/2607.23695
 https://arxiv.org/abs/2607.24070
 https://arxiv.org/abs/2607.24102
 https://arxiv.org/abs/2607.24152
-https://arxiv.org/abs/2607.24231
+* https://arxiv.org/abs/2607.24231 # Distinct finite-temperature phase diagrams of non-invertible Kennedy--Tasaki duals, Weiguang Cao, Haruki Watanabe
 https://arxiv.org/abs/2607.24252
 https://arxiv.org/abs/2607.24455
 https://arxiv.org/abs/2607.24456
 
 https://arxiv.org/abs/2607.24478
-https://arxiv.org/abs/2607.24549
+* https://arxiv.org/abs/2607.24549 # Self-energy pole optimization of superconductivity in the bilayer Hubbard model, Taka-Shi Fujiwara, Shiro Sakai, Ryotaro Arita
 https://arxiv.org/abs/2607.24599
 https://arxiv.org/abs/2607.24619
-https://arxiv.org/abs/2607.24679
+* https://arxiv.org/abs/2607.24679 # Sign-optimized Quantum Monte Carlo, Julius S. Herz, Robin Schaefer, Matias G. Gonzalez, David J. Luitz
 https://arxiv.org/abs/2607.24690
 https://arxiv.org/abs/2607.22596
 https://arxiv.org/abs/2607.22755
