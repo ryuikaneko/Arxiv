@@ -22,7 +22,7 @@ https://arxiv.org/abs/2607.23773
 https://arxiv.org/abs/2607.23816
 https://arxiv.org/abs/2607.23847
 
-https://arxiv.org/abs/2607.23871
+* https://arxiv.org/abs/2607.23871 # Entanglement transitions and multifractality in monitored free-fermions with random long-range hopping, Bo Fan, Antonio M. Garcia-Garcia
 https://arxiv.org/abs/2607.23978
 https://arxiv.org/abs/2607.23988
 https://arxiv.org/abs/2607.23990
@@ -31,7 +31,7 @@ https://arxiv.org/abs/2607.24014
 https://arxiv.org/abs/2607.24050
 https://arxiv.org/abs/2607.24065
 https://arxiv.org/abs/2607.24129
-https://arxiv.org/abs/2607.24258
+* https://arxiv.org/abs/2607.24258 # MPStab: an hybrid stabilizers tensor-network quantum circuit simulator, Giulio Crognaletti, Mattia Robbiano, Michele Grossi, Matteo Robbiati
 
 https://arxiv.org/abs/2607.24264
 https://arxiv.org/abs/2607.24406
