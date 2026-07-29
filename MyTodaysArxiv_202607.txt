@@ -1,5 +1,25 @@
 20260729
 
+https://arxiv.org/abs/2607.24851
+https://arxiv.org/abs/2607.24853
+https://arxiv.org/abs/2607.24858
+https://arxiv.org/abs/2607.24947
+https://arxiv.org/abs/2607.24968
+https://arxiv.org/abs/2607.24988
+https://arxiv.org/abs/2607.24992
+https://arxiv.org/abs/2607.25062
+https://arxiv.org/abs/2607.25427
+https://arxiv.org/abs/2607.25496
+
+https://arxiv.org/abs/2607.25779
+https://arxiv.org/abs/2607.25812
+https://arxiv.org/abs/2607.25834
+https://arxiv.org/abs/2607.25838
+https://arxiv.org/abs/2607.25865
+https://arxiv.org/abs/2607.25899
+https://arxiv.org/abs/2509.03588
+https://arxiv.org/abs/2607.25647
+
 https://arxiv.org/abs/2607.24905
 https://arxiv.org/abs/2607.24925
 https://arxiv.org/abs/2607.24936
@@ -12,7 +32,7 @@ https://arxiv.org/abs/2607.25030
 https://arxiv.org/abs/2607.25172
 
 https://arxiv.org/abs/2607.25212
-https://arxiv.org/abs/2607.25256
+* https://arxiv.org/abs/2607.25256 # Anomalous entanglement scaling from eigenvector nonorthogonality in critical non-Hermitian free fermions, Zhenyu Xiao, Shinsei Ryu
 https://arxiv.org/abs/2607.25359
 https://arxiv.org/abs/2607.25411
 https://arxiv.org/abs/2607.25424
@@ -27,10 +47,10 @@ https://arxiv.org/abs/2607.25660
 https://arxiv.org/abs/2607.25757
 https://arxiv.org/abs/2607.25767
 https://arxiv.org/abs/2607.25782
-https://arxiv.org/abs/2607.25872
-https://arxiv.org/abs/2607.25909
-https://arxiv.org/abs/2607.25938
-https://arxiv.org/abs/2607.25983
+* https://arxiv.org/abs/2607.25872 # Scaling universal Fermi network toward ground states: A diffusion-Monte-Carlo assessment, Yu-Sheng Li, Saskia Poldmaa, Tzen Ong, Ahmed Abouelkomsan, Tay-Rong Chang, Hsin Lin, Liang Fu
+* https://arxiv.org/abs/2607.25909 # Charge-6e superconductivity from doping SU(3) spin liquids, Yan-Qi Wang, Boran Zhou, Hui Yang, Zhi-Qiang Gao
+* https://arxiv.org/abs/2607.25938 # Interacting hydrodynamic modes in spinless fermions with dephasing noise, Fabian H.L. Essler, Patrik Penc
+* https://arxiv.org/abs/2607.25983 # Superfluidity without charge order in the attractive Hubbard model on the kagome lattice, Xiaodong Jin, Yingping Mou, Rubem Mondaini
 https://arxiv.org/abs/2607.26008
 
 https://arxiv.org/abs/2607.26018
@@ -38,7 +58,7 @@ https://arxiv.org/abs/2607.26026
 https://arxiv.org/abs/2505.23028
 https://arxiv.org/abs/2607.24908
 https://arxiv.org/abs/2607.24909
-https://arxiv.org/abs/2607.24924
+* https://arxiv.org/abs/2607.24924 # Efficient computation of real-time correlators using Pauli Propagation, Alexander F. Kemper, Raghav G. Jha, Arnab Bachhar, Goksu C. Toga, Mariano Guerrero Perez, Nicholas J. Mayhall
 https://arxiv.org/abs/2607.24937
 https://arxiv.org/abs/2607.24946
 https://arxiv.org/abs/2607.24961
