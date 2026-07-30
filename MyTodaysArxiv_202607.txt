@@ -1,7 +1,37 @@
 20260730
 
+https://arxiv.org/abs/2607.26154
+https://arxiv.org/abs/2607.26157
+https://arxiv.org/abs/2607.26214
+https://arxiv.org/abs/2607.26349
+https://arxiv.org/abs/2607.26445
+https://arxiv.org/abs/2607.26477
+https://arxiv.org/abs/2607.26480
+https://arxiv.org/abs/2607.26486
+https://arxiv.org/abs/2607.26711
+https://arxiv.org/abs/2607.26745
+
+https://arxiv.org/abs/2607.26761
+https://arxiv.org/abs/2607.26925
+https://arxiv.org/abs/2607.26978
+https://arxiv.org/abs/2607.27013
+https://arxiv.org/abs/2607.27015
+https://arxiv.org/abs/2607.27025
+https://arxiv.org/abs/2607.27051
+https://arxiv.org/abs/2607.27060
+https://arxiv.org/abs/2607.27075
+https://arxiv.org/abs/2607.27111
+
+https://arxiv.org/abs/2607.27116
+https://arxiv.org/abs/2607.27153
+https://arxiv.org/abs/2607.27168
+https://arxiv.org/abs/2607.27185
+https://arxiv.org/abs/2607.27195
+https://arxiv.org/abs/2607.27206
+https://arxiv.org/abs/2607.26208
+
 https://arxiv.org/abs/2607.26150
-https://arxiv.org/abs/2607.26151
+* https://arxiv.org/abs/2607.26151 # Quantum spin-glass criticality in disordered frustrated dimer magnets, Darshan G. Joshi, Matthias Vojta
 https://arxiv.org/abs/2607.26162
 https://arxiv.org/abs/2607.26251
 https://arxiv.org/abs/2607.26289
@@ -13,18 +43,18 @@ https://arxiv.org/abs/2607.26516
 
 https://arxiv.org/abs/2607.26620
 https://arxiv.org/abs/2607.26662
-https://arxiv.org/abs/2607.26676
+* https://arxiv.org/abs/2607.26676 # Electronically Inactive Intercalated La2NiO4 Layer in Superconducting La5Ni3O11, Tianyang Xie, Yuxin Wang, Zhan Wang, Kun Jiang, Jiangping Hu
 https://arxiv.org/abs/2607.26869
 https://arxiv.org/abs/2607.27045
 https://arxiv.org/abs/2607.27061
 https://arxiv.org/abs/2607.27107
 https://arxiv.org/abs/2607.25445
 https://arxiv.org/abs/2607.26131
-https://arxiv.org/abs/2607.26132
+* https://arxiv.org/abs/2607.26132 # Quantum Phase Diagram of the 2+1D Untruncated SU(2) Lattice Gauge Theory with Dynamical Fermions, Gabriel Rouxinol, Julian Bender, Patrick Emonts, Michele Grossi, Jad C. Halimeh
 
-https://arxiv.org/abs/2607.26142
+* https://arxiv.org/abs/2607.26142 # State preparation and detection for quantum simulation of particle collisions, Federica Maria Surace, Sary Bseiso, John Preskill
 https://arxiv.org/abs/2607.26146
-https://arxiv.org/abs/2607.26156
+* https://arxiv.org/abs/2607.26156 # Role of flavor degrees of freedom in quantum simulations of disorder-free localization, Yizhuo Tian, Jared Jeyaretnam, Tanmay Bhore, Zlatko Papic, Jad C. Halimeh
 https://arxiv.org/abs/2607.26539
 https://arxiv.org/abs/2607.26707
 https://arxiv.org/abs/2607.26975
