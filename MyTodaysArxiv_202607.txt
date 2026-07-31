@@ -4,7 +4,7 @@ https://arxiv.org/abs/2607.27247
 https://arxiv.org/abs/2607.27257
 https://arxiv.org/abs/2607.27262
 https://arxiv.org/abs/2607.27339
-https://arxiv.org/abs/2607.27358
+* https://arxiv.org/abs/2607.27358 # Geometry-Induced Domain-Wall Pinning and Z2 Asymmetry in Nominally One-Dimensional Rydberg Arrays, Elijah Pelofske, Frank Barrows, Cristiano Nisoli
 https://arxiv.org/abs/2607.27388
 https://arxiv.org/abs/2607.27449
 https://arxiv.org/abs/2607.27509
@@ -16,9 +16,9 @@ https://arxiv.org/abs/2607.27841
 https://arxiv.org/abs/2607.27892
 https://arxiv.org/abs/2607.27945
 https://arxiv.org/abs/2607.27947
-https://arxiv.org/abs/2607.27985
+* https://arxiv.org/abs/2607.27985 # Bridging continuous control and Floquet driving for charging many-body spin chains, Sebastian V. Romero, Xi Chen, Yue Ban
 https://arxiv.org/abs/2607.28120
-https://arxiv.org/abs/2607.28383
+* https://arxiv.org/abs/2607.28383 # Counterdiabatic Driving under Variational Frame Dressing, Boxi Li, Franco Nori, Felix Motzoi
 https://arxiv.org/abs/2607.28521
 https://arxiv.org/abs/2607.28536
 
@@ -30,13 +30,13 @@ https://arxiv.org/abs/2607.28600
 https://arxiv.org/abs/2607.28602
 https://arxiv.org/abs/2607.28605
 https://arxiv.org/abs/2607.28610
-https://arxiv.org/abs/2607.27550
-https://arxiv.org/abs/2607.27745
+* https://arxiv.org/abs/2607.27550 # Confinement and String Breaking in the Compact Abelian Higgs Model, Blake Senseman, Zane Ozzello, Yannick Meurice, Stephen Mrenna
+* https://arxiv.org/abs/2607.27745 # Trion Excitations in Twisted Bilayer Graphene: A Quantum Monte Carlo Study, Shibo Shan, Cheng Huang, Patrick Ledwith, Zi Yang Meng
 
 https://arxiv.org/abs/2607.27999
 https://arxiv.org/abs/2607.28255
 https://arxiv.org/abs/2607.28369
-https://arxiv.org/abs/2607.28486
+* https://arxiv.org/abs/2607.28486 # Hayden--Preskill recovery at finite temperature on a quantum processor: dynamics and initial state from the SYK model, Jeongho Bang, Moongul Byun, Kyoungho Cho, Keun-Young Kim, Hyeonsoo Lee
 https://arxiv.org/abs/2607.28524
 https://arxiv.org/abs/2607.28548
 * https://arxiv.org/abs/2607.28579 # Quantum Chaos and Diffusive Transport from Geometric Randomness, Bibek Saha, Abhishek Dhar, Sthitadhi Roy
