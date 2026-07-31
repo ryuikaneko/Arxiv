@@ -39,7 +39,7 @@ https://arxiv.org/abs/2607.28369
 https://arxiv.org/abs/2607.28486
 https://arxiv.org/abs/2607.28524
 https://arxiv.org/abs/2607.28548
-https://arxiv.org/abs/2607.28579
+* https://arxiv.org/abs/2607.28579 # Quantum Chaos and Diffusive Transport from Geometric Randomness, Bibek Saha, Abhishek Dhar, Sthitadhi Roy
 
 https://journals.aps.org/prb/abstract/10.1103/pr64-j9c2
 https://journals.aps.org/prb/abstract/10.1103/y3sq-8knz
