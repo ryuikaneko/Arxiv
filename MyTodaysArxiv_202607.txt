@@ -1,9 +1,13 @@
 20260731
 
+https://arxiv.org/abs/2607.28181
+https://arxiv.org/abs/2607.28364
+https://arxiv.org/abs/2607.28554
+
 https://arxiv.org/abs/2607.28335
 https://arxiv.org/abs/2607.28365
 https://arxiv.org/abs/2607.28471
-https://arxiv.org/abs/2607.28537
+* https://arxiv.org/abs/2607.28537 # Graph Neural Network Force Fields for Spin Dynamics in Metallic Magnets, Ali Rayat, Yunhao Fan, Gia-Wei Chern
 https://arxiv.org/abs/2607.28613
 https://arxiv.org/abs/2607.27077
 https://arxiv.org/abs/2607.27236
@@ -16,7 +20,7 @@ https://arxiv.org/abs/2607.27693
 https://arxiv.org/abs/2607.27769
 https://arxiv.org/abs/2607.27833
 https://arxiv.org/abs/2607.27848
-https://arxiv.org/abs/2607.27916
+* https://arxiv.org/abs/2607.27916 # Finite-size effects and interaction-driven crossovers in quarter-filled attractive Hubbard model: Exact diagonalization, DMRG and machine-learning analysis, Md Fahad Equbal, Satoru Hayami
 https://arxiv.org/abs/2607.28085
 https://arxiv.org/abs/2607.28106
 https://arxiv.org/abs/2607.28173
