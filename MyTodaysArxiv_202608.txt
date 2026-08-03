@@ -1,5 +1,31 @@
 20260803
 
+https://arxiv.org/abs/2607.28731
+https://arxiv.org/abs/2607.28734
+https://arxiv.org/abs/2607.28744
+https://arxiv.org/abs/2607.28781
+https://arxiv.org/abs/2607.28786
+https://arxiv.org/abs/2607.28805
+https://arxiv.org/abs/2607.28807
+https://arxiv.org/abs/2607.28983
+https://arxiv.org/abs/2607.29006
+https://arxiv.org/abs/2607.29030
+
+https://arxiv.org/abs/2607.29049
+https://arxiv.org/abs/2607.29174
+https://arxiv.org/abs/2607.29292
+https://arxiv.org/abs/2607.29309
+https://arxiv.org/abs/2607.29392
+https://arxiv.org/abs/2607.29554
+https://arxiv.org/abs/2607.29590
+https://arxiv.org/abs/2607.29620
+https://arxiv.org/abs/2607.29630
+https://arxiv.org/abs/2607.29647
+
+https://arxiv.org/abs/2607.28811
+https://arxiv.org/abs/2607.28845
+https://arxiv.org/abs/2607.29356
+
 https://arxiv.org/abs/2607.28702
 * https://arxiv.org/abs/2607.28730 # Quantum Resources in Disorder-Free Localization Dynamics of Gauge Theories, Devendra Singh Bhakuni, Giovanni Cataldi, Jad C. Halimeh, Emanuele Tirrito
 * https://arxiv.org/abs/2607.28753 # Gaussian-augmented bosonic matrix-product states: theory and applications, Erickson Tjoa, J. Ignacio Cirac
