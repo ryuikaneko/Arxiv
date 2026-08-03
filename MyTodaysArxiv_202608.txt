@@ -8,7 +8,7 @@ https://arxiv.org/abs/2607.28786
 https://arxiv.org/abs/2607.28805
 https://arxiv.org/abs/2607.28807
 https://arxiv.org/abs/2607.28983
-https://arxiv.org/abs/2607.29006
+* https://arxiv.org/abs/2607.29006 # Critical Phases of the extended isotropic XY chain with four-spin interaction, Nika Kurdadze, Giorgi Gogabedashvili, G.I. Japaridze
 https://arxiv.org/abs/2607.29030
 
 https://arxiv.org/abs/2607.29049
