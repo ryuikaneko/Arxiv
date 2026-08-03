@@ -7,7 +7,7 @@ https://arxiv.org/abs/2607.28781
 https://arxiv.org/abs/2607.28786
 https://arxiv.org/abs/2607.28805
 https://arxiv.org/abs/2607.28807
-https://arxiv.org/abs/2607.28983
+* https://arxiv.org/abs/2607.28983 # Generalized Holstein-Primakoff transformation with optimizable bosonic truncation, Yang Liu, Jia-Wei Mei, Rong Yu, Z. Y. Xie, Hong-Gang Luo, Jize Zhao
 * https://arxiv.org/abs/2607.29006 # Critical Phases of the extended isotropic XY chain with four-spin interaction, Nika Kurdadze, Giorgi Gogabedashvili, G.I. Japaridze
 https://arxiv.org/abs/2607.29030
 
