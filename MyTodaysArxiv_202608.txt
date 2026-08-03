@@ -1,8 +1,8 @@
 20260803
 
 https://arxiv.org/abs/2607.28702
-https://arxiv.org/abs/2607.28730
-https://arxiv.org/abs/2607.28753
+* https://arxiv.org/abs/2607.28730 # Quantum Resources in Disorder-Free Localization Dynamics of Gauge Theories, Devendra Singh Bhakuni, Giovanni Cataldi, Jad C. Halimeh, Emanuele Tirrito
+* https://arxiv.org/abs/2607.28753 # Gaussian-augmented bosonic matrix-product states: theory and applications, Erickson Tjoa, J. Ignacio Cirac
 https://arxiv.org/abs/2607.28783
 https://arxiv.org/abs/2607.28866
 https://arxiv.org/abs/2607.28922
@@ -13,12 +13,12 @@ https://arxiv.org/abs/2607.29012
 
 https://arxiv.org/abs/2607.29134
 https://arxiv.org/abs/2607.29145
-https://arxiv.org/abs/2607.29165
+* https://arxiv.org/abs/2607.29165 # Entanglement in bipartite systems with symmetry: coupled chaotic kicked Bose-Hubbard systems, J. Himmelsbach, M. F. I. Kieler, A. Baecker
 https://arxiv.org/abs/2607.29186
 https://arxiv.org/abs/2607.29219
 https://arxiv.org/abs/2607.29313
 https://arxiv.org/abs/2607.29339
-https://arxiv.org/abs/2607.29382
+* https://arxiv.org/abs/2607.29382 # Algebraic Speedups for Exact Inversion of Hamiltonian Evolutions, Jizhe Lai, Mingrui Jing, Erdong Huang, Xin Wang
 https://arxiv.org/abs/2607.29418
 https://arxiv.org/abs/2607.29443
 
@@ -30,13 +30,13 @@ https://arxiv.org/abs/2607.29670
 https://arxiv.org/abs/2607.29680
 https://arxiv.org/abs/2607.28422
 https://arxiv.org/abs/2607.28724
-https://arxiv.org/abs/2607.28740
+* https://arxiv.org/abs/2607.28740 # Gapped Parent Hamiltonians for the Strongly Deformed Toric Code, Nandagopal Manoj, Zack Weinstein, Jason Alicea
 https://arxiv.org/abs/2607.29396
 
 https://arxiv.org/abs/2607.29432
 https://arxiv.org/abs/2607.29485
 https://arxiv.org/abs/2607.29615
-https://arxiv.org/abs/2607.29660
+* https://arxiv.org/abs/2607.29660 # A Simple Necessary and Sufficient Condition for Yang--Baxter Integrability, Mizuki Sanatani, Naoto Shiraishi, Fuga Ishii
 
 https://journals.aps.org/prxquantum/abstract/10.1103/r78y-3q89
 https://journals.aps.org/prb/abstract/10.1103/1j4p-258m
