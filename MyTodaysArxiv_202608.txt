@@ -23,7 +23,7 @@ https://arxiv.org/abs/2608.01011
 https://arxiv.org/abs/2608.01121
 
 https://arxiv.org/abs/2608.01124
-https://arxiv.org/abs/2608.01194
+* https://arxiv.org/abs/2608.01194 # Hybrid Quantum Neural Networks: Theory, Implementations, and Applications, Leo Monbroussou, Maniraman Periyasamy, Viacheslav Kuzmin, Pavel Sekatski, Viktoria Patapovich, Asel Sagingalieva, Alexey Melnikov
 https://arxiv.org/abs/2608.01316
 https://arxiv.org/abs/2608.01483
 https://arxiv.org/abs/2608.01741
