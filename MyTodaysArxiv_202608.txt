@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2608.00097
 https://arxiv.org/abs/2608.00167
 https://arxiv.org/abs/2608.00170
-https://arxiv.org/abs/2608.00178
+* https://arxiv.org/abs/2608.00178 # Neural Quantum States for Nuclear Magnetic Resonance Spectroscopy, Bharadwaj Chowdary Mummaneni, Bo Xing
 https://arxiv.org/abs/2608.00210
 * https://arxiv.org/abs/2608.00512 # {\it Ab initio} prediction of dx2-y2-wave superconductivity in infinite-layer nickelates, Guang-Yu Guo, Ren-Guo Guo, Yun-Chen Liao, Yang-hao Chan
 https://arxiv.org/abs/2608.00777
