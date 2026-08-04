@@ -37,8 +37,8 @@ https://arxiv.org/abs/2608.02030
 https://arxiv.org/abs/2608.02041
 https://arxiv.org/abs/2608.02049
 https://arxiv.org/abs/2608.02119
-https://arxiv.org/abs/2608.02245
-https://arxiv.org/abs/2608.02403
+* https://arxiv.org/abs/2608.02245 # Quantum computer-based simulation of Stark many-body localization in a 1D Fermi-Hubbard model, Abdul Kalam, Prasenjit Deb, Akitada Sakurai, Tapan Mishra, V.S. Prasannaa, B. P. Das
+* https://arxiv.org/abs/2608.02403 # Entanglement Generation Beyond Quantum Theory: From Product States to Popescu-Rohrlich Boxes, Shun Umekawa, Akihiro Hokkyo, Hayato Arai, Kazuaki Takasan
 https://arxiv.org/abs/2608.02439
 https://arxiv.org/abs/2608.02451
 https://arxiv.org/abs/2608.02517
@@ -53,7 +53,7 @@ https://arxiv.org/abs/2608.00601
 https://arxiv.org/abs/2608.01680
 https://arxiv.org/abs/2608.01769
 https://arxiv.org/abs/2608.01989
-https://arxiv.org/abs/2608.02473
+* https://arxiv.org/abs/2608.02473 # Optimized Tensor-Network Renormalization for Quantum Dynamics: Resolving the Spectral Function of K2Co(SeO3)2, Jiahang Hu, Runze Chi, B. Normand, Hai-Jun Liao, T. Xiang
 
 https://arxiv.org/abs/2608.02511
 
