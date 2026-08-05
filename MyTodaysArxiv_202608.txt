@@ -5,7 +5,7 @@ https://arxiv.org/abs/2608.02647
 https://arxiv.org/abs/2608.02726
 https://arxiv.org/abs/2608.02734
 https://arxiv.org/abs/2608.02745
-https://arxiv.org/abs/2608.02756
+* https://arxiv.org/abs/2608.02756 # Dynamic Induction of Lattice Gauge Theories on a Quantum Computer, Barbara Andrade, Declan Millar, Lewis Anderson, Vincent R. Pascuzzi, Maciej Lewenstein, Ivano Tavernelli, Jad C. Halimeh, Tobias Grass
 https://arxiv.org/abs/2608.02773
 https://arxiv.org/abs/2608.02782
 https://arxiv.org/abs/2608.02815
@@ -15,10 +15,10 @@ https://arxiv.org/abs/2608.02944
 https://arxiv.org/abs/2608.03005
 https://arxiv.org/abs/2608.03029
 https://arxiv.org/abs/2608.03056
-https://arxiv.org/abs/2608.03102
+* https://arxiv.org/abs/2608.03102 # Typical Output States of Monitored Random Clifford Circuits: A Graph-Theoretic Approach, Yu-Xuan Zhang, Yu-Xiang Zhang
 https://arxiv.org/abs/2608.03315
 https://arxiv.org/abs/2608.03325
-https://arxiv.org/abs/2608.03472
+* https://arxiv.org/abs/2608.03472 # Matrix Product Evolution: A Method for Simulating Quantum Circuits Using Tensor Networks, Haruyuki Kawabe, Minoru Nagai, Tsuyoshi Okubo, Synge Todo
 https://arxiv.org/abs/2608.03549
 https://arxiv.org/abs/2608.03634
 
@@ -39,15 +39,15 @@ https://arxiv.org/abs/2608.03948
 https://arxiv.org/abs/2608.03962
 https://arxiv.org/abs/2608.03986
 https://arxiv.org/abs/2608.03987
-https://arxiv.org/abs/2608.02696
-https://arxiv.org/abs/2608.02744
+* https://arxiv.org/abs/2608.02696 # Size Operator and Spectral Clustering in the Two Coupled SYK Model, Juan Santos-Suarez, Marti Berenguer, Javier Mas, Alfonso V. Ramallo
+* https://arxiv.org/abs/2608.02744 # Two-Parameter Ansatz for the Violation of Eigenstate Thermalization, Kohei Ohgane, Lev Vidmar
 https://arxiv.org/abs/2608.02746
 https://arxiv.org/abs/2608.02812
 
 https://arxiv.org/abs/2608.02861
 https://arxiv.org/abs/2608.03645
 https://arxiv.org/abs/2608.03665
-https://arxiv.org/abs/2608.03714
+* https://arxiv.org/abs/2608.03714 # Cavity control of quantum phase transitions in a two-dimensional kondo lattice, Jun Mochida, Atac Imamoglu, Yuto Ashida
 
 https://journals.aps.org/prresearch/abstract/10.1103/vlpv-n8dy
 https://journals.aps.org/prresearch/abstract/10.1103/5r5d-nczv
