@@ -1,5 +1,30 @@
 20260805
 
+* https://arxiv.org/abs/2608.02716 # Universal crossovers in weakly-monitored quantum critical states, Abhishek Kumar, Rushikesh A. Patil, Andreas W. W. Ludwig, Romain Vasseur
+https://arxiv.org/abs/2608.02722
+* https://arxiv.org/abs/2608.02727 # Spin-charge separation in the triangular-lattice Hofstadter-Hubbard model, Yuntian Gu, Hui Yang, Zhehao Dai, Yantao Wu
+* https://arxiv.org/abs/2608.02741 # Fractal deconfinement and confinement in Sierpinski ice, James Walkling, Roderich Moessner
+* https://arxiv.org/abs/2608.02753 # Large scale neural quantum states reveal the interplay between superconductivity and quantum criticality in the Hofstadter-Hubbard model, Christopher Roth, Andrew Millis, Tomohiro Soejima
+* https://arxiv.org/abs/2608.02832 # Tunable Skyrmions in a Topological Wigner Crystal, David A. Dahlbom, Daniel Kaplan, Premala Chandra, Cristian D. Batista
+https://arxiv.org/abs/2608.02858
+https://arxiv.org/abs/2608.02899
+https://arxiv.org/abs/2608.02903
+https://arxiv.org/abs/2608.02916
+
+https://arxiv.org/abs/2608.02925
+https://arxiv.org/abs/2608.03013
+* https://arxiv.org/abs/2608.03024 # Exotic superconductivity in the doped Kitaev quantum spin liquid, Takahiro Misawa, Kota Ido
+https://arxiv.org/abs/2608.03049
+https://arxiv.org/abs/2608.03195
+* https://arxiv.org/abs/2608.03278 # Topological properties and phase diagram of the triangular Hofstadter model with staggered flux, Qi Gao, Wei Chen
+https://arxiv.org/abs/2608.03280
+https://arxiv.org/abs/2608.03365
+https://arxiv.org/abs/2608.03458
+https://arxiv.org/abs/2608.03619
+
+https://arxiv.org/abs/2608.03870
+https://arxiv.org/abs/2608.03894
+
 https://arxiv.org/abs/2608.02647
 * https://arxiv.org/abs/2608.02724 # Structure of matrix product locally purifiable density operators, Yale Yauk, Yuhan Liu, Ignacio Cirac
 https://arxiv.org/abs/2608.02726
