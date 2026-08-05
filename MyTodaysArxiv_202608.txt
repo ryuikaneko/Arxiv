@@ -1,7 +1,7 @@
 20260805
 
 https://arxiv.org/abs/2608.02647
-https://arxiv.org/abs/2608.02724
+* https://arxiv.org/abs/2608.02724 # Structure of matrix product locally purifiable density operators, Yale Yauk, Yuhan Liu, Ignacio Cirac
 https://arxiv.org/abs/2608.02726
 https://arxiv.org/abs/2608.02734
 https://arxiv.org/abs/2608.02745
