@@ -1,5 +1,8 @@
 20260805
 
+https://arxiv.org/abs/2608.03448
+https://arxiv.org/abs/2608.03287
+
 * https://arxiv.org/abs/2608.02716 # Universal crossovers in weakly-monitored quantum critical states, Abhishek Kumar, Rushikesh A. Patil, Andreas W. W. Ludwig, Romain Vasseur
 https://arxiv.org/abs/2608.02722
 * https://arxiv.org/abs/2608.02727 # Spin-charge separation in the triangular-lattice Hofstadter-Hubbard model, Yuntian Gu, Hui Yang, Zhehao Dai, Yantao Wu
