@@ -6,9 +6,9 @@ https://arxiv.org/abs/2608.04082
 https://arxiv.org/abs/2608.04103
 https://arxiv.org/abs/2608.04112
 https://arxiv.org/abs/2608.04128
-https://arxiv.org/abs/2608.04290
+* https://arxiv.org/abs/2608.04290 # Measurement-based simulation of lattice gauge theory dynamics with adaptive quantum circuits on a trapped-ion processor, Hiroki Sukeno, Enrico Rinaldi, Takuya Okuda
 https://arxiv.org/abs/2608.04369
-https://arxiv.org/abs/2608.04467
+* https://arxiv.org/abs/2608.04467 # Analytic correspondence between multipartite entanglement and quantum phase transitions, Huynh Le Dan Linh, Vu Tuan Hai, Le Bin Ho
 https://arxiv.org/abs/2608.04476
 
 https://arxiv.org/abs/2608.04481
@@ -18,7 +18,7 @@ https://arxiv.org/abs/2608.04564
 https://arxiv.org/abs/2608.04573
 https://arxiv.org/abs/2608.04578
 https://arxiv.org/abs/2608.04601
-https://arxiv.org/abs/2608.04696
+* https://arxiv.org/abs/2608.04696 # Single-eigenstate test of eigenstate thermalization hypothesis via perturbed eigenstate quench, Zhouhao Guo, Jiaju Zhang
 https://arxiv.org/abs/2608.04775
 https://arxiv.org/abs/2608.04780
 
@@ -46,7 +46,7 @@ https://arxiv.org/abs/2111.12300
 
 https://arxiv.org/abs/2608.04022
 https://arxiv.org/abs/2608.04083
-https://arxiv.org/abs/2608.04098
+* https://arxiv.org/abs/2608.04098 # Entanglement entropy of fermions in a strange metal, Santanu Singh, Surajit Bera, Chenyuan Li, Subir Sachdev, Sumilan Banerjee
 https://arxiv.org/abs/2608.04503
 https://arxiv.org/abs/2608.05140
 
