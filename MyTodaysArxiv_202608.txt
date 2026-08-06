@@ -1,19 +1,19 @@
 20260806
 
-https://arxiv.org/abs/2608.04096
+* https://arxiv.org/abs/2608.04096 # Magnetic-Field-Driven Dimensional Reduction in a Quantum Antiferromagnet, Subhankar Khatua, Marcin Raczkowski, Jeroen van den Brink, Fakher F. Assaad
 https://arxiv.org/abs/2608.04119
 https://arxiv.org/abs/2608.04129
 https://arxiv.org/abs/2608.04151
 https://arxiv.org/abs/2608.04209
 https://arxiv.org/abs/2608.04269
 https://arxiv.org/abs/2608.04291
-https://arxiv.org/abs/2608.04350
+* https://arxiv.org/abs/2608.04350 # Quantized topological invariant of symmetry-projected Gibbs states, Weiguang Cao, Haruki Watanabe
 https://arxiv.org/abs/2608.04395
 https://arxiv.org/abs/2608.04497
 
 https://arxiv.org/abs/2608.04534
 https://arxiv.org/abs/2608.04558
-https://arxiv.org/abs/2608.04762
+* https://arxiv.org/abs/2608.04762 # Emergent Replica Clock Unifies Many-Body Localization and Thermalization, Tong Liu
 https://arxiv.org/abs/2608.04782
 https://arxiv.org/abs/2608.04806
 https://arxiv.org/abs/2608.04816
