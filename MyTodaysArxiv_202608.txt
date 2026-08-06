@@ -1,5 +1,10 @@
 20260806
 
+https://arxiv.org/abs/2608.04171
+https://arxiv.org/abs/2608.04191
+https://arxiv.org/abs/2608.04222
+https://arxiv.org/abs/2608.04660
+
 * https://arxiv.org/abs/2608.04096 # Magnetic-Field-Driven Dimensional Reduction in a Quantum Antiferromagnet, Subhankar Khatua, Marcin Raczkowski, Jeroen van den Brink, Fakher F. Assaad
 https://arxiv.org/abs/2608.04119
 https://arxiv.org/abs/2608.04129
