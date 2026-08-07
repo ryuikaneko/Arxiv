@@ -3,13 +3,13 @@
 https://arxiv.org/abs/2608.05202
 https://arxiv.org/abs/2608.05240
 https://arxiv.org/abs/2608.05271
-https://arxiv.org/abs/2608.05274
+* https://arxiv.org/abs/2608.05274 # Relative entropy of entanglement of Haar random states, Takato Mori, Beni Yoshida
 https://arxiv.org/abs/2608.05298
 https://arxiv.org/abs/2608.05314
 https://arxiv.org/abs/2608.05321
 https://arxiv.org/abs/2608.05378
 https://arxiv.org/abs/2608.05382
-https://arxiv.org/abs/2608.05426
+* https://arxiv.org/abs/2608.05426 # Qutrit entanglement and joint multi-parameter estimation in an optical clock platform, Ohad Lib, Shuheng Liu, Maximilian Ammenwerth, Hendrik Timme, Shijia Sun, Qiongyi He, Marcus Huber, Giuseppe Vitagliano, Immanuel Bloch, Johannes Zeiher
 
 https://arxiv.org/abs/2608.05435
 https://arxiv.org/abs/2608.05494
@@ -22,9 +22,9 @@ https://arxiv.org/abs/2608.05748
 https://arxiv.org/abs/2608.05766
 https://arxiv.org/abs/2608.05781
 
-https://arxiv.org/abs/2608.05935
-https://arxiv.org/abs/2608.05955
-https://arxiv.org/abs/2608.05968
+* https://arxiv.org/abs/2608.05935 # Exponential Speedup of Entanglement Generation by Quantum Mpemba Effects, Sara M. Benjadi, Reinhold Egger, Igor Gornyi, Andrea Nava
+* https://arxiv.org/abs/2608.05955 # Dynamical phase transition in generalized Dicke model with strongly interacting trapped Rydberg ions, Manish Chaudhary, Rejish Nath, Weibin Li
+* https://arxiv.org/abs/2608.05968 # Field-Space Entanglement Dynamics Between Tunnel-Coupled Luttinger Liquids, Leonce Dupays, Taufiq Murtadho, Bi Hong Tiang, Nelly H.Y. Ng, Paola Ruggiero
 https://arxiv.org/abs/2608.06072
 https://arxiv.org/abs/2608.06094
 https://arxiv.org/abs/2608.06119
@@ -36,20 +36,20 @@ https://arxiv.org/abs/2608.06242
 https://arxiv.org/abs/2608.06258
 https://arxiv.org/abs/2608.06304
 https://arxiv.org/abs/2608.06359
-https://arxiv.org/abs/2608.05293
-https://arxiv.org/abs/2608.05294
+* https://arxiv.org/abs/2608.05293 # Entangling power of neural networks, Taige Wang, Nisarga Paul, Liang Fu
+* https://arxiv.org/abs/2608.05294 # Self-dual S3 gauge theory in 2+1d: lattice model and topological phase transitions, Da-Chuan Lu, Chong Wang, Ashvin Vishwanath
 https://arxiv.org/abs/2608.05338
 https://arxiv.org/abs/2608.05427
 https://arxiv.org/abs/2608.05819
 https://arxiv.org/abs/2608.05929
-https://arxiv.org/abs/2608.06006
+* https://arxiv.org/abs/2608.06006 # Measurement-induced entanglement Hamiltonian, Viktor Eisler, Erik Tonni
 
 https://arxiv.org/abs/2608.06047
-https://arxiv.org/abs/2608.06056
+* https://arxiv.org/abs/2608.06056 # Criteria for Feasible Monte Carlo Stochastic Simulations of Bosonic Markovian Open Quantum Dynamics, Toma Yoneya, Kazuya Fujimoto, Yuki Kawaguchi
 https://arxiv.org/abs/2608.06097
 https://arxiv.org/abs/2608.06098
 https://arxiv.org/abs/2608.06100
-https://arxiv.org/abs/2608.06168
+* https://arxiv.org/abs/2608.06168 # Neural Flux Attachment: From Bose Condensates to Chiral Topological Matter, Rudik Badalyan, Khachatur G. Nazaryan, Tigran A. Sedrakyan
 https://arxiv.org/abs/2608.06233
 
 https://journals.aps.org/prresearch/abstract/10.1103/dv77-31g7
