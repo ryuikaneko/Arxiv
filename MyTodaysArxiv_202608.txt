@@ -1,7 +1,7 @@
 20260807
 
 https://arxiv.org/abs/2608.05229
-https://arxiv.org/abs/2608.05277
+* https://arxiv.org/abs/2608.05277 # Superconducting and charge-ordered phases from Dirac quantum spin liquids on the triangular lattice, Andreas Feuerpfeil, Ronny Thomale, Subir Sachdev, Pietro M. Bonetti
 https://arxiv.org/abs/2608.05289
 https://arxiv.org/abs/2608.05290
 https://arxiv.org/abs/2608.05306
@@ -20,12 +20,12 @@ https://arxiv.org/abs/2608.05845
 https://arxiv.org/abs/2608.05908
 https://arxiv.org/abs/2608.05851
 https://arxiv.org/abs/2608.05918
-https://arxiv.org/abs/2608.05927
+* https://arxiv.org/abs/2608.05927 # Landscape of incompressible crystals of hard-core bosons on the square-kagome lattice, Pratyay Ghosh
 
 https://arxiv.org/abs/2608.05936
 https://arxiv.org/abs/2608.05957
 https://arxiv.org/abs/2608.05984
-https://arxiv.org/abs/2608.05988
+* https://arxiv.org/abs/2608.05988 # Resilient strange metal at an unconventional quantum critical point in d=2, Jerome Leblanc, A.-M. S. Tremblay
 https://arxiv.org/abs/2608.06048
 https://arxiv.org/abs/2608.06189
 https://arxiv.org/abs/2608.06203
