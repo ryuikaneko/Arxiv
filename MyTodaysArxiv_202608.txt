@@ -1,6 +1,30 @@
 20260810
 
+https://arxiv.org/abs/2608.06504
+https://arxiv.org/abs/2608.06597
+https://arxiv.org/abs/2608.06775
+https://arxiv.org/abs/2608.06883
+https://arxiv.org/abs/2608.06964
+https://arxiv.org/abs/2608.07041
+https://arxiv.org/abs/2608.07099
+https://arxiv.org/abs/2608.07101
+https://arxiv.org/abs/2608.07238
+https://arxiv.org/abs/2608.07242
+
+https://arxiv.org/abs/2608.07310
+https://arxiv.org/abs/2608.07372
+https://arxiv.org/abs/2608.07374
+https://arxiv.org/abs/2608.07401
+https://arxiv.org/abs/2608.07465
+https://arxiv.org/abs/2608.05821
+https://arxiv.org/abs/2608.06395
+https://arxiv.org/abs/2608.06500
+https://arxiv.org/abs/2608.06777
+https://arxiv.org/abs/2608.07149
+
+https://arxiv.org/abs/2608.07292
 https://arxiv.org/abs/2608.07457
+
 https://arxiv.org/abs/2608.06459
 https://arxiv.org/abs/2608.06562
 https://arxiv.org/abs/2608.06567
@@ -10,23 +34,22 @@ https://arxiv.org/abs/2608.06683
 https://arxiv.org/abs/2608.06703
 https://arxiv.org/abs/2608.06815
 https://arxiv.org/abs/2608.06875
-
 https://arxiv.org/abs/2608.06892
-https://arxiv.org/abs/2608.06995
+
+* https://arxiv.org/abs/2608.06995 # Fugacity-Resolved Stabilizer Entropy in Critical Quantum Chains: Discrete Selberg Sums and Exactly Solvable Renyi Indices, Reyhaneh Khasseh, M. A. Rajabpour
 https://arxiv.org/abs/2608.07133
-https://arxiv.org/abs/2608.07178
+* https://arxiv.org/abs/2608.07178 # Exploring the Relaxation Landscape of a 2D Quantum Magnet on a 256-Qubit Processor
 https://arxiv.org/abs/2608.07185
 https://arxiv.org/abs/2608.07207
 https://arxiv.org/abs/2608.07245
 https://arxiv.org/abs/2608.07428
 https://arxiv.org/abs/2608.06988
-https://arxiv.org/abs/2608.07083
+* https://arxiv.org/abs/2608.07083 # Many-Body Mobility Edge and Non-Hermitian Skin Effect in an Interacting Quasi-Periodic Spin Chain, Lavoisier Wah, Ayan Banerjee, Flore K. Kunst
+* https://arxiv.org/abs/2608.07211 # Observation of far-from-equilibrium scaling in the transient dynamics of 2D quantum magnets, Fabio Bensch, Umberto Borla, Federico Balducci, Philip Osterholz, Shuanghong Tang, Silpa Baburaj Sheela, Anushya Chandran, Roderich Moessner, Jad C. Halimeh, Christian Gross
 
-https://arxiv.org/abs/2608.07211
 https://arxiv.org/abs/2608.07246
 https://arxiv.org/abs/2608.07412
 https://arxiv.org/abs/2608.06968
-https://arxiv.org/abs/2608.06988
 https://arxiv.org/abs/2608.07447
 
 https://journals.aps.org/pra/abstract/10.1103/gv8m-gpdl
