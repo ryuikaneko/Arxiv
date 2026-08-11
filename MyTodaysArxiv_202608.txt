@@ -4,17 +4,17 @@ https://arxiv.org/abs/2608.07595
 https://arxiv.org/abs/2608.07608
 https://arxiv.org/abs/2608.07684
 https://arxiv.org/abs/2608.07714
-https://arxiv.org/abs/2608.08124
-https://arxiv.org/abs/2608.08178
+* https://arxiv.org/abs/2608.08124 # Fluctuation-based evidence for number--phase dynamics in a frustrated orbital superfluid, Rui-Lang Zeng, Zi-Yao Zhang, Ling-Na Wu, Cong-Jie Zhang, Da-Gang Xia, Andreas Hemmerich, Xiao-Qiong Wang, Zhi-Fang Xu
+* https://arxiv.org/abs/2608.08178 # Fermionic Lattice Supersolidity in the Attractive Three-Color Fermi-Hubbard Model, Xiang Li, Yu Wang
 https://arxiv.org/abs/2608.08185
 https://arxiv.org/abs/2608.08546
 https://arxiv.org/abs/2608.08670
 https://arxiv.org/abs/2608.08697
 
-https://arxiv.org/abs/2608.08738
+* https://arxiv.org/abs/2608.08738 # Ground-state phase diagram and route to supersolidity in a two-component extended Bose-Hubbard model, Xuexin Qiu, Ning Bian, Yang Liu, Saisai He, Z. Y. Xie, Hong-Gang Luo, Jize Zhao
 https://arxiv.org/abs/2608.08827
 https://arxiv.org/abs/2608.08843
-https://arxiv.org/abs/2608.09689
+* https://arxiv.org/abs/2608.09689 # Robust spin pseudogap and spin-charge separation in the sigma t-J model, Zheng-Yuan Yue, Jia-Xin Zhang, Zheng-Cheng Gu
 https://arxiv.org/abs/2608.09785
 https://arxiv.org/abs/2608.07648
 https://arxiv.org/abs/2608.08350
