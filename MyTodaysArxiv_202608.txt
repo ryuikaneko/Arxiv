@@ -6,7 +6,7 @@ https://arxiv.org/abs/2608.07677
 https://arxiv.org/abs/2608.07686
 https://arxiv.org/abs/2608.07695
 https://arxiv.org/abs/2608.07720
-https://arxiv.org/abs/2608.07723
+* https://arxiv.org/abs/2608.07723 # Emergent Non-Markovian Nonlinear Qubit From Collective Spin Interactions, Gregory T. Carroll, Michael R. Geller, Andre Erpenbeck
 https://arxiv.org/abs/2608.07806
 https://arxiv.org/abs/2608.07882
 https://arxiv.org/abs/2608.07893
@@ -16,7 +16,7 @@ https://arxiv.org/abs/2608.07939
 https://arxiv.org/abs/2608.07986
 https://arxiv.org/abs/2608.08051
 https://arxiv.org/abs/2608.08130
-https://arxiv.org/abs/2608.08181
+* https://arxiv.org/abs/2608.08181 # Hamiltonian spectra in quantum computers through the generalized eigenvalue method, Valery Simonyan, Greg Ridgway, Paulo Bedaque
 https://arxiv.org/abs/2608.08267
 https://arxiv.org/abs/2608.08346
 https://arxiv.org/abs/2608.08403
@@ -25,7 +25,7 @@ https://arxiv.org/abs/2608.08433
 https://arxiv.org/abs/2608.08603
 https://arxiv.org/abs/2608.08687
 https://arxiv.org/abs/2608.08694
-https://arxiv.org/abs/2608.08798
+* https://arxiv.org/abs/2608.08798 # Symmetry Constraints Regularize Neural Quantum State Learning, Turbasu Chatterjee, Manas Sajjan, Songbo Xie, Elliott Love, Vinit Singh, Bojko N. Bakalov, Sabre Kais
 https://arxiv.org/abs/2608.09007
 https://arxiv.org/abs/2608.09018
 https://arxiv.org/abs/2608.09076
@@ -33,7 +33,7 @@ https://arxiv.org/abs/2608.09215
 https://arxiv.org/abs/2608.09455
 https://arxiv.org/abs/2608.09461
 
-https://arxiv.org/abs/2608.09496
+* https://arxiv.org/abs/2608.09496 # Autoregressive Projective Quantum Monte Carlo: From a Hermitian to a Non-Hermitian Perspective, Lavoisier Wah, Remmy Zen, Flore K. Kunst
 https://arxiv.org/abs/2608.09504
 https://arxiv.org/abs/2608.09509
 https://arxiv.org/abs/2608.09513
@@ -45,24 +45,24 @@ https://arxiv.org/abs/2608.09667
 https://arxiv.org/abs/2608.09670
 
 https://arxiv.org/abs/2608.09675
-https://arxiv.org/abs/2608.09695
+* https://arxiv.org/abs/2608.09695 # Spread of Entanglement in Generalized Kicked Ising Chain, Tanay Pathak, Hiromi Ebisu, Tomaz Prosen
 https://arxiv.org/abs/2608.09705
 https://arxiv.org/abs/2608.09727
 https://arxiv.org/abs/2608.09733
 https://arxiv.org/abs/2608.09749
 https://arxiv.org/abs/2608.09810
 https://arxiv.org/abs/2608.09832
-https://arxiv.org/abs/2608.09850
-https://arxiv.org/abs/2608.09903
+* https://arxiv.org/abs/2608.09850 # Tensor network methods for non-perturbative dynamics of open quantum systems, Thibaut Lacroix, Adam Burgess, Nicola Lorenzoni, Julian Wiercinski, Kian Damezin, James Lim, Dario Tamascelli, Alex W. Chin, Moritz Cygorek, Brendon W. Lovett, Jonathan Keeling, Susana F. Huelga, Martin B. Plenio, Erik M. Gauger
+* https://arxiv.org/abs/2608.09903 # From Nonlinear Stochastic Differential Equations to Quantum Channels: The Kolmogorov--Lindblad Mapping, Hsuan-Cheng Wu, Xiantao Li
 
 https://arxiv.org/abs/2608.09912
 https://arxiv.org/abs/2608.09915
 https://arxiv.org/abs/2608.09924
 https://arxiv.org/abs/2605.12043
 https://arxiv.org/abs/2608.07869
-https://arxiv.org/abs/2608.08105
+* https://arxiv.org/abs/2608.08105 # Composite-State Localization Beyond the External Landscape in Non-Hermitian Quasicrystals, Tian Zhou, Xue-Bin Wang, Zhongmin Yang, Tao Liu
 https://arxiv.org/abs/2608.08108
-https://arxiv.org/abs/2608.08205
+* https://arxiv.org/abs/2608.08205 # Out-of-equilibrium inhomogeneous XX chains: Exact results and the hydrodynamic limit, Vincenzo Alba, Federico Rottoli
 https://arxiv.org/abs/2608.08226
 https://arxiv.org/abs/2608.08758
 
