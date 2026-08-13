@@ -1,9 +1,9 @@
 20260812
 
-https://arxiv.org/abs/2608.10072
+https://arxiv.org/abs/2607.20304
 https://arxiv.org/abs/2608.10085
 https://arxiv.org/abs/2608.10147
-https://arxiv.org/abs/2608.11021
+* https://arxiv.org/abs/2608.11021 # Universal scaling of spatially extended zero modes in inhomogeneous SSH chains, Gilles Parez, Nicolas Crampe, Quentin Labriet, Lucia Morey, Luc Vinet
 https://arxiv.org/abs/2608.11072
 https://arxiv.org/abs/2608.10685
 https://arxiv.org/abs/2608.04916
