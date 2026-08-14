@@ -7,8 +7,8 @@ https://arxiv.org/abs/2608.12058
 https://arxiv.org/abs/2608.12157
 https://arxiv.org/abs/2608.12245
 https://arxiv.org/abs/2608.12303
-https://arxiv.org/abs/2608.12312
-https://arxiv.org/abs/2608.12317
+* https://arxiv.org/abs/2608.12312 # Interface phases and dynamics in two-dimensional quantum magnets: A "holographic" approach from universality to quantum simulation, Abhishodh Prakash, Jaydev Singh Rao, Siddharth A. Parameswaran, Alessio Lerose
+* https://arxiv.org/abs/2608.12317 # Probing Impurity Quantum Criticality with Entanglement Witnesses, Mateo Cardenes Wuttig, Andrew J. Millis
 https://arxiv.org/abs/2608.12309
 
 https://journals.aps.org/prxquantum/abstract/10.1103/t59v-8flk
