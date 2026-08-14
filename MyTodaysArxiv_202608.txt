@@ -1,5 +1,52 @@
 20260813
 
+https://arxiv.org/abs/2608.11278
+https://arxiv.org/abs/2608.11283
+
+https://arxiv.org/abs/2608.11284
+https://arxiv.org/abs/2608.11301
+* https://arxiv.org/abs/2608.11305 # Thermodynamic Spectroscopy of Emergent Excitations in Quantum Spin Ice, Zhengbang Zhou, Tony An, Yong Baek Kim
+https://arxiv.org/abs/2608.11331
+https://arxiv.org/abs/2608.11388
+https://arxiv.org/abs/2608.11561
+https://arxiv.org/abs/2608.11585
+https://arxiv.org/abs/2608.11609
+https://arxiv.org/abs/2608.11610
+* https://arxiv.org/abs/2608.12124 # Two routes to quantum anomalous Hall states in altermagnets, Makoto Naka, Shuntaro Sumita, Yukitoshi Motome, Hitoshi Seo
+
+https://arxiv.org/abs/2608.12221
+https://arxiv.org/abs/2608.12235
+* https://arxiv.org/abs/2608.12319 # Emergent heavy fermion and superconductivity near Mott transition in twisted bilayer graphene, Ya-Hui Zhang
+https://arxiv.org/abs/2608.11215
+https://arxiv.org/abs/2608.11224
+https://arxiv.org/abs/2608.11309
+https://arxiv.org/abs/2608.11447
+https://arxiv.org/abs/2608.12160
+https://arxiv.org/abs/2608.11310
+https://arxiv.org/abs/2608.11314
+
+https://arxiv.org/abs/2608.11369
+https://arxiv.org/abs/2608.11373
+https://arxiv.org/abs/2608.11385
+https://arxiv.org/abs/2608.11396
+https://arxiv.org/abs/2608.11406
+https://arxiv.org/abs/2608.11488
+https://arxiv.org/abs/2608.11556
+https://arxiv.org/abs/2608.11569
+https://arxiv.org/abs/2608.11647
+https://arxiv.org/abs/2608.11719
+
+https://arxiv.org/abs/2608.11817
+https://arxiv.org/abs/2608.11872
+https://arxiv.org/abs/2608.11911
+* https://arxiv.org/abs/2608.12021 # Efficient Assembly of a Defect-Free Quantum Register of 1024 Neutral-Atom Qubits, Lukas Sturm, Marcel Mittenbuehler, Tim Gollerthan, Malte Schlosser, Gerhard Birkl
+https://arxiv.org/abs/2608.12135
+https://arxiv.org/abs/2608.12213
+https://arxiv.org/abs/2608.12255
+https://arxiv.org/abs/2608.12300
+https://arxiv.org/abs/2608.12300
+https://arxiv.org/abs/2608.05491
+
 https://arxiv.org/abs/2608.11297
 https://arxiv.org/abs/2608.11316
 https://arxiv.org/abs/2608.11339
