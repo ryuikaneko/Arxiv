@@ -1,11 +1,33 @@
 20260814
 
+https://arxiv.org/abs/2608.12478
+https://arxiv.org/abs/2608.12508
+https://arxiv.org/abs/2608.12553
+https://arxiv.org/abs/2608.12572
+https://arxiv.org/abs/2608.12586
+https://arxiv.org/abs/2608.12770
+https://arxiv.org/abs/2608.12799
+https://arxiv.org/abs/2608.12897
+https://arxiv.org/abs/2608.13055
+https://arxiv.org/abs/2608.13062
+
+https://arxiv.org/abs/2608.13065
+https://arxiv.org/abs/2608.13066
+https://arxiv.org/abs/2608.13080
+* https://arxiv.org/abs/2608.13146 # Accelerating a Strong-Coupling Non-Equilibrium Steady-State Impurity Solver using (Quantics) Tensor Trains, Bastian Schindler, Martin Eckstein
+* https://arxiv.org/abs/2608.13238 # Emergent Symmetry-Protected Topological Phases via Polyakov Confinement in Quantum Spin Systems, Li-Wei He, Shun-Li Yu, Jian-Xin Li
+https://arxiv.org/abs/2608.13265
+* https://arxiv.org/abs/2608.12559 # Pulse Engineering of Quantum Many-Body Dynamics: Emergent Scar States, Entanglement, and Nonstabilizerness, Prasant Mallik, Arkaprava Sil, Sudipto Singha Roy
+https://arxiv.org/abs/2608.12809
+https://arxiv.org/abs/2608.13335
+https://arxiv.org/abs/2608.13500
+
 https://arxiv.org/abs/2608.13503
 https://arxiv.org/abs/2608.12450
 https://arxiv.org/abs/2608.12625
 https://arxiv.org/abs/2608.12830
-https://arxiv.org/abs/2608.12858
-https://arxiv.org/abs/2608.12938
+* https://arxiv.org/abs/2608.12858 # Shots-to-Approximate-Solution Scaling in Neutral-Atom Quantum Optimization, Junwoo Jung, Jaewook Ahn
+* https://arxiv.org/abs/2608.12938 # Encoding Circuit Satisfiability in Rydberg Atom Arrays, Haotian Ji, Zhangjie Qin, Zheng An, Bowen Yan, Daoheng Niu, Kunzhe Dai, Jingkai Fang, Dongyang Cao, Jiangyu Cui
 https://arxiv.org/abs/2608.12942
 https://arxiv.org/abs/2608.13090
 https://arxiv.org/abs/2608.13110
