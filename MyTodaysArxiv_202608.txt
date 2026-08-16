@@ -8,8 +8,8 @@ https://arxiv.org/abs/2608.12406
 https://arxiv.org/abs/2608.12454
 https://arxiv.org/abs/2608.12455
 https://arxiv.org/abs/2608.12472
-https://arxiv.org/abs/2608.12475
-https://arxiv.org/abs/2608.12770
+* https://arxiv.org/abs/2608.12475 # Exceptional activated mode theory for generalized real-complex transitions, Mengjie Yang, Alexander N. Poddubny, Ching Hua Lee
+* https://arxiv.org/abs/2608.12770 # Correlation versus Causation in Quantum Criticality, Conrad Wichmann, Ryan Thorngren, Ruben Verresen
 
 https://journals.aps.org/pra/abstract/10.1103/yc8j-sp2z
 https://journals.aps.org/prx/abstract/10.1103/s96t-n8tx
