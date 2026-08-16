@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2608.12452
 https://arxiv.org/abs/2608.12453
-https://arxiv.org/abs/2608.12459
+* https://arxiv.org/abs/2608.12459 # Revisiting magnon bound states: ferro-antiferromagnetic J1-J2 square-lattice model, Cesar A. Gallegos, A. L. Chernyshev
 https://arxiv.org/abs/2608.12461
 
 * https://arxiv.org/abs/2608.12465 # Superconductivity in the t-t' Hubbard Model from Symmetry-Preserving Neural-Network Quantum States, Riccardo Rende, Luciano Loris Viteritti, Antoine Georges
