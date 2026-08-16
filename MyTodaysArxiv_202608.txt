@@ -1,5 +1,10 @@
 20260814
 
+https://arxiv.org/abs/2608.12452
+https://arxiv.org/abs/2608.12453
+https://arxiv.org/abs/2608.12459
+https://arxiv.org/abs/2608.12461
+
 * https://arxiv.org/abs/2608.12465 # Superconductivity in the t-t' Hubbard Model from Symmetry-Preserving Neural-Network Quantum States, Riccardo Rende, Luciano Loris Viteritti, Antoine Georges
 https://arxiv.org/abs/2608.12478
 https://arxiv.org/abs/2608.12508
