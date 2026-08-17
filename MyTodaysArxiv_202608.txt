@@ -9,20 +9,20 @@ https://arxiv.org/abs/2608.13855
 https://arxiv.org/abs/2608.13912
 https://arxiv.org/abs/2608.13988
 https://arxiv.org/abs/2608.14030
-https://arxiv.org/abs/2608.14090
+* https://arxiv.org/abs/2608.14090 # Superconductivity in strongly overdoped cuprates: beyond the single-band model, Ruichao Chen, Linda Sederholm, Yannick Klein, Ludovic Delbes, Benoit Baptiste, Paraskevas Parisiades, Emmanuel Maisonhaute, Davide Delmonte, Edmondo Gilioli, Maarit Karppinen, Ronald I. Smith, David A. Keen, Yann Le Godec, Andrea Gauzzi
 
 https://arxiv.org/abs/2608.14180
 https://arxiv.org/abs/2608.14292
 https://arxiv.org/abs/2608.14383
-https://arxiv.org/abs/2608.14476
+* https://arxiv.org/abs/2608.14476 # A Fixed Universal Determinant is Variationally Complete for Continuum Fermions, Giuseppe Carleo, Riccardo Rossi
 https://arxiv.org/abs/2608.14477
 https://arxiv.org/abs/2608.14480
 https://arxiv.org/abs/2608.14489
-https://arxiv.org/abs/2608.14503
+* https://arxiv.org/abs/2608.14503 # Chiral spin liquid and chiral antiferromagnetism in half-filled moire Hubbard model: possible applications to twisted bilayer TMDs, Chuyi Tuo, Hong Yao
 https://arxiv.org/abs/2608.14535
-https://arxiv.org/abs/2608.13174
+* https://arxiv.org/abs/2608.13174 # Lee-Yang paradigm of phase transition in eigenstate thermalized systems, Yongjiang Xu, Weixin Sun, Chushun Tian, Huajia Wang
 
-https://arxiv.org/abs/2608.13246
+* https://arxiv.org/abs/2608.13246 # Phase transition from eigenstate thermalization: forbidden singularity and instanton proliferation via AGT correspondence, Yongjiang Xu, Weixin Sun, Chushun Tian, Huajia Wang
 https://arxiv.org/abs/2608.13731
 https://arxiv.org/abs/2608.13881
 https://arxiv.org/abs/2608.14308
