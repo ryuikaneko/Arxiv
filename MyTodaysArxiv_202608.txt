@@ -1,11 +1,11 @@
 20260817
 
 https://arxiv.org/abs/2608.13579
-https://arxiv.org/abs/2608.13658
+* https://arxiv.org/abs/2608.13658 # Far-from-equilibrium topological phase transition in one dimension, Ze-Min Huang, Gustav John, Sebastian Diehl
 https://arxiv.org/abs/2608.13666
 https://arxiv.org/abs/2608.13795
 https://arxiv.org/abs/2608.13855
-https://arxiv.org/abs/2608.13892
+* https://arxiv.org/abs/2608.13892 # Anomalous Orbital Reconstruction Controlled by Interorbital Correlations and Hund's Coupling, Yu Ni, Lvjin Wang, Jinfeng Wang, Yunkun Niu, Zhaoming Fu, Yun Song
 https://arxiv.org/abs/2608.13912
 https://arxiv.org/abs/2608.13988
 https://arxiv.org/abs/2608.14030
