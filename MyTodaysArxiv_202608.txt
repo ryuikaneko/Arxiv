@@ -1,17 +1,47 @@
 20260817
 
+https://arxiv.org/abs/2608.13579
+https://arxiv.org/abs/2608.13658
+https://arxiv.org/abs/2608.13666
+https://arxiv.org/abs/2608.13795
+https://arxiv.org/abs/2608.13855
+https://arxiv.org/abs/2608.13892
+https://arxiv.org/abs/2608.13912
+https://arxiv.org/abs/2608.13988
+https://arxiv.org/abs/2608.14030
+https://arxiv.org/abs/2608.14090
+
+https://arxiv.org/abs/2608.14180
+https://arxiv.org/abs/2608.14292
+https://arxiv.org/abs/2608.14383
+https://arxiv.org/abs/2608.14476
+https://arxiv.org/abs/2608.14477
+https://arxiv.org/abs/2608.14480
+https://arxiv.org/abs/2608.14489
+https://arxiv.org/abs/2608.14503
+https://arxiv.org/abs/2608.14535
+https://arxiv.org/abs/2608.13174
+
+https://arxiv.org/abs/2608.13246
+https://arxiv.org/abs/2608.13731
+https://arxiv.org/abs/2608.13881
+https://arxiv.org/abs/2608.14308
+https://arxiv.org/abs/2608.14327
+https://arxiv.org/abs/2608.14369
+https://arxiv.org/abs/2608.13633
+
 https://arxiv.org/abs/2608.13614
 https://arxiv.org/abs/2608.13627
 https://arxiv.org/abs/2608.13649
 https://arxiv.org/abs/2608.13654
-https://arxiv.org/abs/2608.13664
-https://arxiv.org/abs/2608.13691
+* https://arxiv.org/abs/2608.13664 # Open system probes of renormalization group flow, Andrew Keefe, Brenden Bowen, Saptarshi Biswas, Albion Lawrence, Nishant Agarwal, Archana Kamal
+* https://arxiv.org/abs/2608.13691 # Efficient Hamiltonian Truncation: Fast Matrix Construction and Quantum Krylov Diagonalization, Rachel Houtz, Marco Knipfer, Konstantin Matchev, Alexander Roman, Mia West
 https://arxiv.org/abs/2608.13725
 https://arxiv.org/abs/2608.13744
 https://arxiv.org/abs/2608.13764
 https://arxiv.org/abs/2608.13781
 
-https://arxiv.org/abs/2608.13805
+* https://arxiv.org/abs/2608.13805 # Fast classical simulation of `Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor', Xiao-Yu Ouyang, Runze Chi, Garnet Kin-Lic Chan
 https://arxiv.org/abs/2608.13862
 https://arxiv.org/abs/2608.13907
 https://arxiv.org/abs/2608.13942
@@ -20,14 +50,14 @@ https://arxiv.org/abs/2608.14002
 https://arxiv.org/abs/2608.14041
 https://arxiv.org/abs/2608.14110
 https://arxiv.org/abs/2608.14110
-https://arxiv.org/abs/2608.14208
+* https://arxiv.org/abs/2608.14208 # Foundation Neural Effective Hamiltonian for Strongly Correlated Quantum Materials, Lixing Zhang, Hongjie Jiang, Di Luo
 
 https://arxiv.org/abs/2608.14263
 https://arxiv.org/abs/2608.14285
 https://arxiv.org/abs/2608.14325
 https://arxiv.org/abs/2608.14331
 https://arxiv.org/abs/2608.14343
-https://arxiv.org/abs/2608.14468
+* https://arxiv.org/abs/2608.14468 # To PT or not to PT Noise-induced escape and nonlinear-damping stabilization in a parity-time dimer, Richelle Jade L. Tuquero, Kilian Seibold, Oded Zilberberg
 https://arxiv.org/abs/2608.14469
 https://arxiv.org/abs/2608.14493
 https://arxiv.org/abs/2608.13914
