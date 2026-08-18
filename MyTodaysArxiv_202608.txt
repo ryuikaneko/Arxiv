@@ -1,5 +1,34 @@
 20260818
 
+https://arxiv.org/abs/2608.14581
+https://arxiv.org/abs/2608.14745
+https://arxiv.org/abs/2608.14775
+https://arxiv.org/abs/2608.14810
+https://arxiv.org/abs/2608.14911
+https://arxiv.org/abs/2608.15078
+https://arxiv.org/abs/2608.15120
+https://arxiv.org/abs/2608.15253
+https://arxiv.org/abs/2608.15324
+https://arxiv.org/abs/2608.15557
+
+https://arxiv.org/abs/2608.15562
+https://arxiv.org/abs/2608.15570
+https://arxiv.org/abs/2608.15732
+https://arxiv.org/abs/2608.15800
+https://arxiv.org/abs/2608.15811
+https://arxiv.org/abs/2608.15887
+https://arxiv.org/abs/2608.15900
+https://arxiv.org/abs/2608.15953
+https://arxiv.org/abs/2608.16065
+https://arxiv.org/abs/2608.16171
+
+https://arxiv.org/abs/2608.16219
+https://arxiv.org/abs/2608.16226
+https://arxiv.org/abs/2608.16232
+https://arxiv.org/abs/2608.16427
+https://arxiv.org/abs/2608.16660
+https://arxiv.org/abs/2608.16711
+
 * https://arxiv.org/abs/2608.14798 # Stabilizer Statistical Mechanics: A Framework for Efficient Quantification and Classification of Magic States, William E. Salazar, Gaurav Saxena, Jack S. Baker, Leong Chuan Kwek, Thi Ha Kyaw
 https://arxiv.org/abs/2608.14806
 https://arxiv.org/abs/2608.14807
