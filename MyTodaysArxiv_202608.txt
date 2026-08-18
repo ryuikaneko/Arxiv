@@ -30,7 +30,7 @@ https://arxiv.org/abs/2608.15739
 https://arxiv.org/abs/2608.15754
 https://arxiv.org/abs/2608.15760
 https://arxiv.org/abs/2608.15795
-https://arxiv.org/abs/2608.15806
+* https://arxiv.org/abs/2608.15806 # Longitudinal-Field-Driven Transition in a non-integrable Non-Hermitian Transverse-Field Ising Chain via RBMs, M.E. Ateuafack, M.R. Kamsap, J.T. Diffo, L.C. Fai, M.N. Jipdi
 https://arxiv.org/abs/2608.15829
 
 https://arxiv.org/abs/2608.15889
