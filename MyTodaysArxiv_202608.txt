@@ -113,6 +113,11 @@ https://arxiv.org/abs/2608.16847
 https://journals.aps.org/prb/abstract/10.1103/q4n3-r8n5
 https://journals.aps.org/prb/abstract/10.1103/mqz8-h38p
 https://journals.aps.org/prb/abstract/10.1103/64w9-crd9
+https://journals.aps.org/pra/abstract/10.1103/jj2r-y777
+https://journals.aps.org/pra/abstract/10.1103/c545-f2d2
+https://journals.aps.org/pra/abstract/10.1103/tsgx-rvg7
+https://journals.aps.org/prl/abstract/10.1103/jrtg-yf1q
+https://journals.aps.org/prl/abstract/10.1103/gl65-17z7
 
 
 ====
