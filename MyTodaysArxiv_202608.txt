@@ -66,15 +66,15 @@ https://arxiv.org/abs/2608.14875
 https://arxiv.org/abs/2608.14941
 https://arxiv.org/abs/2608.14979
 
-https://arxiv.org/abs/2608.15017
+* https://arxiv.org/abs/2608.15017 # Quantum Many-Body Scars, Magnon-Pair Condensation, and Hilbert Space Fragmentation in an Anisotropic Heisenberg Model, J. Y. Liu-Sun, Z. Song
 https://arxiv.org/abs/2608.15112
 https://arxiv.org/abs/2608.15116
 https://arxiv.org/abs/2608.15347
 https://arxiv.org/abs/2608.15542
 https://arxiv.org/abs/2608.16028
 https://arxiv.org/abs/2608.16371
-https://arxiv.org/abs/2608.16520
-https://arxiv.org/abs/2608.16616
+* https://arxiv.org/abs/2608.16520 # Non-invertible Lattice 1-Form Symmetries for Non-Abelian Topological Order, Rafael Flores-Calderon, Frank Pollmann, Michael Knap
+* https://arxiv.org/abs/2608.16616 # Scarred discrete time crystal in a periodically driven dimerized spin chain, Davood Marripour, Saeed S. Jahromi, Jahanfar Abouie
 https://arxiv.org/abs/2608.16652
 
 https://arxiv.org/abs/2608.16719
