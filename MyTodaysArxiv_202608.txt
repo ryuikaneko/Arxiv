@@ -51,11 +51,11 @@ https://arxiv.org/abs/2608.16527
 https://arxiv.org/abs/2608.16545
 https://arxiv.org/abs/2608.16567
 https://arxiv.org/abs/2608.16593
-https://arxiv.org/abs/2608.16595
+* https://arxiv.org/abs/2608.16595 # Krylov complexity of anyons, Ya-Nan Wang, Qing-Min Hu, Wen-Long You, Gaoyong Sun
 https://arxiv.org/abs/2608.16608
 https://arxiv.org/abs/2608.16623
 
-https://arxiv.org/abs/2608.16631
+* https://arxiv.org/abs/2608.16631 # Quench Spectroscopy for Two-Dimensional Spin Models with Power-Law Interactions, Katharina Brechtelsbauer, Hans Peter Buechler
 https://arxiv.org/abs/2608.16674
 https://arxiv.org/abs/2608.16694
 https://arxiv.org/abs/2608.16857
