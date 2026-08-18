@@ -13,7 +13,7 @@ https://arxiv.org/abs/2608.15557
 
 https://arxiv.org/abs/2608.15562
 https://arxiv.org/abs/2608.15570
-https://arxiv.org/abs/2608.15732
+* https://arxiv.org/abs/2608.15732 # Accessing Gapped Chiral Phase with Auxiliary-Assisted PEPS, Sen Niu, Rui-Zhen Huang
 https://arxiv.org/abs/2608.15800
 https://arxiv.org/abs/2608.15811
 https://arxiv.org/abs/2608.15887
