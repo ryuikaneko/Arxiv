@@ -1,19 +1,19 @@
 20260818
 
-https://arxiv.org/abs/2608.14798
+* https://arxiv.org/abs/2608.14798 # Stabilizer Statistical Mechanics: A Framework for Efficient Quantification and Classification of Magic States, William E. Salazar, Gaurav Saxena, Jack S. Baker, Leong Chuan Kwek, Thi Ha Kyaw
 https://arxiv.org/abs/2608.14806
 https://arxiv.org/abs/2608.14807
-https://arxiv.org/abs/2608.14818
+* https://arxiv.org/abs/2608.14818 # Geometric signatures of the onset of many-body ergodicity, Chris Ventura-Meinersen, Edmondo Valvo, Stefano Bosco, Francisco Machado, Maximilian Rimbach-Russ
 https://arxiv.org/abs/2608.14872
 https://arxiv.org/abs/2608.14891
-https://arxiv.org/abs/2608.14966
+* https://arxiv.org/abs/2608.14966 # Floquet-Liouville Theory for Strongly Driven Open Quantum Systems, Kamran Akbari, Stephen Hughes
 https://arxiv.org/abs/2608.14981
 https://arxiv.org/abs/2608.15033
 https://arxiv.org/abs/2608.15094
 
 https://arxiv.org/abs/2608.15161
 https://arxiv.org/abs/2608.15173
-https://arxiv.org/abs/2608.15197
+* https://arxiv.org/abs/2608.15197 # Equivalence of quantum resources under ergodic dynamics, Sreemayee Aditya, Xhek Turkeshi, Piotr Sierant
 https://arxiv.org/abs/2608.15209
 https://arxiv.org/abs/2608.15467
 https://arxiv.org/abs/2608.15477
