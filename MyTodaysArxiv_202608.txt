@@ -5,8 +5,8 @@ https://arxiv.org/abs/2608.17076
 https://arxiv.org/abs/2608.17424
 https://arxiv.org/abs/2608.17473
 https://arxiv.org/abs/2608.17511
-https://arxiv.org/abs/2608.17527
-https://arxiv.org/abs/2608.17548
+* https://arxiv.org/abs/2608.17527 # Equilibrium and nonequlibrium scaling behaviors of localization transition in a non-Hermitian Aubry-Andre model with onsite gain and loss, Wen-Jing Yu, Yue-Mei Sun, Xin-Yu Wang, Liang-Jun Zhai
+* https://arxiv.org/abs/2608.17548 # Absence of nontrivial local conserved quantities in a class of U(1)-symmetric spin-1 chains, Shunsuke Sengoku, Haruki Watanabe
 * https://arxiv.org/abs/2608.17558 # Inducing metal-insulator transition via disorder in correlated kagome systems, Qingzhuo Duan, Hongdao Zhuge, Zixuan JIa, Tianxing Ma
 * https://arxiv.org/abs/2608.17631 # Gauge-constrained Spinon Complexes Near Deconfined Quantum Criticality, Zhi-Yao Ning, Xue-Feng Zhang, Naoki Kawashima, Jun Takahashi
 https://arxiv.org/abs/2608.17788
