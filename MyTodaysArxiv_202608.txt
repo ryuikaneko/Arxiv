@@ -64,6 +64,10 @@ https://arxiv.org/abs/2608.17817
 https://arxiv.org/abs/2608.17937
 * https://arxiv.org/abs/2608.18065 # Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States, Adil Attar, Amine M. Aboussalah, Mohamed Hibat-Allah
 
+https://journals.aps.org/prb/abstract/10.1103/7t3x-6yr4
+https://journals.aps.org/prb/abstract/10.1103/7m9y-v22h
+https://journals.aps.org/prb/abstract/10.1103/kx4q-ly63o
+
 
 20260818
 
