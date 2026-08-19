@@ -118,6 +118,8 @@ https://journals.aps.org/pra/abstract/10.1103/c545-f2d2
 https://journals.aps.org/pra/abstract/10.1103/tsgx-rvg7
 https://journals.aps.org/prl/abstract/10.1103/jrtg-yf1q
 https://journals.aps.org/prl/abstract/10.1103/gl65-17z7
+https://journals.aps.org/prresearch/abstract/10.1103/7pzn-3ygf
+https://journals.aps.org/prxquantum/abstract/10.1103/rvhv-ms4t
 
 
 ====
