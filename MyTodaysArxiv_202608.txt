@@ -1,5 +1,22 @@
 20260819
 
+https://arxiv.org/abs/2608.16949
+https://arxiv.org/abs/2608.17076
+https://arxiv.org/abs/2608.17424
+https://arxiv.org/abs/2608.17473
+https://arxiv.org/abs/2608.17511
+https://arxiv.org/abs/2608.17527
+https://arxiv.org/abs/2608.17548
+https://arxiv.org/abs/2608.17558
+https://arxiv.org/abs/2608.17631
+https://arxiv.org/abs/2608.17788
+
+https://arxiv.org/abs/2608.17899
+https://arxiv.org/abs/2608.18052
+https://arxiv.org/abs/2608.16982
+https://arxiv.org/abs/2608.16992
+https://arxiv.org/abs/2608.17450
+
 https://arxiv.org/abs/2608.16937
 https://arxiv.org/abs/2608.16939
 https://arxiv.org/abs/2608.16940
@@ -170,9 +187,6 @@ https://journals.aps.org/prl/abstract/10.1103/jrtg-yf1q
 https://journals.aps.org/prl/abstract/10.1103/gl65-17z7
 https://journals.aps.org/prresearch/abstract/10.1103/7pzn-3ygf
 https://journals.aps.org/prxquantum/abstract/10.1103/rvhv-ms4t
-
-
-====
 
 
 20260817
