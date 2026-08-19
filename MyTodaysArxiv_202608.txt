@@ -4,19 +4,19 @@ https://arxiv.org/abs/2608.16937
 https://arxiv.org/abs/2608.16939
 https://arxiv.org/abs/2608.16940
 https://arxiv.org/abs/2608.16941
-https://arxiv.org/abs/2608.16994
+* https://arxiv.org/abs/2608.16994 # Basis-update and Galerkin time integration in canonical matrix-product-state form, Maximilian Froehlich, Richard M. Milbradt, Martin Eigel, Aaron Sander, Robert Wille, Christian B. Mendl
 https://arxiv.org/abs/2608.16995
 https://arxiv.org/abs/2608.17023
 https://arxiv.org/abs/2608.17026
-https://arxiv.org/abs/2608.17065
-https://arxiv.org/abs/2608.17094
+* https://arxiv.org/abs/2608.17065 # Exact Moments of Gaussian Gram Hafnians Reveal an n2/logn Threshold for Weak Anticoncentration, Hongru Zhao
+* https://arxiv.org/abs/2608.17094 # Lie-Algebraic Classical Simulation of Bosonic Systems Beyond Gaussian Dynamics, Adelina Baerligea, Timothy Heightman, Jakob S. Kottmann, Antonio Acin
 
 https://arxiv.org/abs/2608.17109
 https://arxiv.org/abs/2608.17115
 https://arxiv.org/abs/2608.17217
 https://arxiv.org/abs/2608.17239
-https://arxiv.org/abs/2608.17274
-https://arxiv.org/abs/2608.17313
+* https://arxiv.org/abs/2608.17274 # Weak Typicality of von Neumann Entanglement Entropy in Gaussian Boson Sampling, Hongru Zhao
+* https://arxiv.org/abs/2608.17313 # Reduced State Stabilizer Renyi Entropy as a Probe of Quantum Phase Transitions in Frustrated J_1-J_2 Spin Models, George Biswas, Santanu Sarkar, Jun-Yi Wu, Anindya Biswas
 https://arxiv.org/abs/2608.17331
 https://arxiv.org/abs/2608.17376
 https://arxiv.org/abs/2608.17400
@@ -28,7 +28,7 @@ https://arxiv.org/abs/2608.17750
 https://arxiv.org/abs/2608.17792
 https://arxiv.org/abs/2608.17846
 https://arxiv.org/abs/2608.17870
-https://arxiv.org/abs/2608.17980
+* https://arxiv.org/abs/2608.17980 # Dressed magnon dynamics in a Bose-Hubbard bath: retardation, pairing, entanglement and two-magnon scattering, Andres N. Caliz, Arnau Riera, Enrique Rico, Joao Barata, Marcin Plodzien
 https://arxiv.org/abs/2608.18070
 https://arxiv.org/abs/2608.16980
 https://arxiv.org/abs/2608.17040
