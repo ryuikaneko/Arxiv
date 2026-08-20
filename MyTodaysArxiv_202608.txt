@@ -13,7 +13,7 @@ https://arxiv.org/abs/2608.18440
 
 https://arxiv.org/abs/2608.18471
 https://arxiv.org/abs/2608.18472
-https://arxiv.org/abs/2608.18511
+* https://arxiv.org/abs/2608.18511 # Sampling isometric tensor network states with monitored quantum circuits, Yuqing Rong, Huan-Hai Zhou, Guo-Yi Zhu, Jinguo Liu
 https://arxiv.org/abs/2608.18512
 https://arxiv.org/abs/2608.18536
 https://arxiv.org/abs/2608.18600
@@ -40,13 +40,13 @@ https://arxiv.org/abs/2608.19130
 https://arxiv.org/abs/2608.19139
 https://arxiv.org/abs/2608.19158
 https://arxiv.org/abs/2608.19175
-https://arxiv.org/abs/2608.18168
+* https://arxiv.org/abs/2608.18168 # Embedding Paired Free-Fermion Gaussian States into Gutzwiller-Projected Bardeen--Cooper--Schrieffer Wave Functions, Ryui Kaneko
 https://arxiv.org/abs/2608.18732
 https://arxiv.org/abs/2608.18750
 
 https://arxiv.org/abs/2608.18784
 https://arxiv.org/abs/2608.18794
-https://arxiv.org/abs/2608.18861
+* https://arxiv.org/abs/2608.18861 # Predicting critical temperature in quantum simulators for high-Tc superconductivity: the matrix product state plus mean field approach, Thomas Koehler, Adrian Kantian
 https://arxiv.org/abs/2608.19095
 https://arxiv.org/abs/2608.19180
 
