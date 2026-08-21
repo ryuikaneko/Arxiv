@@ -8,13 +8,13 @@ https://arxiv.org/abs/2608.19592
 https://arxiv.org/abs/2608.19604
 https://arxiv.org/abs/2608.19605
 https://arxiv.org/abs/2608.20100
-https://arxiv.org/abs/2608.20131
-https://arxiv.org/abs/2608.20156
+* https://arxiv.org/abs/2608.20131 # Structural complexity of an SU(3) Fermi Hubbard model, Jiani Fu, Zewen Zhang, Eduardo Ibarra-Garcia-Padilla
+* https://arxiv.org/abs/2608.20156 # Biorthogonal Conformal Dynamics in Non-Hermitian Quantum Quenches, Yifan Liu
 
 https://arxiv.org/abs/2608.20168
-https://arxiv.org/abs/2608.20173
+* https://arxiv.org/abs/2608.20173 # Anyon condensates of dipoles in triangular ladders, Arjo Dasgupta, Luis Santos
 https://arxiv.org/abs/2608.20221
-https://arxiv.org/abs/2608.20269
+* https://arxiv.org/abs/2608.20269 # Nonlinear Drude weight of the one-dimensional Hubbard model, Tetsuya Iwasaki, Hosho Katsura
 https://arxiv.org/abs/2608.20310
 https://arxiv.org/abs/2608.20311
 https://arxiv.org/abs/2608.20330
