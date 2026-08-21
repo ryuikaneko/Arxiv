@@ -6,13 +6,13 @@ https://arxiv.org/abs/2608.19247
 https://arxiv.org/abs/2608.19248
 https://arxiv.org/abs/2608.19249
 https://arxiv.org/abs/2608.19306
-https://arxiv.org/abs/2608.19310
+* https://arxiv.org/abs/2608.19310 # Dissipation-enhanced scrambling in the SYK model coupled to a lossy cavity, Pietro Pelliconi, Bastien Lapierre, Shinsei Ryu
 https://arxiv.org/abs/2608.19314
 https://arxiv.org/abs/2608.19315
-https://arxiv.org/abs/2608.19318
+* https://arxiv.org/abs/2608.19318 # Simulating Black Hole Thermality and Interior Scrambling on a Superconducting Quantum Processor, Ryan Smith, Ewan Forbes, Iason Sofos Andrew Hallam, Jiannis Pachos
 
 https://arxiv.org/abs/2608.19325
-https://arxiv.org/abs/2608.19335
+* https://arxiv.org/abs/2608.19335 # Glassy dynamics with softened kinetic constraints on a noisy quantum computer, Marcel Cech, Igor Lesanovsky, Federico Carollo
 https://arxiv.org/abs/2608.19348
 https://arxiv.org/abs/2608.19370
 https://arxiv.org/abs/2608.19403
@@ -37,8 +37,8 @@ https://arxiv.org/abs/2608.19779
 https://arxiv.org/abs/2608.19787
 https://arxiv.org/abs/2608.19824
 https://arxiv.org/abs/2608.19868
-https://arxiv.org/abs/2608.19943
-https://arxiv.org/abs/2608.19988
+* https://arxiv.org/abs/2608.19943 # Imaginary time evolution of a quantum system through analytic continuation from real-time quantum simulation, Peng Guo, Anto Shibu, Joshua Lin, Yong Zhao
+* https://arxiv.org/abs/2608.19988 # Dynamical one-from-many quantum metrology: Sum rule and matrix-free precision bound, Ziyu Xie, Junjie Liu
 https://arxiv.org/abs/2608.20050
 https://arxiv.org/abs/2608.20063
 https://arxiv.org/abs/2608.20076
@@ -46,27 +46,27 @@ https://arxiv.org/abs/2608.20132
 
 https://arxiv.org/abs/2608.20133
 https://arxiv.org/abs/2608.20136
-https://arxiv.org/abs/2608.20139
+* https://arxiv.org/abs/2608.20139 # Reinforcement LearningtoHarness Approximation Errors for Long-Time QuantumSimulation, Yu-Bo Shi, Markus Heyl, Roderich Moessner, Marin Bukov, Hongzheng Zhao
 https://arxiv.org/abs/2608.20162
 https://arxiv.org/abs/2608.20164
 https://arxiv.org/abs/2608.20170
 https://arxiv.org/abs/2608.20209
 https://arxiv.org/abs/2608.20227
-https://arxiv.org/abs/2608.20233
+* https://arxiv.org/abs/2608.20233 # Nonthermal Dynamics of a One-dimensional Rydberg-atom Chain with Constraint Four-body Interactions, Tianyi Yan, Weibin Li
 https://arxiv.org/abs/2608.20250
 
 https://arxiv.org/abs/2608.19305
 https://arxiv.org/abs/2608.19320
-https://arxiv.org/abs/2608.19346
+* https://arxiv.org/abs/2608.19346 # Quantum chaos and late-time equipartition of symmetry-resolved Krylov complexity, Jayashish Das, Suman Das, Juan F. Pedraza, Le-Chen Qu
 https://arxiv.org/abs/2608.19373
-https://arxiv.org/abs/2608.19428
+* https://arxiv.org/abs/2608.19428 # Demons on a Budget: Adaptive Measurement Placement at the Entanglement Phase Transition, Rohan Pandey
 https://arxiv.org/abs/2608.19707
 https://arxiv.org/abs/2608.19715
 https://arxiv.org/abs/2608.19789
 https://arxiv.org/abs/2608.20067
 https://arxiv.org/abs/2608.20075
 
-https://arxiv.org/abs/2608.20268
+* https://arxiv.org/abs/2608.20268 # Learning Potts Models and Z3 Toric Codes: Higher and Ordinary Nishimori Criticality, Rushikesh A. Patil, Malte Puetz, Rohit Mukherjee, Guo-Yi Zhu, Simon Trebst, Andreas W. W. Ludwig
 https://arxiv.org/abs/2608.20327
 
 https://journals.aps.org/prapplied/abstract/10.1103/bg9k-rw48
