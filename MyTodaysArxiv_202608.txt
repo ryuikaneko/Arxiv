@@ -38,7 +38,7 @@ https://arxiv.org/abs/2608.21217
 https://arxiv.org/abs/2608.21309
 https://arxiv.org/abs/2608.21321
 * https://arxiv.org/abs/2608.21329 # Quantum annealing through a first-order phase transition: field theory approach, Diego Andres Rivera Orona, Predrag Punosevac, Nikolai A. Sinitsyn
-https://arxiv.org/abs/2608.21336
+* https://arxiv.org/abs/2608.21336 # Dissipative framework for subsystem dynamics of noninteracting quantum chains, Michele Coppola, Zala Lenarcic
 https://arxiv.org/abs/2608.20403
 https://arxiv.org/abs/2608.20520
 https://arxiv.org/abs/2608.20650
