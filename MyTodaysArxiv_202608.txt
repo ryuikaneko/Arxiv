@@ -15,8 +15,8 @@ https://arxiv.org/abs/2608.20702
 https://arxiv.org/abs/2608.20726
 https://arxiv.org/abs/2608.20737
 https://arxiv.org/abs/2608.20787
-https://arxiv.org/abs/2608.20836
-https://arxiv.org/abs/2608.20847
+* https://arxiv.org/abs/2608.20836 # Revealing Physical Redundancy in the Two-dimensional Fermi-Hubbard Model via Transferable Observable Reconstruction, Ao-Ning Wang, Min-Quan He, Z. D. Wang
+* https://arxiv.org/abs/2608.20847 # Non-Hermitian sensing via end-to-end Green's functions, Hui-Qiang Liang, Yu-Shi Cheng, Guo-Fu Xu
 https://arxiv.org/abs/2608.20849
 https://arxiv.org/abs/2608.20895
 https://arxiv.org/abs/2608.20954
@@ -34,10 +34,10 @@ https://arxiv.org/abs/2608.21185
 https://arxiv.org/abs/2608.21214
 
 https://arxiv.org/abs/2608.21217
-https://arxiv.org/abs/2608.21303
+* https://arxiv.org/abs/2608.21303 # Random quantum circuits, chaos and quantum thermalization, J. T. Chalker
 https://arxiv.org/abs/2608.21309
 https://arxiv.org/abs/2608.21321
-https://arxiv.org/abs/2608.21329
+* https://arxiv.org/abs/2608.21329 # Quantum annealing through a first-order phase transition: field theory approach, Diego Andres Rivera Orona, Predrag Punosevac, Nikolai A. Sinitsyn
 https://arxiv.org/abs/2608.21336
 https://arxiv.org/abs/2608.20403
 https://arxiv.org/abs/2608.20520
