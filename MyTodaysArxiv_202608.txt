@@ -13,14 +13,14 @@ https://arxiv.org/abs/2608.20694
 
 https://arxiv.org/abs/2608.20695
 https://arxiv.org/abs/2608.20700
-https://arxiv.org/abs/2608.20750
+* https://arxiv.org/abs/2608.20750 # Two-dimensional percolation with algebraically decaying interactions II: Critical exponents in the long-range regime, Ziyu Liu, Tianning Xiao, Zhijie Fan, Youjin Deng
 https://arxiv.org/abs/2608.20986
 https://arxiv.org/abs/2608.20994
 https://arxiv.org/abs/2608.21110
 https://arxiv.org/abs/2608.21219
 https://arxiv.org/abs/2608.21228
 https://arxiv.org/abs/2608.21250
-https://arxiv.org/abs/2608.21261
+* https://arxiv.org/abs/2608.21261 # Meandering stripes in the frustrated J1-J2 Ising model on the honeycomb lattice, Denis Gessert, Martin Weigel, Wolfhard Janke
 
 https://arxiv.org/abs/2608.21284
 https://arxiv.org/abs/2608.21316
