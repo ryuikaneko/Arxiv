@@ -1,8 +1,8 @@
 20260825
 
 https://arxiv.org/abs/2608.21451
-https://arxiv.org/abs/2608.21514
-https://arxiv.org/abs/2608.21661
+* https://arxiv.org/abs/2608.21514 # Theory of the Spinon-Mediated Witness Spin Glass in Herbertsmithite, Mitikorn Wood-Thanan, Felix Flicker
+* https://arxiv.org/abs/2608.21661 # Emergent Second Law for Time-Dependent Nonequilibrium States, Nahuel Freitas, Timur Aslyamov, Massimiliano Esposito
 https://arxiv.org/abs/2608.21753
 https://arxiv.org/abs/2608.21759
 https://arxiv.org/abs/2608.21781
@@ -14,8 +14,8 @@ https://arxiv.org/abs/2608.21990
 https://arxiv.org/abs/2608.22083
 https://arxiv.org/abs/2608.22136
 https://arxiv.org/abs/2608.22206
-https://arxiv.org/abs/2608.22264
-https://arxiv.org/abs/2608.22361
+* https://arxiv.org/abs/2608.22264 # Engineering exact mobility edges in quasiperiodic Aharonov-Bohm chains, Hai-Ying Cui, Yi-Cong Yu, Xiaoming Cai
+* https://arxiv.org/abs/2608.22361 # Dataset Complexity Shapes Finite-Distance Loss Geometry in Neural Networks, Jaeyong Bae, Hawoong Jeong
 https://arxiv.org/abs/2608.22489
 https://arxiv.org/abs/2608.22517
 https://arxiv.org/abs/2608.22520
@@ -24,10 +24,9 @@ https://arxiv.org/abs/2608.22831
 
 https://arxiv.org/abs/2608.22875
 https://arxiv.org/abs/2608.22902
-https://arxiv.org/abs/2608.23379
+* https://arxiv.org/abs/2608.23379 # A DQMC study of the spectral and conductive properties of the two-dimensional Holstein model, J. Neuhaus, B. Cohen-Stead, N. Mannella, S. Johnston
 https://arxiv.org/abs/2608.23394
-https://arxiv.org/abs/2608.23561
-https://arxiv.org/abs/2608.21524
+* https://arxiv.org/abs/2608.23561 # Flux-induced Aharonov-Bohm Oscillation in the Tunneling Spectroscopy of Kitaev Spin Liquids, Wen-Han Kao, Elio J. Koenig
 https://arxiv.org/abs/2608.21634
 https://arxiv.org/abs/2608.21701
 https://arxiv.org/abs/2608.21752
