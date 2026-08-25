@@ -40,7 +40,7 @@ https://arxiv.org/abs/2608.22664
 https://arxiv.org/abs/2608.22801
 https://arxiv.org/abs/2608.22810
 https://arxiv.org/abs/2608.22892
-https://arxiv.org/abs/2608.22939
+* https://arxiv.org/abs/2608.22939 # Universal equilibrium magic in quantum many-body systems, Soumyadeep Sarma, Tobias Haug, John Preskill, Wai-Keong Mok
 https://arxiv.org/abs/2608.22977
 https://arxiv.org/abs/2608.23002
 
@@ -48,7 +48,7 @@ https://arxiv.org/abs/2608.23025
 https://arxiv.org/abs/2608.23032
 https://arxiv.org/abs/2608.23093
 https://arxiv.org/abs/2608.23109
-https://arxiv.org/abs/2608.23231
+* https://arxiv.org/abs/2608.23231 # Quantum Monte Carlo in the Age of Many-Body Quantum Information, Yi-Ming Ding, Bin-Bin Mao, Zheng Yan
 https://arxiv.org/abs/2608.23232
 https://arxiv.org/abs/2608.23380
 https://arxiv.org/abs/2608.23389
@@ -56,11 +56,11 @@ https://arxiv.org/abs/2608.23399
 https://arxiv.org/abs/2608.23433
 
 https://arxiv.org/abs/2608.23460
-https://arxiv.org/abs/2608.23557
+* https://arxiv.org/abs/2608.23557 # Dissipation-induced Sachdev-Ye-Kitaev physics in many-body cavity quantum electrodynamics, Pietro Pacchioni, Filippo Ferrari, Vincenzo Savona, Matteo Secli
 https://arxiv.org/abs/2608.21492
 https://arxiv.org/abs/2608.21768
-https://arxiv.org/abs/2608.21791
-https://arxiv.org/abs/2608.21835
+* https://arxiv.org/abs/2608.21791 # Critical Topological Photonics in Synthetic Dimensions, Mingyuan Chen, Yuwei Jing, Franco Nori, Xue-Jia Yu
+* https://arxiv.org/abs/2608.21835 # Monitored free fermions under periodic driving, Aditi Chakrabarty, Alexander D. Mirlin, Igor Poboiko
 https://arxiv.org/abs/2608.22475
 https://arxiv.org/abs/2608.22571
 https://arxiv.org/abs/2608.22925
