@@ -7,11 +7,11 @@ https://arxiv.org/abs/2608.21437
 https://arxiv.org/abs/2608.21442
 https://arxiv.org/abs/2608.21508
 * https://arxiv.org/abs/2608.21524 # Many-body ergodicity breaking from wavefunction snapshots, Riccardo Andreoni, Devendra Singh Bhakuni, Marcello Dalmonte, Lev Vidmar, Miroslav Hopjan
-https://arxiv.org/abs/2608.21526
+* https://arxiv.org/abs/2608.21526 # Asymptotic entanglement in circle stabilizer states and states forbidding arbitrary vertex-minors, Kenneth Goodenough, Marcelo Sales
 https://arxiv.org/abs/2608.21569
-https://arxiv.org/abs/2608.21578
+* https://arxiv.org/abs/2608.21578 # Scaling vs entanglement in measurement-induced phase transition for non-integrable systems, Paranjoy Chaki, Protyush Nandi, Subinay Dasgupta, Ujjwal Sen
 
-https://arxiv.org/abs/2608.21616
+* https://arxiv.org/abs/2608.21616 # Prior-Informed Adaptive Shifts for Sequential Minimal Optimization in Variational Quantum Eigensolvers, Frederik Stalschus, Samuele Pedrielli, Stefan Kuehn, Karl Jansen, Kim A. Nicoli, Shinichi Nakajima
 https://arxiv.org/abs/2608.21667
 https://arxiv.org/abs/2608.21689
 https://arxiv.org/abs/2608.21692
@@ -19,7 +19,7 @@ https://arxiv.org/abs/2608.21700
 https://arxiv.org/abs/2608.21733
 https://arxiv.org/abs/2608.21765
 https://arxiv.org/abs/2608.21842
-https://arxiv.org/abs/2608.21902
+* https://arxiv.org/abs/2608.21902 # Belief Propagation-based Disentanglers for Tensor Network State Preparation, Tomasz Szoldra, Peter Schmelcher
 https://arxiv.org/abs/2608.21904
 
 https://arxiv.org/abs/2608.21959
