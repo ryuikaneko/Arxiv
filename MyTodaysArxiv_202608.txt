@@ -6,7 +6,7 @@ https://arxiv.org/abs/2608.21435
 https://arxiv.org/abs/2608.21437
 https://arxiv.org/abs/2608.21442
 https://arxiv.org/abs/2608.21508
-https://arxiv.org/abs/2608.21524
+* https://arxiv.org/abs/2608.21524 # Many-body ergodicity breaking from wavefunction snapshots, Riccardo Andreoni, Devendra Singh Bhakuni, Marcello Dalmonte, Lev Vidmar, Miroslav Hopjan
 https://arxiv.org/abs/2608.21526
 https://arxiv.org/abs/2608.21569
 https://arxiv.org/abs/2608.21578
