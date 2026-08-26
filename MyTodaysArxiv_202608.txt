@@ -11,10 +11,10 @@ https://arxiv.org/abs/2608.24299
 https://arxiv.org/abs/2608.24370
 https://arxiv.org/abs/2608.24494
 
-https://arxiv.org/abs/2608.24502
+* https://arxiv.org/abs/2608.24502 # Quantum simulation of circular cluster interactions in a linear spin chain, Alexander van Lomwel, Hongzheng Zhao, Florian Mintert
 https://arxiv.org/abs/2608.24527
 https://arxiv.org/abs/2608.24543
-https://arxiv.org/abs/2608.24668
+* https://arxiv.org/abs/2608.24668 # Scalable Lindblad Noise Learning via Stochastic Tensor-Network Simulation, Alejandro R. Ramos Ramos, Maximilian Froehlich, Aaron Sander, Robert Wille, Martin Eigel, Michael Hintermueller, Patrick Gelss, Sebastian Pokutta
 https://arxiv.org/abs/2608.24781
 https://arxiv.org/abs/2608.24144
 https://arxiv.org/abs/2608.24180
