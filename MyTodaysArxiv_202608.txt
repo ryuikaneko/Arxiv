@@ -1,17 +1,17 @@
 20260826
 
-https://arxiv.org/abs/2608.23694
-https://arxiv.org/abs/2608.23711
-https://arxiv.org/abs/2608.23904
+* https://arxiv.org/abs/2608.23694 # Universal Spin-Position Coupled Rydberg Interactions, Chengshu Li, Hui Zhai
+* https://arxiv.org/abs/2608.23711 # Observation of electron spin interactions between Rydberg atoms, Le Ruan, Ziqi Zhou, Yuchen Guo, Chengshu Li, Cheng Chen
+* https://arxiv.org/abs/2608.23904 # Reentrance and temperature chaos in the p-spin Ising spin glass, Hidetoshi Nishimori
 https://arxiv.org/abs/2608.23954
 https://arxiv.org/abs/2608.23990
 https://arxiv.org/abs/2608.24013
 https://arxiv.org/abs/2608.24059
 https://arxiv.org/abs/2608.24139
 https://arxiv.org/abs/2608.24149
-https://arxiv.org/abs/2608.24172
+* https://arxiv.org/abs/2608.24172 # Frustration-induced degenerate spin state with up-up-down-down ordering in corner-connected Heisenberg square-plaquettes, Pritam Manna, A. K. Bera
 
-https://arxiv.org/abs/2608.24248
+* https://arxiv.org/abs/2608.24248 # Critical bifurcation and deconfined quantum criticality in an interacting cluster Ising chain, Sourabh, Bachana Beradze, Mikheil Tsitsishvili, Alexander Nersesyan, Titas Chanda
 https://arxiv.org/abs/2608.24337
 https://arxiv.org/abs/2608.24408
 https://arxiv.org/abs/2608.24472
