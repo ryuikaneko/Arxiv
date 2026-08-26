@@ -12,19 +12,19 @@ https://arxiv.org/abs/2608.24149
 * https://arxiv.org/abs/2608.24172 # Frustration-induced degenerate spin state with up-up-down-down ordering in corner-connected Heisenberg square-plaquettes, Pritam Manna, A. K. Bera
 
 * https://arxiv.org/abs/2608.24248 # Critical bifurcation and deconfined quantum criticality in an interacting cluster Ising chain, Sourabh, Bachana Beradze, Mikheil Tsitsishvili, Alexander Nersesyan, Titas Chanda
-https://arxiv.org/abs/2608.24337
-https://arxiv.org/abs/2608.24408
+* https://arxiv.org/abs/2608.24337 # Influence of the inter-orbital interaction and kinetic terms on superconductivity: a simple two-orbital Hubbard model, Vito Marino, Diego Florez-Ablan, Luca F. Tocchio, Massimo Capone, Federico Becca
+* https://arxiv.org/abs/2608.24408 # Altermagnetic Anomalous Hall Effect and Spin--Edge-Locked Chiral Modes in a Modified Kane--Mele--Hubbard Model, Mohsen Hafez-Torbati, Alireza Qaiumzadeh
 https://arxiv.org/abs/2608.24472
 https://arxiv.org/abs/2608.24514
-https://arxiv.org/abs/2608.24608
+* https://arxiv.org/abs/2608.24608 # Thermal DMRG for quasi one-dimensional magnetic molecules and chains, L. Horstmann, J. Schnack (Bielefeld University)
 https://arxiv.org/abs/2608.24613
 https://arxiv.org/abs/2608.24619
 https://arxiv.org/abs/2608.24628
 https://arxiv.org/abs/2608.24694
 
 https://arxiv.org/abs/2608.24733
-https://arxiv.org/abs/2608.24838
-https://arxiv.org/abs/2608.23707
+* https://arxiv.org/abs/2608.24838 # Accidental accuracy and vertex corrections in GW: Exact benchmarks for the extended Hubbard model, Michael O. Atambo
+* https://arxiv.org/abs/2608.23707 # Hamiltonian Learning at Scale, Nathan Johnson, Eugene Dumitrescu
 https://arxiv.org/abs/2608.23769
 https://arxiv.org/abs/2608.23769
 https://arxiv.org/abs/2608.23884
