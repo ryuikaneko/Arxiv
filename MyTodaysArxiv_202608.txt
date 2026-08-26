@@ -1,5 +1,25 @@
 20260826
 
+https://arxiv.org/abs/2608.23819
+https://arxiv.org/abs/2608.23934
+https://arxiv.org/abs/2608.24000
+https://arxiv.org/abs/2608.24008
+https://arxiv.org/abs/2608.24061
+https://arxiv.org/abs/2608.24150
+https://arxiv.org/abs/2608.24229
+https://arxiv.org/abs/2608.24299
+https://arxiv.org/abs/2608.24370
+https://arxiv.org/abs/2608.24494
+
+https://arxiv.org/abs/2608.24502
+https://arxiv.org/abs/2608.24527
+https://arxiv.org/abs/2608.24543
+https://arxiv.org/abs/2608.24668
+https://arxiv.org/abs/2608.24781
+https://arxiv.org/abs/2608.24144
+https://arxiv.org/abs/2608.24180
+https://arxiv.org/abs/2608.24320
+
 * https://arxiv.org/abs/2608.23694 # Universal Spin-Position Coupled Rydberg Interactions, Chengshu Li, Hui Zhai
 * https://arxiv.org/abs/2608.23711 # Observation of electron spin interactions between Rydberg atoms, Le Ruan, Ziqi Zhou, Yuchen Guo, Chengshu Li, Cheng Chen
 * https://arxiv.org/abs/2608.23904 # Reentrance and temperature chaos in the p-spin Ising spin glass, Hidetoshi Nishimori
