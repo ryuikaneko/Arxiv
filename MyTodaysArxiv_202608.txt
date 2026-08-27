@@ -3,29 +3,29 @@
 https://arxiv.org/abs/2608.24923
 https://arxiv.org/abs/2608.24981
 https://arxiv.org/abs/2608.25010
-https://arxiv.org/abs/2608.25024
+* https://arxiv.org/abs/2608.25024 # Hardware-Aware Fermion-to-Qubit Mappings for Simulating the 2D Hubbard Model on Heavy-Hexagon Quantum Processors, Alessio Esposito, Andrea Giachero, Zoltan Zimboras, Leonardo Banchi
 https://arxiv.org/abs/2608.25027
 https://arxiv.org/abs/2608.25042
 https://arxiv.org/abs/2608.25136
 https://arxiv.org/abs/2608.25151
 https://arxiv.org/abs/2608.25161
-https://arxiv.org/abs/2608.25414
+* https://arxiv.org/abs/2608.25414 # Affine-Profile Stabilizer Thresholds for Magic in Codeword-Stabilized Quantum Codes, Li-Yi Hsu, En-Jui Kuo
 
 https://arxiv.org/abs/2608.25415
 https://arxiv.org/abs/2608.25437
 https://arxiv.org/abs/2608.25455
 https://arxiv.org/abs/2608.25475
-https://arxiv.org/abs/2608.25511
+* https://arxiv.org/abs/2608.25511 # Superextensive learning in quantum reservoirs at the onset of information scrambling, Jonas Freiheit, Francesco Campaioli
 https://arxiv.org/abs/2608.25645
-https://arxiv.org/abs/2608.25649
+* https://arxiv.org/abs/2608.25649 # Quantum motility-induced phase separation, Laurin Brunner, Ricard Alert, Reyhaneh Khasseh, Markus Heyl
 https://arxiv.org/abs/2608.25742
-https://arxiv.org/abs/2608.25788
-https://arxiv.org/abs/2608.25797
+* https://arxiv.org/abs/2608.25788 # Quantum sampling in hybrid light-matter systems with mixed statistics, Franziska Barkhausen, Laura Ares, Stefan Schumacher, Jan Sperling
+* https://arxiv.org/abs/2608.25797 # Fault-tolerant |\sqrt{T}> state preparation and injection for more efficient fine-grained quantum circuit synthesis, Berat Yenilen, Markus Mueller, Manuel Rispler
 
 https://arxiv.org/abs/2608.25800
 https://arxiv.org/abs/2608.25822
 https://arxiv.org/abs/2608.25896
-https://arxiv.org/abs/2608.25950
+* https://arxiv.org/abs/2608.25950 # Entirely nonlocal quantum magic without entanglement, Fuchuan Wei, Ruixia Wang, Yujia Zhang, Huihui Li, Junfeng Li, Fei Yan, Zi-Wen Liu
 https://arxiv.org/abs/2608.25961
 https://arxiv.org/abs/2608.25254
 https://arxiv.org/abs/2608.25696
