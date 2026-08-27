@@ -1,21 +1,21 @@
 20260827
 
 https://arxiv.org/abs/2608.24906
-https://arxiv.org/abs/2608.24927
+* https://arxiv.org/abs/2608.24927 # Reply to Comment on: Microscopic signatures of an imaginary charge density wave in a kagome metal, S. Suetsugu, S. Kitagawa, K. Ishida, T. Shibauchi, Y. Matsuda
 https://arxiv.org/abs/2608.25002
 https://arxiv.org/abs/2608.25132
 https://arxiv.org/abs/2608.25209
-https://arxiv.org/abs/2608.25224
+* https://arxiv.org/abs/2608.25224 # Dynamical splitting and a nodal Bose liquid in 2d chiral XYZ model, Tarun Grover
 https://arxiv.org/abs/2608.25263
 https://arxiv.org/abs/2608.25265
 https://arxiv.org/abs/2608.25271
 https://arxiv.org/abs/2608.25407
 
 https://arxiv.org/abs/2608.25411
-https://arxiv.org/abs/2608.25606
+* https://arxiv.org/abs/2608.25606 # Characterizing Full Nonequilibrium Dynamics of Simple Exclusion Processes, Zhimao Liu, Jing Liu, Pan Zhang, Ying Tang
 https://arxiv.org/abs/2608.25628
-https://arxiv.org/abs/2608.25806
-https://arxiv.org/abs/2608.25816
+* https://arxiv.org/abs/2608.25806 # Semi-localized ground state in a 1D system with long-range hopping, Murod S. Bahovadinov, Faridun N. Jalolov, Vladimir E. Kravtsov, Boris L. Altshuler, Georgy V. Shlyapnikov
+* https://arxiv.org/abs/2608.25816 # Fate of the non-Abelian Moore-Read manifold under the non-Hermitian skin effect, Jiaxuan Guo, Simin Nie, Xiting Zhang, Fritz B. Prinz
 https://arxiv.org/abs/2608.25875
 https://arxiv.org/abs/2608.26016
 https://arxiv.org/abs/2608.26022
@@ -25,7 +25,7 @@ https://arxiv.org/abs/2608.26025
 https://arxiv.org/abs/2608.26078
 https://arxiv.org/abs/2608.26099
 https://arxiv.org/abs/2608.24897
-https://arxiv.org/abs/2608.24993
+* https://arxiv.org/abs/2608.24993 # Mixed-State Symmetry-Protected Topology and Strong-to-Weak Spontaneous Symmetry Breaking in a Superconducting Qubit Array, Qian Cao, Zhen Bi, Kater W. Murch
 https://arxiv.org/abs/2608.25006
 * https://arxiv.org/abs/2608.25908 # Structured Non-Locality and Emergent Locality in Cavity-QED Many-Body Dynamics, Mark A. Oehlgrien, Blazej Jaworowski, Darrick E. Chang, Charlie-Ray Mann
 * https://arxiv.org/abs/2608.25929 # Magic of Kitaev spin liquids, Eleonora Lamma, Tim Bauer, Marcello Dalmonte, Mario Collura
