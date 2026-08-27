@@ -27,11 +27,11 @@ https://arxiv.org/abs/2608.26099
 https://arxiv.org/abs/2608.24897
 https://arxiv.org/abs/2608.24993
 https://arxiv.org/abs/2608.25006
-https://arxiv.org/abs/2608.25908
-https://arxiv.org/abs/2608.25929
+* https://arxiv.org/abs/2608.25908 # Structured Non-Locality and Emergent Locality in Cavity-QED Many-Body Dynamics, Mark A. Oehlgrien, Blazej Jaworowski, Darrick E. Chang, Charlie-Ray Mann
+* https://arxiv.org/abs/2608.25929 # Magic of Kitaev spin liquids, Eleonora Lamma, Tim Bauer, Marcello Dalmonte, Mario Collura
 https://arxiv.org/abs/2608.26027
 https://arxiv.org/abs/2608.26081
-https://arxiv.org/abs/2608.26082
+* https://arxiv.org/abs/2608.26082 # Yang-Lee Criticality as a Dissipative Dynamical Phase Transition: Quantum Simulation of non-Hermitian Physics without Post-selection, Stephen W. Yan
 
 https://journals.aps.org/prapplied/abstract/10.1103/y162-z8m9
 https://journals.aps.org/prl/abstract/10.1103/2frt-tdg9
