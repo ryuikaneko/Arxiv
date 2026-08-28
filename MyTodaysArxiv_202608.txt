@@ -22,7 +22,7 @@ https://arxiv.org/abs/2608.27357
 https://arxiv.org/abs/2608.27363
 https://arxiv.org/abs/2608.27387
 
-https://arxiv.org/abs/2608.26825
+* https://arxiv.org/abs/2608.26825 # Quantum Chaos and Spread of States in Krylov Subspace: A Topical Review, Hyun-Sik Jeong, Juan F. Pedraza
 
 https://arxiv.org/abs/2608.26245
 https://arxiv.org/abs/2608.26252
