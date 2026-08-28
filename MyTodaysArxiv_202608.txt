@@ -11,7 +11,7 @@ https://arxiv.org/abs/2608.26279
 https://arxiv.org/abs/2608.26339
 https://arxiv.org/abs/2608.26341
 
-https://arxiv.org/abs/2608.26347
+* https://arxiv.org/abs/2608.26347 # Dynamical signatures of deconfined spinons in dimerized sawtooth chains, Nishan Ranabhat, Brandon B. Le, Seung-Hun Lee, Gia-Wei Chern
 https://arxiv.org/abs/2608.26397
 https://arxiv.org/abs/2608.26468
 https://arxiv.org/abs/2608.26521
@@ -29,7 +29,7 @@ https://arxiv.org/abs/2608.26954
 https://arxiv.org/abs/2608.27008
 https://arxiv.org/abs/2608.27107
 https://arxiv.org/abs/2608.27200
-https://arxiv.org/abs/2608.27237
+* https://arxiv.org/abs/2608.27237 # Long-time Dynamics of Many-body Open Quantum Systems using Quantum Generating Functions, Katha Ganguly, Dario Poletti, Bijay Kumar Agarwalla
 https://arxiv.org/abs/2608.27329
 * https://arxiv.org/abs/2608.27411 # A continuous confinement-deconfinement transition in a triangular quantum magnet, Suguru Hosoi, Sejun Park, Michihiro Hirata, Minseong Lee, Adam P Dioguardi, Joe D Thompson, Filip Ronning, Allen O Scheie, Kumpei Imamura, Kenichiro Hashimoto, Takasada Shibauchi, Bishnu P Belbase, Arjun Unnikrishnan, Johannes Knolle, Arnab Banerjee, Yuji Matsuda
 
