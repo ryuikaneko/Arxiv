@@ -31,7 +31,7 @@ https://arxiv.org/abs/2608.27107
 https://arxiv.org/abs/2608.27200
 https://arxiv.org/abs/2608.27237
 https://arxiv.org/abs/2608.27329
-https://arxiv.org/abs/2608.27411
+* https://arxiv.org/abs/2608.27411 # A continuous confinement-deconfinement transition in a triangular quantum magnet, Suguru Hosoi, Sejun Park, Michihiro Hirata, Minseong Lee, Adam P Dioguardi, Joe D Thompson, Filip Ronning, Allen O Scheie, Kumpei Imamura, Kenichiro Hashimoto, Takasada Shibauchi, Bishnu P Belbase, Arjun Unnikrishnan, Johannes Knolle, Arnab Banerjee, Yuji Matsuda
 
 https://arxiv.org/abs/2608.27444
 https://arxiv.org/abs/2608.27446
@@ -42,7 +42,7 @@ https://arxiv.org/abs/2608.27132
 https://arxiv.org/abs/2608.27177
 https://arxiv.org/abs/2608.27399
 https://arxiv.org/abs/2608.27426
-https://arxiv.org/abs/2608.27440
+* https://arxiv.org/abs/2608.27440 # Dynamics of local quantum information in random unitary circuits, Ratul Thakur, Sthitadhi Roy
 
 https://arxiv.org/abs/2608.27457
 
