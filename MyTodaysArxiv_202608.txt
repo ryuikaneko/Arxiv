@@ -3,9 +3,9 @@
 https://arxiv.org/abs/2608.27498
 https://arxiv.org/abs/2608.27503
 https://arxiv.org/abs/2608.27543
-https://arxiv.org/abs/2608.27561
+* https://arxiv.org/abs/2608.27561 # Pulling strings in real time: flux tube dynamics in (2+1)-d Z2-Higgs Gauge Theories, Zeno Bacciconi, Martina Frau, Luca Tagliacozzo, Michele Caselle, Marcello Dalmonte
 https://arxiv.org/abs/2608.27565
-https://arxiv.org/abs/2608.27568
+* https://arxiv.org/abs/2608.27568 # Quantifying the Dual-isotope Advantage for Ytterbium-array Surface Codes using Realistic Noise Models, Fumiyoshi Kobayashi, Toshi Kusano, Nicholas Fazio, Yuma Nakamura
 https://arxiv.org/abs/2608.27573
 https://arxiv.org/abs/2608.27582
 https://arxiv.org/abs/2608.27626
@@ -14,27 +14,27 @@ https://arxiv.org/abs/2608.27682
 https://arxiv.org/abs/2608.27712
 https://arxiv.org/abs/2608.27740
 https://arxiv.org/abs/2608.27897
-https://arxiv.org/abs/2608.27993
+* https://arxiv.org/abs/2608.27993 # Predicting Multipartite Entanglement in Quantum Circuits using Transformer, Darell Timothy Tarigan, Fadhil Fatih Shiddiq, Hadyan Luthfan Prihadi, Donny Dwiputra, Jusak S. Kosasih, Yanoar P. Sarwono, Freddy Permana Zen, Rui-Qin Zhang
 https://arxiv.org/abs/2608.28035
 https://arxiv.org/abs/2608.28357
 https://arxiv.org/abs/2608.28390
 https://arxiv.org/abs/2608.28401
-https://arxiv.org/abs/2608.28440
+* https://arxiv.org/abs/2608.28440 # From quantum reservoirs to quantum extreme learning machines through a nearest-neighbor spin chain with tunable quantum memory, Carlos Ramon-Escandell, Arnau Riera, Marcin Plodzien
 https://arxiv.org/abs/2608.28451
 
 https://arxiv.org/abs/2608.28500
 https://arxiv.org/abs/2608.28510
 https://arxiv.org/abs/2608.28519
 https://arxiv.org/abs/2608.28535
-https://arxiv.org/abs/2608.28563
+* https://arxiv.org/abs/2608.28563 # Exact quantification of nonlocal magic, Piotr Sierant
 https://arxiv.org/abs/2608.28569
 https://arxiv.org/abs/2608.28571
 https://arxiv.org/abs/2608.28573
-https://arxiv.org/abs/2608.28577
-https://arxiv.org/abs/2608.26264
+* https://arxiv.org/abs/2608.28577 # How Long-Range Tails Reshape Non-Hermitian Spectra, Ding Gu, Zhanpeng Fu, Yu-Min Hu, Zhong Wang
+* https://arxiv.org/abs/2608.26264 # Statistics as a local phase: crystalline order and quench dynamics of emergent dimers in Ising gauge theories, Umberto Borla, Riccardo Cioli, Jad C. Halimeh
 
 https://arxiv.org/abs/2608.27564
-https://arxiv.org/abs/2608.27861
+* https://arxiv.org/abs/2608.27861 # Vectorized Symmetric and Fermionic Tensor Network Implementations for GPU-Accelerated Variational Monte Carlo, Si-Jing Du, Johnnie Gray, Ao Chen, Garnet Kin-Lic Chan
 https://arxiv.org/abs/2608.27944
 https://arxiv.org/abs/2608.28084
 https://arxiv.org/abs/2608.28126
