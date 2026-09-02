@@ -1,5 +1,26 @@
 20260902
 
+https://arxiv.org/abs/2609.00056
+https://arxiv.org/abs/2609.00167
+https://arxiv.org/abs/2609.00168
+https://arxiv.org/abs/2609.00169
+https://arxiv.org/abs/2609.00220
+https://arxiv.org/abs/2609.00234
+https://arxiv.org/abs/2609.00235
+https://arxiv.org/abs/2609.00348
+https://arxiv.org/abs/2609.00372
+https://arxiv.org/abs/2609.00475
+
+https://journals.aps.org/prl/abstract/10.1103/zbxv-vtq8
+https://journals.aps.org/prl/abstract/10.1103/ydjj-6r9l
+https://journals.aps.org/prl/abstract/10.1103/w6fl-nx59
+https://journals.aps.org/prx/abstract/10.1103/9qhy-ms2y
+https://journals.aps.org/prx/abstract/10.1103/tq9r-g727
+https://journals.aps.org/pra/abstract/10.1103/321q-k5dh
+
+
+20260901
+
 https://arxiv.org/abs/2608.28811
 https://arxiv.org/abs/2608.28812
 https://arxiv.org/abs/2608.28828
@@ -105,16 +126,6 @@ https://arxiv.org/abs/2608.29963
 https://arxiv.org/abs/2608.30723
 https://arxiv.org/abs/2608.31001
 https://arxiv.org/abs/2608.31080
-
-https://journals.aps.org/prl/abstract/10.1103/zbxv-vtq8
-https://journals.aps.org/prl/abstract/10.1103/ydjj-6r9l
-https://journals.aps.org/prl/abstract/10.1103/w6fl-nx59
-https://journals.aps.org/prx/abstract/10.1103/9qhy-ms2y
-https://journals.aps.org/prx/abstract/10.1103/tq9r-g727
-https://journals.aps.org/pra/abstract/10.1103/321q-k5dh
-
-
-20260901
 
 https://journals.aps.org/pra/abstract/10.1103/kh98-chtn
 https://journals.aps.org/prresearch/abstract/10.1103/34h6-sn4p
