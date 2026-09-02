@@ -1,5 +1,37 @@
 20260902
 
+https://arxiv.org/abs/2609.00070
+https://arxiv.org/abs/2609.00083
+* https://arxiv.org/abs/2609.00124 # Green-function Zeros Encode Competing Mott and Charge-ordering Scales, Peizhi Mai, Philip W. Phillips
+https://arxiv.org/abs/2609.00125
+https://arxiv.org/abs/2609.00139
+https://arxiv.org/abs/2609.00146
+* https://arxiv.org/abs/2609.00277 # Engineering tunable p-wave magnetism in antiferromagnetic bilayers, Yu-Han Lin, Jin-Wei Dong, Ziqiang Wang, Sen Zhou
+* https://arxiv.org/abs/2609.00322 # A Human-AI Theorem Connecting Spontaneous and Field-Induced Mechanisms of Collective Behavior in One Dimension, Weiguo Yin
+https://arxiv.org/abs/2609.00338
+https://arxiv.org/abs/2609.00433
+
+https://arxiv.org/abs/2609.00467
+https://arxiv.org/abs/2609.00574
+* https://arxiv.org/abs/2609.00586 # Microscopic Origin of Pressure-Enhanced and Robust Superconductivity in Infinite-Layer La0.8Sr0.2NiO2, Jian-Feng Zhang, Zhong-Yi Lu, Tao Xiang
+https://arxiv.org/abs/2609.00695
+https://arxiv.org/abs/2609.00697
+https://arxiv.org/abs/2609.00721
+https://arxiv.org/abs/2609.00780
+https://arxiv.org/abs/2609.00795
+https://arxiv.org/abs/2609.00801
+https://arxiv.org/abs/2609.00887
+
+https://arxiv.org/abs/2609.00900
+https://arxiv.org/abs/2609.01301
+https://arxiv.org/abs/2609.01363
+https://arxiv.org/abs/2609.01476
+https://arxiv.org/abs/2609.01492
+https://arxiv.org/abs/2609.00148
+https://arxiv.org/abs/2609.00160
+https://arxiv.org/abs/2609.00170
+https://arxiv.org/abs/2609.00203
+
 https://arxiv.org/abs/2609.00056
 https://arxiv.org/abs/2609.00167
 https://arxiv.org/abs/2609.00168
