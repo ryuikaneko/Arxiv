@@ -16,7 +16,7 @@ https://arxiv.org/abs/2609.00694
 https://arxiv.org/abs/2609.00778
 https://arxiv.org/abs/2609.00825
 https://arxiv.org/abs/2609.00939
-https://arxiv.org/abs/2609.00977
+* https://arxiv.org/abs/2609.00977 # Information geometry of non-equilibrium quantum states: Mixed metric structures on an extended information manifold, Kouji Kashiwa, Hidefumi Matsuda
 https://arxiv.org/abs/2609.01008
 https://arxiv.org/abs/2609.01029
 https://arxiv.org/abs/2609.01066
