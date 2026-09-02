@@ -1,5 +1,36 @@
 20260902
 
+https://arxiv.org/abs/2608.28811
+https://arxiv.org/abs/2608.28812
+https://arxiv.org/abs/2608.28828
+https://arxiv.org/abs/2608.28842
+https://arxiv.org/abs/2608.28897
+https://arxiv.org/abs/2608.28946
+https://arxiv.org/abs/2608.28962
+https://arxiv.org/abs/2608.29017
+https://arxiv.org/abs/2608.29049
+https://arxiv.org/abs/2608.29333
+
+https://arxiv.org/abs/2608.29350
+https://arxiv.org/abs/2608.29399
+https://arxiv.org/abs/2608.29438
+https://arxiv.org/abs/2608.29557
+https://arxiv.org/abs/2608.29672
+https://arxiv.org/abs/2608.29684
+https://arxiv.org/abs/2608.29858
+https://arxiv.org/abs/2608.29926
+https://arxiv.org/abs/2608.30660
+https://arxiv.org/abs/2608.30783
+
+https://arxiv.org/abs/2608.30834
+https://arxiv.org/abs/2608.31011
+https://arxiv.org/abs/2608.31064
+https://arxiv.org/abs/2608.31089
+https://arxiv.org/abs/2608.28796
+https://arxiv.org/abs/2608.28869
+https://arxiv.org/abs/2608.29302
+https://arxiv.org/abs/2608.31090
+
 * https://arxiv.org/abs/2608.28719 # Emergent hydrodynamic response and dynamical backreaction: Magnon bound-state propagation in a Bose-Hubbard fluid, Andres N. Caliz, Arnau Riera, Enrique Rico, Joao Barata, Marcin Plodzien
 https://arxiv.org/abs/2608.28731
 * https://arxiv.org/abs/2608.28742 # Determinant Quantum-Quantum Monte Carlo: Coherent Auxiliary-Field Sampling, Xuepeng Wang, Sagnik Banerjee, Debanjan Chowdhury
