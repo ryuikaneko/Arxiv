@@ -1,13 +1,13 @@
 20260902
 
-https://arxiv.org/abs/2608.28719
+* https://arxiv.org/abs/2608.28719 # Emergent hydrodynamic response and dynamical backreaction: Magnon bound-state propagation in a Bose-Hubbard fluid, Andres N. Caliz, Arnau Riera, Enrique Rico, Joao Barata, Marcin Plodzien
 https://arxiv.org/abs/2608.28731
-https://arxiv.org/abs/2608.28742
+* https://arxiv.org/abs/2608.28742 # Determinant Quantum-Quantum Monte Carlo: Coherent Auxiliary-Field Sampling, Xuepeng Wang, Sagnik Banerjee, Debanjan Chowdhury
 https://arxiv.org/abs/2608.28750
 https://arxiv.org/abs/2608.28831
 https://arxiv.org/abs/2608.28855
 https://arxiv.org/abs/2608.28862
-https://arxiv.org/abs/2608.28898
+* https://arxiv.org/abs/2608.28898 # Phase stability, charge ordering, and charge-liquid formation in the Falicov-Kimball model on triangular and kagome lattices, Ammar Nejati, Marvin Lenk
 https://arxiv.org/abs/2608.28928
 https://arxiv.org/abs/2608.28953
 
@@ -15,7 +15,7 @@ https://arxiv.org/abs/2608.29007
 https://arxiv.org/abs/2608.29015
 https://arxiv.org/abs/2608.29062
 https://arxiv.org/abs/2608.29064
-https://arxiv.org/abs/2608.29091
+* https://arxiv.org/abs/2608.29091 # Doping-driven evolution of pairing symmetry in pressurized La3Ni2O7, Hai-Yang Zhang, Yu-Jie Bai, Fan-Jie Kong
 https://arxiv.org/abs/2608.29122
 https://arxiv.org/abs/2608.29156
 https://arxiv.org/abs/2608.29276
@@ -27,11 +27,11 @@ https://arxiv.org/abs/2608.29413
 https://arxiv.org/abs/2608.29665
 https://arxiv.org/abs/2608.29691
 https://arxiv.org/abs/2608.29701
-https://arxiv.org/abs/2608.29710
+* https://arxiv.org/abs/2608.29710 # Phase Diagram and Critical Behaviour of the Two-Dimensional Potts Model with Long-Range Quenched Disorder, Rodolfo Rocha, Leticia F. Cugliandolo, Marco Picco
 https://arxiv.org/abs/2608.29742
-https://arxiv.org/abs/2608.29792
+* https://arxiv.org/abs/2608.29792 # Thermal Hall Signatures of Distinct Schwinger-Boson Flux Sectors on the Honeycomb Lattice, Daiki Sasamoto
 https://arxiv.org/abs/2608.29807
-https://arxiv.org/abs/2608.29810
+* https://arxiv.org/abs/2608.29810 # Pseudo Entropy in Quantum Spin Chains: from Integrability to Chaos, Tara Bahadur Rana, Yadav Raj Dahal, Kiran Adhikari
 
 https://arxiv.org/abs/2608.29822
 https://arxiv.org/abs/2608.29861
@@ -41,7 +41,7 @@ https://arxiv.org/abs/2608.30001
 https://arxiv.org/abs/2608.30007
 https://arxiv.org/abs/2608.30010
 https://arxiv.org/abs/2608.30335
-https://arxiv.org/abs/2608.30381
+* https://arxiv.org/abs/2608.30381 # Pseudospin Dynamics of Charge Order, Ping Tang
 https://arxiv.org/abs/2608.30531
 
 https://arxiv.org/abs/2608.30535
@@ -52,10 +52,10 @@ https://arxiv.org/abs/2608.30598
 https://arxiv.org/abs/2608.30630
 https://arxiv.org/abs/2608.30642
 https://arxiv.org/abs/2608.30670
-https://arxiv.org/abs/2608.30746
+* https://arxiv.org/abs/2608.30746 # Hartree Fragmentation and Long-Range Pair Networks in Aperiodic Chains, Yogeshwar Prasad
 https://arxiv.org/abs/2608.30761
 
-https://arxiv.org/abs/2608.30802
+* https://arxiv.org/abs/2608.30802 # Chiral Color Ice: Exact Local Handedness Constraints and Moebius Zero Modes in Frustrated Magnets, Peter Kranitz, Yasir Iqbal, Karlo Penc
 https://arxiv.org/abs/2608.30871
 https://arxiv.org/abs/2608.30921
 https://arxiv.org/abs/2608.30931
@@ -68,7 +68,7 @@ https://arxiv.org/abs/2608.29874
 
 https://arxiv.org/abs/2608.29875
 https://arxiv.org/abs/2608.29876
-https://arxiv.org/abs/2608.29933
+* https://arxiv.org/abs/2608.29933 # Exact Entanglement Swapping through Single-Occupancy Measurements in Gaussian Fermion States, Jiyuan Fang
 https://arxiv.org/abs/2608.29957
 https://arxiv.org/abs/2608.29963
 https://arxiv.org/abs/2608.30723
