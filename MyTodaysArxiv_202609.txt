@@ -20,7 +20,7 @@ https://arxiv.org/abs/2609.00939
 https://arxiv.org/abs/2609.01008
 https://arxiv.org/abs/2609.01029
 https://arxiv.org/abs/2609.01066
-https://arxiv.org/abs/2609.01241
+* https://arxiv.org/abs/2609.01241 # Anticoncentration and entanglement in Gaussian boson sampling, Laura Shou, Adam Ehrenberg, Yu-Xin Wang, Joseph T. Iosue, Alexey V. Gorshkov
 
 https://arxiv.org/abs/2609.01248
 https://arxiv.org/abs/2609.01264
@@ -31,7 +31,7 @@ https://arxiv.org/abs/2609.01334
 https://arxiv.org/abs/2609.01340
 https://arxiv.org/abs/2609.01373
 https://arxiv.org/abs/2609.01547
-https://arxiv.org/abs/2609.01606
+* https://arxiv.org/abs/2609.01606 # Observable- and state-selective prethermalization and bounds on prethermal lifetimes, C. L. Sriram, Soumya Kanti Pal, Lea F. Santos
 
 https://arxiv.org/abs/2609.01606
 https://arxiv.org/abs/2609.00159
