@@ -1,8 +1,23 @@
 20260903
 
+https://arxiv.org/abs/2609.01728
+https://arxiv.org/abs/2609.01805
+https://arxiv.org/abs/2609.01879
+https://arxiv.org/abs/2609.01923
+https://arxiv.org/abs/2609.01969
+https://arxiv.org/abs/2609.02260
+https://arxiv.org/abs/2609.02263
+https://arxiv.org/abs/2609.02466
+https://arxiv.org/abs/2609.02567
+https://arxiv.org/abs/2609.02586
+
+https://arxiv.org/abs/2609.02815
+https://arxiv.org/abs/2609.01876
+https://arxiv.org/abs/2609.02195
+
 https://arxiv.org/abs/2609.01710
-https://arxiv.org/abs/2609.01719
-https://arxiv.org/abs/2609.01724
+* https://arxiv.org/abs/2609.01719 # Numerical simulation of D-Wave's quantum advantage experiment with time-dependent variational Monte Carlo, Roeland Wiersema
+* https://arxiv.org/abs/2609.01724 # Bilinear correlations in Fluctuating Gaussian States with anti-unitary symmetries, Xu Zhang
 https://arxiv.org/abs/2609.01726
 https://arxiv.org/abs/2609.01744
 https://arxiv.org/abs/2609.01771
@@ -13,7 +28,7 @@ https://arxiv.org/abs/2609.01901
 
 https://arxiv.org/abs/2609.01904
 https://arxiv.org/abs/2609.01966
-https://arxiv.org/abs/2609.01993
+* https://arxiv.org/abs/2609.01993 # Entanglement, anti-flatness, and nonlocal nonstabilizerness: a unified perspective from entanglement spectrum, Lei-Yi-Nan Liu, Jian Cui
 https://arxiv.org/abs/2609.02043
 https://arxiv.org/abs/2609.02045
 https://arxiv.org/abs/2609.02084
@@ -23,22 +38,22 @@ https://arxiv.org/abs/2609.02139
 https://arxiv.org/abs/2609.02141
 
 https://arxiv.org/abs/2609.02186
-https://arxiv.org/abs/2609.02361
+* https://arxiv.org/abs/2609.02361 # DMRG using Belief Propagation, Hendrik Kuehne, Christian B. Mendl
 https://arxiv.org/abs/2609.02372
 https://arxiv.org/abs/2609.02394
 https://arxiv.org/abs/2609.02428
-https://arxiv.org/abs/2609.02490
-https://arxiv.org/abs/2609.02518
+* https://arxiv.org/abs/2609.02490 # Engineering of Non-Hermitian Trajectories and Phase Structure in an Open Bose-Hubbard Model via Rate Operator Transformations, Jaakko Luomala, Kimmo Luoma, Iiro Vilja, Jyrki Piilo
+* https://arxiv.org/abs/2609.02518 # Efficient Simulation of Nonreciprocal Many-body Physics via Quantum Feedback, Kseniia Vodenkova, Andrew Pocklington, Fan Yang, Andrew Lingenfelter, Aashish A. Clerk, Hannes Pichler
 https://arxiv.org/abs/2609.02559
 https://arxiv.org/abs/2609.02569
 https://arxiv.org/abs/2609.02641
 
 https://arxiv.org/abs/2609.02687
 https://arxiv.org/abs/2609.02715
-https://arxiv.org/abs/2609.02725
-https://arxiv.org/abs/2609.02793
+* https://arxiv.org/abs/2609.02725 # Effective quasiparticle conserving Lindbladians in the thermodynamic limit, Lea Lenke, Kai Phillip Schmidt
+* https://arxiv.org/abs/2609.02793 # Variational preparation of thermofield double states for SYK models via multi-angle QAOA: sequential angle pruning for circuit reduction, Haji Muhammad Husnain Ashfaq, Moongul Byun, Keun-Young Kim
 https://arxiv.org/abs/2609.02009
-https://arxiv.org/abs/2609.02228
+* https://arxiv.org/abs/2609.02228 # Unfolded Krylov complexity: universal chaotic dynamics without false positives, Johanna Erdmenger, Kyoung-Bum Huh, Hyun-Sik Jeong, Juan F. Pedraza
 https://arxiv.org/abs/2609.02488
 https://arxiv.org/abs/2609.02589
 https://arxiv.org/abs/2609.02736
