@@ -1,7 +1,7 @@
 20260903
 
 https://arxiv.org/abs/2609.01728
-https://arxiv.org/abs/2609.01805
+* https://arxiv.org/abs/2609.01805 # Evolution from Kitaev to XXZ spin chains via distortion: Application to BaCo2V2O8, Philip Richard, Mandev Bhullar, Hae-Young Kee
 https://arxiv.org/abs/2609.01879
 https://arxiv.org/abs/2609.01923
 https://arxiv.org/abs/2609.01969
