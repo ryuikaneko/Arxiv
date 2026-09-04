@@ -60,8 +60,8 @@ https://arxiv.org/abs/2609.03744
 https://arxiv.org/abs/2609.03989
 https://arxiv.org/abs/2609.04016
 * https://arxiv.org/abs/2609.04091 # Effective Hamiltonian description on monitored Majorana chains: correlated power-law hoppings and unconventional entanglement scaling, Ken Mochizuki, Hisanori Oshima, Ryusuke Hamazaki, Yohei Fuji
-https://arxiv.org/abs/2609.04114
-https://arxiv.org/abs/2609.04117
+* https://arxiv.org/abs/2609.04114 # Real-Time String Dynamics in 3+1D Lattice Quantum Electrodynamics, Helen Zwoelfer, Giovanni Cataldi, Umberto Borla, Jad C. Halimeh
+* https://arxiv.org/abs/2609.04117 # Non-Abelian string melting and thermalization in an open lattice gauge theory, Erick Parra Verde, Giovanni Cataldi, Stefan Kuehn, Giuseppe Magnifico, Jad C. Halimeh
 
 
 20260903
