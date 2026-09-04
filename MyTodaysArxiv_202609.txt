@@ -11,7 +11,7 @@ https://arxiv.org/abs/2609.03097
 https://arxiv.org/abs/2609.03194
 https://arxiv.org/abs/2609.03220
 
-https://arxiv.org/abs/2609.03226
+* https://arxiv.org/abs/2609.03226 # Revealing Many-Body Phases at finite temperatures through Quantum Coherence Distribution, Antonio Palamara, Nicola Lo Gullo, Antonello Sindona, Francesco Plastina
 https://arxiv.org/abs/2609.03240
 https://arxiv.org/abs/2609.03317
 https://arxiv.org/abs/2609.03360
@@ -28,7 +28,7 @@ https://arxiv.org/abs/2609.03638
 https://arxiv.org/abs/2609.03640
 https://arxiv.org/abs/2609.03703
 https://arxiv.org/abs/2609.03706
-https://arxiv.org/abs/2609.03737
+* https://arxiv.org/abs/2609.03737 # Analog quantum simulation of bosonic and anyonic models with flux-driven transmons, Isak Lyngfelt, Jorge Fernandez-Pendas, Goeran Johansson, Laura Garcia-Alvarez
 https://arxiv.org/abs/2609.03748
 https://arxiv.org/abs/2609.03825
 https://arxiv.org/abs/2609.03864
