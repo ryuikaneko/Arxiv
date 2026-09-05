@@ -12,7 +12,7 @@ https://journals.aps.org/prb/abstract/10.1103/l8mr-567g
 
 20260904
 
-https://arxiv.org/abs/2609.02934
+* https://arxiv.org/abs/2609.02934 # Classical dipolar Heisenberg models on the Archimedean and Laves lattices, Josep Batle
 https://arxiv.org/abs/2609.02936
 https://arxiv.org/abs/2609.02946
 https://arxiv.org/abs/2609.02966
@@ -24,7 +24,7 @@ https://arxiv.org/abs/2609.03217
 https://arxiv.org/abs/2609.03271
 
 https://arxiv.org/abs/2609.03289
-https://arxiv.org/abs/2609.03388
+* https://arxiv.org/abs/2609.03388 # Doping dependence of local moments in infinite layer nickelates, Martin Gonzalez, Andreas Suter, Michal Kiaba, Thomas Prokscha, Zaher Salman, Marc Gabay, Harold Y. Hwang, Jennifer Fowlie
 https://arxiv.org/abs/2609.03389
 https://arxiv.org/abs/2609.03500
 https://arxiv.org/abs/2609.03518
@@ -35,20 +35,20 @@ https://arxiv.org/abs/2609.03618
 https://arxiv.org/abs/2609.03627
 
 https://arxiv.org/abs/2609.03656
-https://arxiv.org/abs/2609.03708
-https://arxiv.org/abs/2609.03766
+* https://arxiv.org/abs/2609.03708 # Fermi-Point Topology Determines Emergent Conformal Criticality in Extended Quantum Spin Chains, Mohammad Abbasi, Saeed Mahdavifar
+* https://arxiv.org/abs/2609.03766 # Ground-State Phase Diagram, Higher-Winding Topology, and Lifshitz Criticality in an Anisotropic Four-Spin XX Chain, Mohammad Abbasi, Faraz Valeh, Saeed Mahdavifar
 https://arxiv.org/abs/2609.03772
 https://arxiv.org/abs/2609.03833
 https://arxiv.org/abs/2609.03862
 https://arxiv.org/abs/2609.03907
 https://arxiv.org/abs/2609.03994
-https://arxiv.org/abs/2609.04006
-https://arxiv.org/abs/2609.04146
+* https://arxiv.org/abs/2609.04006 # Quenched complexity of marginal states in the Sherrington--Kirkpatrick spin glass, Tiziana De Chirico, Luca Leuzzi
+* https://arxiv.org/abs/2609.04146 # HyperDet Wavefunction: A Phase-Agnostic Ansatz for Strongly Correlated Systems, Xiaodong Hu, Guan-Lin Lin, Ying Ran, Di Xiao
 
 https://arxiv.org/abs/2609.04149
 https://arxiv.org/abs/2609.04162
 https://arxiv.org/abs/2609.04164
-https://arxiv.org/abs/2609.04187
+* https://arxiv.org/abs/2609.04187 # Wavefunctions for Anyon Superconductors, Donghae Seo, Taegon Lee, Gil Young Cho
 https://arxiv.org/abs/2609.03121
 https://arxiv.org/abs/2609.03832
 https://arxiv.org/abs/2609.04041
