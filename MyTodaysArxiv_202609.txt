@@ -1,15 +1,5 @@
 20260907
 
-https://journals.aps.org/prxquantum/abstract/10.1103/91yq-swlv
-https://journals.aps.org/pra/abstract/10.1103/kcw2-7v4j
-https://journals.aps.org/pra/abstract/10.1103/yd74-5t5x
-https://journals.aps.org/pre/abstract/10.1103/m9sq-j42t
-https://journals.aps.org/prb/abstract/10.1103/l8mr-567g
-https://journals.aps.org/pra/abstract/10.1103/wshg-r8q3
-https://journals.aps.org/prb/abstract/10.1103/9z82-vlky
-https://journals.aps.org/prb/abstract/10.1103/b4vc-jf1z
-https://journals.aps.org/prb/abstract/10.1103/b97g-cjf8
-
 
 ====
 
@@ -120,6 +110,16 @@ https://arxiv.org/abs/2609.04016
 * https://arxiv.org/abs/2609.04091 # Effective Hamiltonian description on monitored Majorana chains: correlated power-law hoppings and unconventional entanglement scaling, Ken Mochizuki, Hisanori Oshima, Ryusuke Hamazaki, Yohei Fuji
 * https://arxiv.org/abs/2609.04114 # Real-Time String Dynamics in 3+1D Lattice Quantum Electrodynamics, Helen Zwoelfer, Giovanni Cataldi, Umberto Borla, Jad C. Halimeh
 * https://arxiv.org/abs/2609.04117 # Non-Abelian string melting and thermalization in an open lattice gauge theory, Erick Parra Verde, Giovanni Cataldi, Stefan Kuehn, Giuseppe Magnifico, Jad C. Halimeh
+
+https://journals.aps.org/prxquantum/abstract/10.1103/91yq-swlv
+https://journals.aps.org/pra/abstract/10.1103/kcw2-7v4j
+https://journals.aps.org/pra/abstract/10.1103/yd74-5t5x
+https://journals.aps.org/pre/abstract/10.1103/m9sq-j42t
+https://journals.aps.org/prb/abstract/10.1103/l8mr-567g
+https://journals.aps.org/pra/abstract/10.1103/wshg-r8q3
+https://journals.aps.org/prb/abstract/10.1103/9z82-vlky
+https://journals.aps.org/prb/abstract/10.1103/b4vc-jf1z
+https://journals.aps.org/prb/abstract/10.1103/b97g-cjf8
 
 
 20260903
