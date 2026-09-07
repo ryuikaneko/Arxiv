@@ -13,7 +13,7 @@ https://arxiv.org/abs/2609.04732
 
 https://arxiv.org/abs/2609.04883
 https://arxiv.org/abs/2609.05045
-https://arxiv.org/abs/2609.05181
+* https://arxiv.org/abs/2609.05181 # Dipolar and quadrupolar spin supersolid states in a spin-1 triangular antiferromagnet, Yixuan Huang, Yuan Gao, Wei Li, Seiji Yunoki, Sadamichi Maekawa
 https://arxiv.org/abs/2609.05183
 https://arxiv.org/abs/2609.05319
 https://arxiv.org/abs/2609.05344
