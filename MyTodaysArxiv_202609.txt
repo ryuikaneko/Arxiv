@@ -3,7 +3,7 @@
 * https://arxiv.org/abs/2609.04319 # Exact quantum spin liquids with topological order on maple-leaf and trellis lattices, Li Ern Chern, Roderich Moessner, Claudio Castelnovo
 * https://arxiv.org/abs/2609.04330 # The influence of quantum geometry on the phase boundary and collective excitations of electron liquids and crystals, Paul Froese, Mark R. Hirsbrunner, Yong Baek Kim
 https://arxiv.org/abs/2609.04359
-https://arxiv.org/abs/2609.04378
+* https://arxiv.org/abs/2609.04378 # Fukui-Kawakami chains: spectrum and hidden gl(1|1)-symmetry, Rob Klabbers, Antoine Lefebvre
 https://arxiv.org/abs/2609.04397
 https://arxiv.org/abs/2609.04625
 https://arxiv.org/abs/2609.04717
