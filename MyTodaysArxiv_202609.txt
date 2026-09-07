@@ -1,8 +1,7 @@
 20260907
 
-https://arxiv.org/abs/2609.05391
-https://arxiv.org/abs/2609.04319
-https://arxiv.org/abs/2609.04330
+* https://arxiv.org/abs/2609.04319 # Exact quantum spin liquids with topological order on maple-leaf and trellis lattices, Li Ern Chern, Roderich Moessner, Claudio Castelnovo
+* https://arxiv.org/abs/2609.04330 # The influence of quantum geometry on the phase boundary and collective excitations of electron liquids and crystals, Paul Froese, Mark R. Hirsbrunner, Yong Baek Kim
 https://arxiv.org/abs/2609.04359
 https://arxiv.org/abs/2609.04378
 https://arxiv.org/abs/2609.04397
@@ -10,8 +9,8 @@ https://arxiv.org/abs/2609.04625
 https://arxiv.org/abs/2609.04717
 https://arxiv.org/abs/2609.04729
 https://arxiv.org/abs/2609.04732
-
 https://arxiv.org/abs/2609.04814
+
 https://arxiv.org/abs/2609.04883
 https://arxiv.org/abs/2609.05045
 https://arxiv.org/abs/2609.05181
@@ -21,8 +20,8 @@ https://arxiv.org/abs/2609.05344
 https://arxiv.org/abs/2609.04587
 https://arxiv.org/abs/2609.04692
 https://arxiv.org/abs/2609.04696
-
 https://arxiv.org/abs/2609.04938
+
 https://arxiv.org/abs/2609.05336
 
 * https://arxiv.org/abs/2609.04309 # Strong-Drive Floquet Engineering of Interacting Qudits: From Finite-Duration Controls to Emergent Symmetry, Ryan Scott, V. W. Scarola
