@@ -1,5 +1,30 @@
 20260907
 
+https://arxiv.org/abs/2609.05391
+https://arxiv.org/abs/2609.04319
+https://arxiv.org/abs/2609.04330
+https://arxiv.org/abs/2609.04359
+https://arxiv.org/abs/2609.04378
+https://arxiv.org/abs/2609.04397
+https://arxiv.org/abs/2609.04625
+https://arxiv.org/abs/2609.04717
+https://arxiv.org/abs/2609.04729
+https://arxiv.org/abs/2609.04732
+
+https://arxiv.org/abs/2609.04814
+https://arxiv.org/abs/2609.04883
+https://arxiv.org/abs/2609.05045
+https://arxiv.org/abs/2609.05181
+https://arxiv.org/abs/2609.05183
+https://arxiv.org/abs/2609.05319
+https://arxiv.org/abs/2609.05344
+https://arxiv.org/abs/2609.04587
+https://arxiv.org/abs/2609.04692
+https://arxiv.org/abs/2609.04696
+
+https://arxiv.org/abs/2609.04938
+https://arxiv.org/abs/2609.05336
+
 * https://arxiv.org/abs/2609.04309 # Strong-Drive Floquet Engineering of Interacting Qudits: From Finite-Duration Controls to Emergent Symmetry, Ryan Scott, V. W. Scarola
 https://arxiv.org/abs/2609.04358
 https://arxiv.org/abs/2609.04387
@@ -28,9 +53,6 @@ https://arxiv.org/abs/2609.04367
 https://arxiv.org/abs/2609.04517
 * https://arxiv.org/abs/2609.05137 # Environment-assisted transport in a strongly correlated boundary-driven Fermi-Hubbard chain, Hakan Yeler, Oezguer Cakir
 * https://arxiv.org/abs/2609.05391 # Non-reciprocally interacting Ornstein-Uhlenbeck processes: Exceptional points, Anomalous relaxation, Pseudo-equilibrium and Boundary refrigeration, Soumya Kanti Pal, Shamik Gupta
-
-
-====
 
 
 20260904
