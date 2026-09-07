@@ -1,6 +1,6 @@
 20260907
 
-https://arxiv.org/abs/2609.04309
+* https://arxiv.org/abs/2609.04309 # Strong-Drive Floquet Engineering of Interacting Qudits: From Finite-Duration Controls to Emergent Symmetry, Ryan Scott, V. W. Scarola
 https://arxiv.org/abs/2609.04358
 https://arxiv.org/abs/2609.04387
 https://arxiv.org/abs/2609.04580
@@ -8,25 +8,25 @@ https://arxiv.org/abs/2609.04652
 https://arxiv.org/abs/2609.04674
 https://arxiv.org/abs/2609.04812
 https://arxiv.org/abs/2609.04896
-https://arxiv.org/abs/2609.04905
-https://arxiv.org/abs/2609.04997
+* https://arxiv.org/abs/2609.04905 # Ancilla mediated steady-state engineering in open quantum systems, Soham Pal, Karen Hovhannisyan, Omri Porat, Shovan Dutta, Janet Anders, Helena Knowles
+* https://arxiv.org/abs/2609.04997 # Learning unknown stabilizer codes using product measurements, Heather Leitch, Sowmya Tirukkovalluri, Yingkai Ouyang
 
-https://arxiv.org/abs/2609.05024
+* https://arxiv.org/abs/2609.05024 # Lindblad Multiproduct Formulas, Niall F. Robertson, Andrea D'Urbano, Anton Dekusar, Max Rossmannek, Eric D. Switzer, James R. Garrison, Nicolas Lorente, Igor Pasichnyk, Paolo D'Alberto, Muhammad Osama, Zachary Streeter, Yasuko Eckert, Constantinos Evangelinos, Sergiy Zhuk
 https://arxiv.org/abs/2609.05039
 https://arxiv.org/abs/2609.05060
 https://arxiv.org/abs/2609.05122
 https://arxiv.org/abs/2609.05201
 https://arxiv.org/abs/2609.05225
-https://arxiv.org/abs/2609.05248
-https://arxiv.org/abs/2609.05250
-https://arxiv.org/abs/2609.05316
+* https://arxiv.org/abs/2609.05248 # Quantum-State Texture Dynamics: Theory and Experiment, Carlos H. S. Vieira, Xinfang Nie, Dawei Lu, Fernando Parisio
+* https://arxiv.org/abs/2609.05250 # Memory-Optimal Sequential Synthesis of Multimode Gaussian Transformations, Fucheng Guo, Frank Mueller, Yuan Liu
+* https://arxiv.org/abs/2609.05316 # Compiling the 2D Fermi-Hubbard ground-state energy estimation algorithm for active volume quantum architectures, Harriet Apel, Athena Caesura, Carys Harvey, Sam Heavey, Angus Kan, Jessica Lemieux, Ryan Levy, Sam Pallister, Joseph Peetz, William Pol, Sukin Sim, William A. Simon, Mark Steudtner, Gideon Uchehara
 https://arxiv.org/abs/2609.05408
 
 https://arxiv.org/abs/2609.03628
 https://arxiv.org/abs/2609.04341
 https://arxiv.org/abs/2609.04367
 https://arxiv.org/abs/2609.04517
-https://arxiv.org/abs/2609.05137
+* https://arxiv.org/abs/2609.05137 # Environment-assisted transport in a strongly correlated boundary-driven Fermi-Hubbard chain, Hakan Yeler, Oezguer Cakir
 * https://arxiv.org/abs/2609.05391 # Non-reciprocally interacting Ornstein-Uhlenbeck processes: Exceptional points, Anomalous relaxation, Pseudo-equilibrium and Boundary refrigeration, Soumya Kanti Pal, Shamik Gupta
 
 
