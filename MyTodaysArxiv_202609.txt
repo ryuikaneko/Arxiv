@@ -27,7 +27,7 @@ https://arxiv.org/abs/2609.04341
 https://arxiv.org/abs/2609.04367
 https://arxiv.org/abs/2609.04517
 https://arxiv.org/abs/2609.05137
-https://arxiv.org/abs/2609.05391
+* https://arxiv.org/abs/2609.05391 # Non-reciprocally interacting Ornstein-Uhlenbeck processes: Exceptional points, Anomalous relaxation, Pseudo-equilibrium and Boundary refrigeration, Soumya Kanti Pal, Shamik Gupta
 
 
 ====
