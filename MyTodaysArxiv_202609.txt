@@ -9,7 +9,7 @@ https://arxiv.org/abs/2609.04625
 https://arxiv.org/abs/2609.04717
 https://arxiv.org/abs/2609.04729
 https://arxiv.org/abs/2609.04732
-https://arxiv.org/abs/2609.04814
+* https://arxiv.org/abs/2609.04814 # Spin-Charge Subordination in the Infinite-U SU(N) Hubbard Chain, Catalin Pascu Moca, Ovidiu I. Patu, Gergely Zarand, Balazs Dora
 
 https://arxiv.org/abs/2609.04883
 https://arxiv.org/abs/2609.05045
