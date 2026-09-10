@@ -1,11 +1,22 @@
 20260909
 
+https://arxiv.org/abs/2609.05699
+https://arxiv.org/abs/2609.05724
+https://arxiv.org/abs/2609.05747
+https://arxiv.org/abs/2609.05875
+https://arxiv.org/abs/2609.05878
+https://arxiv.org/abs/2609.05999
+https://arxiv.org/abs/2609.06003
+https://arxiv.org/abs/2609.06040
+https://arxiv.org/abs/2609.06043
+https://arxiv.org/abs/2609.06362
+
 https://arxiv.org/abs/2609.05447
 * https://arxiv.org/abs/2609.05502 # A dual network approach to connect structure and flow in random networks, Marco Dentz, Philippe Gouze, Tanguy le Borgne, Alexandre Puyguiraud
 https://arxiv.org/abs/2609.05542
 * https://arxiv.org/abs/2609.05556 # Kibble-Zurek Dynamics in Two-dimensional Frustrated Systems with a Neural Foundation-state Subspace Method, Linda Mauron, Luciano Loris Viteritti, Zakari Denis, Riccardo Rende, Giuseppe Carleo
 * https://arxiv.org/abs/2609.05589 # Quantum Quenches across the Bose-glass Transition, Bo Song, Shaurya Bhave, Emmanuel Gottlob, Leanne Reeve, Ulrich Schneider
-https://arxiv.org/abs/2609.05603
+* https://arxiv.org/abs/2609.05603 # Pair density wave order from non-symmorphic momentum symmetry, Matteo Duerrnagel, C. Alexander Baum, Michael Klett, Lennart Klebl, Ronny Thomale
 https://arxiv.org/abs/2609.05646
 https://arxiv.org/abs/2609.05649
 https://arxiv.org/abs/2609.05686
