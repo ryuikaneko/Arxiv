@@ -5,7 +5,7 @@ https://arxiv.org/abs/2609.07620
 https://arxiv.org/abs/2609.07632
 * https://arxiv.org/abs/2609.07704 # Metal-Insulator Coexistence and Gap-Crossing Domain-Wall Modes in an Aubry-Andre Model with Nonlocal Hopping, Xiarui Zhan, Mingsheng Tian, Qiongyi He, Kaiye Shi, Wei Zhang
 https://arxiv.org/abs/2609.07820
-https://arxiv.org/abs/2609.07830
+* https://arxiv.org/abs/2609.07830 # Exact fermionic dual of the Bose-Hubbard model, Lei Su, Ivar Martin, Aashish A. Clerk
 https://arxiv.org/abs/2609.07842
 https://arxiv.org/abs/2609.07899
 https://arxiv.org/abs/2609.08104
