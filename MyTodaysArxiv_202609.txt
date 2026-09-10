@@ -17,7 +17,7 @@ https://arxiv.org/abs/2609.09679
 https://arxiv.org/abs/2609.09699
 https://arxiv.org/abs/2609.09730
 https://arxiv.org/abs/2609.09733
-https://arxiv.org/abs/2609.09741
+* https://arxiv.org/abs/2609.09741 # Orbital-selective electronic modes induced by doping and originating from distinct spin excitations: an essential feature of orbital-selective Mott transition, Masanori Kohno
 https://arxiv.org/abs/2609.09922
 https://arxiv.org/abs/2609.09988
 https://arxiv.org/abs/2609.10045
@@ -25,12 +25,12 @@ https://arxiv.org/abs/2609.10045
 https://arxiv.org/abs/2609.10081
 https://arxiv.org/abs/2609.10163
 https://arxiv.org/abs/2609.10186
-https://arxiv.org/abs/2609.10190
+* https://arxiv.org/abs/2609.10190 # pyeCE: A Python Implementation of the Embedded Cluster Expansion, Yann L. Mueller, Claire A. Paetsch, Anirudh Raju Natarajan
 https://arxiv.org/abs/2609.10212
 https://arxiv.org/abs/2609.10310
-https://arxiv.org/abs/2609.10359
+* https://arxiv.org/abs/2609.10359 # Quantifying translational and bond-orientational order metrics in hyperuniform and nonhyperuniform many-particle systems, Anirban Mukherjee, Salvatore Torquato
 https://arxiv.org/abs/2609.10381
-https://arxiv.org/abs/2609.10391
+* https://arxiv.org/abs/2609.10391 # The Arithmetic of Spectra: Factorization, Statistics, and Symmetric Functions, A. Chaudhary
 https://arxiv.org/abs/2609.10411
 
 https://arxiv.org/abs/2609.10443
