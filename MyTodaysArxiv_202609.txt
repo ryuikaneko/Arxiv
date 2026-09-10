@@ -2,17 +2,17 @@
 
 https://arxiv.org/abs/2609.09223
 https://arxiv.org/abs/2609.09287
-https://arxiv.org/abs/2609.09289
+* https://arxiv.org/abs/2609.09289 # Finite-Temperature Flat-Band Ferromagnetism in the Kagome Hubbard Model, Alon Strugatsky, Roser Valenti, Jonas B. Profe
 https://arxiv.org/abs/2609.09375
 https://arxiv.org/abs/2609.09383
 https://arxiv.org/abs/2609.09464
 https://arxiv.org/abs/2609.09498
-https://arxiv.org/abs/2609.09562
+* https://arxiv.org/abs/2609.09562 # Curvature-Induced Geometric Universality in Non-Hermitian Anderson Transitions, Chen Wang, Run-Qiu Yang, X. R. Wang, Hechen Ren
 https://arxiv.org/abs/2609.09593
 https://arxiv.org/abs/2609.09611
 
 https://arxiv.org/abs/2609.09615
-https://arxiv.org/abs/2609.09620
+* https://arxiv.org/abs/2609.09620 # Renewal process's guide to fractional Navier-Stokes equations, Hong Zhang
 https://arxiv.org/abs/2609.09679
 https://arxiv.org/abs/2609.09699
 https://arxiv.org/abs/2609.09730
