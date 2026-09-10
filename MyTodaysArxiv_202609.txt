@@ -44,18 +44,18 @@ https://arxiv.org/abs/2609.10211
 https://arxiv.org/abs/2609.10216
 https://arxiv.org/abs/2609.10250
 
-https://arxiv.org/abs/2609.10470
-https://arxiv.org/abs/2609.10486
+* https://arxiv.org/abs/2609.10470 # Symmetry structure dependent diagnostic of the Quantum Mpemba Effect, Tamizhselvan S, Manju C, Bijay Kumar Agarwalla, Uma Divakaran
+* https://arxiv.org/abs/2609.10486 # Faster Quantum Monte Carlo Simulation by Random Compilation, John M. Martyn, Joshua Lin, Neill C. Warrington, Isaac L. Chuang, Andrew J. Daley
 https://arxiv.org/abs/2609.09226
 https://arxiv.org/abs/2609.09296
 https://arxiv.org/abs/2609.09312
 https://arxiv.org/abs/2609.09317
-https://arxiv.org/abs/2609.09463
+* https://arxiv.org/abs/2609.09463 # Temperature-induced effective topology in many-body ultracold atomic quantum systems, Nitya Cuzzuol, Michele Miotto, Arianna Montorsi, Giacomo Valtolina, Luca Barbiero
 https://arxiv.org/abs/2609.10027
 https://arxiv.org/abs/2609.10062
 https://arxiv.org/abs/2609.10289
 
-https://arxiv.org/abs/2609.10342
+* https://arxiv.org/abs/2609.10342 # Quench dynamics in nonreciprocal Aubry-Andre-Harper model, Zhiyu Pei, Yongxu Fu, Gao Xianlong
 
 https://journals.aps.org/prl/abstract/10.1103/dzff-3lxm
 https://journals.aps.org/prl/abstract/10.1103/96lr-z7tb
