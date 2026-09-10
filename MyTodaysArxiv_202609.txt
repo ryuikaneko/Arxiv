@@ -1,10 +1,10 @@
 20260909
 
-https://arxiv.org/abs/2609.08134
+* https://arxiv.org/abs/2609.08134 # Observation of multipartite spin entanglement in a cuprate chain, S. F. R. TenHuisen, Z. Shen, V. Bhartiya, V. Menon, P. Sharma, H. Padma, Z. Guan, W. He, M. K. Lajer, J. Li, D. Banerjee, J. Pelliciari, I. A. Zaliznyak, G. D. Gu, M. D. Lukin, S. Johnston, M. P. M. Dean, V. Bisogni, Y. Wang, M. Mitrano
 https://arxiv.org/abs/2609.08141
 https://arxiv.org/abs/2609.08146
-https://arxiv.org/abs/2609.08219
-https://arxiv.org/abs/2609.08223
+* https://arxiv.org/abs/2609.08219 # Speed Limit for Information Acquisition in Stochastic Learning Dynamics, Shuta Kobayashi, Andreas Dechant
+* https://arxiv.org/abs/2609.08223 # Large-Chern-number flat bands, anomalous Dirac cones, and unconventional superfluidity in square-lattice systems with SU(N) non-Abelian gauge fields, Wentao Zhong, Zhongbo Yan
 https://arxiv.org/abs/2609.08262
 https://arxiv.org/abs/2609.08278
 https://arxiv.org/abs/2609.08326
