@@ -1,5 +1,16 @@
 20260909
 
+https://arxiv.org/abs/2609.08467
+https://arxiv.org/abs/2609.08548
+https://arxiv.org/abs/2609.08768
+https://arxiv.org/abs/2609.08820
+https://arxiv.org/abs/2609.08983
+https://arxiv.org/abs/2609.09017
+https://arxiv.org/abs/2609.09068
+https://arxiv.org/abs/2609.09118
+https://arxiv.org/abs/2609.09125
+https://arxiv.org/abs/2609.09129
+
 * https://arxiv.org/abs/2609.08134 # Observation of multipartite spin entanglement in a cuprate chain, S. F. R. TenHuisen, Z. Shen, V. Bhartiya, V. Menon, P. Sharma, H. Padma, Z. Guan, W. He, M. K. Lajer, J. Li, D. Banerjee, J. Pelliciari, I. A. Zaliznyak, G. D. Gu, M. D. Lukin, S. Johnston, M. P. M. Dean, V. Bisogni, Y. Wang, M. Mitrano
 https://arxiv.org/abs/2609.08141
 https://arxiv.org/abs/2609.08146
