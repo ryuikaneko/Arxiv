@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2609.08414
 https://arxiv.org/abs/2609.08415
-https://arxiv.org/abs/2609.08453
+* https://arxiv.org/abs/2609.08453 # The Forgotten History of Wave Function Variance Optimization and its Relevance for Neural-Network VMC, Dario Bressanini
 https://arxiv.org/abs/2609.08635
 https://arxiv.org/abs/2609.08752
 https://arxiv.org/abs/2609.06062
@@ -11,7 +11,7 @@ https://arxiv.org/abs/2609.07967
 https://arxiv.org/abs/2609.08910
 https://arxiv.org/abs/2609.06038
 
-https://arxiv.org/abs/2609.06054
+* https://arxiv.org/abs/2609.06054 # Propagating sparsely supported states with time-dependent neural quantum states, Lexin Ding, Markus Reiher
 https://arxiv.org/abs/2609.06056
 https://arxiv.org/abs/2609.06285
 https://arxiv.org/abs/2609.06471
@@ -22,13 +22,13 @@ https://arxiv.org/abs/2609.06799
 https://arxiv.org/abs/2609.07032
 https://arxiv.org/abs/2609.07076
 
-https://arxiv.org/abs/2609.07210
+* https://arxiv.org/abs/2609.07210 # From NISQ to Fault-Tolerance: Applications and Algorithmic Benchmarks for Spin Qubits, Frederik Lohof, Florian Ginzel, Wolfgang Lechner
 https://arxiv.org/abs/2609.07297
 https://arxiv.org/abs/2609.07384
 https://arxiv.org/abs/2609.07391
 https://arxiv.org/abs/2609.07643
 https://arxiv.org/abs/2609.07674
-https://arxiv.org/abs/2609.07730
+* https://arxiv.org/abs/2609.07730 # Propaq: A Python package for Heisenberg Propagation, Hrishikesh Belagali, Ryan LaRose
 https://arxiv.org/abs/2609.07972
 https://arxiv.org/abs/2609.05470
 https://arxiv.org/abs/2609.05555
