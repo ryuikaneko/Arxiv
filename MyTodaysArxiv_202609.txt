@@ -1,7 +1,7 @@
 20260910
 
 https://arxiv.org/abs/2609.09227
-https://arxiv.org/abs/2609.09268
+* https://arxiv.org/abs/2609.09268 # Reconstructing fluid velocity fields from sparse sensors using a variational quantum algorithm, Nhat-Quang Nguyen, Mohammad Mehedi Hasan Akash, Kourosh Shoele, Yanzhu Chen, Huixuan Wu
 https://arxiv.org/abs/2609.09269
 https://arxiv.org/abs/2609.09270
 https://arxiv.org/abs/2609.09276
