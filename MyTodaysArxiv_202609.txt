@@ -1,6 +1,6 @@
 20260909
 
-https://arxiv.org/abs/2609.05699
+* https://arxiv.org/abs/2609.05699 # Generating quantum error correcting codes from topological pre-thermal scars, William N. Faugno, Frank Barrows, Terry A. Loring, Nathan Goldman, Alexander Cerjan
 https://arxiv.org/abs/2609.05724
 https://arxiv.org/abs/2609.05747
 https://arxiv.org/abs/2609.05875
