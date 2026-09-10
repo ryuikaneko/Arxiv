@@ -6,8 +6,8 @@ https://arxiv.org/abs/2609.09269
 https://arxiv.org/abs/2609.09270
 https://arxiv.org/abs/2609.09276
 https://arxiv.org/abs/2609.09291
-https://arxiv.org/abs/2609.09292
-https://arxiv.org/abs/2609.09304
+* https://arxiv.org/abs/2609.09292 # Dual-unitary Circuits as a Platform for Quantum Reservoir Computing, Gabriel O. Alves, Pieter W. Claeys
+* https://arxiv.org/abs/2609.09304 # Multivariate quantum state preparation with optimized tensor networks, Matthew L. Sims-Goh, Lukasz Cincio, Annina Z. Lieberherr, Mekena McGrew, Thomas R. Bromley
 https://arxiv.org/abs/2609.09350
 https://arxiv.org/abs/2609.09371
 
@@ -25,16 +25,16 @@ https://arxiv.org/abs/2609.09583
 https://arxiv.org/abs/2609.09599
 https://arxiv.org/abs/2609.09608
 https://arxiv.org/abs/2609.09654
-https://arxiv.org/abs/2609.09663
+* https://arxiv.org/abs/2609.09663 # Realization Theory for Quantum Filtering: Classifying Continuously Monitored Bosonic Systems, Jacob Emerson
 https://arxiv.org/abs/2609.09718
 https://arxiv.org/abs/2609.09753
-https://arxiv.org/abs/2609.09779
+* https://arxiv.org/abs/2609.09779 # Split-Step Dirac Cellular Automata for Continuous-Time Dirac Dynamics on Finite Spatial Lattices, Wei-Ting Wang, Pei-Ming Ho, Ching-Ray Chang
 https://arxiv.org/abs/2609.09806
 https://arxiv.org/abs/2609.09977
 https://arxiv.org/abs/2609.09980
 
-https://arxiv.org/abs/2609.09993
-https://arxiv.org/abs/2609.09994
+* https://arxiv.org/abs/2609.09993 # Direct Cultivation of Entangled |CS> Magic States, Gunsik Min, Jun Heo
+* https://arxiv.org/abs/2609.09994 # Coded Clifford Measurements for Multiqubit Magic-State Cultivation, Gunsik Min, Jun Heo
 https://arxiv.org/abs/2609.10037
 https://arxiv.org/abs/2609.10043
 https://arxiv.org/abs/2609.10079
