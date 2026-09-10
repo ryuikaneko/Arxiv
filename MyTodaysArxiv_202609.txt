@@ -1,14 +1,25 @@
 20260909
 
+https://arxiv.org/abs/2609.07220
+https://arxiv.org/abs/2609.07228
+https://arxiv.org/abs/2609.07332
+https://arxiv.org/abs/2609.07341
+https://arxiv.org/abs/2609.07396
+https://arxiv.org/abs/2609.07456
+https://arxiv.org/abs/2609.07496
+https://arxiv.org/abs/2609.07510
+https://arxiv.org/abs/2609.07545
+https://arxiv.org/abs/2609.07546
+
 https://arxiv.org/abs/2609.06398
-https://arxiv.org/abs/2609.06487
+* https://arxiv.org/abs/2609.06487 # Dynamical signatures of Hardcore-Boson Supersolid on the Triangular Lattice, Xingchuan Zhu, Qingyang Guo, Junsong Sun, Yujun Fu, Xingmin Huo, Yixuan Huang, Shiping Feng, Richard T. Scalettar, Huaiming Guo
 https://arxiv.org/abs/2609.06513
 https://arxiv.org/abs/2609.06684
 https://arxiv.org/abs/2609.06751
 https://arxiv.org/abs/2609.06828
 https://arxiv.org/abs/2609.07039
 https://arxiv.org/abs/2609.07055
-https://arxiv.org/abs/2609.07140
+* https://arxiv.org/abs/2609.07140 # Probing magnetic correlations in space and time within predefined topological sectors of a macroscopic spin liquid, Remy Dangoisse, Jeanne Colbois, Laurent Del Rey, Nicolas Rougemaille, Johann Coraux
 https://arxiv.org/abs/2609.07195
 
 * https://arxiv.org/abs/2609.05699 # Generating quantum error correcting codes from topological pre-thermal scars, William N. Faugno, Frank Barrows, Terry A. Loring, Nathan Goldman, Alexander Cerjan
