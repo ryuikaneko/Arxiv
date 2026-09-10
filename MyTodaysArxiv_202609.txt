@@ -4,9 +4,9 @@ https://arxiv.org/abs/2609.06643
 * https://arxiv.org/abs/2609.06672 # Efficient Representation of multicategorical local Hilbert spaces: nonlinear Restricted Boltzmann Machines to Kolmogorov-Arnold Networks, Abhiroop Lahiri
 https://arxiv.org/abs/2609.07272
 * https://arxiv.org/abs/2609.07579 # Geometry Dependence of Error Thresholds in Two-Dimensional Toric Codes, D. Lessing, A. Langheld, C. Kraemer, J.A. Koziol, K.P. Schmidt
-https://arxiv.org/abs/2609.07591
+* https://arxiv.org/abs/2609.07591 # Topology Obstructs Pure Foundation Neural Quantum States, Timothy Heightman, Elena Orlova, Philip Mantrov, Aleksei Ustimenko
 https://arxiv.org/abs/2609.07612
-https://arxiv.org/abs/2609.07832
+* https://arxiv.org/abs/2609.07832 # Restricted typicality in non-equilibrium quantum many-body systems, Konrad Pawlik, Piotr Sierant, Jakub Zakrzewski
 https://arxiv.org/abs/2609.08984
 https://arxiv.org/abs/2609.09150
 
