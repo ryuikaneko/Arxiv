@@ -8,7 +8,7 @@ https://arxiv.org/abs/2609.08983
 https://arxiv.org/abs/2609.09017
 https://arxiv.org/abs/2609.09068
 * https://arxiv.org/abs/2609.09118 # Topological Impurity Bands, Arnab Seth, Itamar Kimchi
-https://arxiv.org/abs/2609.09125
+* https://arxiv.org/abs/2609.09125 # Few-body bound states in the anyon-Hubbard model, Isaac Tesfaye, Christina Mascherbauer, Joyce Kwan, Perrin Segura, Yanfei Li, Markus Greiner, Luis Santos, Andre Eckardt, Brice Bakkali-Hassani
 https://arxiv.org/abs/2609.09129
 
 * https://arxiv.org/abs/2609.08134 # Observation of multipartite spin entanglement in a cuprate chain, S. F. R. TenHuisen, Z. Shen, V. Bhartiya, V. Menon, P. Sharma, H. Padma, Z. Guan, W. He, M. K. Lajer, J. Li, D. Banerjee, J. Pelliciari, I. A. Zaliznyak, G. D. Gu, M. D. Lukin, S. Johnston, M. P. M. Dean, V. Bisogni, Y. Wang, M. Mitrano
