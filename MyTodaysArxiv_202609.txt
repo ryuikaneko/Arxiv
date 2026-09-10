@@ -1,7 +1,7 @@
 20260909
 
 https://arxiv.org/abs/2609.08467
-https://arxiv.org/abs/2609.08548
+* https://arxiv.org/abs/2609.08548 # Schwinger boson perturbation theory for spin-S Kitaev-Heisenberg magnets: phase diagram and dynamical response near Kitaev spin liquids, Daiki Sasamoto, Joji Nasu
 https://arxiv.org/abs/2609.08768
 https://arxiv.org/abs/2609.08820
 https://arxiv.org/abs/2609.08983
