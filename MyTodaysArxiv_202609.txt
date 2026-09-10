@@ -7,7 +7,7 @@ https://arxiv.org/abs/2609.08820
 https://arxiv.org/abs/2609.08983
 https://arxiv.org/abs/2609.09017
 https://arxiv.org/abs/2609.09068
-https://arxiv.org/abs/2609.09118
+* https://arxiv.org/abs/2609.09118 # Topological Impurity Bands, Arnab Seth, Itamar Kimchi
 https://arxiv.org/abs/2609.09125
 https://arxiv.org/abs/2609.09129
 
