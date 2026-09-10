@@ -1,5 +1,26 @@
 20260909
 
+https://arxiv.org/abs/2609.06643
+https://arxiv.org/abs/2609.06672
+https://arxiv.org/abs/2609.07272
+https://arxiv.org/abs/2609.07579
+https://arxiv.org/abs/2609.07591
+https://arxiv.org/abs/2609.07612
+https://arxiv.org/abs/2609.07832
+https://arxiv.org/abs/2609.08984
+https://arxiv.org/abs/2609.09150
+
+https://arxiv.org/abs/2609.09139
+https://arxiv.org/abs/2609.09147
+https://arxiv.org/abs/2609.05469
+https://arxiv.org/abs/2609.05472
+* https://arxiv.org/abs/2609.05598 # Matrix Product Belief Propagation, Gabriel Woolls, Shahin Jahanbani, Adarsh Pashikanti, Matthew T. Fishman, Joseph Tindall, Michael P. Zaletel
+https://arxiv.org/abs/2609.05613
+https://arxiv.org/abs/2609.05632
+https://arxiv.org/abs/2609.06268
+https://arxiv.org/abs/2609.06249
+https://arxiv.org/abs/2609.06582
+
 https://arxiv.org/abs/2609.08467
 * https://arxiv.org/abs/2609.08548 # Schwinger boson perturbation theory for spin-S Kitaev-Heisenberg magnets: phase diagram and dynamical response near Kitaev spin liquids, Daiki Sasamoto, Joji Nasu
 https://arxiv.org/abs/2609.08768
