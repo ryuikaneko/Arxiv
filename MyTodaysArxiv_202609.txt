@@ -1,15 +1,26 @@
 20260911
 
-https://arxiv.org/abs/2609.10829
-https://arxiv.org/abs/2609.10967
-https://arxiv.org/abs/2609.11089
-https://arxiv.org/abs/2609.11457
-https://arxiv.org/abs/2609.11868
-https://arxiv.org/abs/2609.11930
+https://arxiv.org/abs/2609.10821
+https://arxiv.org/abs/2609.10837
+https://arxiv.org/abs/2609.10926
+https://arxiv.org/abs/2609.10948
+https://arxiv.org/abs/2609.11336
+https://arxiv.org/abs/2609.11459
+https://arxiv.org/abs/2609.11547
+https://arxiv.org/abs/2609.11591
+https://arxiv.org/abs/2609.11678
+https://arxiv.org/abs/2609.11711
+
+* https://arxiv.org/abs/2609.11745 # Unraveling the Kagome Antiferromagnetic 3J Model and Its Materials: An Integrated Approach, Xin Lu, Andreas Raikos, Menghan Song, Zezong Li, Lankun Han, Shiliang Li, Sylvain Capponi, Zi Yang Meng, Chengkang Zhou
+https://arxiv.org/abs/2609.11810
+https://arxiv.org/abs/2609.11816
+https://arxiv.org/abs/2609.11927
+https://arxiv.org/abs/2609.10667
+https://arxiv.org/abs/2609.10670
 https://arxiv.org/abs/2609.10676
 https://arxiv.org/abs/2609.10683
 https://arxiv.org/abs/2609.10876
-https://arxiv.org/abs/2609.10929
+* https://arxiv.org/abs/2609.10929 # Probing the Error-Mitigation Threshold with Matrix Product States, Jia-Yao Zhao, Zhi-Yuan Wei, Michael J. Gullans
 
 https://arxiv.org/abs/2609.10932
 https://arxiv.org/abs/2609.10974
