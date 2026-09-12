@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2609.10821
 https://arxiv.org/abs/2609.10837
 https://arxiv.org/abs/2609.10926
-https://arxiv.org/abs/2609.10948
+* https://arxiv.org/abs/2609.10948 # Irrationality Measure Controls Long-Wavelength Charge Fluctuations in Quasiperiodic Systems, Junmo Jeon, Shiro Sakai
 * https://arxiv.org/abs/2609.11336 # Universal sampling of spin systems across quenched disorder, Jing Liu, Yeyuan Wu, Ying Tang, Pan Zhang
 https://arxiv.org/abs/2609.11459
 https://arxiv.org/abs/2609.11547
