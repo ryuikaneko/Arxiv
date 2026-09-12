@@ -5,7 +5,7 @@ https://arxiv.org/abs/2609.10930
 https://arxiv.org/abs/2609.10967
 https://arxiv.org/abs/2609.11089
 https://arxiv.org/abs/2609.11470
-https://arxiv.org/abs/2609.11811
+* https://arxiv.org/abs/2609.11811 # Block entropy area based non-local fermionic mode optimization with gradient disentanglers, Miklos Antal Werner, Gero Friesecke, Andor Menczer, Kornel Kapas, Oers Legeza
 https://arxiv.org/abs/2609.11568
 https://arxiv.org/abs/2609.11887
 https://arxiv.org/abs/2609.10829
