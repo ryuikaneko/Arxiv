@@ -1,5 +1,27 @@
 20260911
 
+https://arxiv.org/abs/2609.10829
+https://arxiv.org/abs/2609.10967
+https://arxiv.org/abs/2609.11089
+https://arxiv.org/abs/2609.11457
+https://arxiv.org/abs/2609.11868
+https://arxiv.org/abs/2609.11930
+https://arxiv.org/abs/2609.10676
+https://arxiv.org/abs/2609.10683
+https://arxiv.org/abs/2609.10876
+https://arxiv.org/abs/2609.10929
+
+https://arxiv.org/abs/2609.10932
+https://arxiv.org/abs/2609.10974
+https://arxiv.org/abs/2609.11021
+* https://arxiv.org/abs/2609.11327 # Virtual quantum neural networks, Benchi Zhao, Xuanqiang Zhao, Yinan Li, Yingzhou Li, Giulio Chiribella
+https://arxiv.org/abs/2609.11344
+https://arxiv.org/abs/2609.11457
+https://arxiv.org/abs/2609.11513
+https://arxiv.org/abs/2609.11522
+https://arxiv.org/abs/2609.11536
+* https://arxiv.org/abs/2609.11595 # Dissipative Quantum Battery from Many-Body Scars, Jinglin Liu, Yiming Liu, Mingdi Xu, Lei Pan
+
 https://arxiv.org/abs/2609.11635
 https://arxiv.org/abs/2609.11720
 https://arxiv.org/abs/2609.11730
