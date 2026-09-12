@@ -1,8 +1,19 @@
 20260911
 
+https://arxiv.org/abs/2609.11635
+https://arxiv.org/abs/2609.11720
+https://arxiv.org/abs/2609.11730
+https://arxiv.org/abs/2609.11847
+https://arxiv.org/abs/2609.11849
+https://arxiv.org/abs/2609.11898
+https://arxiv.org/abs/2609.11903
+https://arxiv.org/abs/2609.11922
+https://arxiv.org/abs/2609.11926
+https://arxiv.org/abs/2609.11930
+
 https://arxiv.org/abs/2609.10678
 https://arxiv.org/abs/2609.10930
-https://arxiv.org/abs/2609.10967
+* https://arxiv.org/abs/2609.10967 # Timelike Entanglement from Spacetime Density Matrices: A Lattice Realization, Hao-yu Wang, Wu-zhong Guo
 https://arxiv.org/abs/2609.11089
 https://arxiv.org/abs/2609.11470
 * https://arxiv.org/abs/2609.11811 # Block entropy area based non-local fermionic mode optimization with gradient disentanglers, Miklos Antal Werner, Gero Friesecke, Andor Menczer, Kornel Kapas, Oers Legeza
