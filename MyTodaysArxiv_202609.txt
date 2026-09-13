@@ -316,9 +316,6 @@ https://arxiv.org/abs/2609.05691
 https://journals.aps.org/prl/abstract/10.1103/4cn4-fymq
 https://journals.aps.org/prb/abstract/10.1103/sxq6-hx18
 https://journals.aps.org/prb/abstract/10.1103/lq4k-fwls
-
-====
-
 https://journals.aps.org/prxquantum/abstract/10.1103/qq2m-v44w
 https://journals.aps.org/prxquantum/abstract/10.1103/kfzr-2k5r
 https://journals.aps.org/prb/abstract/10.1103/gcdq-mdgr
