@@ -14,7 +14,7 @@ https://arxiv.org/abs/2609.12560
 https://arxiv.org/abs/2609.12598
 https://arxiv.org/abs/2609.12661
 https://arxiv.org/abs/2609.12680
-https://arxiv.org/abs/2609.12848
+* https://arxiv.org/abs/2609.12848 # Diversifying time evolution of matrix product states using BUGs, Kornel Kapas, Dominik Sulz, Charlotte Verhoeven, Miklos Antal Werner, Oers Legeza, Christian Lubich
 https://arxiv.org/abs/2609.12856
 https://arxiv.org/abs/2609.12862
 https://arxiv.org/abs/2609.12931
