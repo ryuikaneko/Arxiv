@@ -19,7 +19,7 @@ https://arxiv.org/abs/2609.12856
 https://arxiv.org/abs/2609.12862
 https://arxiv.org/abs/2609.12931
 https://arxiv.org/abs/2609.12936
-https://arxiv.org/abs/2609.12956
+* https://arxiv.org/abs/2609.12956 # Orbital Hall effect and orbital altermagnetism in even- and odd-parity-wave magnetic Lieb lattices, Boerge Goebel, Ersoy Sasioglu, Samir Lounis
 https://arxiv.org/abs/2609.12984
 
 * https://arxiv.org/abs/2609.13110 # An on-lattice model for two-dimensional melting, Antonin Roge, Peter Holdsworth, Alexis Poncet
