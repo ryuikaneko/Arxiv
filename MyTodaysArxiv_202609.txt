@@ -20,7 +20,7 @@ https://arxiv.org/abs/2609.12720
 https://arxiv.org/abs/2609.12750
 https://arxiv.org/abs/2609.12804
 https://arxiv.org/abs/2609.13029
-https://arxiv.org/abs/2609.13106
+* https://arxiv.org/abs/2609.13106 # Spectral geometry of nonlocal stabilizer entropy, Piotr Sierant
 
 
 20260911
