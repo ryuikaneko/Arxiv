@@ -11,11 +11,11 @@ https://arxiv.org/abs/2609.12936
 https://arxiv.org/abs/2609.12956
 https://arxiv.org/abs/2609.12984
 
-https://arxiv.org/abs/2609.13110
+* https://arxiv.org/abs/2609.13110 # An on-lattice model for two-dimensional melting, Antonin Roge, Peter Holdsworth, Alexis Poncet
 https://arxiv.org/abs/2609.12047
 https://arxiv.org/abs/2609.12066
 https://arxiv.org/abs/2609.12662
-https://arxiv.org/abs/2609.12689
+* https://arxiv.org/abs/2609.12689 # Emergent universality in Kraus maps of quantum chaotic many-body dynamics, Qi Camm Huang, Wai-Keong Mok, Tobias Haug, Wen Wei Ho
 https://arxiv.org/abs/2609.12720
 https://arxiv.org/abs/2609.12750
 https://arxiv.org/abs/2609.12804
