@@ -6,7 +6,7 @@ https://arxiv.org/abs/2609.12079
 https://arxiv.org/abs/2609.12126
 https://arxiv.org/abs/2609.12434
 https://arxiv.org/abs/2609.12452
-https://arxiv.org/abs/2609.12466
+* https://arxiv.org/abs/2609.12466 # Tensor-network Monte Carlo approach based on time-evolving block decimation, Shimpei Goto, Hidemaro Suwa, Synge Todo
 https://arxiv.org/abs/2609.12520
 https://arxiv.org/abs/2609.12538
 https://arxiv.org/abs/2609.12560
