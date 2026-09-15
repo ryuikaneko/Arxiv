@@ -40,7 +40,7 @@ https://arxiv.org/abs/2609.14705
 https://arxiv.org/abs/2609.14786
 https://arxiv.org/abs/2609.14846
 https://arxiv.org/abs/2609.14906
-https://arxiv.org/abs/2609.15061
+* https://arxiv.org/abs/2609.15061 # Non-Abelian chiral spin liquid in a spin-1 antiferromagnet on the square lattice, Xiao-Tian Zhang, Yuan Yang, D. N. Sheng, Shou-Shu Gong
 https://arxiv.org/abs/2609.15092
 https://arxiv.org/abs/2609.15196
 
