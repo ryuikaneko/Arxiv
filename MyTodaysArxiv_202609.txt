@@ -4,7 +4,7 @@ https://arxiv.org/abs/2609.13273
 https://arxiv.org/abs/2609.13378
 https://arxiv.org/abs/2609.13387
 https://arxiv.org/abs/2609.13390
-https://arxiv.org/abs/2609.13391
+* https://arxiv.org/abs/2609.13391 # Effective theory of the hidden-order pseudogap phase in a doped antiferromagnet, Gaia De Paciani, Gesa Duennweber, Johannes Poersch, Simon M. Linsel, Henning Schloemer, Fabian Grusdt
 https://arxiv.org/abs/2609.13408
 https://arxiv.org/abs/2609.13411
 https://arxiv.org/abs/2609.13426
