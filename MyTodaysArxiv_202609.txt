@@ -45,14 +45,14 @@ https://arxiv.org/abs/2609.15092
 https://arxiv.org/abs/2609.15196
 
 https://arxiv.org/abs/2609.15299
-https://arxiv.org/abs/2609.15323
+* https://arxiv.org/abs/2609.15323 # Statistical levels and spatial modes of Fock-space heterogeneity in many-body localization crossovers, Yu-Jing Liu, Chen Cheng
 https://arxiv.org/abs/2609.15443
 https://arxiv.org/abs/2609.15460
 https://arxiv.org/abs/2609.15712
 https://arxiv.org/abs/2609.15751
 https://arxiv.org/abs/2609.15775
 https://arxiv.org/abs/2609.15777
-https://arxiv.org/abs/2609.15947
+* https://arxiv.org/abs/2609.15947 # Charge order before superconductivity in the doped kagome Dirac spin liquid, Yasir Iqbal
 https://arxiv.org/abs/2609.15958
 
 https://arxiv.org/abs/2609.15966
@@ -62,7 +62,7 @@ https://arxiv.org/abs/2609.13371
 https://arxiv.org/abs/2609.13377
 https://arxiv.org/abs/2609.13484
 https://arxiv.org/abs/2609.13748
-https://arxiv.org/abs/2609.13863
+* https://arxiv.org/abs/2609.13863 # Open Quantum Systems, Erik Torrontegui, Ricardo Puebla
 https://arxiv.org/abs/2609.13994
 https://arxiv.org/abs/2609.14007
 
@@ -71,13 +71,13 @@ https://arxiv.org/abs/2609.14186
 https://arxiv.org/abs/2609.14201
 https://arxiv.org/abs/2609.14273
 https://arxiv.org/abs/2609.14296
-https://arxiv.org/abs/2609.14305
+* https://arxiv.org/abs/2609.14305 # Pseudo entropy from entanglement entropy, Abhigyan Saha, Piotr Sulkowski, Tadashi Takayanagi
 https://arxiv.org/abs/2609.14549
 https://arxiv.org/abs/2609.15272
 https://arxiv.org/abs/2609.15661
-https://arxiv.org/abs/2609.15739
+* https://arxiv.org/abs/2609.15739 # Pauli spectrum and nonstabilizerness of random fermionic Gaussian states, Xhek Turkeshi, Piotr Sierant, Poetri Sonya Tarabunga
 
-https://arxiv.org/abs/2609.15764
+* https://arxiv.org/abs/2609.15764 # Low-Depth Initial-State Preparation for Ground-State Energy Estimation of Two-Dimensional Strongly Correlated Systems, Ryo Watanabe, Keisuke Fujii
 https://arxiv.org/abs/2609.15898
 
 https://journals.aps.org/prresearch/abstract/10.1103/t7qp-wr19
