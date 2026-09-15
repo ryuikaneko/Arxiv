@@ -5,7 +5,7 @@ https://arxiv.org/abs/2609.13379
 https://arxiv.org/abs/2609.13388
 https://arxiv.org/abs/2609.13392
 https://arxiv.org/abs/2609.13418
-https://arxiv.org/abs/2609.13456
+* https://arxiv.org/abs/2609.13456 # Reusable selected-time channels for quantum simulation of non-Markovian dynamics, Yusui Chen
 https://arxiv.org/abs/2609.13496
 https://arxiv.org/abs/2609.13505
 https://arxiv.org/abs/2609.13521
@@ -37,7 +37,7 @@ https://arxiv.org/abs/2609.14600
 https://arxiv.org/abs/2609.14644
 https://arxiv.org/abs/2609.14989
 https://arxiv.org/abs/2609.15040
-https://arxiv.org/abs/2609.15099
+* https://arxiv.org/abs/2609.15099 # Biorthogonal Time-Dependent Variational Principle for Non-Hermitian Systems, Younes Javanmard, Sina Kazemian
 https://arxiv.org/abs/2609.15139
 https://arxiv.org/abs/2609.15267
 https://arxiv.org/abs/2609.15477
