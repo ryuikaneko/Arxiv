@@ -1,13 +1,24 @@
 20260916
 
+https://arxiv.org/abs/2609.17501
+https://arxiv.org/abs/2609.17517
+https://arxiv.org/abs/2609.16084
+https://arxiv.org/abs/2609.16124
+https://arxiv.org/abs/2609.16137
+https://arxiv.org/abs/2609.16143
+https://arxiv.org/abs/2609.16147
+https://arxiv.org/abs/2609.16261
+https://arxiv.org/abs/2609.16438
+https://arxiv.org/abs/2609.16466
+
 https://arxiv.org/abs/2609.16483
-https://arxiv.org/abs/2609.16559
+* https://arxiv.org/abs/2609.16559 # Diffusivity in Dissipative Quantum Transport from an Exactly Solvable Krylov Chain, Zhi-Li Zhou, Jorge Noronha
 https://arxiv.org/abs/2609.16587
 https://arxiv.org/abs/2609.16593
 https://arxiv.org/abs/2609.16649
 https://arxiv.org/abs/2609.16758
 https://arxiv.org/abs/2609.16780
-https://arxiv.org/abs/2609.16935
+* https://arxiv.org/abs/2609.16935 # Nonlocal Magic across the Many-Body Localization Crossover, Shan-Zhong Li, Zhi Li
 https://arxiv.org/abs/2609.17069
 https://arxiv.org/abs/2609.17213
 
