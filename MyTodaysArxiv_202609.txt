@@ -8,7 +8,7 @@ https://arxiv.org/abs/2609.16137
 https://arxiv.org/abs/2609.16143
 https://arxiv.org/abs/2609.16147
 https://arxiv.org/abs/2609.16261
-https://arxiv.org/abs/2609.16438
+* https://arxiv.org/abs/2609.16438 # Analytical solutions to the non-equilibrium Green's functions in large-q SYK models, Jan C. Louw
 https://arxiv.org/abs/2609.16466
 
 https://arxiv.org/abs/2609.16483
