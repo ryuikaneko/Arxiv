@@ -5,11 +5,11 @@ https://arxiv.org/abs/2609.17522
 https://arxiv.org/abs/2609.15286
 https://arxiv.org/abs/2609.16108
 https://arxiv.org/abs/2609.16130
-https://arxiv.org/abs/2609.16132
-https://arxiv.org/abs/2609.16140
+* https://arxiv.org/abs/2609.16132 # Exact group invariant scar towers in two dimensional gauge theories, Joao Barata, Kiryl Pakrouski, Andrey V. Sadofyev
+* https://arxiv.org/abs/2609.16140 # Designs without disorder: unitary k-designs from a single-site bulk defect, Samudra Sur, Pratik Nandy
 https://arxiv.org/abs/2609.16142
-https://arxiv.org/abs/2609.16153
-https://arxiv.org/abs/2609.16160
+* https://arxiv.org/abs/2609.16153 # The Role of Completeness in Probing Symmetry Breaking, Yuya Kusuki, Hiroyasu Tajima, Shion Yamashika
+* https://arxiv.org/abs/2609.16160 # Noise-induced classical phases in optimally-unraveled random quantum circuits, Lorenzo Fioroni, Filippo Ferrari, Emanuele Tirrito
 
 https://arxiv.org/abs/2609.16162
 https://arxiv.org/abs/2609.16164
