@@ -1,15 +1,15 @@
 20260916
 
 https://arxiv.org/abs/2609.16488
-https://arxiv.org/abs/2609.16520
-https://arxiv.org/abs/2609.16544
+* https://arxiv.org/abs/2609.16520 # Truncated hybrid tensor networks for distributed quantum simulation, Yong Liu, Guangyao Huang, Weixu Shi, Yizhi Wang, Jiandong Ouyang, Zeqian Chen, Junjie Wu
+* https://arxiv.org/abs/2609.16544 # Partial projected ensembles reveal slow tilt-constrained information spreading, Yi-Rui Zhang, Yu-Jun Zhao, Han-Ze Li, Jian-Xin Zhong
 https://arxiv.org/abs/2609.16628
 https://arxiv.org/abs/2609.16659
 https://arxiv.org/abs/2609.16712
 https://arxiv.org/abs/2609.16726
 https://arxiv.org/abs/2609.16743
 https://arxiv.org/abs/2609.16813
-https://arxiv.org/abs/2609.16929
+* https://arxiv.org/abs/2609.16929 # Exact efficient simulation of noisy logical magic states using Clifford stabilizers, Yugo Takada, Stephen D. Bartlett, Dominic J. Williamson
 
 https://arxiv.org/abs/2609.16938
 https://arxiv.org/abs/2609.16975
