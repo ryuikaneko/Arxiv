@@ -1,5 +1,16 @@
 20260916
 
+https://arxiv.org/abs/2609.16171
+https://arxiv.org/abs/2609.16198
+https://arxiv.org/abs/2609.16200
+https://arxiv.org/abs/2609.16208
+https://arxiv.org/abs/2609.16226
+https://arxiv.org/abs/2609.16266
+https://arxiv.org/abs/2609.16308
+https://arxiv.org/abs/2609.16352
+https://arxiv.org/abs/2609.16435
+https://arxiv.org/abs/2609.16460
+
 https://arxiv.org/abs/2609.16488
 * https://arxiv.org/abs/2609.16520 # Truncated hybrid tensor networks for distributed quantum simulation, Yong Liu, Guangyao Huang, Weixu Shi, Yizhi Wang, Jiandong Ouyang, Zeqian Chen, Junjie Wu
 * https://arxiv.org/abs/2609.16544 # Partial projected ensembles reveal slow tilt-constrained information spreading, Yi-Rui Zhang, Yu-Jun Zhao, Han-Ze Li, Jian-Xin Zhong
