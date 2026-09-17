@@ -4,7 +4,7 @@ https://arxiv.org/abs/2609.16938
 https://arxiv.org/abs/2609.16975
 https://arxiv.org/abs/2609.17013
 https://arxiv.org/abs/2609.17032
-https://arxiv.org/abs/2609.17037
+* https://arxiv.org/abs/2609.17037 # Eigenstate thermalization beyond the envelope: exact two-point overlap statistics in random free fermions, Zhiqiang Huang
 https://arxiv.org/abs/2609.17044
 https://arxiv.org/abs/2609.17095
 https://arxiv.org/abs/2609.17102
