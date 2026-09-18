@@ -9,7 +9,7 @@ https://arxiv.org/abs/2609.18327
 https://arxiv.org/abs/2609.18386
 https://arxiv.org/abs/2609.18598
 https://arxiv.org/abs/2609.18614
-https://arxiv.org/abs/2609.18761
+* https://arxiv.org/abs/2609.18761 # Exact and fast series expansions for quantum models with long-range interactions, Antonia Duft, Patrick Adelhardt, Jan Alexander Koziol, Andreas A. Buchheit, Kai Phillip Schmidt
 
 https://arxiv.org/abs/2609.18765
 https://arxiv.org/abs/2609.18826
