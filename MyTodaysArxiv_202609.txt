@@ -1,10 +1,16 @@
 20260917
 
+https://arxiv.org/abs/2609.17646
+* https://arxiv.org/abs/2609.17670 # Structure of Measurement-Induced Entanglement in Infinite-Randomness Critical States, Oliver Breach
+https://arxiv.org/abs/2609.17791
+* https://arxiv.org/abs/2609.17794 # What does "instant thermalization" in large-q SYK models mean?, Alexander Osterkorn, Jan C. Louw
+https://arxiv.org/abs/2609.17818
+
 https://arxiv.org/abs/2609.17968
-https://arxiv.org/abs/2609.17988
+* https://arxiv.org/abs/2609.17988 # The quantum Mpemba effect in symmetric random Clifford circuits, Shion Yamashika, Filiberto Ares, Pasquale Calabrese
 https://arxiv.org/abs/2609.17990
 https://arxiv.org/abs/2609.18093
-https://arxiv.org/abs/2609.18208
+* https://arxiv.org/abs/2609.18208 # Logarithmic singularity in a dynamical quantum phase transition for free fermions, Yasser Bezzaz, Dimitri M. Gangardt, Pavel L. Krapivsky, Jean-Marc Luck, Kirone Mallick, Sylvain Prolhac
 https://arxiv.org/abs/2609.18327
 https://arxiv.org/abs/2609.18386
 https://arxiv.org/abs/2609.18598
