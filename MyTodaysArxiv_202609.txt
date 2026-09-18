@@ -1,14 +1,18 @@
 20260917
 
-https://arxiv.org/abs/2609.17724
-https://arxiv.org/abs/2609.17794
-https://arxiv.org/abs/2609.17988
+https://arxiv.org/abs/2609.18972
+https://arxiv.org/abs/2609.18978
+https://arxiv.org/abs/2609.19003
+
+https://arxiv.org/abs/2609.19090
+https://arxiv.org/abs/2609.19116
+https://arxiv.org/abs/2603.29896
+* https://arxiv.org/abs/2609.17664 # Collider Detector Observables from Lattice Spin Systems, Joao Barata, Ying-Ying Li, Bo Wang, Hua Xing Zhu
+https://arxiv.org/abs/2609.17669
 https://arxiv.org/abs/2609.18018
 https://arxiv.org/abs/2609.18225
 https://arxiv.org/abs/2609.18655
-https://arxiv.org/abs/2609.18761
 https://arxiv.org/abs/2609.18841
-https://arxiv.org/abs/2609.18918
 https://arxiv.org/abs/2609.18944
 
 https://arxiv.org/abs/2609.17646
