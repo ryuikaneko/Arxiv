@@ -1,5 +1,16 @@
 20260917
 
+https://arxiv.org/abs/2609.18464
+https://arxiv.org/abs/2609.18558
+https://arxiv.org/abs/2609.18559
+https://arxiv.org/abs/2609.18565
+https://arxiv.org/abs/2609.18568
+https://arxiv.org/abs/2609.18570
+https://arxiv.org/abs/2609.18593
+https://arxiv.org/abs/2609.18641
+https://arxiv.org/abs/2609.18666
+https://arxiv.org/abs/2609.18747
+
 https://arxiv.org/abs/2609.18757
 https://arxiv.org/abs/2609.18899
 * https://arxiv.org/abs/2609.18907 # Logarithmic-depth quantum simulation of boson sampling, Changhun Oh
