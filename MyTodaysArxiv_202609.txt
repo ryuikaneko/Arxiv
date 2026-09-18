@@ -1,12 +1,16 @@
 20260917
 
+https://arxiv.org/abs/2609.17563
+https://arxiv.org/abs/2609.17574
+https://arxiv.org/abs/2609.17706
+
 https://arxiv.org/abs/2609.17785
 https://arxiv.org/abs/2609.17789
 https://arxiv.org/abs/2609.17835
 https://arxiv.org/abs/2609.17870
 https://arxiv.org/abs/2609.17896
 https://arxiv.org/abs/2609.17970
-https://arxiv.org/abs/2609.17979
+* https://arxiv.org/abs/2609.17979 # Qurrium: A Python package for randomized measurement-based estimation of quantum state properties, Huai-Chun Chang, Teik-Hui Lee, Arthur Strauss, Yu-Cheng Lin, Hsiu-Chuan Hsu
 https://arxiv.org/abs/2609.17991
 https://arxiv.org/abs/2609.18002
 https://arxiv.org/abs/2609.18012
