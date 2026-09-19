@@ -1,5 +1,27 @@
 20260918
 
+* https://arxiv.org/abs/2609.20693 # TetrisCNN for interpretable detection of phases of matter from experimental quantum simulator data, Kacper Cybinski, Bjoern van Zwol, James Enouen, Guillaume Bornet, Thierry Lahaye, Antoine Browaeys, Antoine Georges, Anna Dawid
+* https://arxiv.org/abs/2609.20698 # Multinegativity and single-letter formulas for asymptotic entanglement, Raphael Brinster, Tulja Varun Kondra, Hermann Kampermann, Dagmar Bruss, Nikolai Wyderka
+https://arxiv.org/abs/2609.20708
+https://arxiv.org/abs/2609.20721
+https://arxiv.org/abs/2609.20728
+https://arxiv.org/abs/2609.20729
+https://arxiv.org/abs/2609.20739
+https://arxiv.org/abs/2609.20746
+https://arxiv.org/abs/2609.20753
+https://arxiv.org/abs/2609.20757
+
+https://arxiv.org/abs/2609.20781
+* https://arxiv.org/abs/2609.20802 # Locally optimized variational evolution for quantum many-body systems, Carolin Wille, Max Marvell, Lauren Stewart, Max Murphy, Vinul Wimalaweera, Lesley Gover, Andrew G. Green
+https://arxiv.org/abs/2609.20823
+https://arxiv.org/abs/2604.06429
+https://arxiv.org/abs/2609.19159
+https://arxiv.org/abs/2609.19247
+https://arxiv.org/abs/2609.19255
+* https://arxiv.org/abs/2609.19282 # Non-Abelian Anyon Condensation: a Path-Integral Monte Carlo Approach, Rafael Flores-Calderon, Frank Pollmann, Michael Knap
+https://arxiv.org/abs/2609.19292
+https://arxiv.org/abs/2609.19572
+
 https://arxiv.org/abs/2609.19756
 https://arxiv.org/abs/2609.19798
 https://arxiv.org/abs/2609.19808
