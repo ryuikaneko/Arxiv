@@ -20,9 +20,9 @@ https://arxiv.org/abs/2609.19646
 https://arxiv.org/abs/2609.19837
 https://arxiv.org/abs/2609.19857
 * https://arxiv.org/abs/2609.19884 # Odd/Even or Half ? Entanglement Anomaly in the Bose-Hubbard model, Humberto E. Lopez-Hernandez, Santiago F. Caballero-Benitez
-https://arxiv.org/abs/2609.20020
+* https://arxiv.org/abs/2609.20020 # Corner entanglement scaling with projected entangled pair states, Chloe Van Bastelaere, Rui-Zhen Huang, Laurens Vanderstraeten
 
-https://arxiv.org/abs/2609.20029
+* https://arxiv.org/abs/2609.20029 # Statistical delocalization in the Anyonic Aubry-Andre model, Andoni Agirre, Andre Eckardt, Tobias Grass
 https://arxiv.org/abs/2609.20062
 https://arxiv.org/abs/2609.20090
 https://arxiv.org/abs/2609.20158
