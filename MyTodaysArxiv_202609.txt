@@ -16,7 +16,7 @@ https://arxiv.org/abs/2609.19629
 https://arxiv.org/abs/2609.19638
 https://arxiv.org/abs/2609.19643
 https://arxiv.org/abs/2609.19646
-https://arxiv.org/abs/2609.19686
+* https://arxiv.org/abs/2609.19686 # Superconductivity at the metal-insulator phase boundary in a bulk nickelate at ambient pressure, Hyo-Bin Ahn, Xinglong Chen, Hong Zheng, Yu Zhang, Ramakanta Chapai, Yu Li, Arashdeep S. Thind, Robert F. Klie, Michael R. Norman, Ulrich Welp, J. F. Mitchell, Daniel Phelan
 https://arxiv.org/abs/2609.19837
 https://arxiv.org/abs/2609.19857
 https://arxiv.org/abs/2609.19884
