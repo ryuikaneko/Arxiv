@@ -35,7 +35,7 @@ https://arxiv.org/abs/2609.20472
 
 * https://arxiv.org/abs/2609.20502 # Unconstrained compact lattice QED2+1 coupled to phonons: Gauss sectors, orthogonal semimetal, and deconfined criticality, Joao C. Inacio, Fakher F. Assaad
 https://arxiv.org/abs/2609.20755
-https://arxiv.org/abs/2609.20767
+* https://arxiv.org/abs/2609.20767 # Spacetime Dynamics of Altermagnetic Magnons, Ali Emami Kopaei, Karthik Subramaniam Eswaran, Krzysztof Wohlfeld
 https://arxiv.org/abs/2609.19184
 https://arxiv.org/abs/2609.19288
 https://arxiv.org/abs/2609.20266
