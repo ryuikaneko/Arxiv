@@ -1,5 +1,16 @@
 20260918
 
+https://arxiv.org/abs/2609.20320
+https://arxiv.org/abs/2609.20345
+https://arxiv.org/abs/2609.20390
+https://arxiv.org/abs/2609.20406
+https://arxiv.org/abs/2609.20428
+* https://arxiv.org/abs/2609.20464 # Neutral atom quantum computing for materials science and quantum chemistry, J. D. Pritchard
+https://arxiv.org/abs/2609.20523
+https://arxiv.org/abs/2609.20549
+https://arxiv.org/abs/2609.20573
+https://arxiv.org/abs/2609.20644
+
 * https://arxiv.org/abs/2609.20693 # TetrisCNN for interpretable detection of phases of matter from experimental quantum simulator data, Kacper Cybinski, Bjoern van Zwol, James Enouen, Guillaume Bornet, Thierry Lahaye, Antoine Browaeys, Antoine Georges, Anna Dawid
 * https://arxiv.org/abs/2609.20698 # Multinegativity and single-letter formulas for asymptotic entanglement, Raphael Brinster, Tulja Varun Kondra, Hermann Kampermann, Dagmar Bruss, Nikolai Wyderka
 https://arxiv.org/abs/2609.20708
