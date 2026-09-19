@@ -1,6 +1,6 @@
 20260918
 
-https://arxiv.org/abs/2609.19639
+* https://arxiv.org/abs/2609.19639 # Quantum computers will not be that different: A blueprint for quantum computer architecture at scale, Torsten Hoefler, Matthias Troyer
 https://arxiv.org/abs/2609.19642
 https://arxiv.org/abs/2609.19676
 https://arxiv.org/abs/2609.19707
