@@ -24,7 +24,7 @@ https://arxiv.org/abs/2609.19857
 
 * https://arxiv.org/abs/2609.20029 # Statistical delocalization in the Anyonic Aubry-Andre model, Andoni Agirre, Andre Eckardt, Tobias Grass
 https://arxiv.org/abs/2609.20062
-https://arxiv.org/abs/2609.20090
+* https://arxiv.org/abs/2609.20090 # When Is Kramers-Wannier Duality Invertible?, Akash Sinha, Pramod Padmanabhan, Vladimir Korepin
 https://arxiv.org/abs/2609.20158
 https://arxiv.org/abs/2609.20286
 https://arxiv.org/abs/2609.20432
@@ -33,7 +33,7 @@ https://arxiv.org/abs/2609.20434
 https://arxiv.org/abs/2609.20471
 https://arxiv.org/abs/2609.20472
 
-https://arxiv.org/abs/2609.20502
+* https://arxiv.org/abs/2609.20502 # Unconstrained compact lattice QED2+1 coupled to phonons: Gauss sectors, orthogonal semimetal, and deconfined criticality, Joao C. Inacio, Fakher F. Assaad
 https://arxiv.org/abs/2609.20755
 https://arxiv.org/abs/2609.20767
 https://arxiv.org/abs/2609.19184
