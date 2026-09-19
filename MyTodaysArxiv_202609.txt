@@ -9,7 +9,7 @@ https://arxiv.org/abs/2609.19355
 https://arxiv.org/abs/2609.19379
 https://arxiv.org/abs/2609.19450
 https://arxiv.org/abs/2609.19490
-https://arxiv.org/abs/2609.19618
+* https://arxiv.org/abs/2609.19618 # Vestigial chirality from fluctuating loop currents on the kagome lattice, Yin Shi, Xuande Bu, Sheng Meng
 
 https://arxiv.org/abs/2609.19627
 https://arxiv.org/abs/2609.19629
