@@ -1,5 +1,27 @@
 20260918
 
+https://arxiv.org/abs/2609.19160
+https://arxiv.org/abs/2609.19162
+https://arxiv.org/abs/2609.19239
+https://arxiv.org/abs/2609.19250
+https://arxiv.org/abs/2609.19251
+https://arxiv.org/abs/2609.19254
+https://arxiv.org/abs/2609.19280
+https://arxiv.org/abs/2609.19308
+https://arxiv.org/abs/2609.19310
+https://arxiv.org/abs/2609.19392
+
+https://arxiv.org/abs/2609.19404
+https://arxiv.org/abs/2609.19484
+https://arxiv.org/abs/2609.19485
+https://arxiv.org/abs/2609.19496
+https://arxiv.org/abs/2609.19534
+https://arxiv.org/abs/2609.19535
+https://arxiv.org/abs/2609.19561
+https://arxiv.org/abs/2609.19591
+* https://arxiv.org/abs/2609.19619 # A Restricted Boltzmann Machine with Quantum-State Visible Units, Zhe-Hao Zhang, Yi-Cong Yu, Xiaoming Cai, Hai-Qing Lin
+https://arxiv.org/abs/2609.19625
+
 * https://arxiv.org/abs/2609.19639 # Quantum computers will not be that different: A blueprint for quantum computer architecture at scale, Torsten Hoefler, Matthias Troyer
 https://arxiv.org/abs/2609.19642
 https://arxiv.org/abs/2609.19676
