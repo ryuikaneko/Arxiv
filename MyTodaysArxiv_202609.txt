@@ -7,7 +7,7 @@ https://arxiv.org/abs/2609.19250
 https://arxiv.org/abs/2609.19251
 https://arxiv.org/abs/2609.19254
 https://arxiv.org/abs/2609.19280
-https://arxiv.org/abs/2609.19308
+* https://arxiv.org/abs/2609.19308 # Temporal information processing on a 4,500-qubit quantum annealer, Antonio Sannia, Roberto Menta, Pratik Sathe, Dario De Santis, Vittorio Giovannetti, Luis Pedro Garcia-Pintos, Davide Venturelli, Gian Luca Giorgi, Roberta Zambrini, Francesco Caravelli
 https://arxiv.org/abs/2609.19310
 https://arxiv.org/abs/2609.19392
 
