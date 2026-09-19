@@ -19,7 +19,7 @@ https://arxiv.org/abs/2609.19646
 * https://arxiv.org/abs/2609.19686 # Superconductivity at the metal-insulator phase boundary in a bulk nickelate at ambient pressure, Hyo-Bin Ahn, Xinglong Chen, Hong Zheng, Yu Zhang, Ramakanta Chapai, Yu Li, Arashdeep S. Thind, Robert F. Klie, Michael R. Norman, Ulrich Welp, J. F. Mitchell, Daniel Phelan
 https://arxiv.org/abs/2609.19837
 https://arxiv.org/abs/2609.19857
-https://arxiv.org/abs/2609.19884
+* https://arxiv.org/abs/2609.19884 # Odd/Even or Half ? Entanglement Anomaly in the Bose-Hubbard model, Humberto E. Lopez-Hernandez, Santiago F. Caballero-Benitez
 https://arxiv.org/abs/2609.20020
 
 https://arxiv.org/abs/2609.20029
