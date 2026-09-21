@@ -31,7 +31,7 @@ https://arxiv.org/abs/2609.22047
 * https://arxiv.org/abs/2609.20912 # Do Quantum Models Scale Like LLMs?, David S. Berman, Ying-Jer Kao, Roger G. Melko, Alexander G. Stapleton
 https://arxiv.org/abs/2609.21370
 https://arxiv.org/abs/2609.21438
-https://arxiv.org/abs/2609.22079
+* https://arxiv.org/abs/2609.22079 # Universal Eigenvector Statistics of Non-Hermitian Random Matrices, Ze Chen, Zhenyu Xiao, Shinsei Ryu
 
 
 20260918
