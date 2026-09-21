@@ -17,7 +17,7 @@ https://arxiv.org/abs/2609.21289
 https://arxiv.org/abs/2609.21613
 https://arxiv.org/abs/2609.21623
 * https://arxiv.org/abs/2609.21631 # Reformulating Pfaffian Quantum Monte Carlo with the Hybrid Monte Carlo formalism, Thomas Hauschild, Lin Wang, Finn L. Temmen, Thomas Luu
-https://arxiv.org/abs/2609.21665
+* https://arxiv.org/abs/2609.21665 # Orbital character and photoemission signatures of the A-pocket in infinite-layer nickelates, Leonard M. Verhoff, Michael Seidl, Liang Si, Karsten Held
 https://arxiv.org/abs/2609.21669
 https://arxiv.org/abs/2609.21825
 https://arxiv.org/abs/2609.21833
