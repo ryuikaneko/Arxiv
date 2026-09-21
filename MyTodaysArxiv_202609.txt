@@ -1,8 +1,8 @@
 20260921
 
-https://arxiv.org/abs/2609.20916
-https://arxiv.org/abs/2609.20922
-https://arxiv.org/abs/2609.20927
+* https://arxiv.org/abs/2609.20916 # Bootstrapping Disordered Quantum Systems, Yaprak Oender, Michael G. Scheer, Minjae Cho, Eslam Khalaf
+* https://arxiv.org/abs/2609.20922 # Metallic Neel order stabilized by coupling between inequivalent Hubbard layers, Yi-Ming Wu, Jessica Yiqi Pan, Hong Yao, Steven A. Kivelson
+* https://arxiv.org/abs/2609.20927 # Bootstrapping Classical Systems with Quenched Disorder, Minjae Cho, Yaprak Oender, Eslam Khalaf, Michael G. Scheer
 https://arxiv.org/abs/2609.20932
 https://arxiv.org/abs/2609.20958
 https://arxiv.org/abs/2609.20985
