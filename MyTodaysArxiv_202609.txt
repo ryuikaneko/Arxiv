@@ -28,7 +28,7 @@ https://arxiv.org/abs/2609.21886
 https://arxiv.org/abs/2609.21916
 https://arxiv.org/abs/2609.21944
 https://arxiv.org/abs/2609.22047
-https://arxiv.org/abs/2609.20912
+* https://arxiv.org/abs/2609.20912 # Do Quantum Models Scale Like LLMs?, David S. Berman, Ying-Jer Kao, Roger G. Melko, Alexander G. Stapleton
 https://arxiv.org/abs/2609.21370
 https://arxiv.org/abs/2609.21438
 https://arxiv.org/abs/2609.22079
