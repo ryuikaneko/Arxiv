@@ -6,7 +6,7 @@
 https://arxiv.org/abs/2609.20932
 https://arxiv.org/abs/2609.20958
 https://arxiv.org/abs/2609.20985
-https://arxiv.org/abs/2609.21004
+* https://arxiv.org/abs/2609.21004 # Arctic Curves and a Gapped Gas Phase in a Two-Band Free-Fermion Chain, Charles Jordan, Dimitri M. Gangardt, Alexander G. Abanov
 https://arxiv.org/abs/2609.21031
 https://arxiv.org/abs/2609.21091
 https://arxiv.org/abs/2609.21128
