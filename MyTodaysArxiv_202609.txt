@@ -1,7 +1,7 @@
 20260922
 
 https://arxiv.org/abs/2609.22440
-https://arxiv.org/abs/2609.22535
+* https://arxiv.org/abs/2609.22535 # Approaching the Inverse Neutron Scattering Problem with Neural Networks, Jingyi Luo, Fletcher Williams, Ang-Kun Wu, David Dahlbom, Cristian D. Batista, Hao Zhang
 https://arxiv.org/abs/2609.22604
 * https://arxiv.org/abs/2609.22618 # Probing d-wave pairing in the t-t'-U Hubbard model with tensor-backflow wave functions, Xiao Liang
 https://arxiv.org/abs/2609.22645
