@@ -1,5 +1,13 @@
 20260922
 
+https://arxiv.org/abs/2609.22301
+https://arxiv.org/abs/2609.22328
+https://arxiv.org/abs/2609.22334
+https://arxiv.org/abs/2609.22342
+https://arxiv.org/abs/2609.22365
+https://arxiv.org/abs/2609.22376
+* https://arxiv.org/abs/2609.22420 # Bootstrap certification of string order in quantum spin chains, Sagnik Banerjee, Haoyu Guo, Debanjan Chowdhury
+
 https://arxiv.org/abs/2609.22440
 * https://arxiv.org/abs/2609.22535 # Approaching the Inverse Neutron Scattering Problem with Neural Networks, Jingyi Luo, Fletcher Williams, Ang-Kun Wu, David Dahlbom, Cristian D. Batista, Hao Zhang
 https://arxiv.org/abs/2609.22604
