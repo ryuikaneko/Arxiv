@@ -5,7 +5,7 @@ https://arxiv.org/abs/2609.22535
 https://arxiv.org/abs/2609.22604
 https://arxiv.org/abs/2609.22618
 https://arxiv.org/abs/2609.22645
-https://arxiv.org/abs/2609.22907
+* https://arxiv.org/abs/2609.22907 # On the precise boundary of the Neel antiferromagnetic phase in the Shastry-Sutherland model, Rongyi Lv, Xiangjian Qian, Mingpu Qin
 https://arxiv.org/abs/2609.22992
 https://arxiv.org/abs/2609.23099
 https://arxiv.org/abs/2609.23129
