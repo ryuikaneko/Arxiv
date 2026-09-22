@@ -4,7 +4,7 @@ https://arxiv.org/abs/2609.23978
 https://arxiv.org/abs/2609.23993
 https://arxiv.org/abs/2609.24044
 https://arxiv.org/abs/2609.24063
-https://arxiv.org/abs/2609.24247
+* https://arxiv.org/abs/2609.24247 # Thermal Evolution and Disorder Dependence of the Bose-glass: Spatial, Spectral, and Localization Signatures, Madhumita Kabiraj, Raka Dasgupta
 https://arxiv.org/abs/2609.24315
 https://arxiv.org/abs/2609.24408
 * https://arxiv.org/abs/2609.24445 # Charge-4e Superconducting Ground State without Pair Condensation: Exact Quartet Dynamics, Rigorous Order, and a Microscopic Route, Jin-Tao Jin, Pengfei Li, Yi Zhou
