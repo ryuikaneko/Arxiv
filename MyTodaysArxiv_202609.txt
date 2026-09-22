@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2609.22440
 https://arxiv.org/abs/2609.22535
 https://arxiv.org/abs/2609.22604
-https://arxiv.org/abs/2609.22618
+* https://arxiv.org/abs/2609.22618 # Probing d-wave pairing in the t-t'-U Hubbard model with tensor-backflow wave functions, Xiao Liang
 https://arxiv.org/abs/2609.22645
 * https://arxiv.org/abs/2609.22907 # On the precise boundary of the Neel antiferromagnetic phase in the Shastry-Sutherland model, Rongyi Lv, Xiangjian Qian, Mingpu Qin
 https://arxiv.org/abs/2609.22992
