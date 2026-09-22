@@ -1,3 +1,15 @@
+20260922
+
+https://journals.aps.org/prb/abstract/10.1103/fb6f-p5tz
+https://journals.aps.org/prb/abstract/10.1103/znkq-plhz
+https://journals.aps.org/pre/abstract/10.1103/g8s9-t73p
+https://journals.aps.org/prl/abstract/10.1103/7mv6-4g91
+https://journals.aps.org/prl/abstract/10.1103/4zdv-1ryx
+
+
+====
+
+
 20260921
 
 * https://arxiv.org/abs/2609.20916 # Bootstrapping Disordered Quantum Systems, Yaprak Oender, Michael G. Scheer, Minjae Cho, Eslam Khalaf
