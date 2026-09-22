@@ -1,5 +1,34 @@
 20260922
 
+https://arxiv.org/abs/2609.22189
+https://arxiv.org/abs/2609.22425
+https://arxiv.org/abs/2609.22442
+https://arxiv.org/abs/2609.22445
+https://arxiv.org/abs/2609.22673
+https://arxiv.org/abs/2609.22768
+https://arxiv.org/abs/2609.22822
+https://arxiv.org/abs/2609.23016
+https://arxiv.org/abs/2609.23059
+* https://arxiv.org/abs/2609.23334 # Stochastic Reconfiguration as Statistical Filtering for Overparameterized Neural Quantum States, Tak Hur
+
+* https://arxiv.org/abs/2609.23429 # Liouvillian Response for Temporal Information in Quantum Reservoir Computing, Jiande Cao, Rui-Yang Gong, Zhongjin Lin, Yexiong Zeng, Ze-Liang Xiang
+https://arxiv.org/abs/2609.23441
+https://arxiv.org/abs/2609.23476
+https://arxiv.org/abs/2609.23648
+https://arxiv.org/abs/2609.23752
+https://arxiv.org/abs/2609.23946
+https://arxiv.org/abs/2609.24282
+https://arxiv.org/abs/2609.24316
+https://arxiv.org/abs/2609.24349
+https://arxiv.org/abs/2609.24508
+
+https://arxiv.org/abs/2609.24657
+https://arxiv.org/abs/2609.24794
+https://arxiv.org/abs/2609.24933
+https://arxiv.org/abs/2609.22504
+https://arxiv.org/abs/2609.22729
+https://arxiv.org/abs/2609.24874
+
 https://arxiv.org/abs/2609.22301
 https://arxiv.org/abs/2609.22328
 https://arxiv.org/abs/2609.22334
