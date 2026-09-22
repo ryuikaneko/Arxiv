@@ -1,10 +1,21 @@
 20260922
 
+https://arxiv.org/abs/2609.24607
+https://arxiv.org/abs/2609.24696
+https://arxiv.org/abs/2609.24844
+https://arxiv.org/abs/2609.24857
+https://arxiv.org/abs/2609.24905
+https://arxiv.org/abs/2609.24975
+https://arxiv.org/abs/2609.24993
+https://arxiv.org/abs/2609.22190
+https://arxiv.org/abs/2609.22817
+https://arxiv.org/abs/2609.23195
+
 https://arxiv.org/abs/2609.23420
 https://arxiv.org/abs/2609.23591
 https://arxiv.org/abs/2609.23690
-https://arxiv.org/abs/2609.23721
-https://arxiv.org/abs/2609.23942
+* https://arxiv.org/abs/2609.23721 # Non-Hermitian quantum phase transitions in the XY model induced by staggered imaginary Dzyaloshinskii--Moriya interaction, Hong Jiang, Xiang-Ping Jiang, Yan-Chao Li
+* https://arxiv.org/abs/2609.23942 # Lee-Yang theorem for fermions, Chaithanya Rayudu, Takahiro Misawa, Andrew Zhao, Jun Takahashi
 https://arxiv.org/abs/2609.23957
 https://arxiv.org/abs/2609.24327
 https://arxiv.org/abs/2609.24472
