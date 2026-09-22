@@ -1,5 +1,16 @@
 20260922
 
+https://arxiv.org/abs/2609.22440
+https://arxiv.org/abs/2609.22535
+https://arxiv.org/abs/2609.22604
+https://arxiv.org/abs/2609.22618
+https://arxiv.org/abs/2609.22645
+https://arxiv.org/abs/2609.22907
+https://arxiv.org/abs/2609.22992
+https://arxiv.org/abs/2609.23099
+https://arxiv.org/abs/2609.23129
+https://arxiv.org/abs/2609.23150
+
 https://arxiv.org/abs/2609.23346
 * https://arxiv.org/abs/2609.23426 # Non-Hermitian Quantum Mechanics I: Instantaneous Self-Energy, Lingfeng Liu, Wei-Wei Yang, Jiangping Hu, Zhesen Yang
 https://arxiv.org/abs/2609.23513
