@@ -3,10 +3,10 @@
 https://arxiv.org/abs/2609.24607
 https://arxiv.org/abs/2609.24696
 https://arxiv.org/abs/2609.24844
-https://arxiv.org/abs/2609.24857
+* https://arxiv.org/abs/2609.24857 # Quantum-interference-driven orbital density wave and high-temperature superconductivity in trilayer nickelates, Youichi Yamakawa, Hiroshi Kontani
 https://arxiv.org/abs/2609.24905
 https://arxiv.org/abs/2609.24975
-https://arxiv.org/abs/2609.24993
+* https://arxiv.org/abs/2609.24993 # Quantum Mpemba effect from Stark localization, Nico Albert, Masudul Haque, Shovan Dutta
 https://arxiv.org/abs/2609.22190
 https://arxiv.org/abs/2609.22817
 https://arxiv.org/abs/2609.23195
