@@ -7,7 +7,7 @@ https://arxiv.org/abs/2609.24063
 https://arxiv.org/abs/2609.24247
 https://arxiv.org/abs/2609.24315
 https://arxiv.org/abs/2609.24408
-https://arxiv.org/abs/2609.24445
+* https://arxiv.org/abs/2609.24445 # Charge-4e Superconducting Ground State without Pair Condensation: Exact Quartet Dynamics, Rigorous Order, and a Microscopic Route, Jin-Tao Jin, Pengfei Li, Yi Zhou
 https://arxiv.org/abs/2609.24462
 https://arxiv.org/abs/2609.24602
 
