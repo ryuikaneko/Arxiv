@@ -30,7 +30,7 @@ https://arxiv.org/abs/2609.25992
 https://arxiv.org/abs/2609.26032
 https://arxiv.org/abs/2609.26362
 https://arxiv.org/abs/2609.26367
-https://arxiv.org/abs/2609.26372
+* https://arxiv.org/abs/2609.26372 # Lattice Lindbladian simulation by patching and merging, Kaoru Mizuta
 https://arxiv.org/abs/2609.26429
 
 https://arxiv.org/abs/2609.26453
