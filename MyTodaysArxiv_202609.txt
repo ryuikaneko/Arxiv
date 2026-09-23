@@ -4,19 +4,19 @@ https://arxiv.org/abs/2609.25210
 https://arxiv.org/abs/2609.25226
 https://arxiv.org/abs/2609.25265
 https://arxiv.org/abs/2609.25276
-https://arxiv.org/abs/2609.25384
+* https://arxiv.org/abs/2609.25384 # Lattice in Line: Optimized DMRG ordering for complex lattice geometries, Roman Rausch
 https://arxiv.org/abs/2609.25406
 https://arxiv.org/abs/2609.25418
 https://arxiv.org/abs/2609.25473
-https://arxiv.org/abs/2609.25494
-https://arxiv.org/abs/2609.25585
+* https://arxiv.org/abs/2609.25494 # Efficiency of Continuous-Time Quantum Monte Carlo Updates in the Ferromagnetic State of the Doped SU(3) Fermi-Hubbard Model, Juntaro Fujii, Kazuki Yamamoto, Akihisa Koga
+* https://arxiv.org/abs/2609.25585 # Model Fractional Quantum Hall States on Lattices: Exact Parent Hamiltonians and Routes to Realization, Guangyue Ji, Jinjie Zhang
 
 https://arxiv.org/abs/2609.25608
 https://arxiv.org/abs/2609.25732
 https://arxiv.org/abs/2609.25834
 https://arxiv.org/abs/2609.25877
 https://arxiv.org/abs/2609.25919
-https://arxiv.org/abs/2609.25922
+* https://arxiv.org/abs/2609.25922 # Fractional Quantum Geometry in Topological Mott Regime, Junyu Tang, Hongquan Lv, Gang v. Chen
 https://arxiv.org/abs/2609.26344
 https://arxiv.org/abs/2609.26373
 https://arxiv.org/abs/2609.26599
