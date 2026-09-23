@@ -19,7 +19,7 @@ https://arxiv.org/abs/2609.25919
 * https://arxiv.org/abs/2609.25922 # Fractional Quantum Geometry in Topological Mott Regime, Junyu Tang, Hongquan Lv, Gang v. Chen
 https://arxiv.org/abs/2609.26344
 https://arxiv.org/abs/2609.26373
-https://arxiv.org/abs/2609.26599
+* https://arxiv.org/abs/2609.26599 # Unraveling the Emergence of Slow Dynamics in U(1) Lattice Gauge Theories, Riccardo Andreoni, Zala Lenarcic, Zeno Bacciconi, Antonello Scardicchio, Marcello Dalmonte, Devendra Singh Bhakuni
 https://arxiv.org/abs/2609.26661
 
 https://arxiv.org/abs/2609.26703
