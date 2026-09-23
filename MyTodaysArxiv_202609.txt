@@ -24,17 +24,17 @@ https://arxiv.org/abs/2609.25753
 
 https://arxiv.org/abs/2609.25816
 https://arxiv.org/abs/2609.25929
-https://arxiv.org/abs/2609.25936
+* https://arxiv.org/abs/2609.25936 # Spin-Orbit-Mediated Magnetization Transfer in the Fermi-Hubbard Model, Jialiang Tang, Ruoqian Xu, Gloria Platero, Yue Ban, Xi Chen
 https://arxiv.org/abs/2609.25947
 https://arxiv.org/abs/2609.25992
-https://arxiv.org/abs/2609.26032
+* https://arxiv.org/abs/2609.26032 # Hyperbolic Restricted Boltzmann Machine Neural Quantum State, H. L. Dao
 https://arxiv.org/abs/2609.26362
 https://arxiv.org/abs/2609.26367
 * https://arxiv.org/abs/2609.26372 # Lattice Lindbladian simulation by patching and merging, Kaoru Mizuta
 https://arxiv.org/abs/2609.26429
 
-https://arxiv.org/abs/2609.26453
-https://arxiv.org/abs/2609.26462
+* https://arxiv.org/abs/2609.26453 # Hilbert-space fragmentation selects channels of strong-to-weak spontaneous symmetry breaking, Mingdi Xu, Kaixiang Lu, Daoguang Li, Lei Pan
+* https://arxiv.org/abs/2609.26462 # Quantum Fisher information of driven-dissipative systems from Keldysh path integrals, Malik Jirasek, Igor Lesanovsky, Viktoria Noel
 https://arxiv.org/abs/2609.26516
 https://arxiv.org/abs/2609.26548
 https://arxiv.org/abs/2609.26591
@@ -49,9 +49,9 @@ https://arxiv.org/abs/2609.26769
 https://arxiv.org/abs/2609.26788
 https://arxiv.org/abs/2609.25164
 https://arxiv.org/abs/2609.25242
-https://arxiv.org/abs/2609.25243
+* https://arxiv.org/abs/2609.25243 # Extended symmetric quantum phase in a honeycomb Heisenberg model with sublattice-selective interactions, Nai Chao Hu, Xing-Yu Zhang, Yuchi He, Nick Bultinck
 https://arxiv.org/abs/2609.25278
-https://arxiv.org/abs/2609.26544
+* https://arxiv.org/abs/2609.26544 # Neural Network Backflow with Low-Rank Multi-Determinant Updates, Tianshu Huang, Xiaowei Ou, Vidvuds Ozolins
 
 https://journals.aps.org/prb/abstract/10.1103/g35t-x778
 https://journals.aps.org/prl/abstract/10.1103/hnlr-hm29
