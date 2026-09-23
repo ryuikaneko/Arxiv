@@ -1,6 +1,6 @@
 20260923
 
-https://arxiv.org/abs/2609.25210
+* https://arxiv.org/abs/2609.25210 # Kitaev spin liquid in superconducting networks, Guilherme Delfino, Mehmet Dede, Dmitry Green, Michael J. Manfra, Charles M. Marcus, Claudio Chamon
 https://arxiv.org/abs/2609.25226
 https://arxiv.org/abs/2609.25265
 https://arxiv.org/abs/2609.25276
