@@ -1,7 +1,7 @@
 20260924
 
 https://arxiv.org/abs/2609.26916
-https://arxiv.org/abs/2609.26971
+* https://arxiv.org/abs/2609.26971 # Robust Strange Metallicity across Attractive and Repulsive Hubbard Models, Xiaoyue Ma, Emily Z. Zhang, Thomas P. Devereaux
 https://arxiv.org/abs/2609.26988
 https://arxiv.org/abs/2609.26991
 https://arxiv.org/abs/2609.27132
