@@ -48,10 +48,16 @@ https://arxiv.org/abs/2609.28387
 https://arxiv.org/abs/2609.28391
 https://arxiv.org/abs/2609.28425
 https://arxiv.org/abs/2609.10541
-https://arxiv.org/abs/2609.26881
+* https://arxiv.org/abs/2609.26881 # Fermion bag study of the two-dimensional Majorana-Hubbard model at finite hopping, Mark Johnston, Emilie Huffman
 https://arxiv.org/abs/2609.28120
 https://arxiv.org/abs/2609.28138
 https://arxiv.org/abs/2609.28237
+
+https://journals.aps.org/prb/abstract/10.1103/lbw2-1f57
+https://journals.aps.org/prb/abstract/10.1103/1s7m-xkby
+https://journals.aps.org/prb/abstract/10.1103/v1lm-c87p
+https://journals.aps.org/prb/abstract/10.1103/3jm2-nqvn
+https://journals.aps.org/prb/abstract/10.1103/2cq3-66ny
 
 
 20260923
