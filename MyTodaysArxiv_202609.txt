@@ -6,7 +6,7 @@ https://arxiv.org/abs/2609.26885
 https://arxiv.org/abs/2609.26898
 https://arxiv.org/abs/2609.26912
 https://arxiv.org/abs/2609.26936
-https://arxiv.org/abs/2609.26941
+* https://arxiv.org/abs/2609.26941 # Measurement-Only Dynamical Phase Transitions in Spin-1 Chains, Kemal Aziz, Haining Pan, J. H. Pixley
 https://arxiv.org/abs/2609.26946
 https://arxiv.org/abs/2609.26949
 https://arxiv.org/abs/2609.27053
@@ -17,10 +17,10 @@ https://arxiv.org/abs/2609.27128
 https://arxiv.org/abs/2609.27177
 https://arxiv.org/abs/2609.27181
 https://arxiv.org/abs/2609.27318
-https://arxiv.org/abs/2609.27390
+* https://arxiv.org/abs/2609.27390 # Higher-order Spatially Separated Correlations and Quantum Magic in the Long-range Transverse Field Ising Model, Pawel Cieslinski, Wieslaw Laskowski
 https://arxiv.org/abs/2609.27488
-https://arxiv.org/abs/2609.27497
-https://arxiv.org/abs/2609.27530
+* https://arxiv.org/abs/2609.27497 # Optimal low-rank compression of quantum dynamics, Hugo Mackay, Donghoon Kim, Tan Van Vu, Tomotaka Kuwahara
+* https://arxiv.org/abs/2609.27530 # Fate of average symmetry-protected topological states under symmetry-preserving quantum operations, Yoshihito Kuno, Takahiro Orito
 
 https://arxiv.org/abs/2609.27537
 https://arxiv.org/abs/2609.27565
