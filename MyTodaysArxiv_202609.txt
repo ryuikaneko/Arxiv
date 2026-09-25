@@ -1,6 +1,6 @@
 20260925
 
-https://arxiv.org/abs/2609.29817
+* https://arxiv.org/abs/2609.29817 # Observation of universal hierarchical relaxation in a quantum simulator, Jiaozi Wang, Manoj K. Joshi, Luca Capizzi, Rainer Blatt, Christian F. Roos, Leonardo Mazza, Dario Poletti
 https://arxiv.org/abs/2609.30025
 https://arxiv.org/abs/2609.30084
 https://arxiv.org/abs/2609.30109
