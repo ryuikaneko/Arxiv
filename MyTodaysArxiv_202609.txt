@@ -1,5 +1,16 @@
 20260925
 
+https://arxiv.org/abs/2609.29485
+https://arxiv.org/abs/2609.29539
+https://arxiv.org/abs/2609.29570
+https://arxiv.org/abs/2609.29752
+https://arxiv.org/abs/2609.29884
+https://arxiv.org/abs/2609.29885
+https://arxiv.org/abs/2609.29890
+https://arxiv.org/abs/2609.29917
+https://arxiv.org/abs/2609.29954
+https://arxiv.org/abs/2609.30066
+
 https://arxiv.org/abs/2609.30069
 * https://arxiv.org/abs/2609.30101 # Leg-Tied Tensor Network States: Entanglement Beyond Virtual Bonds, Shuoyi Hu, Bing Gu
 https://arxiv.org/abs/2609.30125
