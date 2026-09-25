@@ -9,7 +9,7 @@ https://arxiv.org/abs/2609.29190
 https://arxiv.org/abs/2609.29215
 https://arxiv.org/abs/2609.29263
 * https://arxiv.org/abs/2609.29400 # Thermal quasi-Devil's staircase in an anisotropic triangular-lattice Rydberg array, Jinghao Cao, Siyi Yang, Jingya Wang, Dong-Xu Liu, Zheng Yan
-https://arxiv.org/abs/2609.29728
+* https://arxiv.org/abs/2609.29728 # Exact phase diagram of the XXZ Heisenberg chain in a staggered magnetic field, H. P. Zhang, Z. Song
 
 * https://arxiv.org/abs/2609.29817 # Observation of universal hierarchical relaxation in a quantum simulator, Jiaozi Wang, Manoj K. Joshi, Luca Capizzi, Rainer Blatt, Christian F. Roos, Leonardo Mazza, Dario Poletti
 https://arxiv.org/abs/2609.30025
