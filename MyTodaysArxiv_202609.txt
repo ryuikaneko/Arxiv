@@ -9,7 +9,7 @@ https://arxiv.org/abs/2609.30162
 https://arxiv.org/abs/2609.30202
 https://arxiv.org/abs/2609.30260
 https://arxiv.org/abs/2609.28494
-https://arxiv.org/abs/2609.28623
+* https://arxiv.org/abs/2609.28623 # Observation of Universal Quantum Chaos at Shallow Depths, Arman Sauliere, Guglielmo Lami, Hugo Loio, Thomas J. Maldonado, Shashwat Kumar, Pedram Roushan, Andrea De Luca, Jacopo De Nardis
 
 https://arxiv.org/abs/2609.28625
 https://arxiv.org/abs/2609.28688
