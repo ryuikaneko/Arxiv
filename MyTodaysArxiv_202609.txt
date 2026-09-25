@@ -14,7 +14,7 @@ https://arxiv.org/abs/2609.28837
 https://arxiv.org/abs/2609.28913
 https://arxiv.org/abs/2609.28924
 https://arxiv.org/abs/2609.28968
-https://arxiv.org/abs/2609.29004
+* https://arxiv.org/abs/2609.29004 # Exact selection of a toric-code vison crystal in a flux-conditioned Kitaev model, Jiucai Wang, Chuan Chen
 https://arxiv.org/abs/2609.29026
 
 https://arxiv.org/abs/2609.29030
