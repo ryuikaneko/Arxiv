@@ -6,7 +6,7 @@ https://arxiv.org/abs/2609.28492
 https://arxiv.org/abs/2609.28493
 https://arxiv.org/abs/2609.28592
 https://arxiv.org/abs/2609.28621
-https://arxiv.org/abs/2609.28634
+* https://arxiv.org/abs/2609.28634 # Non-stabilizerness and entanglement in (2+1)-dimensional SU(2) lattice gauge theory using tensor networks, Raghav G. Jha, Jaber I. Taher, Muhammad Asaduzzaman, Goksu C. Toga, Bojko N. Bakalov, Alexander F. Kemper
 https://arxiv.org/abs/2609.28635
 https://arxiv.org/abs/2609.28657
 https://arxiv.org/abs/2609.28694
