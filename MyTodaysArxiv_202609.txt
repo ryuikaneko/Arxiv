@@ -1,10 +1,34 @@
 20260925
 
+https://arxiv.org/abs/2609.28491
+
+https://arxiv.org/abs/2609.28492
+https://arxiv.org/abs/2609.28493
+https://arxiv.org/abs/2609.28592
+https://arxiv.org/abs/2609.28621
+https://arxiv.org/abs/2609.28634
+https://arxiv.org/abs/2609.28635
+https://arxiv.org/abs/2609.28657
+https://arxiv.org/abs/2609.28694
+https://arxiv.org/abs/2609.28760
+https://arxiv.org/abs/2609.28802
+
+https://arxiv.org/abs/2609.28825
+https://arxiv.org/abs/2609.28901
+https://arxiv.org/abs/2609.28999
+https://arxiv.org/abs/2609.29098
+https://arxiv.org/abs/2609.29248
+https://arxiv.org/abs/2609.29337
+https://arxiv.org/abs/2609.29385
+https://arxiv.org/abs/2609.29388
+https://arxiv.org/abs/2609.29406
+https://arxiv.org/abs/2609.29471
+
 https://arxiv.org/abs/2609.29485
 https://arxiv.org/abs/2609.29539
 https://arxiv.org/abs/2609.29570
 https://arxiv.org/abs/2609.29752
-https://arxiv.org/abs/2609.29884
+* https://arxiv.org/abs/2609.29884 # Efficient Synthesis of Multi-Controlled Toffoli Gates with Ternary Clifford+P9 Gates, Amit Saha, Francesco Arzani
 https://arxiv.org/abs/2609.29885
 https://arxiv.org/abs/2609.29890
 https://arxiv.org/abs/2609.29917
