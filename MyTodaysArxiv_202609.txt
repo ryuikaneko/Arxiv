@@ -1,15 +1,26 @@
 20260925
 
+https://arxiv.org/abs/2609.29817
+https://arxiv.org/abs/2609.30025
+https://arxiv.org/abs/2609.30084
+https://arxiv.org/abs/2609.30109
+https://arxiv.org/abs/2609.30124
+https://arxiv.org/abs/2609.30162
+https://arxiv.org/abs/2609.30202
+https://arxiv.org/abs/2609.30260
+https://arxiv.org/abs/2609.28494
+https://arxiv.org/abs/2609.28623
+
 https://arxiv.org/abs/2609.28625
 https://arxiv.org/abs/2609.28688
-https://arxiv.org/abs/2609.28726
-https://arxiv.org/abs/2609.28743
+* https://arxiv.org/abs/2609.28726 # Associative Memory for Quantum Entangled States, Qiyuan Hu, Kartiek Agarwal, Ivar Martin
+* https://arxiv.org/abs/2609.28743 # Classical Cellular Automaton for Measurement-Only Entanglement Transitions, Will Holdhusen, Bailey Mae McAmis, Armin Rahmani
 https://arxiv.org/abs/2609.28789
 https://arxiv.org/abs/2609.29858
 https://arxiv.org/abs/2609.30142
 https://arxiv.org/abs/2609.30198
-https://arxiv.org/abs/2609.30225
-https://arxiv.org/abs/2609.30248
+* https://arxiv.org/abs/2609.30225 # Variational Multi-Gaussian Quantum Trajectories, Zejian Li, Jacopo Tosca
+* https://arxiv.org/abs/2609.30248 # Deep thermalization and Hilbert space ergodicity, Daniel K. Mark, Manuel Endres, Matteo Ippoliti, Wen Wei Ho, Soonwon Choi
 
 https://journals.aps.org/prb/abstract/10.1103/v7bq-7lm7
 https://journals.aps.org/prb/abstract/10.1103/bbzf-dzrc
