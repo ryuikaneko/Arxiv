@@ -4,7 +4,7 @@ https://arxiv.org/abs/2609.29817
 https://arxiv.org/abs/2609.30025
 https://arxiv.org/abs/2609.30084
 https://arxiv.org/abs/2609.30109
-https://arxiv.org/abs/2609.30124
+* https://arxiv.org/abs/2609.30124 # Characterizing quasiparticles in strongly correlated systems using nonlinear spectroscopy in quantum simulators, Luka Skolc (1), Utso Bhattacharya (1 and 2), Jonathan B. Curtis (1), Immanuel Bloch (3, 4 and 5), Eugene Demler (1)
 * https://arxiv.org/abs/2609.30162 # From dimensional reduction to tetramerization in mixed ferro-antiferro breathing pyrochlores, Sourin Chatterjee, Kelvin Salou-Smith, Benedikt Schneider, Imre Hagymasi, Arnaud Ralko, Johannes Reuther, Jeffrey G. Rau, Karlo Penc, Harald O. Jeschke, Ludovic D. C. Jaubert, Yasir Iqbal
 https://arxiv.org/abs/2609.30202
 https://arxiv.org/abs/2609.30260
