@@ -1,7 +1,7 @@
 20260925
 
 https://arxiv.org/abs/2609.30069
-https://arxiv.org/abs/2609.30101
+* https://arxiv.org/abs/2609.30101 # Leg-Tied Tensor Network States: Entanglement Beyond Virtual Bonds, Shuoyi Hu, Bing Gu
 https://arxiv.org/abs/2609.30125
 * https://arxiv.org/abs/2609.30148 # Proper Agnostic Learning of Matrix Product States and Tree Tensor Networks, Constantin Cedillo Vayson de Pradenne, Jordan Cotler
 https://arxiv.org/abs/2609.30149
