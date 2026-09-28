@@ -15,26 +15,25 @@ https://arxiv.org/abs/2609.31063
 * https://arxiv.org/abs/2609.31147 # Rydberg-Atom-Mediated Strong Antisymmetric Spin Exchange in Molecular Arrays, Yunqing Jiao, Jin-Zhu Jiang, Bo-Wen Guan, Jie Ma, Liantuan Xiao, Chi Zhang, Weibin Li, Feng Mei, Suotang Jia
 https://arxiv.org/abs/2609.31267
 https://arxiv.org/abs/2609.31268
-https://arxiv.org/abs/2609.31319
+* https://arxiv.org/abs/2609.31319 # Criticality enabled long-range order in a U(1)-symmetric spin-1 Heisenberg chain with biquadratic interactions, Natalia Chepiga, Fabian H.L. Essler
 https://arxiv.org/abs/2609.31375
 https://arxiv.org/abs/2609.31437
 https://arxiv.org/abs/2609.31474
-https://arxiv.org/abs/2609.30333
+* https://arxiv.org/abs/2609.30333 # Onset of random-matrix statistics in the Yukawa-Sachdev-Ye-Kitaev model: Spectral correlations and Krylov complexity, Sizheng Cao, Hyun-Sik Jeong, Yi-Li Wang
 https://arxiv.org/abs/2609.30362
 
 https://arxiv.org/abs/2609.30369
 https://arxiv.org/abs/2609.30377
-https://arxiv.org/abs/2609.30386
+* https://arxiv.org/abs/2609.30386 # Renyi Phase Transitions and Analytic Continuation to the von Neumann Entropy, Ayush Raj, Akash Vijay, Hong-Chen Jiang, Laimei Nie
 https://arxiv.org/abs/2609.30632
 https://arxiv.org/abs/2609.30754
 https://arxiv.org/abs/2609.31254
-https://arxiv.org/abs/2609.31459
+* https://arxiv.org/abs/2609.31459 # Nonstabilizerness of quantum tensor network states is intractable in two dimensions, Gianluca Esposito, Georgios Styliaris
 https://arxiv.org/abs/2609.31601
 https://arxiv.org/abs/2609.30283
 https://arxiv.org/abs/2609.30285
 
 https://arxiv.org/abs/2609.30374
-https://arxiv.org/abs/2609.30377
 
 https://journals.aps.org/pra/abstract/10.1103/yrfl-y3z8
 
