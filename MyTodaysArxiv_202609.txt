@@ -12,7 +12,7 @@ https://arxiv.org/abs/2609.30857
 https://arxiv.org/abs/2609.30866
 
 https://arxiv.org/abs/2609.31063
-https://arxiv.org/abs/2609.31147
+* https://arxiv.org/abs/2609.31147 # Rydberg-Atom-Mediated Strong Antisymmetric Spin Exchange in Molecular Arrays, Yunqing Jiao, Jin-Zhu Jiang, Bo-Wen Guan, Jie Ma, Liantuan Xiao, Chi Zhang, Weibin Li, Feng Mei, Suotang Jia
 https://arxiv.org/abs/2609.31267
 https://arxiv.org/abs/2609.31268
 https://arxiv.org/abs/2609.31319
