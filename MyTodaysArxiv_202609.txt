@@ -5,7 +5,7 @@ https://arxiv.org/abs/2609.30300
 https://arxiv.org/abs/2609.30311
 https://arxiv.org/abs/2609.30346
 https://arxiv.org/abs/2609.30363
-https://arxiv.org/abs/2609.30365
+* https://arxiv.org/abs/2609.30365 # Repulsion-Driven p-ip Superconductivity in a Single Valley Revealed by DMRG, Cesar A. Gallegos, Omid Tavakol, Christopher Yang, Steven R. White, Thomas Scaffidi
 https://arxiv.org/abs/2609.30518
 https://arxiv.org/abs/2609.30596
 https://arxiv.org/abs/2609.30857
