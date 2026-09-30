@@ -1,5 +1,27 @@
 20260929
 
+https://arxiv.org/abs/2609.34200
+https://arxiv.org/abs/2609.34255
+https://arxiv.org/abs/2609.34293
+https://arxiv.org/abs/2609.34532
+https://arxiv.org/abs/2609.34699
+https://arxiv.org/abs/2609.34774
+https://arxiv.org/abs/2609.34793
+https://arxiv.org/abs/2609.35016
+https://arxiv.org/abs/2609.35112
+https://arxiv.org/abs/2609.35114
+
+https://arxiv.org/abs/2609.35129
+https://arxiv.org/abs/2609.35131
+https://arxiv.org/abs/2609.35159
+https://arxiv.org/abs/2609.35239
+https://arxiv.org/abs/2609.35265
+https://arxiv.org/abs/2609.35447
+https://arxiv.org/abs/2609.35489
+https://arxiv.org/abs/2609.35535
+https://arxiv.org/abs/2609.35547
+https://arxiv.org/abs/2609.35660
+
 https://arxiv.org/abs/2609.34248
 * https://arxiv.org/abs/2609.34623 # Trotterisation Thresholds and Dissipative Quantum Chaos in Open-System Digital Quantum Simulation, Angsar Manatuly, Lukas M. Sieberer, Cahit Kargi, Nathan K. Langford
 https://arxiv.org/abs/2609.35377
