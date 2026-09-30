@@ -6,7 +6,7 @@ https://arxiv.org/abs/2609.31920
 https://arxiv.org/abs/2609.31895
 https://arxiv.org/abs/2609.32059
 https://arxiv.org/abs/2609.32266
-https://arxiv.org/abs/2609.32633
+* https://arxiv.org/abs/2609.32633 # GEM: An implementation of the ghost-Gutzwiller approximation for simulating interacting quantum systems, Samuele Giuli, Tsung-Han Lee, Yong-Xin Yao, Ina Park, Harrison LaBollita, Ivan Pasqua, Nicola Lanata, Olivier Gingras
 https://arxiv.org/abs/2609.32768
 https://arxiv.org/abs/2609.33046
 https://arxiv.org/abs/2609.33275
