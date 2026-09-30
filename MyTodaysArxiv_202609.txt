@@ -6,7 +6,7 @@ https://arxiv.org/abs/2609.31858
 https://arxiv.org/abs/2609.33193
 https://arxiv.org/abs/2609.34402
 https://arxiv.org/abs/2609.31841
-https://arxiv.org/abs/2609.31853
+* https://arxiv.org/abs/2609.31853 # Quantum Fisher Information as the Speed Limit for Multipartite Entanglement, Zain H. Saleem, Da-Wei Luo, Anjala M. Babu, Ting Yu, Stephen K. Gray, Anil Shaji
 https://arxiv.org/abs/2609.31902
 https://arxiv.org/abs/2609.31977
 https://arxiv.org/abs/2609.32024
