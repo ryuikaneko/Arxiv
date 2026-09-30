@@ -14,7 +14,7 @@ https://arxiv.org/abs/2609.35114
 https://arxiv.org/abs/2609.35129
 https://arxiv.org/abs/2609.35131
 https://arxiv.org/abs/2609.35159
-https://arxiv.org/abs/2609.35239
+* https://arxiv.org/abs/2609.35239 # Computational Complexity of Clifford Template Compilation: Are Quantum Computers Useful for Compiling Quantum Circuits?, Keisuke Fujii
 https://arxiv.org/abs/2609.35265
 https://arxiv.org/abs/2609.35447
 https://arxiv.org/abs/2609.35489
