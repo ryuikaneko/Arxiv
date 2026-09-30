@@ -1,5 +1,16 @@
 20260929
 
+https://arxiv.org/abs/2609.31830
+https://arxiv.org/abs/2609.31867
+https://arxiv.org/abs/2609.31934
+https://arxiv.org/abs/2609.32710
+https://arxiv.org/abs/2609.33389
+https://arxiv.org/abs/2609.33574
+https://arxiv.org/abs/2609.33576
+https://arxiv.org/abs/2609.33617
+https://arxiv.org/abs/2609.33975
+https://arxiv.org/abs/2609.34119
+
 https://arxiv.org/abs/2609.35014
 * https://arxiv.org/abs/2609.35178 # t-J model at 50, Jozef Spalek
 * https://arxiv.org/abs/2609.35230 # Exact probability distributions of complex spacing ratios in non-Hermitian random matrices, Kohei Kawabata
