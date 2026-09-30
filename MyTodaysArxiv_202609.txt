@@ -1,5 +1,16 @@
 20260929
 
+https://arxiv.org/abs/2609.35014
+* https://arxiv.org/abs/2609.35178 # t-J model at 50, Jozef Spalek
+https://arxiv.org/abs/2609.35230
+https://arxiv.org/abs/2609.35485
+https://arxiv.org/abs/2609.35582
+https://arxiv.org/abs/2609.35602
+https://arxiv.org/abs/2609.35687
+https://arxiv.org/abs/2609.35696
+https://arxiv.org/abs/2609.35754
+https://arxiv.org/abs/2609.29902
+
 https://arxiv.org/abs/2609.33361
 * https://arxiv.org/abs/2609.33568 # Generalized eta-pairing eigenstates in three-component Hubbard models under a transverse field, F. X. Liu, Z. Song
 https://arxiv.org/abs/2609.33724
