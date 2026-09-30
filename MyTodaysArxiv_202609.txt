@@ -1,5 +1,11 @@
 20260929
 
+https://arxiv.org/abs/2609.34248
+https://arxiv.org/abs/2609.34623
+https://arxiv.org/abs/2609.35377
+https://arxiv.org/abs/2609.35484
+https://arxiv.org/abs/2609.35635
+
 * https://arxiv.org/abs/2609.31830 # Probing the classical complexity of quantum dynamics experiments, Thomas Schuster, Andreas Elben
 https://arxiv.org/abs/2609.31867
 https://arxiv.org/abs/2609.31934
