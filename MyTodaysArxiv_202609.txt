@@ -3,10 +3,10 @@
 https://arxiv.org/abs/2609.36639
 https://arxiv.org/abs/2609.36711
 https://arxiv.org/abs/2609.36981
-https://arxiv.org/abs/2609.37325
-https://arxiv.org/abs/2609.37479
+* https://arxiv.org/abs/2609.37325 # Boundary Condition dependent Universality Classes on a Hyperbolic Lattice, Pallabi Dey, Debasish Banerjee, Arnab Kundu, Ritam Sinha
+* https://arxiv.org/abs/2609.37479 # Vertical and reentrant ferromagnetic boundaries below the Nishimori point, Yan Ru Pei
 https://arxiv.org/abs/2609.37571
-https://arxiv.org/abs/2609.37766
+* https://arxiv.org/abs/2609.37766 # Spin-exchange interactions between circular Rydberg atoms over long times, Andres Duran-Hernandez, Gautier Creutzer, Aurore Alice Young, Abderrahmane Kassid, Yohann Machu, Jean-Michel Raimond, Michel Brune, Clement Sayrin
 https://arxiv.org/abs/2609.37957
 https://arxiv.org/abs/2609.38017
 https://arxiv.org/abs/2609.38074
