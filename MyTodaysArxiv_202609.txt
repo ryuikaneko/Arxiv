@@ -8,7 +8,7 @@ https://arxiv.org/abs/2609.35582
 https://arxiv.org/abs/2609.35602
 https://arxiv.org/abs/2609.35687
 https://arxiv.org/abs/2609.35696
-https://arxiv.org/abs/2609.35754
+* https://arxiv.org/abs/2609.35754 # Perfect Born Sampling of Symmetric Thermal Tensor Network for Quantum Lattice Models, Jianxin Gao, Qiaoyi Li, Yuan Gao, Chuanshu Xu, Guoliang Wu, Su Yi, Bin-Bin Chen, Wei Li
 https://arxiv.org/abs/2609.29902
 
 https://arxiv.org/abs/2609.33361
