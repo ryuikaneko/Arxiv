@@ -1,5 +1,16 @@
 20260930
 
+https://arxiv.org/abs/2609.38088
+https://arxiv.org/abs/2609.38150
+https://arxiv.org/abs/2609.35973
+https://arxiv.org/abs/2609.35982
+https://arxiv.org/abs/2609.36004
+https://arxiv.org/abs/2609.36006
+https://arxiv.org/abs/2609.36008
+https://arxiv.org/abs/2609.36029
+https://arxiv.org/abs/2609.36113
+* https://arxiv.org/abs/2609.36542 # Emergent Symmetries in Ensemble Averages, Masahito Yamazaki
+
 https://arxiv.org/abs/2609.36639
 https://arxiv.org/abs/2609.36711
 https://arxiv.org/abs/2609.36981
