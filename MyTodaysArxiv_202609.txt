@@ -7,9 +7,9 @@ https://arxiv.org/abs/2609.31895
 https://arxiv.org/abs/2609.32059
 https://arxiv.org/abs/2609.32266
 * https://arxiv.org/abs/2609.32633 # GEM: An implementation of the ghost-Gutzwiller approximation for simulating interacting quantum systems, Samuele Giuli, Tsung-Han Lee, Yong-Xin Yao, Ina Park, Harrison LaBollita, Ivan Pasqua, Nicola Lanata, Olivier Gingras
-https://arxiv.org/abs/2609.32768
+* https://arxiv.org/abs/2609.32768 # Trimers, pairs and localisation on disordered random graphs, Alexei Vazquez
 https://arxiv.org/abs/2609.33046
-https://arxiv.org/abs/2609.33275
+* https://arxiv.org/abs/2609.33275 # Mobile-impurity dynamics in a non-Hermitian Stark-localised bath, Muhammad S. Hasan, Hsiang-Hua Jen, Jhih-Shih You
 
 https://journals.aps.org/prl/abstract/10.1103/h98c-37gv
 https://journals.aps.org/pra/abstract/10.1103/81zs-jht1
