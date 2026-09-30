@@ -1,7 +1,7 @@
 20260929
 
 https://arxiv.org/abs/2609.34248
-https://arxiv.org/abs/2609.34623
+* https://arxiv.org/abs/2609.34623 # Trotterisation Thresholds and Dissipative Quantum Chaos in Open-System Digital Quantum Simulation, Angsar Manatuly, Lukas M. Sieberer, Cahit Kargi, Nathan K. Langford
 https://arxiv.org/abs/2609.35377
 https://arxiv.org/abs/2609.35484
 https://arxiv.org/abs/2609.35635
