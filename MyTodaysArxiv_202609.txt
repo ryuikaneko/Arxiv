@@ -1,7 +1,7 @@
 20260929
 
 https://arxiv.org/abs/2609.33361
-https://arxiv.org/abs/2609.33568
+* https://arxiv.org/abs/2609.33568 # Generalized eta-pairing eigenstates in three-component Hubbard models under a transverse field, F. X. Liu, Z. Song
 https://arxiv.org/abs/2609.33724
 https://arxiv.org/abs/2609.33823
 https://arxiv.org/abs/2609.34128
