@@ -22,7 +22,7 @@ https://arxiv.org/abs/2609.37095
 https://arxiv.org/abs/2609.37101
 https://arxiv.org/abs/2609.37136
 
-https://arxiv.org/abs/2609.37199
+* https://arxiv.org/abs/2609.37199 # Encoding universal quantum computation into quantized Berry phases: Hardness results and classical algorithms, Kazuki Sakamoto, Keisuke Fujii
 https://arxiv.org/abs/2609.37206
 https://arxiv.org/abs/2609.37210
 https://arxiv.org/abs/2609.37318
