@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2609.36446
 https://arxiv.org/abs/2609.36450
-https://arxiv.org/abs/2609.36554
+* https://arxiv.org/abs/2609.36554 # Multicomponent anyons in one-dimensional optical lattices, Sagarika Basak, Xi-Wen Guan, Han Pu
 * https://arxiv.org/abs/2609.36555 # Generalized Effective Spin-Chain formalism for multicomponent anyons in one-dimensional optical lattices, Sagarika Basak, Xi-Wen Guan, Han Pu
 https://arxiv.org/abs/2609.36606
 https://arxiv.org/abs/2609.36664
