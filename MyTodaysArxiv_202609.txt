@@ -1,7 +1,18 @@
 20260930
 
-https://arxiv.org/abs/2609.38088
-https://arxiv.org/abs/2609.38150
+https://arxiv.org/abs/2609.37275
+https://arxiv.org/abs/2609.37436
+https://arxiv.org/abs/2609.37512
+https://arxiv.org/abs/2609.37592
+https://arxiv.org/abs/2609.37763
+https://arxiv.org/abs/2609.37812
+https://arxiv.org/abs/2609.37965
+https://arxiv.org/abs/2609.38003
+* https://arxiv.org/abs/2609.38015 # Variational Monte Carlo for the Hubbard model, Luca F. Tocchio
+* https://arxiv.org/abs/2609.38071 # 3/8 charge-density wave instability in the kagome metal CsV3Sb5, Luca Buiarelli, Hyeonseo H. Park, Ethan T. Ritz, Rafael M. Fernandes, Turan Birol
+
+* https://arxiv.org/abs/2609.38088 # Boundary Criticality in (2+1)-dimensional U(1) Dirac Quantum Spin Liquid, Huan Jiang, Zhiming Pan, Xue-Jia Yu, Shao-Kai Jian
+* https://arxiv.org/abs/2609.38150 # Neural-quantum-state based downfolding of the three-band Emery model for cuprates and nickelates, Hannah Lange, Julius F. A. Tirpitz, Annabelle Bohrdt
 * https://arxiv.org/abs/2609.35973 # One-dimensional quantum Gibbs states in constant circuit depth, Saul Pilatowsky-Cameo, Georgios Styliaris, Ainesh Bakshi, Daniel Malz
 https://arxiv.org/abs/2609.35982
 https://arxiv.org/abs/2609.36004
