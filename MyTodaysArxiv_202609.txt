@@ -3,12 +3,12 @@
 https://arxiv.org/abs/2609.36446
 https://arxiv.org/abs/2609.36450
 https://arxiv.org/abs/2609.36554
-https://arxiv.org/abs/2609.36555
+* https://arxiv.org/abs/2609.36555 # Generalized Effective Spin-Chain formalism for multicomponent anyons in one-dimensional optical lattices, Sagarika Basak, Xi-Wen Guan, Han Pu
 https://arxiv.org/abs/2609.36606
 https://arxiv.org/abs/2609.36664
 https://arxiv.org/abs/2609.36846
 https://arxiv.org/abs/2609.36886
-https://arxiv.org/abs/2609.36936
+* https://arxiv.org/abs/2609.36936 # Ergodicity in a hole-dopped Anderson spin insulator, M. S. Bahovadinov, A. A. Markov, G. V. Shlyapnikov
 https://arxiv.org/abs/2609.36955
 
 https://arxiv.org/abs/2609.36962
