@@ -1,7 +1,7 @@
 20260930
 
 https://arxiv.org/abs/2609.36027
-https://arxiv.org/abs/2609.36051
+* https://arxiv.org/abs/2609.36051 # Excitonic Stripe Order in the Two-Orbital Hubbard-Kanamori Model, Rafael D. Soares, Luke Staszewski, Chunhan Feng, Alexander Wietek
 https://arxiv.org/abs/2609.36084
 https://arxiv.org/abs/2609.36100
 * https://arxiv.org/abs/2609.36140 # Magnetic excitations of the strongly-anisotropic triangular XXZ model: a projected spin-product state approach, Achille Mauri, Frederic Mila
