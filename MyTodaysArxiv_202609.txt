@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2609.38088
 https://arxiv.org/abs/2609.38150
-https://arxiv.org/abs/2609.35973
+* https://arxiv.org/abs/2609.35973 # One-dimensional quantum Gibbs states in constant circuit depth, Saul Pilatowsky-Cameo, Georgios Styliaris, Ainesh Bakshi, Daniel Malz
 https://arxiv.org/abs/2609.35982
 https://arxiv.org/abs/2609.36004
 https://arxiv.org/abs/2609.36006
