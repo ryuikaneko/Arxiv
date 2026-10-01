@@ -14,7 +14,7 @@ https://arxiv.org/abs/2609.36273
 https://arxiv.org/abs/2609.36464
 https://arxiv.org/abs/2609.36479
 https://arxiv.org/abs/2609.36480
-https://arxiv.org/abs/2609.36694
+* https://arxiv.org/abs/2609.36694 # Optimized Randomized Hamiltonian Simulation via Average-Error Analysis, Hayata Morisaki, Keisuke Fujii
 https://arxiv.org/abs/2609.36861
 https://arxiv.org/abs/2609.36901
 https://arxiv.org/abs/2609.36908
