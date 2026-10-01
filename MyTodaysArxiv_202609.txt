@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2609.37275
 https://arxiv.org/abs/2609.37436
-https://arxiv.org/abs/2609.37512
+* https://arxiv.org/abs/2609.37512 # Exact anomalous current fluctuations in the strong-anisotropy limit of the XXZ chain, Taiki Ishiyama, Taiga Kurose, Kazuya Fujimoto, Tomohiro Sasamoto
 https://arxiv.org/abs/2609.37592
 https://arxiv.org/abs/2609.37763
 https://arxiv.org/abs/2609.37812
