@@ -9,7 +9,7 @@ https://arxiv.org/abs/2609.37058
 https://arxiv.org/abs/2609.37059
 https://arxiv.org/abs/2609.37106
 https://arxiv.org/abs/2609.37174
-https://arxiv.org/abs/2609.37191
+* https://arxiv.org/abs/2609.37191 # Uniform-Charge-Density d-Wave Superconductivity in the Pure t-J Model at 1/8 Doping on an Infinite Cylinder, Guangyu Yu, Zheng Zhu
 
 https://arxiv.org/abs/2609.37275
 https://arxiv.org/abs/2609.37436
