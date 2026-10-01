@@ -1,5 +1,16 @@
 20260930
 
+https://arxiv.org/abs/2609.36027
+https://arxiv.org/abs/2609.36051
+https://arxiv.org/abs/2609.36084
+https://arxiv.org/abs/2609.36100
+https://arxiv.org/abs/2609.36140
+https://arxiv.org/abs/2609.36248
+https://arxiv.org/abs/2609.36261
+https://arxiv.org/abs/2609.36317
+https://arxiv.org/abs/2609.36353
+https://arxiv.org/abs/2609.36356
+
 * https://arxiv.org/abs/2609.36446 # Localization Transition in Kinetically Deformed one-dimensional Aubry-Andre Model, Arpita Goswami
 https://arxiv.org/abs/2609.36450
 * https://arxiv.org/abs/2609.36554 # Multicomponent anyons in one-dimensional optical lattices, Sagarika Basak, Xi-Wen Guan, Han Pu
