@@ -1,7 +1,7 @@
 20260930
 
 https://arxiv.org/abs/2609.35838
-https://arxiv.org/abs/2609.35940
+* https://arxiv.org/abs/2609.35940 # Discrete Scale Invariance of Ising Mesons, Denis V. Vasilyev, Abbas Ali Saberi
 https://arxiv.org/abs/2609.35960
 https://arxiv.org/abs/2609.35977
 
