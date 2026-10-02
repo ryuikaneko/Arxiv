@@ -44,6 +44,17 @@ https://arxiv.org/abs/2609.39916
 https://arxiv.org/abs/2609.39922
 https://arxiv.org/abs/2609.39935
 
+https://arxiv.org/abs/2609.39949
+https://arxiv.org/abs/2609.39959
+https://arxiv.org/abs/2609.39962
+https://arxiv.org/abs/2609.39994
+https://arxiv.org/abs/2609.40026
+https://arxiv.org/abs/2609.40080
+https://arxiv.org/abs/2609.40100
+https://arxiv.org/abs/2609.40128
+https://arxiv.org/abs/2609.40164
+https://arxiv.org/abs/2609.40167
+
 * https://arxiv.org/abs/2609.38581 # Theory of criticality-enabled U(1) symmetry breaking in a class of 1+1D systems, E. S. Andriyakhina, A. S. Shankar, T. Senthil, Z. D. Shi
 https://arxiv.org/abs/2609.38624
 * https://arxiv.org/abs/2609.38740 # Sign problem and criticality in world-line quantum Monte Carlo methods, Rubem Mondaini, Richard T. Scalettar
