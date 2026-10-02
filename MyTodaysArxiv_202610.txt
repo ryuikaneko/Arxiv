@@ -4,7 +4,7 @@ https://arxiv.org/abs/2609.39258
 https://arxiv.org/abs/2609.39267
 https://arxiv.org/abs/2609.39401
 https://arxiv.org/abs/2609.39404
-https://arxiv.org/abs/2609.39418
+* https://arxiv.org/abs/2609.39418 # Weyl superconductivity from Feshbach resonance in the three-dimensional repulsive Hubbard model, Taekyoung Kim, Pit Bermes, Giorgia A. Busin, Fabian Grusdt
 https://arxiv.org/abs/2609.39461
 https://arxiv.org/abs/2609.39500
 https://arxiv.org/abs/2609.39612
