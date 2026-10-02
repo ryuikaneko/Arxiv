@@ -1,7 +1,7 @@
 20261001
 
 https://arxiv.org/abs/2609.39084
-https://arxiv.org/abs/2609.39458
+* https://arxiv.org/abs/2609.39458 # Optimal Scaling of Unitary Design Formation in U(1)-Symmetric Random Circuits: A Bottleneck Slower than Charge Transport, Toshihiro Yada
 https://arxiv.org/abs/2609.39462
 https://arxiv.org/abs/2609.39475
 https://arxiv.org/abs/2609.39528
