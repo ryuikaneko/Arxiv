@@ -46,7 +46,7 @@ https://arxiv.org/abs/2609.39935
 
 https://arxiv.org/abs/2609.39949
 https://arxiv.org/abs/2609.39959
-https://arxiv.org/abs/2609.39962
+* https://arxiv.org/abs/2609.39962 # Quantum Algorithms for Computational Fluid Dynamics
 https://arxiv.org/abs/2609.39994
 * https://arxiv.org/abs/2609.40026 # Measurement-induced dynamics and emergent symmetries of particles moving in a one-dimensional lattice, Salvatore Di Lorenzo, Klaus Molmer
 https://arxiv.org/abs/2609.40080
