@@ -11,15 +11,15 @@ https://arxiv.org/abs/2609.39612
 https://arxiv.org/abs/2609.39986
 https://arxiv.org/abs/2609.40002
 
-https://arxiv.org/abs/2609.40004
+* https://arxiv.org/abs/2609.40004 # Many-body topology in parity-preserving tensor networks, Maksimilian Usoltcev, Nguyen Hanh Dung, Carolin Wille, Matteo Rizzi, Alexander Altland
 https://arxiv.org/abs/2609.40009
 https://arxiv.org/abs/2609.40053
 https://arxiv.org/abs/2609.40065
 https://arxiv.org/abs/2609.40110
 https://arxiv.org/abs/2609.40139
 https://arxiv.org/abs/2609.40150
-https://arxiv.org/abs/2609.40209
-https://arxiv.org/abs/2609.38300
+* https://arxiv.org/abs/2609.40209 # Designing Strongly Correlated Quantum Phases of Matter with Foundation Neural-Network Quantum States, Alessandro Sinibaldi, Luciano Loris Viteritti, Riccardo Rende, Federico Becca, Giuseppe Carleo
+* https://arxiv.org/abs/2609.38300 # Exact Operator Complexity Measures from Random Matchgate Unitaries, Gregory A. L. White, Jens Eisert, Neil Dowling
 https://arxiv.org/abs/2609.38943
 
 https://arxiv.org/abs/2609.39084
