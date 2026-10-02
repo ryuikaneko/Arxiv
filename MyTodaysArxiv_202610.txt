@@ -1,6 +1,6 @@
 20261001
 
-https://arxiv.org/abs/2609.39258
+* https://arxiv.org/abs/2609.39258 # Multipartite entanglement hidden in vector-chiral correlations of spin-1/2 chains, Tokuro Shimokawa
 * https://arxiv.org/abs/2609.39267 # Logarithmic Quasi-Long-Range Order and Novel Continuous Phase Transition in the Two-Dimensional XY Model with 1/r4 Interaction, Xianzhi Pan, Zhijie Fan, Youjin Deng
 * https://arxiv.org/abs/2609.39401 # Square-root growth of operator entanglement in an integrable brickwork circuit, Balazs Pozsgay
 * https://arxiv.org/abs/2609.39404 # Chiral quantum chaos around exponentially many zero modes in the quantum breakdown model, Kohei Kawabata, Kinya Guan, Hosho Katsura
