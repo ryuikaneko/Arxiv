@@ -1,6 +1,6 @@
 20261001
 
-https://arxiv.org/abs/2609.38319
+* https://arxiv.org/abs/2609.38319 # When Symmetry Suppresses Magic, A. de Oliveira Junior, Jake Xuereb, Rafael A. Macedo, Jonatan Bohr Brask, Rafael Chaves
 https://arxiv.org/abs/2609.38352
 https://arxiv.org/abs/2609.38403
 https://arxiv.org/abs/2609.38513
@@ -10,6 +10,17 @@ https://arxiv.org/abs/2609.38736
 https://arxiv.org/abs/2609.38738
 https://arxiv.org/abs/2609.38775
 https://arxiv.org/abs/2609.38779
+
+https://arxiv.org/abs/2609.38800
+https://arxiv.org/abs/2609.38882
+https://arxiv.org/abs/2609.38939
+https://arxiv.org/abs/2609.38957
+https://arxiv.org/abs/2609.38986
+https://arxiv.org/abs/2609.39016
+https://arxiv.org/abs/2609.39113
+https://arxiv.org/abs/2609.39126
+https://arxiv.org/abs/2609.39141
+https://arxiv.org/abs/2609.39226
 
 * https://arxiv.org/abs/2609.38581 # Theory of criticality-enabled U(1) symmetry breaking in a class of 1+1D systems, E. S. Andriyakhina, A. S. Shankar, T. Senthil, Z. D. Shi
 https://arxiv.org/abs/2609.38624
