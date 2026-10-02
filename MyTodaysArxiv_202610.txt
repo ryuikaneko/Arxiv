@@ -48,7 +48,7 @@ https://arxiv.org/abs/2609.39949
 https://arxiv.org/abs/2609.39959
 https://arxiv.org/abs/2609.39962
 https://arxiv.org/abs/2609.39994
-https://arxiv.org/abs/2609.40026
+* https://arxiv.org/abs/2609.40026 # Measurement-induced dynamics and emergent symmetries of particles moving in a one-dimensional lattice, Salvatore Di Lorenzo, Klaus Molmer
 https://arxiv.org/abs/2609.40080
 https://arxiv.org/abs/2609.40100
 https://arxiv.org/abs/2609.40128
