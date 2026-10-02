@@ -9,7 +9,7 @@ https://arxiv.org/abs/2609.39686
 https://arxiv.org/abs/2609.40032
 https://arxiv.org/abs/2609.40174
 https://arxiv.org/abs/2609.40345
-https://arxiv.org/abs/2609.40349
+* https://arxiv.org/abs/2609.40349 # Efficient Calculation of Equilibrium Correlation Functions, Yizhi Shen, Roel Van Beeumen, Wibe A. de Jong, Efekan Koekcue
 
 https://journals.aps.org/pre/abstract/10.1103/879z-638m
 https://journals.aps.org/prl/abstract/10.1103/392k-bgpt
