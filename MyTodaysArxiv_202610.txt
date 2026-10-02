@@ -2,8 +2,8 @@
 
 https://arxiv.org/abs/2609.39258
 https://arxiv.org/abs/2609.39267
-https://arxiv.org/abs/2609.39401
-https://arxiv.org/abs/2609.39404
+* https://arxiv.org/abs/2609.39401 # Square-root growth of operator entanglement in an integrable brickwork circuit, Balazs Pozsgay
+* https://arxiv.org/abs/2609.39404 # Chiral quantum chaos around exponentially many zero modes in the quantum breakdown model, Kohei Kawabata, Kinya Guan, Hosho Katsura
 * https://arxiv.org/abs/2609.39418 # Weyl superconductivity from Feshbach resonance in the three-dimensional repulsive Hubbard model, Taekyoung Kim, Pit Bermes, Giorgia A. Busin, Fabian Grusdt
 https://arxiv.org/abs/2609.39461
 https://arxiv.org/abs/2609.39500
