@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2609.38581
 https://arxiv.org/abs/2609.38624
 https://arxiv.org/abs/2609.38740
-https://arxiv.org/abs/2609.38790
+* https://arxiv.org/abs/2609.38790 # Synchronous Monte Carlo method and its application to a mean-field spin glass model, Yoshiyuki Kabashima
 https://arxiv.org/abs/2609.38825
 * https://arxiv.org/abs/2609.38848 # Quantum quenches of scar states in the Affleck-Kennedy-Lieb-Tasaki model via Clifford augmented tensor network simulation, Azar C. Nakhl, Ben Harper, Muhammad Usman, Thomas Quella
 * https://arxiv.org/abs/2609.38973 # Eigenstate thermalization at the edge of the many-body spectrum, Arnav Pushkar, Pranay Patil, Soumya Bera, Masaki Tezuka, Sumiran Pujari
