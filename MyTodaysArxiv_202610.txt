@@ -1,6 +1,6 @@
 20261001
 
-https://arxiv.org/abs/2609.38581
+* https://arxiv.org/abs/2609.38581 # Theory of criticality-enabled U(1) symmetry breaking in a class of 1+1D systems, E. S. Andriyakhina, A. S. Shankar, T. Senthil, Z. D. Shi
 https://arxiv.org/abs/2609.38624
 * https://arxiv.org/abs/2609.38740 # Sign problem and criticality in world-line quantum Monte Carlo methods, Rubem Mondaini, Richard T. Scalettar
 * https://arxiv.org/abs/2609.38790 # Synchronous Monte Carlo method and its application to a mean-field spin glass model, Yoshiyuki Kabashima
