@@ -59,7 +59,7 @@ https://arxiv.org/abs/2609.40172
 https://arxiv.org/abs/2609.40173
 https://arxiv.org/abs/2609.40179
 https://arxiv.org/abs/2609.40182
-https://arxiv.org/abs/2609.40187
+* https://arxiv.org/abs/2609.40187 # Fast classical simulation algorithms for free-fermion dynamics with magic input, Jiwon Heo, Oliver Reardon-Smith, Michal Oszmaniec, Zoltan Zimboras, Changhun Oh
 https://arxiv.org/abs/2609.40214
 https://arxiv.org/abs/2609.40215
 https://arxiv.org/abs/2609.40223
