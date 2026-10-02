@@ -25,13 +25,24 @@ https://arxiv.org/abs/2609.39226
 https://arxiv.org/abs/2609.39234
 https://arxiv.org/abs/2609.39302
 https://arxiv.org/abs/2609.39328
-https://arxiv.org/abs/2609.39372
+* https://arxiv.org/abs/2609.39372 # Efficient Learning of Fermionic Magic States under Free-Fermion Evolution, Jiwon Heo, Myeongjin Shin, Changhun Oh
 https://arxiv.org/abs/2609.39411
 https://arxiv.org/abs/2609.39448
 https://arxiv.org/abs/2609.39452
 https://arxiv.org/abs/2609.39556
 https://arxiv.org/abs/2609.39592
 https://arxiv.org/abs/2609.39690
+
+https://arxiv.org/abs/2609.39734
+https://arxiv.org/abs/2609.39764
+https://arxiv.org/abs/2609.39802
+https://arxiv.org/abs/2609.39821
+https://arxiv.org/abs/2609.39831
+https://arxiv.org/abs/2609.39857
+https://arxiv.org/abs/2609.39879
+https://arxiv.org/abs/2609.39916
+https://arxiv.org/abs/2609.39922
+https://arxiv.org/abs/2609.39935
 
 * https://arxiv.org/abs/2609.38581 # Theory of criticality-enabled U(1) symmetry breaking in a class of 1+1D systems, E. S. Andriyakhina, A. S. Shankar, T. Senthil, Z. D. Shi
 https://arxiv.org/abs/2609.38624
