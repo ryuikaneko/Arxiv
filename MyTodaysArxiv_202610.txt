@@ -1,5 +1,27 @@
 20261002
 
+https://arxiv.org/abs/2610.01163
+https://arxiv.org/abs/2610.01167
+https://arxiv.org/abs/2610.01190
+https://arxiv.org/abs/2610.01209
+https://arxiv.org/abs/2610.01327
+https://arxiv.org/abs/2610.01394
+https://arxiv.org/abs/2610.01417
+https://arxiv.org/abs/2610.01466
+https://arxiv.org/abs/2610.01549
+https://arxiv.org/abs/2610.01555
+
+https://arxiv.org/abs/2610.01574
+https://arxiv.org/abs/2610.01669
+https://arxiv.org/abs/2610.01683
+https://arxiv.org/abs/2610.01684
+https://arxiv.org/abs/2610.01703
+https://arxiv.org/abs/2610.01704
+https://arxiv.org/abs/2610.01772
+https://arxiv.org/abs/2610.01824
+https://arxiv.org/abs/2610.01839
+https://arxiv.org/abs/2610.01848
+
 * https://arxiv.org/abs/2610.01860 # Approximation theorems for fermionic Gaussian states, Amir-Reza Negari, Farzin Salek, Zoltan Zimboras, Aram Harrow, Patrick Hayden, Jens Eisert
 https://arxiv.org/abs/2610.01874
 https://arxiv.org/abs/2610.01878
