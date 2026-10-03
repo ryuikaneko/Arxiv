@@ -9,7 +9,7 @@ https://arxiv.org/abs/2610.01394
 https://arxiv.org/abs/2610.01417
 https://arxiv.org/abs/2610.01466
 https://arxiv.org/abs/2610.01549
-https://arxiv.org/abs/2610.01555
+* https://arxiv.org/abs/2610.01555 # Efficient certification of time-reversal symmetry requires entanglement, Zhenhuan Liu, Zhenyu Du, Yifan Tang, Zi-Wen Liu, Jens Eisert, Ingo Roth
 
 https://arxiv.org/abs/2610.01574
 https://arxiv.org/abs/2610.01669
