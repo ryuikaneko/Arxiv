@@ -1,6 +1,6 @@
 20261002
 
-https://arxiv.org/abs/2610.01860
+* https://arxiv.org/abs/2610.01860 # Approximation theorems for fermionic Gaussian states, Amir-Reza Negari, Farzin Salek, Zoltan Zimboras, Aram Harrow, Patrick Hayden, Jens Eisert
 https://arxiv.org/abs/2610.01874
 https://arxiv.org/abs/2610.01878
 https://arxiv.org/abs/2610.01902
