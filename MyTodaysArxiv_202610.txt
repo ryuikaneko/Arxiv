@@ -1,3 +1,17 @@
+20261002
+
+https://arxiv.org/abs/2610.02176
+https://arxiv.org/abs/2610.02178
+https://arxiv.org/abs/2610.02183
+https://arxiv.org/abs/2610.00112
+https://arxiv.org/abs/2610.00474
+https://arxiv.org/abs/2610.00478
+https://arxiv.org/abs/2610.00826
+https://arxiv.org/abs/2610.01253
+https://arxiv.org/abs/2610.01402
+https://arxiv.org/abs/2610.01862
+
+
 20261001
 
 * https://arxiv.org/abs/2609.38319 # When Symmetry Suppresses Magic, A. de Oliveira Junior, Jake Xuereb, Rafael A. Macedo, Jonatan Bohr Brask, Rafael Chaves
