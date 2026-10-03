@@ -18,7 +18,7 @@ https://arxiv.org/abs/2610.01176
 https://arxiv.org/abs/2610.01414
 https://arxiv.org/abs/2610.01659
 https://arxiv.org/abs/2610.01757
-https://arxiv.org/abs/2610.02006
+* https://arxiv.org/abs/2610.02006 # Magnetic Phase Diagrams and Spin Hamiltonian of Monoclinic alpha-RuCl3 from Angle-Dependent Torque Studies, Daniel Antoniou, Danrui Ni, John S. Pearce, Robert J. Cava, Amalia I. Coldea, Radu Coldea
 https://arxiv.org/abs/2610.00011
 https://arxiv.org/abs/2610.00304
 
