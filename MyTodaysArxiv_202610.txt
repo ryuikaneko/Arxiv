@@ -1,15 +1,15 @@
 20261002
 
-https://arxiv.org/abs/2610.02176
-* https://arxiv.org/abs/2610.02178 # Learning SYK Hamiltonians, Anurag Anshu, Srinivasan Arunachalam, Sitan Chen, Yeongwoo Hwang
-https://arxiv.org/abs/2610.02183
-https://arxiv.org/abs/2610.00112
-* https://arxiv.org/abs/2610.00474 # Algebraic Relaxation of Strong-to-Weak Symmetry-Breaking Order via Charge-Sector Broadening, Zi-Xi Fang, Kai Zhang
-https://arxiv.org/abs/2610.00478
-* https://arxiv.org/abs/2610.00826 # Thermal entanglement transitions from strong SU(2) symmetry, Siqi Mo, Ehud Altman, Samuel J. Garratt
-https://arxiv.org/abs/2610.01253
-https://arxiv.org/abs/2610.01402
-https://arxiv.org/abs/2610.01862
+https://arxiv.org/abs/2610.02030
+https://arxiv.org/abs/2610.02032
+https://arxiv.org/abs/2610.02037
+https://arxiv.org/abs/2610.02050
+https://arxiv.org/abs/2610.02075
+https://arxiv.org/abs/2610.02079
+https://arxiv.org/abs/2610.02082
+https://arxiv.org/abs/2610.02082
+https://arxiv.org/abs/2610.02093
+https://arxiv.org/abs/2610.02097
 
 https://arxiv.org/abs/2610.02099
 https://arxiv.org/abs/2610.02100
@@ -21,6 +21,17 @@ https://arxiv.org/abs/2610.02135
 https://arxiv.org/abs/2610.02166
 https://arxiv.org/abs/2610.02167
 * https://arxiv.org/abs/2610.02172 # Robust exponential lower bounds for fermionic and bosonic Gaussian ranks, Fuchuan Wei, Kong-Wing Wu, Zhengwei Liu, Zi-Wen Liu
+
+https://arxiv.org/abs/2610.02176
+* https://arxiv.org/abs/2610.02178 # Learning SYK Hamiltonians, Anurag Anshu, Srinivasan Arunachalam, Sitan Chen, Yeongwoo Hwang
+https://arxiv.org/abs/2610.02183
+https://arxiv.org/abs/2610.00112
+* https://arxiv.org/abs/2610.00474 # Algebraic Relaxation of Strong-to-Weak Symmetry-Breaking Order via Charge-Sector Broadening, Zi-Xi Fang, Kai Zhang
+https://arxiv.org/abs/2610.00478
+* https://arxiv.org/abs/2610.00826 # Thermal entanglement transitions from strong SU(2) symmetry, Siqi Mo, Ehud Altman, Samuel J. Garratt
+https://arxiv.org/abs/2610.01253
+https://arxiv.org/abs/2610.01402
+https://arxiv.org/abs/2610.01862
 
 
 20261001
