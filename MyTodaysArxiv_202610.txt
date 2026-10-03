@@ -1,7 +1,7 @@
 20261002
 
 https://arxiv.org/abs/2610.00117
-https://arxiv.org/abs/2610.00129
+* https://arxiv.org/abs/2610.00129 # Global and nonlocal magic of quantum many-body scars, Lukas Ebner, Giovanni Cataldi, Kaidi Xu, Jad C. Halimeh, Emanuele Tirrito
 https://arxiv.org/abs/2610.00169
 
 https://arxiv.org/abs/2610.00187
