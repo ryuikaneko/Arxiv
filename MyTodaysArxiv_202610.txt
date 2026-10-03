@@ -5,7 +5,7 @@ https://arxiv.org/abs/2610.00110
 https://arxiv.org/abs/2610.00273
 https://arxiv.org/abs/2610.00324
 https://arxiv.org/abs/2610.00428
-https://arxiv.org/abs/2610.00489
+* https://arxiv.org/abs/2610.00489 # Electronic structure and two-orbital model of the quadlayer La5Ni4O13, Jian-Xiang Sun, Haokan Xiao, Cui-Qun Chen, Dao-Xin Yao
 https://arxiv.org/abs/2610.00546
 https://arxiv.org/abs/2610.00624
 https://arxiv.org/abs/2610.00631
