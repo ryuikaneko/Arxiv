@@ -9,7 +9,7 @@ https://arxiv.org/abs/2610.01940
 https://arxiv.org/abs/2610.01954
 https://arxiv.org/abs/2610.01979
 https://arxiv.org/abs/2610.02025
-https://arxiv.org/abs/2610.02029
+* https://arxiv.org/abs/2610.02029 # (A Variant of) Clifford Circuit Synthesis is NP-Complete, Luna Lima Keller, Richard Kueng
 
 https://arxiv.org/abs/2610.02030
 https://arxiv.org/abs/2610.02032
