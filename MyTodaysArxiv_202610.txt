@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2610.01163
 https://arxiv.org/abs/2610.01167
 https://arxiv.org/abs/2610.01190
-https://arxiv.org/abs/2610.01209
+* https://arxiv.org/abs/2610.01209 # Fermionic Gaussian Scrooge Ensembles in Deep Thermalization, Ning Sun, Pengfei Zhang
 https://arxiv.org/abs/2610.01327
 https://arxiv.org/abs/2610.01394
 https://arxiv.org/abs/2610.01417
