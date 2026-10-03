@@ -6,7 +6,7 @@ https://arxiv.org/abs/2610.01878
 https://arxiv.org/abs/2610.01902
 https://arxiv.org/abs/2610.01932
 https://arxiv.org/abs/2610.01940
-https://arxiv.org/abs/2610.01954
+* https://arxiv.org/abs/2610.01954 # Hardware-Efficient Ground-State Preparation using Variational Imaginary-Time Majorana Evolution, Federico Santona, Manuel G. Algaba, Aeishah Ameera Anuar, Anna M. Wernbacher, Prachi Sharma, Fedor Simkovic IV
 https://arxiv.org/abs/2610.01979
 https://arxiv.org/abs/2610.02025
 * https://arxiv.org/abs/2610.02029 # (A Variant of) Clifford Circuit Synthesis is NP-Complete, Luna Lima Keller, Richard Kueng
