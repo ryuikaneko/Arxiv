@@ -11,7 +11,7 @@ https://arxiv.org/abs/2610.00624
 * https://arxiv.org/abs/2610.00631 # CTMRG as a tensor-network message-passing algorithm, Illia Lukin, Andrii Sotnikov
 https://arxiv.org/abs/2610.00681
 
-https://arxiv.org/abs/2610.00712
+* https://arxiv.org/abs/2610.00712 # Krylov complexity of a tilted extended Bose-Hubbard chain with Rydberg-dressed interactions, Yifan Chen, Tianyi Yan, Lu Qin, Weibin Li
 https://arxiv.org/abs/2610.01011
 https://arxiv.org/abs/2610.01090
 https://arxiv.org/abs/2610.01176
