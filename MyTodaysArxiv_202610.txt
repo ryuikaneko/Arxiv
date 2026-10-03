@@ -15,7 +15,7 @@ https://arxiv.org/abs/2610.01574
 https://arxiv.org/abs/2610.01669
 https://arxiv.org/abs/2610.01683
 https://arxiv.org/abs/2610.01684
-https://arxiv.org/abs/2610.01703
+* https://arxiv.org/abs/2610.01703 # Exact first-detection probability in a locally monitored solvable quantum circuit, Cecilia De Fazio, Igor Lesanovsky, Gabriele Perfetto
 https://arxiv.org/abs/2610.01704
 https://arxiv.org/abs/2610.01772
 https://arxiv.org/abs/2610.01824
