@@ -23,7 +23,7 @@ https://arxiv.org/abs/2610.00011
 https://arxiv.org/abs/2610.00304
 
 https://arxiv.org/abs/2610.00472
-https://arxiv.org/abs/2610.00480
+* https://arxiv.org/abs/2610.00480 # Mixed-state phases induced by power-law quantum channels, Christopher Fechisin, Tsung-Cheng Lu, Zhi-Yuan Wei, Jeet Shah, Yu-Xin Wang, Alexey V. Gorshkov, Cheng-Ju Lin
 https://arxiv.org/abs/2610.00636
 
 https://arxiv.org/abs/2610.00117
