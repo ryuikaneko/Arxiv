@@ -1,7 +1,7 @@
 20261002
 
 https://arxiv.org/abs/2610.00100
-https://arxiv.org/abs/2610.00110
+* https://arxiv.org/abs/2610.00110 # Emergence of electronic modes and triplet pairing from spin-1 antiferromagnetic insulators in the Kanamori-Hubbard model, Masanori Kohno
 https://arxiv.org/abs/2610.00273
 https://arxiv.org/abs/2610.00324
 https://arxiv.org/abs/2610.00428
