@@ -4,7 +4,7 @@ https://arxiv.org/abs/2610.02030
 https://arxiv.org/abs/2610.02032
 https://arxiv.org/abs/2610.02037
 https://arxiv.org/abs/2610.02050
-https://arxiv.org/abs/2610.02075
+* https://arxiv.org/abs/2610.02075 # Universal Bound and Phase Transition in Many-Body Fermionic Non-Gaussianity, Masahiro Hoshino, Ryota Matsuda, Yuto Ashida
 https://arxiv.org/abs/2610.02079
 https://arxiv.org/abs/2610.02082
 https://arxiv.org/abs/2610.02082
