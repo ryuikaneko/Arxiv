@@ -5,7 +5,7 @@ https://arxiv.org/abs/2610.00537
 https://arxiv.org/abs/2610.00547
 https://arxiv.org/abs/2610.00548
 https://arxiv.org/abs/2610.00561
-https://arxiv.org/abs/2610.00635
+* https://arxiv.org/abs/2610.00635 # Engineering non-ergodic properties in two dimensional quantum many-body systems, Nyayabanta Swain, Gabriel Lemarie, Shaffique Adam
 https://arxiv.org/abs/2610.00669
 https://arxiv.org/abs/2610.00736
 https://arxiv.org/abs/2610.00841
