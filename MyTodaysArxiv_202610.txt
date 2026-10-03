@@ -19,7 +19,7 @@ https://arxiv.org/abs/2610.01038
 https://arxiv.org/abs/2610.01068
 https://arxiv.org/abs/2610.01074
 https://arxiv.org/abs/2610.01099
-https://arxiv.org/abs/2610.01112
+* https://arxiv.org/abs/2610.01112 # Dissipation-Sensitivity Trade-Off in Dissipative Bosonic Systems, Kohei Yoshimura, Ryusuke Hamazaki
 https://arxiv.org/abs/2610.01141
 
 https://arxiv.org/abs/2610.01163
