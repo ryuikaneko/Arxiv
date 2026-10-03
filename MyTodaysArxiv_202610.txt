@@ -13,7 +13,7 @@ https://arxiv.org/abs/2610.00464
 https://arxiv.org/abs/2610.00504
 * https://arxiv.org/abs/2610.00505 # Walshness: an intrinsic neural-network representability metric for quantum states, Nisarga Paul, Kehuang Chen, Jessica K. Jiang, Haimeng Zhao, Di Luo
 https://arxiv.org/abs/2610.00520
-https://arxiv.org/abs/2610.00521
+* https://arxiv.org/abs/2610.00521 # First-quantized quantum simulation with non-local potentials by matrix-product-state encoding, Kazuki Tsuoka, Taichi Kosugi, Masari Watanabe, Hirofumi Nishi, Yu-ichiro Matsushita
 
 https://arxiv.org/abs/2610.00527
 https://arxiv.org/abs/2610.00537
