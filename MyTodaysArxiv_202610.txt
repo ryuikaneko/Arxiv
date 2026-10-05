@@ -1,6 +1,6 @@
 20261005
 
-https://arxiv.org/abs/2610.03672
+* https://arxiv.org/abs/2610.03672 # Ordering-Aware Theory of Trotter Error, Zhenning Liu, Zhi-Yuan Wei, Michael Foss-Feig, Alexey V. Gorshkov, Andrew M. Childs
 https://arxiv.org/abs/2610.03683
 https://arxiv.org/abs/2610.03696
 https://arxiv.org/abs/2610.03697
