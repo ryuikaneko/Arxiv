@@ -9,7 +9,7 @@ https://arxiv.org/abs/2610.03699
 https://arxiv.org/abs/2610.01248
 https://arxiv.org/abs/2610.02307
 https://arxiv.org/abs/2610.02501
-https://arxiv.org/abs/2610.02745
+* https://arxiv.org/abs/2610.02745 # AI-Assisted GPU optimization of the Stochastic Variational Method for Few-Body Boson System, Noritaka Shimizu, Shigeyoshi Aoyama, Yusuke Tsunoda, Akira Nukada
 
 
 20261002
