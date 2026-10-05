@@ -2,10 +2,10 @@
 
 * https://arxiv.org/abs/2610.03672 # Ordering-Aware Theory of Trotter Error, Zhenning Liu, Zhi-Yuan Wei, Michael Foss-Feig, Alexey V. Gorshkov, Andrew M. Childs
 https://arxiv.org/abs/2610.03683
-https://arxiv.org/abs/2610.03696
+* https://arxiv.org/abs/2610.03696 # Maximum-Entropy Extension of Quantum Correlation Functions from Short Real-Time Dynamics, Filippo Maria Gambetta, Sabrina Yue Wang, Raul A. Santos
 https://arxiv.org/abs/2610.03697
 https://arxiv.org/abs/2610.03699
-https://arxiv.org/abs/2609.35940
+* https://arxiv.org/abs/2609.35940 # Discrete Scale Invariance of Ising Mesons, Denis V. Vasilyev, Abbas Ali Saberi
 https://arxiv.org/abs/2610.01248
 https://arxiv.org/abs/2610.02307
 https://arxiv.org/abs/2610.02501
