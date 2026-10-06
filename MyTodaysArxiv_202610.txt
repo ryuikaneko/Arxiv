@@ -31,7 +31,7 @@ https://arxiv.org/abs/2610.04694
 https://arxiv.org/abs/2610.04731
 https://arxiv.org/abs/2610.04908
 
-https://arxiv.org/abs/2610.05086
+* https://arxiv.org/abs/2610.05086 # JAQSI: Just Another Quantum Simulator, Melvin Strobl, Maja Franz, Lukas Scheller, Eileen Kuehn, Wolfgang Mauerer, Achim Streit
 https://arxiv.org/abs/2610.05093
 https://arxiv.org/abs/2610.05128
 https://arxiv.org/abs/2610.05152
