@@ -1,7 +1,7 @@
 20261006
 
 https://arxiv.org/abs/2610.06490
-https://arxiv.org/abs/2610.06692
+* https://arxiv.org/abs/2610.06692 # Climbing the Fusion Tree: Center Ordering and Decoding Hierarchy in Non-Abelian Mixed States, Pablo Sala, Vlad Temkin, Cenke Xu, Daniel Podolsky, Ehud Altman
 https://arxiv.org/abs/2610.06701
 https://arxiv.org/abs/2610.03730
 https://arxiv.org/abs/2610.03766
