@@ -1,5 +1,16 @@
 20261005
 
+https://arxiv.org/abs/2610.03624
+https://arxiv.org/abs/2610.03629
+https://arxiv.org/abs/2610.03630
+https://arxiv.org/abs/2610.03637
+https://arxiv.org/abs/2610.03645
+https://arxiv.org/abs/2610.03653
+https://arxiv.org/abs/2610.03654
+https://arxiv.org/abs/2610.03655
+https://arxiv.org/abs/2610.03658
+https://arxiv.org/abs/2610.03669
+
 * https://arxiv.org/abs/2610.03672 # Ordering-Aware Theory of Trotter Error, Zhenning Liu, Zhi-Yuan Wei, Michael Foss-Feig, Alexey V. Gorshkov, Andrew M. Childs
 https://arxiv.org/abs/2610.03683
 * https://arxiv.org/abs/2610.03696 # Maximum-Entropy Extension of Quantum Correlation Functions from Short Real-Time Dynamics, Filippo Maria Gambetta, Sabrina Yue Wang, Raul A. Santos
