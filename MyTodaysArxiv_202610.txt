@@ -49,7 +49,7 @@ https://arxiv.org/abs/2610.03629
 https://arxiv.org/abs/2610.03630
 https://arxiv.org/abs/2610.03637
 https://arxiv.org/abs/2610.03645
-https://arxiv.org/abs/2610.03653
+* https://arxiv.org/abs/2610.03653 # Reaching the Limits of Ground-State Metrology with Many-Body Probes, Erik L. Andre, Victor Izquierdo, Ricard Puig, John Calsamiglia, Marti Perarnau-Llobet
 https://arxiv.org/abs/2610.03654
 https://arxiv.org/abs/2610.03655
 https://arxiv.org/abs/2610.03658
