@@ -53,7 +53,7 @@ https://arxiv.org/abs/2610.06000
 https://arxiv.org/abs/2610.06080
 https://arxiv.org/abs/2610.06268
 
-https://arxiv.org/abs/2610.06272
+* https://arxiv.org/abs/2610.06272 # Two-Sided Bounds on Ground State Properties in Lattice Gauge Theories, Eloic Vallee, Ariel Kelman, Julius Mildenberger, Jordi Tura, Patrick Emonts
 https://arxiv.org/abs/2610.06535
 https://arxiv.org/abs/2610.06574
 https://arxiv.org/abs/2610.06620
