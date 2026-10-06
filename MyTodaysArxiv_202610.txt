@@ -12,15 +12,15 @@ https://arxiv.org/abs/2610.04373
 https://arxiv.org/abs/2610.04492
 
 https://arxiv.org/abs/2610.04496
-https://arxiv.org/abs/2610.04663
+* https://arxiv.org/abs/2610.04663 # Does a pole in the self-energy imply a violation of the Luttinger theorem?, Artem Abanov, Andrey Chubukov
 https://arxiv.org/abs/2610.04684
 https://arxiv.org/abs/2610.04704
 https://arxiv.org/abs/2610.04724
 https://arxiv.org/abs/2610.04843
-https://arxiv.org/abs/2610.04855
+* https://arxiv.org/abs/2610.04855 # Superconducting landscape of the strongly correlated bilayer Hubbard model, Motoharu Kitatani, Yusuke Nomura, Shiro Sakai, Ryotaro Arita
 https://arxiv.org/abs/2610.04866
 https://arxiv.org/abs/2610.04984
-https://arxiv.org/abs/2610.05046
+* https://arxiv.org/abs/2610.05046 # Ground-state properties of the two-dimensional SWAP spin-glass ensemble, Alexander K. Hartmann, Leticia F. Cugliandolo, Marco Tarzia
 
 https://arxiv.org/abs/2610.05090
 https://arxiv.org/abs/2610.05160
