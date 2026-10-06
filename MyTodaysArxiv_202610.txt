@@ -48,7 +48,7 @@ https://arxiv.org/abs/2610.05627
 https://arxiv.org/abs/2610.05752
 https://arxiv.org/abs/2610.05806
 https://arxiv.org/abs/2610.05848
-https://arxiv.org/abs/2610.05995
+* https://arxiv.org/abs/2610.05995 # Free fermion models with an operator entanglement growing as O(\sqer{t}), Federico Tonetto, Jerome Dubail
 https://arxiv.org/abs/2610.06000
 https://arxiv.org/abs/2610.06080
 https://arxiv.org/abs/2610.06268
