@@ -1,6 +1,6 @@
 20261005
 
-https://arxiv.org/abs/2610.03492
+* https://arxiv.org/abs/2610.03492 # Efficient Sampling for Many-Body Fermionic Non-Gaussianity, Ryota Matsuda, Masahiro Hoshino, Yuto Ashida
 https://arxiv.org/abs/2610.03507
 https://arxiv.org/abs/2610.03677
 https://arxiv.org/abs/2610.02287
