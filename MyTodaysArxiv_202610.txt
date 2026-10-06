@@ -65,7 +65,7 @@ https://arxiv.org/abs/2610.06818
 https://arxiv.org/abs/2610.06826
 
 https://arxiv.org/abs/2610.03870
-https://arxiv.org/abs/2610.04315
+* https://arxiv.org/abs/2610.04315 # From Ground State to Electronic and Vibronic Spectra via Memory Kernel Coupling Theory and Neural Quantum States, Xinchen He, Wenjie Do
 
 https://arxiv.org/abs/2610.06490
 * https://arxiv.org/abs/2610.06692 # Climbing the Fusion Tree: Center Ordering and Decoding Hierarchy in Non-Abelian Mixed States, Pablo Sala, Vlad Temkin, Cenke Xu, Daniel Podolsky, Ehud Altman
