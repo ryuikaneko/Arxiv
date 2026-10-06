@@ -9,7 +9,7 @@ https://arxiv.org/abs/2610.03362
 https://arxiv.org/abs/2610.03364
 https://arxiv.org/abs/2610.03377
 https://arxiv.org/abs/2610.03379
-https://arxiv.org/abs/2610.03399
+* https://arxiv.org/abs/2610.03399 # Optimizing quantum error correction through error attribution, Yuguo Shao, Zi-Wen Liu
 
 https://arxiv.org/abs/2610.03429
 https://arxiv.org/abs/2610.03446
