@@ -1,6 +1,6 @@
 20261005
 
-https://arxiv.org/abs/2610.02409
+* https://arxiv.org/abs/2610.02409 # Projective symmetry group classification of fermionic Z2 spin liquids on the dipolar-octupolar pyrochlore magnets, Rohit Deb, Sambuddha Sanyal
 https://arxiv.org/abs/2610.02426
 https://arxiv.org/abs/2610.02454
 https://arxiv.org/abs/2610.02514
