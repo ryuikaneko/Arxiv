@@ -1,5 +1,16 @@
 20261006
 
+https://arxiv.org/abs/2610.05090
+https://arxiv.org/abs/2610.05160
+https://arxiv.org/abs/2610.05175
+https://arxiv.org/abs/2610.05321
+* https://arxiv.org/abs/2610.05395 # Complete Entanglement Structure of the Kitaev Honeycomb Spin Liquid from Exact Tensor Networks, Hidehiro Saito, Chisa Hotta
+https://arxiv.org/abs/2610.05557
+https://arxiv.org/abs/2610.05934
+https://arxiv.org/abs/2610.06016
+https://arxiv.org/abs/2610.06110
+https://arxiv.org/abs/2610.06140
+
 https://arxiv.org/abs/2610.03778
 https://arxiv.org/abs/2610.03790
 * https://arxiv.org/abs/2610.03884 # The ALPS project release 3.0: open source software for strongly correlated systems, F. Alet, T. Chen, A. Feiguin, E. Gull, S. Iskakov, J. P. F. LeBlanc, F. Lin, A. Mirmira, G. Moeller, L. Pollet, M. Rosales, V. W. Scarola, H. Shinaoka, H. Terletska, S. Todo, M. Troyer, M. Wallerberger, P. Werner, T. M. R. Wolf
