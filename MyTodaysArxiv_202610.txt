@@ -2,12 +2,12 @@
 
 https://arxiv.org/abs/2610.03778
 https://arxiv.org/abs/2610.03790
-https://arxiv.org/abs/2610.03884
+* https://arxiv.org/abs/2610.03884 # The ALPS project release 3.0: open source software for strongly correlated systems, F. Alet, T. Chen, A. Feiguin, E. Gull, S. Iskakov, J. P. F. LeBlanc, F. Lin, A. Mirmira, G. Moeller, L. Pollet, M. Rosales, V. W. Scarola, H. Shinaoka, H. Terletska, S. Todo, M. Troyer, M. Wallerberger, P. Werner, T. M. R. Wolf
 https://arxiv.org/abs/2610.03891
 https://arxiv.org/abs/2610.03921
 https://arxiv.org/abs/2610.03936
 https://arxiv.org/abs/2610.04161
-https://arxiv.org/abs/2610.04331
+* https://arxiv.org/abs/2610.04331 # State-selective entanglement and point-gap topology in the unidirectional Bose-Hubbard chain, Chuan-Fu Lin, Yu-Chin Tzeng, Po-Yao Chang
 https://arxiv.org/abs/2610.04373
 https://arxiv.org/abs/2610.04492
 
