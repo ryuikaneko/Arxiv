@@ -11,7 +11,7 @@ https://arxiv.org/abs/2610.03920
 https://arxiv.org/abs/2610.03941
 https://arxiv.org/abs/2610.03972
 https://arxiv.org/abs/2610.04197
-https://arxiv.org/abs/2610.05057
+* https://arxiv.org/abs/2610.05057 # Onset of a quantum Fisher-Selke sequence in the transverse-field ANNNI model and its bilayer, Tuan-Vu Truong, Vu-Quoc-Minh Nguyen, Hoang-Long Nguyen, Thanh-Tien Nguyen
 https://arxiv.org/abs/2610.05208
 https://arxiv.org/abs/2610.05702
 https://arxiv.org/abs/2610.05953
