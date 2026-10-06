@@ -1,5 +1,22 @@
 20261006
 
+https://arxiv.org/abs/2610.06490
+https://arxiv.org/abs/2610.06692
+https://arxiv.org/abs/2610.06701
+https://arxiv.org/abs/2610.03730
+https://arxiv.org/abs/2610.03766
+
+https://arxiv.org/abs/2610.03893
+https://arxiv.org/abs/2610.03920
+https://arxiv.org/abs/2610.03941
+https://arxiv.org/abs/2610.03972
+https://arxiv.org/abs/2610.04197
+https://arxiv.org/abs/2610.05057
+https://arxiv.org/abs/2610.05208
+https://arxiv.org/abs/2610.05702
+https://arxiv.org/abs/2610.05953
+https://arxiv.org/abs/2610.06480
+
 * https://arxiv.org/abs/2610.06157 # Two superconducting pairing models with a Kitaev spin-liquid glue: microscopic kernel and parity alternation on odd-fold bond stars, Youping Dai
 https://arxiv.org/abs/2610.06158
 * https://arxiv.org/abs/2610.06319 # Pairing order and condensate fraction across the BCS-BEC crossover in the two-dimensional attractive Hubbard model, Hao Du, Qian Sun, Zhuotao Xie, Yuan-Yao He
@@ -43,45 +60,6 @@ https://arxiv.org/abs/2610.04843
 https://arxiv.org/abs/2610.04866
 https://arxiv.org/abs/2610.04984
 * https://arxiv.org/abs/2610.05046 # Ground-state properties of the two-dimensional SWAP spin-glass ensemble, Alexander K. Hartmann, Leticia F. Cugliandolo, Marco Tarzia
-
-https://arxiv.org/abs/2610.05090
-https://arxiv.org/abs/2610.05160
-https://arxiv.org/abs/2610.05175
-https://arxiv.org/abs/2610.05321
-https://arxiv.org/abs/2610.05395
-https://arxiv.org/abs/2610.05557
-https://arxiv.org/abs/2610.05934
-https://arxiv.org/abs/2610.06016
-https://arxiv.org/abs/2610.06110
-https://arxiv.org/abs/2610.06140
-
-https://arxiv.org/abs/2610.06157
-https://arxiv.org/abs/2610.06158
-https://arxiv.org/abs/2610.06319
-https://arxiv.org/abs/2610.06371
-https://arxiv.org/abs/2610.06486
-https://arxiv.org/abs/2610.06498
-https://arxiv.org/abs/2610.06682
-https://arxiv.org/abs/2610.06793
-https://arxiv.org/abs/2610.03883
-https://arxiv.org/abs/2610.03889
-
-https://arxiv.org/abs/2610.03893
-https://arxiv.org/abs/2610.03920
-https://arxiv.org/abs/2610.03941
-https://arxiv.org/abs/2610.03972
-https://arxiv.org/abs/2610.04197
-https://arxiv.org/abs/2610.05057
-https://arxiv.org/abs/2610.05208
-https://arxiv.org/abs/2610.05702
-https://arxiv.org/abs/2610.05953
-https://arxiv.org/abs/2610.06480
-
-https://arxiv.org/abs/2610.06490
-https://arxiv.org/abs/2610.06692
-https://arxiv.org/abs/2610.06701
-https://arxiv.org/abs/2610.03730
-https://arxiv.org/abs/2610.03766
 
 
 20261005
