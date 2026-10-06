@@ -9,7 +9,7 @@ https://arxiv.org/abs/2610.06498
 * https://arxiv.org/abs/2610.06682 # Interacting quantum criticality with U(1) symmetry breaking in 1+1 dimensions, Mutsumi Shimomura, Kohei Kawabata
 https://arxiv.org/abs/2610.06793
 * https://arxiv.org/abs/2610.03883 # On Information Propagation in Krylov Subspaces, Pablo Martinez-Azcona, Maximilian Meyer-Moelleringhof, Adolfo del Campo, Apollonas S. Matsoukas-Roubeas
-https://arxiv.org/abs/2610.03889
+* https://arxiv.org/abs/2610.03889 # Exact Temporal Criticalities of Entanglement and Negativity in Gaussian and Non-Gaussian Dissipative Kitaev Chains, Shrey Chowdhary, Sanket Chirame, Stephan Haas, Rishabh Jha
 
 https://arxiv.org/abs/2610.05090
 https://arxiv.org/abs/2610.05160
