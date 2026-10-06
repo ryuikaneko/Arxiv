@@ -1,5 +1,16 @@
 20261005
 
+https://arxiv.org/abs/2610.02671
+https://arxiv.org/abs/2610.02888
+https://arxiv.org/abs/2610.03003
+https://arxiv.org/abs/2610.03104
+https://arxiv.org/abs/2610.03145
+https://arxiv.org/abs/2610.03169
+https://arxiv.org/abs/2610.03318
+https://arxiv.org/abs/2610.03365
+https://arxiv.org/abs/2610.03478
+https://arxiv.org/abs/2610.03532
+
 * https://arxiv.org/abs/2610.03601 # Layer-Asymmetry-Induced Topological Superconductivity in High-Tc Bilayer Nickelates, Zhongyi Zhang, Congcong Le, Hoi Chun Po, Jiangping Hu, Xianxin Wu, Shengshan Qin
 https://arxiv.org/abs/2610.03610
 https://arxiv.org/abs/2610.03678
