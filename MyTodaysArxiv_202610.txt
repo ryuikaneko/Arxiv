@@ -1,5 +1,16 @@
 20261005
 
+* https://arxiv.org/abs/2610.03601 # Layer-Asymmetry-Induced Topological Superconductivity in High-Tc Bilayer Nickelates, Zhongyi Zhang, Congcong Le, Hoi Chun Po, Jiangping Hu, Xianxin Wu, Shengshan Qin
+https://arxiv.org/abs/2610.03610
+https://arxiv.org/abs/2610.03678
+https://arxiv.org/abs/2610.02211
+https://arxiv.org/abs/2610.02309
+https://arxiv.org/abs/2610.02316
+https://arxiv.org/abs/2610.02417
+https://arxiv.org/abs/2610.03328
+https://arxiv.org/abs/2610.03344
+https://arxiv.org/abs/2610.03357
+
 * https://arxiv.org/abs/2610.03492 # Efficient Sampling for Many-Body Fermionic Non-Gaussianity, Ryota Matsuda, Masahiro Hoshino, Yuto Ashida
 https://arxiv.org/abs/2610.03507
 https://arxiv.org/abs/2610.03677
