@@ -4,7 +4,7 @@ https://arxiv.org/abs/2610.03492
 https://arxiv.org/abs/2610.03507
 https://arxiv.org/abs/2610.03677
 https://arxiv.org/abs/2610.02287
-https://arxiv.org/abs/2610.02310
+* https://arxiv.org/abs/2610.02310 # Homological Thresholds in Randomly Monitored Quantum Error-Correcting Codes, Yoshito Watanabe, Daiki Sasamoto, Bo Han, Simon Trebst
 https://arxiv.org/abs/2610.02312
 https://arxiv.org/abs/2610.02314
 https://arxiv.org/abs/2610.02362
