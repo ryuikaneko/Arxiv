@@ -2,7 +2,7 @@
 
 * https://arxiv.org/abs/2610.06157 # Two superconducting pairing models with a Kitaev spin-liquid glue: microscopic kernel and parity alternation on odd-fold bond stars, Youping Dai
 https://arxiv.org/abs/2610.06158
-https://arxiv.org/abs/2610.06319
+* https://arxiv.org/abs/2610.06319 # Pairing order and condensate fraction across the BCS-BEC crossover in the two-dimensional attractive Hubbard model, Hao Du, Qian Sun, Zhuotao Xie, Yuan-Yao He
 https://arxiv.org/abs/2610.06371
 https://arxiv.org/abs/2610.06486
 https://arxiv.org/abs/2610.06498
