@@ -5,7 +5,7 @@ https://arxiv.org/abs/2610.05160
 https://arxiv.org/abs/2610.05175
 https://arxiv.org/abs/2610.05321
 * https://arxiv.org/abs/2610.05395 # Complete Entanglement Structure of the Kitaev Honeycomb Spin Liquid from Exact Tensor Networks, Hidehiro Saito, Chisa Hotta
-https://arxiv.org/abs/2610.05557
+* https://arxiv.org/abs/2610.05557 # Parisi's solution of the Sherrington--Kirkpatrick model from synchronous Monte Carlo dynamics, Yoshiyuki Kabashima
 https://arxiv.org/abs/2610.05934
 https://arxiv.org/abs/2610.06016
 https://arxiv.org/abs/2610.06110
