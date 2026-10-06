@@ -1,7 +1,7 @@
 20261005
 
 https://arxiv.org/abs/2610.03103
-https://arxiv.org/abs/2610.03108
+* https://arxiv.org/abs/2610.03108 # Determining the Number of Symmetry Sectors in Composite Quantum Spectra, Nisarg Vyas, S. Harshini Tekur, M. S. Santhanam
 https://arxiv.org/abs/2610.03113
 https://arxiv.org/abs/2610.03114
 https://arxiv.org/abs/2610.03133
