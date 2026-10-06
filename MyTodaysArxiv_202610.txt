@@ -6,7 +6,7 @@ https://arxiv.org/abs/2610.03113
 https://arxiv.org/abs/2610.03114
 https://arxiv.org/abs/2610.03133
 https://arxiv.org/abs/2610.03168
-https://arxiv.org/abs/2610.03186
+* https://arxiv.org/abs/2610.03186 # Topological phase transition in a symmetric blockade structure, Johannes Moegerle, Simon Fell, Tobias F. Maier, Ali Otaifi, Lode Pollet, Nicolai Lang, Hans Peter Buechler
 https://arxiv.org/abs/2610.03194
 https://arxiv.org/abs/2610.03205
 https://arxiv.org/abs/2610.03217
