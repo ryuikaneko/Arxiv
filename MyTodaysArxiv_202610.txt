@@ -11,7 +11,7 @@ https://journals.aps.org/prb/abstract/10.1103/nsdt-mntf
 https://arxiv.org/abs/2610.06912
 https://arxiv.org/abs/2610.06951
 https://arxiv.org/abs/2610.06985
-https://arxiv.org/abs/2610.07146
+* https://arxiv.org/abs/2610.07146 # Heavy-fermion hybridization waves from Dirac spinons near a Kondo-breakdown quantum phase transition, Pedro M. Consoli, Matthias Vojta, Onur Erten
 https://arxiv.org/abs/2610.07169
 https://arxiv.org/abs/2610.07174
 https://arxiv.org/abs/2610.07291
