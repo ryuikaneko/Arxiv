@@ -22,17 +22,17 @@ https://arxiv.org/abs/2610.07734
 https://arxiv.org/abs/2610.07964
 https://arxiv.org/abs/2610.08304
 https://arxiv.org/abs/2610.08356
-https://arxiv.org/abs/2610.08512
+* https://arxiv.org/abs/2610.08512 # Dynamical vertex approximation for retarded interactions: Application to the Hubbard-Holstein model, Emin Moghadas, Samuele Giuli, Massimo Capone, Alessandro Toschi
 https://arxiv.org/abs/2610.08522
 https://arxiv.org/abs/2610.08557
 https://arxiv.org/abs/2610.08575
 https://arxiv.org/abs/2610.08582
-https://arxiv.org/abs/2610.08591
+* https://arxiv.org/abs/2610.08591 # Analytical results for the Shannon entropy of the critical transverse-field Ising chain, M. A. Rajabpour
 https://arxiv.org/abs/2610.08612
 
 https://arxiv.org/abs/2610.08787
 https://arxiv.org/abs/2610.08788
-https://arxiv.org/abs/2610.07143
+* https://arxiv.org/abs/2610.07143 # Kardar-Parisi-Zhang superdiffusion in chaotic quantum circuits, Rustem Sharipov, Urban Duh, Sun Woo P. Kim, Friedrich Huebner
 https://arxiv.org/abs/2610.07144
 https://arxiv.org/abs/2610.07157
 https://arxiv.org/abs/2610.07165
