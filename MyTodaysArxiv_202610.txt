@@ -18,7 +18,7 @@ https://arxiv.org/abs/2610.07196
 https://arxiv.org/abs/2610.07308
 https://arxiv.org/abs/2610.07328
 https://arxiv.org/abs/2610.07352
-https://arxiv.org/abs/2610.07393
+* https://arxiv.org/abs/2610.07393 # Benchmarking exchange-only control of a 48-spin singlet manifold
 https://arxiv.org/abs/2610.07697
 https://arxiv.org/abs/2610.07986
 
