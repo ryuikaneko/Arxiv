@@ -22,7 +22,7 @@ https://arxiv.org/abs/2610.09664
 https://arxiv.org/abs/2610.09799
 
 https://arxiv.org/abs/2610.09925
-https://arxiv.org/abs/2610.10027
+* https://arxiv.org/abs/2610.10027 # Efficient Optimization of Tensor Rings with Low-Rank Environments, Matthieu Jeannin, Alessandro Chessari, Jan Von Delft
 https://arxiv.org/abs/2610.10048
 https://arxiv.org/abs/2610.10097
 https://arxiv.org/abs/2610.10140
