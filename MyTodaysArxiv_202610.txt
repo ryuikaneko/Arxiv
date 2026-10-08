@@ -17,19 +17,19 @@ https://arxiv.org/abs/2610.09641
 https://arxiv.org/abs/2610.09749
 https://arxiv.org/abs/2610.09798
 https://arxiv.org/abs/2610.09845
-https://arxiv.org/abs/2610.10123
+* https://arxiv.org/abs/2610.10123 # Characterizing Fermionic Non-Gaussianity in the Sachdev-Ye-Kitaev Model via Replica Twist Entropy, Ning Sun, Pengfei Zhang
 https://arxiv.org/abs/2610.10254
-https://arxiv.org/abs/2610.10259
+* https://arxiv.org/abs/2610.10259 # Numerically exact simulation of open quantum networks with strong system-bath couplings using tensor network path integrals, Quentin W. Richter, Moritz Cygorek
 https://arxiv.org/abs/2610.10339
 
 https://arxiv.org/abs/2610.10351
-https://arxiv.org/abs/2610.10357
+* https://arxiv.org/abs/2610.10357 # Quantum simulation of the Heisenberg XXZ model on a Rydberg atom array, Matthias Werner, Artur Garcia-Saez
 https://arxiv.org/abs/2610.09425
 https://arxiv.org/abs/2610.09499
-https://arxiv.org/abs/2610.09662
-https://arxiv.org/abs/2610.10279
+* https://arxiv.org/abs/2610.09662 # Correspondence between Asymptotic Quantum Many-Body Scars in Closed Systems and Diffusive Nambu-Goldstone Modes in Open Systems, Masaya Kunimi, Taiki Haga, Masaya Nakagawa
+* https://arxiv.org/abs/2610.10279 # Gaussian Scrooge Ensemble from Deep Thermalization in Free-Fermions, Angelo Russotto, Katja Klobas, Pasquale Calabrese, Bruno Bertini
 https://arxiv.org/abs/2610.10298
-https://arxiv.org/abs/2610.10504
+* https://arxiv.org/abs/2610.10504 # Black hole radial geometry from a quantum spin chain, Boris A. Khanikati
 
 https://journals.aps.org/prxquantum/abstract/10.1103/4wvz-1p8m
 https://journals.aps.org/pre/abstract/10.1103/czdj-n5xf
