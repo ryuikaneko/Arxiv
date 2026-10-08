@@ -12,7 +12,7 @@ https://journals.aps.org/pre/abstract/10.1103/8jb9-vfmz
 
 https://arxiv.org/abs/2610.08907
 https://arxiv.org/abs/2610.08921
-https://arxiv.org/abs/2610.08955
+* https://arxiv.org/abs/2610.08955 # From continuum neural quantum states to effective lattice models: Fluctuating Wigner molecules in moire superlattices, Ahmed Khalifa, Shubhayu Chatterjee
 https://arxiv.org/abs/2610.09035
 https://arxiv.org/abs/2610.09210
 https://arxiv.org/abs/2610.09453
