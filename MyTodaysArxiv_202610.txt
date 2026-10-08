@@ -26,7 +26,7 @@ https://arxiv.org/abs/2610.09925
 https://arxiv.org/abs/2610.10048
 https://arxiv.org/abs/2610.10097
 https://arxiv.org/abs/2610.10140
-https://arxiv.org/abs/2610.10454
+* https://arxiv.org/abs/2610.10454 # Exact Excitation Spectra and Spectral Gaps of the Frustrated Spin-1/2 J1-J2 Model via Dual Spin-Sector Variational Quantum Eigensolvers, Sk Saniur Rahaman
 https://arxiv.org/abs/2610.10523
 https://arxiv.org/abs/2610.09685
 https://arxiv.org/abs/2610.10350
