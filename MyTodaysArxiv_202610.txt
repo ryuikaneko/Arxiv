@@ -20,7 +20,7 @@ https://arxiv.org/abs/2610.07719
 https://arxiv.org/abs/2610.07734
 
 https://arxiv.org/abs/2610.07964
-https://arxiv.org/abs/2610.08304
+* https://arxiv.org/abs/2610.08304 # Symmetry protected quantum many body scars through half-gauging, Weslei B. Fontana, Fabrizio G. Oliviero, Yi-Ping Huang
 https://arxiv.org/abs/2610.08356
 * https://arxiv.org/abs/2610.08512 # Dynamical vertex approximation for retarded interactions: Application to the Hubbard-Holstein model, Emin Moghadas, Samuele Giuli, Massimo Capone, Alessandro Toschi
 https://arxiv.org/abs/2610.08522
