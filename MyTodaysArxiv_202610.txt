@@ -10,6 +10,10 @@ https://journals.aps.org/pre/abstract/10.1103/8jb9-vfmz
 
 20261008
 
+https://arxiv.org/abs/2610.10443
+https://arxiv.org/abs/2610.10083
+https://arxiv.org/abs/2610.09501
+
 https://arxiv.org/abs/2610.08907
 https://arxiv.org/abs/2610.08921
 * https://arxiv.org/abs/2610.08955 # From continuum neural quantum states to effective lattice models: Fluctuating Wigner molecules in moire superlattices, Ahmed Khalifa, Shubhayu Chatterjee
