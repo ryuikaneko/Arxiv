@@ -14,7 +14,7 @@ https://arxiv.org/abs/2610.08907
 https://arxiv.org/abs/2610.08921
 * https://arxiv.org/abs/2610.08955 # From continuum neural quantum states to effective lattice models: Fluctuating Wigner molecules in moire superlattices, Ahmed Khalifa, Shubhayu Chatterjee
 https://arxiv.org/abs/2610.09035
-https://arxiv.org/abs/2610.09210
+* https://arxiv.org/abs/2610.09210 # Multiorbital Anisotropy and Magnetic Excitations in Trilayer Nickelate Pr4Ni3O10, Ziqiang Guan, Sophia F. R. TenHuisen, Xuefei Guo, Wei He, Aulden K. Jones, Marli dos Reis Cantarino, Xinglong Chen, Hong Zheng, J. F. Mitchell, Nicholas B. Brookes, Mark P. M. Dean, Matteo Mitrano
 https://arxiv.org/abs/2610.09453
 https://arxiv.org/abs/2610.09656
 https://arxiv.org/abs/2610.09664
