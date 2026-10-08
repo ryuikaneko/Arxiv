@@ -18,7 +18,7 @@ https://arxiv.org/abs/2610.09035
 https://arxiv.org/abs/2610.09453
 https://arxiv.org/abs/2610.09656
 https://arxiv.org/abs/2610.09664
-https://arxiv.org/abs/2610.09775
+* https://arxiv.org/abs/2610.09775 # Multi-scale spectral statistics of intermediate quantum chaos in ultracold erbium collisions, Ivan R. R. Gonzalez, Barnali Chakrabarti, Antonio M. S. Macedo
 https://arxiv.org/abs/2610.09799
 
 https://arxiv.org/abs/2610.09925
