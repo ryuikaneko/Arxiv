@@ -13,7 +13,7 @@ https://journals.aps.org/prb/abstract/10.1103/nsdt-mntf
 
 https://arxiv.org/abs/2610.06961
 https://arxiv.org/abs/2610.07172
-https://arxiv.org/abs/2610.07173
+* https://arxiv.org/abs/2610.07173 # Connectivity Controls Variational Accessibility in Symmetry-Preserving Quantum Circuits, Sahinur Reja
 https://arxiv.org/abs/2610.07196
 https://arxiv.org/abs/2610.07308
 https://arxiv.org/abs/2610.07328
