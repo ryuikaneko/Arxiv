@@ -36,12 +36,11 @@ https://arxiv.org/abs/2610.07143
 https://arxiv.org/abs/2610.07144
 https://arxiv.org/abs/2610.07157
 https://arxiv.org/abs/2610.07165
-https://arxiv.org/abs/2610.07173
 https://arxiv.org/abs/2610.07693
 * https://arxiv.org/abs/2610.07794 # Spontaneous Hawking Radiation from Dynamical Black-Hole Formation in Quantum Spin Systems, Shunichiro Kinoshita, Keiju Murata, Daisuke Yamamoto, Ryosuke Yoshii
 https://arxiv.org/abs/2610.07995
-
 https://arxiv.org/abs/2610.08228
+
 https://arxiv.org/abs/2610.08727
 * https://arxiv.org/abs/2610.08769 # Observing the magic Mpemba effect in localized dynamics on a digital quantum computer, Han-Ze Li, Xianquan Yan, Yi-Rui Zhang, Jian-Xin Zhong, Shuo Liu, Ching Hua Lee
 
