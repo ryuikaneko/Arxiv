@@ -9,7 +9,7 @@ https://arxiv.org/abs/2610.10682
 https://arxiv.org/abs/2610.10694
 https://arxiv.org/abs/2610.10706
 https://arxiv.org/abs/2610.10710
-https://arxiv.org/abs/2610.10713
+* https://arxiv.org/abs/2610.10713 # Quantum simulation of material-specific Hubbard models with alkaline-earth atoms, Henning Schloemer, Reuben R. W. Wang, Bo Xing, Susanne F. Yelin, H. R. Sadeghpour
 
 https://arxiv.org/abs/2610.10764
 https://arxiv.org/abs/2610.10826
