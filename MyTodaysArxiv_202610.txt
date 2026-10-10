@@ -36,7 +36,7 @@ https://arxiv.org/abs/2610.10684
 https://arxiv.org/abs/2610.10697
 https://arxiv.org/abs/2610.11872
 https://arxiv.org/abs/2610.12045
-https://arxiv.org/abs/2610.12447
+* https://arxiv.org/abs/2610.12447 # Entanglement entropy and magic of ZX-diagrams, Marcin Szyniszewski, Razin A. Shaikh, Aleks Kissinger
 
 https://journals.aps.org/prapplied/abstract/10.1103/8n9n-sdtb
 https://journals.aps.org/prb/abstract/10.1103/w2b4-tm7c
