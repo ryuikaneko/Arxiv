@@ -17,7 +17,7 @@ https://arxiv.org/abs/2610.11068
 https://arxiv.org/abs/2610.11137
 https://arxiv.org/abs/2610.11244
 https://arxiv.org/abs/2610.11246
-https://arxiv.org/abs/2610.11411
+* https://arxiv.org/abs/2610.11411 # Quantum annealing of the random transverse-field Ising model in one, two, and three dimensions, Istvan A. Kovacs, Neil Shah, Robert Juhasz
 https://arxiv.org/abs/2610.11633
 * https://arxiv.org/abs/2610.11698 # Predicting plasmonic pole representations of complex dielectric spectra using convolutional neural networks, Dario A. Leon
 https://arxiv.org/abs/2610.12136
