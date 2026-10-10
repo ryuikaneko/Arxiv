@@ -8,7 +8,7 @@ https://arxiv.org/abs/2610.10772
 https://arxiv.org/abs/2610.10885
 https://arxiv.org/abs/2610.11018
 https://arxiv.org/abs/2610.11026
-https://arxiv.org/abs/2610.11081
+* https://arxiv.org/abs/2610.11081 # Quantum Simulation of a Hyperbolically Driven Quantum System with Superconducting Circuits, Han-xin Che, Yangyang Yu, Tao Zhang, Wen Zheng, Hai-Feng Yu, Xinsheng Tan, Yang Yu
 https://arxiv.org/abs/2610.11097
 
 https://arxiv.org/abs/2610.11261
