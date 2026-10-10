@@ -19,7 +19,7 @@ https://arxiv.org/abs/2610.11244
 https://arxiv.org/abs/2610.11246
 https://arxiv.org/abs/2610.11411
 https://arxiv.org/abs/2610.11633
-https://arxiv.org/abs/2610.11698
+* https://arxiv.org/abs/2610.11698 # Predicting plasmonic pole representations of complex dielectric spectra using convolutional neural networks, Dario A. Leon
 https://arxiv.org/abs/2610.12136
 
 https://arxiv.org/abs/2610.12145
@@ -27,7 +27,7 @@ https://arxiv.org/abs/2610.12151
 https://arxiv.org/abs/2610.12339
 https://arxiv.org/abs/2610.12348
 https://arxiv.org/abs/2610.12426
-https://arxiv.org/abs/2610.12441
+* https://arxiv.org/abs/2610.12441 # Short-Range Vector Spin Glasses: Parisi Hierarchies and Real-Space Ultrametricity, Akash Vijay, Jaewon Kim, Jong Yeon Lee
 https://arxiv.org/abs/2610.10542
 https://arxiv.org/abs/2610.10605
 https://arxiv.org/abs/2610.10671
