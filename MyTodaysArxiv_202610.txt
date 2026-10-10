@@ -13,7 +13,7 @@ https://arxiv.org/abs/2610.11097
 
 https://arxiv.org/abs/2610.11261
 https://arxiv.org/abs/2610.11262
-https://arxiv.org/abs/2610.11495
+* https://arxiv.org/abs/2610.11495 # Topological Superradiant Universality Classes in Cavity-Mediated Spin Chains, Yunhao Liu, Sheng Yang, Mingyuan Chen, Xue-Jia Yu
 https://arxiv.org/abs/2610.11537
 https://arxiv.org/abs/2610.11710
 https://arxiv.org/abs/2610.11759
