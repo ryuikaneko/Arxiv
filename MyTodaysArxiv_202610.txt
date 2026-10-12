@@ -1,9 +1,9 @@
 20261012
 
 https://arxiv.org/abs/2610.13907
-https://arxiv.org/abs/2610.13946
+* https://arxiv.org/abs/2610.13946 # An entangling Hubbard quasiparticle collider on a digital quantum processor, Chan Bin Bark, Hanbyul Kim, Yoonil Koo, SeungBeom Hong, Seik Pak, Kwang Jun Ahn, Sangmo Cheon, Youngseok Kim, Moon Jip Park
 https://arxiv.org/abs/2610.12557
-https://arxiv.org/abs/2610.12724
+* https://arxiv.org/abs/2610.12724 # An elementary approach to the Szego theorems, Israel Klich, Ravisankar Rajagopal
 https://arxiv.org/abs/2610.12731
 https://arxiv.org/abs/2610.13358
 https://arxiv.org/abs/2610.13555
