@@ -1,7 +1,7 @@
 20261012
 
 https://arxiv.org/abs/2610.12485
-https://arxiv.org/abs/2610.12546
+* https://arxiv.org/abs/2610.12546 # Exact solutions of non-Markovian dissipative Ising models, Mohammad Maghrebi
 * https://arxiv.org/abs/2610.12551 # Engineering Ergodicity-Breaking and Stable Emergent Conservation Laws in a Generic Quantum Many-body System Under Strong Periodic Drive, Sagnik Chaudhuri, Anirban Das, Asmi Haldar, Arnab Das
 https://arxiv.org/abs/2610.12579
 * https://arxiv.org/abs/2610.12597 # Error correction and quantum information spreading on sparse random graphs, Giovanni Cemin, Marin Bukov, Andrea Solfanelli
