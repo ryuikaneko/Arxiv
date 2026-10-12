@@ -1,5 +1,33 @@
 20261012
 
+https://arxiv.org/abs/2404.15403
+https://arxiv.org/abs/2610.12555
+https://arxiv.org/abs/2610.12573
+https://arxiv.org/abs/2610.12635
+https://arxiv.org/abs/2610.12645
+https://arxiv.org/abs/2610.12663
+https://arxiv.org/abs/2610.12700
+https://arxiv.org/abs/2610.12714
+https://arxiv.org/abs/2610.12798
+https://arxiv.org/abs/2610.12840
+
+https://arxiv.org/abs/2610.13149
+https://arxiv.org/abs/2610.13251
+https://arxiv.org/abs/2610.13346
+https://arxiv.org/abs/2610.13401
+https://arxiv.org/abs/2610.13584
+https://arxiv.org/abs/2610.13666
+https://arxiv.org/abs/2610.13782
+https://arxiv.org/abs/2610.13802
+https://arxiv.org/abs/2610.13825
+https://arxiv.org/abs/2610.13885
+
+https://arxiv.org/abs/2610.12578
+https://arxiv.org/abs/2610.13538
+https://arxiv.org/abs/2610.13727
+https://arxiv.org/abs/2610.13754
+https://arxiv.org/abs/2610.13899
+
 * https://arxiv.org/abs/2610.12485 # Warm-Start Quantum Computation for Energy Readout and State Preparation, Tien D. Kieu
 * https://arxiv.org/abs/2610.12546 # Exact solutions of non-Markovian dissipative Ising models, Mohammad Maghrebi
 * https://arxiv.org/abs/2610.12551 # Engineering Ergodicity-Breaking and Stable Emergent Conservation Laws in a Generic Quantum Many-body System Under Strong Periodic Drive, Sagnik Chaudhuri, Anirban Das, Asmi Haldar, Arnab Das
