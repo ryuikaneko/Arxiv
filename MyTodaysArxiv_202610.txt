@@ -14,13 +14,13 @@ https://arxiv.org/abs/2610.13149
 https://arxiv.org/abs/2610.13251
 https://arxiv.org/abs/2610.13346
 * https://arxiv.org/abs/2610.13401 # Temperature evolution of spin dynamics in extended Kitaev models within an Abrikosov fermion theory beyond mean field, Daiki Sasamoto, Joji Nasu
-https://arxiv.org/abs/2610.13584
+* https://arxiv.org/abs/2610.13584 # Altermagnetic Control of Charge-4e Superconductivity, Yan-Guang Yue, Jie Lou, Yan Chen
 https://arxiv.org/abs/2610.13666
 https://arxiv.org/abs/2610.13782
 https://arxiv.org/abs/2610.13825
 https://arxiv.org/abs/2610.13885
 https://arxiv.org/abs/2610.12578
-https://arxiv.org/abs/2610.13538
+* https://arxiv.org/abs/2610.13538 # Aubry-Andre transition in photonic time quasicrystals, Shuhang Chen, Qi Zhu
 
 https://arxiv.org/abs/2610.13727
 https://arxiv.org/abs/2610.13754
