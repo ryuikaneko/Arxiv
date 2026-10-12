@@ -7,7 +7,7 @@ https://arxiv.org/abs/2610.12557
 https://arxiv.org/abs/2610.12731
 https://arxiv.org/abs/2610.13358
 https://arxiv.org/abs/2610.13555
-https://arxiv.org/abs/2610.13802
+* https://arxiv.org/abs/2610.13802 # Replica Transition at Measurement-Altered Ising Criticality, Kabir Khanna, Sara Murciano, Romain Vasseur
 https://arxiv.org/abs/2610.13811
 https://arxiv.org/abs/2404.15403
 
