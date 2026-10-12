@@ -13,7 +13,7 @@ https://arxiv.org/abs/2610.13149
 
 https://arxiv.org/abs/2610.13251
 https://arxiv.org/abs/2610.13346
-https://arxiv.org/abs/2610.13401
+* https://arxiv.org/abs/2610.13401 # Temperature evolution of spin dynamics in extended Kitaev models within an Abrikosov fermion theory beyond mean field, Daiki Sasamoto, Joji Nasu
 https://arxiv.org/abs/2610.13584
 https://arxiv.org/abs/2610.13666
 https://arxiv.org/abs/2610.13782
