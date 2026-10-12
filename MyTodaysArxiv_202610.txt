@@ -1,10 +1,10 @@
 20261012
 
-https://arxiv.org/abs/2610.12555
+* https://arxiv.org/abs/2610.12555 # Flat-band quantum geometry from embedded quench dynamics, Ilia Komissarov, Daniel E. Sheehy, Ahana Chakraborty
 https://arxiv.org/abs/2610.12573
 https://arxiv.org/abs/2610.12635
 https://arxiv.org/abs/2610.12645
-https://arxiv.org/abs/2610.12663
+* https://arxiv.org/abs/2610.12663 # Spectral optimization of spherical lattices and applications to classical and quantum interacting spin systems, Jonas Voeller, Grigorios Makris, Fabian Hassler, Stefan Wessel
 https://arxiv.org/abs/2610.12700
 https://arxiv.org/abs/2610.12714
 https://arxiv.org/abs/2610.12798
