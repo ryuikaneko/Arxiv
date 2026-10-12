@@ -7,7 +7,7 @@ https://arxiv.org/abs/2610.12645
 * https://arxiv.org/abs/2610.12663 # Spectral optimization of spherical lattices and applications to classical and quantum interacting spin systems, Jonas Voeller, Grigorios Makris, Fabian Hassler, Stefan Wessel
 https://arxiv.org/abs/2610.12700
 https://arxiv.org/abs/2610.12714
-https://arxiv.org/abs/2610.12798
+* https://arxiv.org/abs/2610.12798 # Quadratic XY-anisotropy correction to the spontaneous staggered magnetization of the gapped XYZ spin-1/2 chain, Felipe Taha Sant'Ana
 https://arxiv.org/abs/2610.12840
 https://arxiv.org/abs/2610.13149
 
