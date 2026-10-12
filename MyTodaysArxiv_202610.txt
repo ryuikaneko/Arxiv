@@ -4,13 +4,12 @@ https://arxiv.org/abs/2610.12485
 https://arxiv.org/abs/2610.12546
 https://arxiv.org/abs/2610.12551
 https://arxiv.org/abs/2610.12579
-https://arxiv.org/abs/2610.12597
+* https://arxiv.org/abs/2610.12597 # Error correction and quantum information spreading on sparse random graphs, Giovanni Cemin, Marin Bukov, Andrea Solfanelli
 https://arxiv.org/abs/2610.12607
 https://arxiv.org/abs/2610.12646
 https://arxiv.org/abs/2610.12647
 https://arxiv.org/abs/2610.12664
-* https://arxiv.org/abs/2610.12800 # Analog quantum simulation of Shastry-Sutherland Ising materials
-Vahagn Mkhitaryan, Milan Kornjaca, Mao Lin, Alexander Schuckert, Majd Hamdan, Sergio H. Cantu, Ammar Ali, Tommaso Macri, Nathan Gemelke, Alexander Keesling, Peter Komar, Travis S.Humble, Alexei Bylinski, Pedro L. S. Lopes, Fangli Liu, Alexandra Boltasseva, Mikhail D. Lukin, Arnab Banerjee, Vladimir M. Shalaev, Sheng-Tao Wang
+* https://arxiv.org/abs/2610.12800 # Analog quantum simulation of Shastry-Sutherland Ising materials, Vahagn Mkhitaryan, Milan Kornjaca, Mao Lin, Alexander Schuckert, Majd Hamdan, Sergio H. Cantu, Ammar Ali, Tommaso Macri, Nathan Gemelke, Alexander Keesling, Peter Komar, Travis S.Humble, Alexei Bylinski, Pedro L. S. Lopes, Fangli Liu, Alexandra Boltasseva, Mikhail D. Lukin, Arnab Banerjee, Vladimir M. Shalaev, Sheng-Tao Wang
 
 https://arxiv.org/abs/2610.12806
 https://arxiv.org/abs/2610.12844
