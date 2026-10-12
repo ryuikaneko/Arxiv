@@ -1,5 +1,16 @@
 20261012
 
+https://arxiv.org/abs/2610.12806
+https://arxiv.org/abs/2610.12844
+https://arxiv.org/abs/2610.13033
+https://arxiv.org/abs/2610.13037
+https://arxiv.org/abs/2610.13090
+https://arxiv.org/abs/2610.13211
+https://arxiv.org/abs/2610.13250
+https://arxiv.org/abs/2610.13283
+https://arxiv.org/abs/2610.13511
+https://arxiv.org/abs/2610.13579
+
 https://arxiv.org/abs/2610.13589
 https://arxiv.org/abs/2610.13652
 * https://arxiv.org/abs/2610.13694 # QTN-RQNN: Quantum Tensor Network-Based Recurrent Quantum Neural Network, Amit S. Patel, Himanshu R. Patel, Bikash K. Behera, Pranav Mehta, Ghanshyam Tejani, Deepak Parashar
