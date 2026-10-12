@@ -1,5 +1,16 @@
 20261012
 
+https://arxiv.org/abs/2610.13589
+https://arxiv.org/abs/2610.13652
+https://arxiv.org/abs/2610.13694
+https://arxiv.org/abs/2610.13709
+https://arxiv.org/abs/2610.13784
+https://arxiv.org/abs/2610.13843
+https://arxiv.org/abs/2610.13845
+https://arxiv.org/abs/2610.13879
+https://arxiv.org/abs/2610.13882
+https://arxiv.org/abs/2610.13903
+
 https://arxiv.org/abs/2610.13907
 * https://arxiv.org/abs/2610.13946 # An entangling Hubbard quasiparticle collider on a digital quantum processor, Chan Bin Bark, Hanbyul Kim, Yoonil Koo, SeungBeom Hong, Seik Pak, Kwang Jun Ahn, Sangmo Cheon, Youngseok Kim, Moon Jip Park
 https://arxiv.org/abs/2610.12557
