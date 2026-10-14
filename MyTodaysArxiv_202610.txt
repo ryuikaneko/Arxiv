@@ -41,7 +41,7 @@ https://arxiv.org/abs/2610.15346
 * https://arxiv.org/abs/2610.15387 # Matrix-product-state GPLHR for non-Hermitian many-body eigenproblems, Xingyao Wu, Zhangyu Yang, Yanbin Chen, Yu Wang, Feng Chen
 https://arxiv.org/abs/2610.15470
 https://arxiv.org/abs/2610.15471
-https://arxiv.org/abs/2610.15546
+* https://arxiv.org/abs/2610.15546 # Ergodicity breaking transition beyond qubits, Tanay Pathak, Abhik Kumar Saha
 https://arxiv.org/abs/2610.15683
 
 https://journals.aps.org/prb/abstract/10.1103/psct-hz7s
