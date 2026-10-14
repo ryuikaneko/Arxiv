@@ -16,7 +16,7 @@ https://arxiv.org/abs/2610.14758
 https://arxiv.org/abs/2610.14788
 * https://arxiv.org/abs/2610.15021 # Entanglement detection in dynamical quantum systems, Xingjian Zhang, Jiayi Wu, Jue Xu, Qi Zhao
 * https://arxiv.org/abs/2610.15083 # Generative learning of time series with holographic quantum circuit sampling, Bingzhi Zhang, Matthew W. Lee, Tom Finke, Quntao Zhuang
-https://arxiv.org/abs/2610.15199
+* https://arxiv.org/abs/2610.15199 # The Renyi area law conjecture is false below alpha=1 in high dimensions, Tomotaka Kuwahara
 https://arxiv.org/abs/2610.15210
 https://arxiv.org/abs/2610.15530
 https://arxiv.org/abs/2610.15586
