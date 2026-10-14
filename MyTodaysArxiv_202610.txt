@@ -15,7 +15,7 @@ https://arxiv.org/abs/2610.18539
 https://arxiv.org/abs/2610.14165
 https://arxiv.org/abs/2610.14549
 https://arxiv.org/abs/2610.16064
-https://arxiv.org/abs/2610.16733
+* https://arxiv.org/abs/2610.16733 # TheoPhysEval: Assessing AI agents at autonomous theoretical physics problem solving
 https://arxiv.org/abs/2610.17038
 https://arxiv.org/abs/2610.17328
 https://arxiv.org/abs/2610.17717
