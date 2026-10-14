@@ -4,7 +4,7 @@ https://arxiv.org/abs/2610.16676
 https://arxiv.org/abs/2610.16788
 https://arxiv.org/abs/2610.16856
 * https://arxiv.org/abs/2610.16915 # Mutual information across the commensurate--incommensurate crossover and near the Kosterlitz--Thouless point of the spin-12 J1--J2 Heisenberg chain, Wuttichai Pankeaw, Pruet Kalasuwan
-https://arxiv.org/abs/2610.16930
+* https://arxiv.org/abs/2610.16930 # Microscopic Modeling of Interlayer Tunneling in Twisted Bilayer Cuprates, Siddhant Panda, Andreas Kreisel, Laura Fanfarillo, P. J. Hirschfeld
 https://arxiv.org/abs/2610.16961
 https://arxiv.org/abs/2610.17749
 https://arxiv.org/abs/2610.18175
