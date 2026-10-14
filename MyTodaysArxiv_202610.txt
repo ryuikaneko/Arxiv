@@ -1,6 +1,6 @@
 20261014
 
-https://arxiv.org/abs/2610.13970
+* https://arxiv.org/abs/2610.13970 # Empirical Scaling Laws of Quantum Vision Transformers, Yuqing Li, Fengyi Gao, Xin Jin, Xiaowei Jia, Qi Cheng, Junyu Liu
 https://arxiv.org/abs/2610.14070
 https://arxiv.org/abs/2610.14081
 https://arxiv.org/abs/2610.14125
