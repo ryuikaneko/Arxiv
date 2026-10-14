@@ -27,7 +27,7 @@ https://arxiv.org/abs/2610.14048
 https://arxiv.org/abs/2610.14123
 https://arxiv.org/abs/2610.14131
 https://arxiv.org/abs/2610.14171
-https://arxiv.org/abs/2610.14183
+* https://arxiv.org/abs/2610.14183 # Exact SU(N) symmetry resolution of bosonic Hubbard models: general boson-fermion mappings and flat-band singlet-cluster states, Loic Herviou
 https://arxiv.org/abs/2610.14256
 https://arxiv.org/abs/2610.14433
 https://arxiv.org/abs/2610.14556
