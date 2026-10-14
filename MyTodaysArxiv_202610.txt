@@ -17,7 +17,7 @@ https://arxiv.org/abs/2610.14549
 https://arxiv.org/abs/2610.16064
 * https://arxiv.org/abs/2610.16733 # TheoPhysEval: Assessing AI agents at autonomous theoretical physics problem solving
 https://arxiv.org/abs/2610.17038
-https://arxiv.org/abs/2610.17328
+* https://arxiv.org/abs/2610.17328 # Krylov Complexity and Quantum Many-body Scars in Non-Hermitian Kinetically Constrained Models, Arkaprava Sil, Rudraksh Kaushik, Souvik Kundu, Prasant Mallik, Sudipto Singha Roy
 https://arxiv.org/abs/2610.17717
 https://arxiv.org/abs/2610.17855
 https://arxiv.org/abs/2610.18681
