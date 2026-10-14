@@ -25,7 +25,7 @@ https://arxiv.org/abs/2610.15655
 https://arxiv.org/abs/2610.15664
 https://arxiv.org/abs/2610.15975
 https://arxiv.org/abs/2610.16032
-https://arxiv.org/abs/2610.16046
+* https://arxiv.org/abs/2610.16046 # Measuring higher-order bulk topology in a programmable quantum simulator, Pratik Sathe, Niclas Heinsdorf, Majid Kheirkhah, Rahul Deshpande, Fabio Altomare, Andrew J. Berkley, Martin Dehn, Richard Harris, Emile Hoskinson, Stefan Paul, Gabriel Poulin-Lamarre, Jack Raymond, Chris Rich, Mohammad H. Amin, Marcel Franz, Andrew D. King
 https://arxiv.org/abs/2610.16153
 https://arxiv.org/abs/2610.16207
 https://arxiv.org/abs/2610.16215
