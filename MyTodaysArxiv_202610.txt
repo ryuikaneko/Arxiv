@@ -11,7 +11,7 @@ https://arxiv.org/abs/2610.18175
 https://arxiv.org/abs/2610.18539
 * https://arxiv.org/abs/2610.18742 # Emergent Loop Geometry in Gauge-Equivariant Graph Neural Networks, Ali Rayat, Gia-Wei Chern
 
-https://arxiv.org/abs/2610.18854
+* https://arxiv.org/abs/2610.18854 # A hierarchy of exact lower bounds on the Laughlin spectral gap, Michael G. Scheer, Eslam Khalaf
 https://arxiv.org/abs/2610.14165
 https://arxiv.org/abs/2610.14549
 https://arxiv.org/abs/2610.16064
