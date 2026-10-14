@@ -1,3 +1,9 @@
+20261014
+
+https://journals.aps.org/pra/abstract/10.1103/j89c-3k2s
+https://journals.aps.org/pra/abstract/10.1103/d2px-dstr
+
+
 20261012
 
 * https://arxiv.org/abs/2610.12555 # Flat-band quantum geometry from embedded quench dynamics, Ilia Komissarov, Daniel E. Sheehy, Ahana Chakraborty
