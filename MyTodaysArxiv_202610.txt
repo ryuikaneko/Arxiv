@@ -45,7 +45,7 @@ https://arxiv.org/abs/2610.15471
 https://arxiv.org/abs/2610.15683
 
 https://arxiv.org/abs/2610.15790
-https://arxiv.org/abs/2610.15842
+* https://arxiv.org/abs/2610.15842 # Eigenstate transitions and critical transport in 3D Aubry-Andre model, Pragna Das, Lev Vidmar, Miroslav Hopjan
 https://arxiv.org/abs/2610.16126
 * https://arxiv.org/abs/2610.16494 # Scalable Quantum Monte Carlo for Shannon-Renyi Entropy: An Experiment-visitable Probe of Quantum Phases and Criticality, Dong-Xu Liu, Zhe Wang, Zenan Liu Yi-Ming Ding, Zheng Yan
 
