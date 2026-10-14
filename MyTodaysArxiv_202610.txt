@@ -11,6 +11,17 @@ https://arxiv.org/abs/2610.18175
 https://arxiv.org/abs/2610.18539
 * https://arxiv.org/abs/2610.18742 # Emergent Loop Geometry in Gauge-Equivariant Graph Neural Networks, Ali Rayat, Gia-Wei Chern
 
+https://arxiv.org/abs/2610.18854
+https://arxiv.org/abs/2610.14165
+https://arxiv.org/abs/2610.14549
+https://arxiv.org/abs/2610.16064
+https://arxiv.org/abs/2610.16733
+https://arxiv.org/abs/2610.17038
+https://arxiv.org/abs/2610.17328
+https://arxiv.org/abs/2610.17717
+https://arxiv.org/abs/2610.17855
+https://arxiv.org/abs/2610.18681
+
 https://journals.aps.org/prb/abstract/10.1103/psct-hz7s
 https://journals.aps.org/prb/abstract/10.1103/hhh7-fb39
 
