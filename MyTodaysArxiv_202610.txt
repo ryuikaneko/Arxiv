@@ -38,7 +38,7 @@ https://arxiv.org/abs/2610.14999
 * https://arxiv.org/abs/2610.15162 # Spectral Mapping Theorem between SU(N) and SU(Ns/N) Heisenberg Models and Exact Diagonalization of SU(4) and SU(7) Long-Range Ordered Phases on the Triangular Lattice, Samuel Gozel, Pierre Nataf
 * https://arxiv.org/abs/2610.15236 # Framework for an AI-Ready ARPES Community Database
 https://arxiv.org/abs/2610.15346
-https://arxiv.org/abs/2610.15387
+* https://arxiv.org/abs/2610.15387 # Matrix-product-state GPLHR for non-Hermitian many-body eigenproblems, Xingyao Wu, Zhangyu Yang, Yanbin Chen, Yu Wang, Feng Chen
 https://arxiv.org/abs/2610.15470
 https://arxiv.org/abs/2610.15471
 https://arxiv.org/abs/2610.15546
