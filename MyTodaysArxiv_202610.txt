@@ -44,6 +44,11 @@ https://arxiv.org/abs/2610.15471
 * https://arxiv.org/abs/2610.15546 # Ergodicity breaking transition beyond qubits, Tanay Pathak, Abhik Kumar Saha
 https://arxiv.org/abs/2610.15683
 
+https://arxiv.org/abs/2610.15790
+https://arxiv.org/abs/2610.15842
+https://arxiv.org/abs/2610.16126
+https://arxiv.org/abs/2610.16494
+
 https://journals.aps.org/prb/abstract/10.1103/psct-hz7s
 https://journals.aps.org/prb/abstract/10.1103/hhh7-fb39
 
