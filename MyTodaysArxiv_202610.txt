@@ -1,6 +1,6 @@
 20261014
 
-https://arxiv.org/abs/2610.16676
+* https://arxiv.org/abs/2610.16676 # Confinement-deconfinement transitions in the dimer-loop models on two-dimensional non-bipartite lattices, Jay Pandey, Souvik Kundu, Kedar Damle
 https://arxiv.org/abs/2610.16788
 https://arxiv.org/abs/2610.16856
 * https://arxiv.org/abs/2610.16915 # Mutual information across the commensurate--incommensurate crossover and near the Kosterlitz--Thouless point of the spin-12 J1--J2 Heisenberg chain, Wuttichai Pankeaw, Pruet Kalasuwan
