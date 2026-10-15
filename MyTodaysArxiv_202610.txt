@@ -2,14 +2,14 @@
 
 * https://arxiv.org/abs/2610.18954 # Optimal Disorder Strength for Approximate Unitary k-Designs in Spin Chains, Tian-Gang Zhou, Yi-Neng Zhou, Thierry Giamarchi, Julian Sonner
 https://arxiv.org/abs/2610.18955
-https://arxiv.org/abs/2610.18970
+* https://arxiv.org/abs/2610.18970 # Programmable Polaron Models and Tomography in Trapped-Ion Quantum Simulators, Filip Marijanovic, Utso Bhattacharya, Abhishek Menon, Visal So, Guido Pagano, Eugene Demler
 https://arxiv.org/abs/2610.18983
 https://arxiv.org/abs/2610.19034
 https://arxiv.org/abs/2610.19054
 https://arxiv.org/abs/2610.19060
 https://arxiv.org/abs/2610.19077
 https://arxiv.org/abs/2610.19109
-https://arxiv.org/abs/2610.19219
+* https://arxiv.org/abs/2610.19219 # Selective Control and Imaging of Higgs and Goldstone Modes with a Quantum Simulator, Connie Miao, Pranjal Praneel, Thomas G. Kiely, Eliott Rosenberg, Nicole S. Ticea, Pedram Roushan, Erich Mueller, Andre G. Petukhov
 
 https://arxiv.org/abs/2610.19255
 https://arxiv.org/abs/2610.19272
@@ -23,7 +23,7 @@ https://arxiv.org/abs/2610.19897
 https://arxiv.org/abs/2610.19905
 
 https://arxiv.org/abs/2610.19922
-https://arxiv.org/abs/2610.19923
+* https://arxiv.org/abs/2610.19923 # Majorana Edge Modes Reshape Kibble-Zurek Scaling in Kitaev Honeycomb Ribbons, Hyesung Choi, Antonio Mandarino, Mahn-Soo Choi
 https://arxiv.org/abs/2610.19936
 https://arxiv.org/abs/2610.19962
 https://arxiv.org/abs/2610.20006
@@ -39,7 +39,7 @@ https://arxiv.org/abs/2610.20528
 https://arxiv.org/abs/2610.20591
 https://arxiv.org/abs/2610.14175
 https://arxiv.org/abs/2610.18905
-https://arxiv.org/abs/2610.18965
+* https://arxiv.org/abs/2610.18965 # Measurement-induced criticality for non-Abelian anyons: The monitored golden chain, Zhaohui Zhi, Bo Han, Romain Vasseur, Andreas W. W. Ludwig, Simon Trebst, Guo-Yi Zhu
 https://arxiv.org/abs/2610.19106
 https://arxiv.org/abs/2610.19261
 https://arxiv.org/abs/2610.19286
