@@ -25,7 +25,7 @@ https://arxiv.org/abs/2610.20374
 https://arxiv.org/abs/2610.20382
 https://arxiv.org/abs/2610.20434
 * https://arxiv.org/abs/2610.20491 # Testing Replica Symmetry Breaking in the three-dimensional Edwards-Anderson model by using vanishing fields, Miguel Aguilar-Janita, Silvio Franz, Victor Martin-Mayor, Javier Moreno-Gordo, Giorgio Parisi, Federico Ricci-Tersenghi, Juan J. Ruiz-Lorenzo
-https://arxiv.org/abs/2610.20522
+* https://arxiv.org/abs/2610.20522 # Anyons at impurities: Fractional charge measurement and "wrong sign" binding, Haydn S. Adlong, Arthur Christianen, Atac Imamoglu, Glenn Wagner
 https://arxiv.org/abs/2610.20595
 https://arxiv.org/abs/2610.20605
 https://arxiv.org/abs/2610.18875
