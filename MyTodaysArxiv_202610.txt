@@ -1,6 +1,6 @@
 20261015
 
-https://arxiv.org/abs/2610.18967
+* https://arxiv.org/abs/2610.18967 # Non-Abelian quantum Hall states at strong Landau level mixing: finding anyons with first-principles AI, Pierre-Antoine Graham, Ahmed Abouelkomsan, Liang Fu
 https://arxiv.org/abs/2610.19017
 https://arxiv.org/abs/2610.19061
 https://arxiv.org/abs/2610.19112
