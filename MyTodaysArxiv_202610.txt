@@ -13,7 +13,7 @@ https://arxiv.org/abs/2610.19602
 
 https://arxiv.org/abs/2610.19713
 * https://arxiv.org/abs/2610.19770 # Beyond Kitaev exchange: Gamma'-driven magnetism in Ag3LiRh2O6, Efrain Insuasti Pazmino, Shi Feng, Ramesh Dhakal, Ioannis Rousochatzakis, Stephen M. Winter, Johannes Knolle, Alexander A. Tsirlin
-https://arxiv.org/abs/2610.19809
+* https://arxiv.org/abs/2610.19809 # Interplay of electric field and electronic correlations in pairing competition in bilayer nickelates, Yanmei Cai, Yicheng Xiong, Ying Liang, Tianxing Ma
 https://arxiv.org/abs/2610.19842
 https://arxiv.org/abs/2610.19846
 https://arxiv.org/abs/2610.19870
