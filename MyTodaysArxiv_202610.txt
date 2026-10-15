@@ -17,7 +17,7 @@ https://arxiv.org/abs/2610.19713
 https://arxiv.org/abs/2610.19842
 https://arxiv.org/abs/2610.19846
 https://arxiv.org/abs/2610.19870
-https://arxiv.org/abs/2610.19995
+* https://arxiv.org/abs/2610.19995 # Deep Learning of Phase Transitions for Bilinear-Biquadratic Spin-1 Chains from Correlation Aspects, Ming-Chiang Chung, Yu-Ting Kuo, Ian McCulloch, Yuan-Hong Tsai
 https://arxiv.org/abs/2610.20043
 https://arxiv.org/abs/2610.20096
 https://arxiv.org/abs/2610.20374
