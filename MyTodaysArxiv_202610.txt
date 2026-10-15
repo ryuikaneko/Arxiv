@@ -1,6 +1,5 @@
 20261015
 
-https://arxiv.org/abs/2610.18965
 https://arxiv.org/abs/2610.18967
 https://arxiv.org/abs/2610.19017
 https://arxiv.org/abs/2610.19061
@@ -10,8 +9,8 @@ https://arxiv.org/abs/2610.19276
 https://arxiv.org/abs/2610.19284
 https://arxiv.org/abs/2610.19334
 https://arxiv.org/abs/2610.19542
-
 https://arxiv.org/abs/2610.19602
+
 https://arxiv.org/abs/2610.19713
 https://arxiv.org/abs/2610.19770
 https://arxiv.org/abs/2610.19809
@@ -21,8 +20,8 @@ https://arxiv.org/abs/2610.19870
 https://arxiv.org/abs/2610.19995
 https://arxiv.org/abs/2610.20043
 https://arxiv.org/abs/2610.20096
-
 https://arxiv.org/abs/2610.20374
+
 https://arxiv.org/abs/2610.20382
 https://arxiv.org/abs/2610.20434
 https://arxiv.org/abs/2610.20491
@@ -32,8 +31,8 @@ https://arxiv.org/abs/2610.20605
 https://arxiv.org/abs/2610.18875
 https://arxiv.org/abs/2610.18953
 https://arxiv.org/abs/2610.19130
-
 https://arxiv.org/abs/2610.20436
+
 https://arxiv.org/abs/2610.20435
 
 * https://arxiv.org/abs/2610.18954 # Optimal Disorder Strength for Approximate Unitary k-Designs in Spin Chains, Tian-Gang Zhou, Yi-Neng Zhou, Thierry Giamarchi, Julian Sonner
