@@ -34,6 +34,7 @@ https://arxiv.org/abs/2610.19130
 https://arxiv.org/abs/2610.20436
 
 https://arxiv.org/abs/2610.20435
+* https://arxiv.org/abs/2610.20249 # Bulk superconductivity in quintuple-layer square-planar nickelate La6Ni5O12, Mengzhu Shi, Mei Du, Hongyu Li, Zhiwei Wang, Zhengjie Wang, Ziji Xiang, Tao Wu, Xianhui Chen
 
 * https://arxiv.org/abs/2610.18954 # Optimal Disorder Strength for Approximate Unitary k-Designs in Spin Chains, Tian-Gang Zhou, Yi-Neng Zhou, Thierry Giamarchi, Julian Sonner
 https://arxiv.org/abs/2610.18955
