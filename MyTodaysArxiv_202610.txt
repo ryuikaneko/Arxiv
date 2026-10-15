@@ -1,6 +1,6 @@
 20261015
 
-https://arxiv.org/abs/2610.18954
+* https://arxiv.org/abs/2610.18954 # Optimal Disorder Strength for Approximate Unitary k-Designs in Spin Chains, Tian-Gang Zhou, Yi-Neng Zhou, Thierry Giamarchi, Julian Sonner
 https://arxiv.org/abs/2610.18955
 https://arxiv.org/abs/2610.18970
 https://arxiv.org/abs/2610.18983
