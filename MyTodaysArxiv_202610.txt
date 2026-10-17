@@ -41,7 +41,7 @@ https://arxiv.org/abs/2610.21075
 * https://arxiv.org/abs/2610.21631 # Finite-size geometric crossover toward fragmentation of the potential energy shell in the quantum random energy model, Ishita Modak, Vatsana Tiwari, Soumya Bera
 * https://arxiv.org/abs/2610.21672 # Diffusion Language Models as Open Quantum Systems, Akinori Tanaka, Yukinao Akamatsu, Takuki Tomita, Yuji Hirono
 https://arxiv.org/abs/2610.21879
-https://arxiv.org/abs/2610.21761
+* https://arxiv.org/abs/2610.21761 # Probing Deconfined Quantum Criticality Point on a Digital Quantum Computer, Mrinal Kanti Giri, Pinaki Sengupta
 https://arxiv.org/abs/2610.21942
 https://arxiv.org/abs/2610.22284
 
