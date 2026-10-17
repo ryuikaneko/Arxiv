@@ -26,9 +26,9 @@ https://arxiv.org/abs/2610.22190
 
 https://arxiv.org/abs/2610.22199
 https://arxiv.org/abs/2610.22207
-https://arxiv.org/abs/2610.22223
-https://arxiv.org/abs/2610.22315
-https://arxiv.org/abs/2610.22318
+* https://arxiv.org/abs/2610.22223 # Constrained dissipation and the lifetime of quantum many-body scars, Weyner Ccuiro, Rosario Fazio, Alessandro Silva
+* https://arxiv.org/abs/2610.22315 # Magna: simulating magic state factories as cheaply as Clifford circuits, Yifei Wang, Yingfei Gu
+* https://arxiv.org/abs/2610.22318 # Magic in quantum trajectory unravelings of noisy random quantum circuits, Sara Santos, Alessio Paviglianiti, Vincenzo Savona
 https://arxiv.org/abs/2610.22367
 https://arxiv.org/abs/2610.20620
 https://arxiv.org/abs/2610.20703
