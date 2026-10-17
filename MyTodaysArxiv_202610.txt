@@ -28,7 +28,7 @@ https://arxiv.org/abs/2610.22134
 https://arxiv.org/abs/2610.22140
 https://arxiv.org/abs/2610.22191
 * https://arxiv.org/abs/2610.22212 # d-wave superconductivity in quintuple-layer bulk superconductor La6Ni5O12, Zhan Wang, Yuxin Wang, Hui-Ke Jin, Kun Jiang, Jiangping Hu
-https://arxiv.org/abs/2610.22257
+* https://arxiv.org/abs/2610.22257 # Local wave-packet spectroscopy of the Drude weight in Tomonaga-Luttinger liquids, Takayuki Yokoyama, Yasuhiro Tada
 https://arxiv.org/abs/2610.22307
 https://arxiv.org/abs/2610.22348
 https://arxiv.org/abs/2610.20614
