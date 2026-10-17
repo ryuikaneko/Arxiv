@@ -34,7 +34,7 @@ https://arxiv.org/abs/2610.22348
 https://arxiv.org/abs/2610.20614
 
 https://arxiv.org/abs/2610.20701
-https://arxiv.org/abs/2610.21478
+* https://arxiv.org/abs/2610.21478 # Difference between pair creation and anomaly matching: Nontrivial aspects of invertible symmetries and defects in SU(N) models, Yoshiki Fukusumi, Shuma Nakashiba
 https://arxiv.org/abs/2610.22145
 
 * https://arxiv.org/abs/2610.20712 # Surviving readout errors and incomplete postselection in monitored quantum circuits, Murtaza Ali Mir, Teemu Ojanen, Ali G. Moghaddam
