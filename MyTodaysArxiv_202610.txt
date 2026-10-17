@@ -38,7 +38,7 @@ https://arxiv.org/abs/2610.20703
 https://arxiv.org/abs/2610.20793
 https://arxiv.org/abs/2610.21075
 * https://arxiv.org/abs/2610.21155 # Localized states of the non-Hermitian Schroedinger equation with a complex 1/r2 potential: from Efimov states to bipolarons, Kyoka Tsunoda, Kazuki Yamamoto, Shimpei Endo
-https://arxiv.org/abs/2610.21631
+* https://arxiv.org/abs/2610.21631 # Finite-size geometric crossover toward fragmentation of the potential energy shell in the quantum random energy model, Ishita Modak, Vatsana Tiwari, Soumya Bera
 https://arxiv.org/abs/2610.21672
 https://arxiv.org/abs/2610.21879
 https://arxiv.org/abs/2610.21761
