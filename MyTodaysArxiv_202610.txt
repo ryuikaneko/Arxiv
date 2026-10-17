@@ -11,14 +11,14 @@ https://arxiv.org/abs/2610.20855
 https://arxiv.org/abs/2610.20988
 https://arxiv.org/abs/2610.21000
 https://arxiv.org/abs/2610.21684
-https://arxiv.org/abs/2610.21723
+* https://arxiv.org/abs/2610.21723 # Operator-Space Entanglement Entropy in Random Fermionic Gaussian Dynamics, Pablo Bayona-Pena, Elena Gramellini, Lorenzo Piroli
 
 https://arxiv.org/abs/2610.21754
 https://arxiv.org/abs/2610.21778
-https://arxiv.org/abs/2610.21782
+* https://arxiv.org/abs/2610.21782 # Quantum-compatible Riemannian conjugate gradient for ground-state preparation, Andres Arcia-Lopez, Marek Gluza, Yudai Suzuki, Cyrus Mostajeran
 https://arxiv.org/abs/2610.21797
 https://arxiv.org/abs/2610.21883
-https://arxiv.org/abs/2610.21907
+* https://arxiv.org/abs/2610.21907 # Selected Stabilizer Subspaces for Compact Many-Body Wave Functions, Maria-Andreea Filip, George H. Booth
 https://arxiv.org/abs/2610.21928
 https://arxiv.org/abs/2610.22069
 https://arxiv.org/abs/2610.22093
