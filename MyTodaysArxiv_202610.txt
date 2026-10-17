@@ -1,6 +1,41 @@
 20261016
 
 * https://arxiv.org/abs/2610.20717 # All-temperature superfluidity in two dimensions, Bilal Hawashin, Soumyadeep Chaudhuri, Igor F. Herbut, Michael M. Scherer
+https://arxiv.org/abs/2610.20734
+https://arxiv.org/abs/2610.20779
+https://arxiv.org/abs/2610.20897
+https://arxiv.org/abs/2610.20982
+https://arxiv.org/abs/2610.21015
+https://arxiv.org/abs/2610.21050
+https://arxiv.org/abs/2610.21130
+https://arxiv.org/abs/2610.21154
+https://arxiv.org/abs/2610.21209
+
+https://arxiv.org/abs/2610.21305
+https://arxiv.org/abs/2610.21310
+https://arxiv.org/abs/2610.21317
+https://arxiv.org/abs/2610.21326
+https://arxiv.org/abs/2610.21369
+https://arxiv.org/abs/2610.21416
+https://arxiv.org/abs/2610.21523
+https://arxiv.org/abs/2610.21769
+https://arxiv.org/abs/2610.21770
+https://arxiv.org/abs/2610.21949
+
+https://arxiv.org/abs/2610.21955
+https://arxiv.org/abs/2610.22037
+https://arxiv.org/abs/2610.22134
+https://arxiv.org/abs/2610.22140
+https://arxiv.org/abs/2610.22191
+https://arxiv.org/abs/2610.22212
+https://arxiv.org/abs/2610.22257
+https://arxiv.org/abs/2610.22307
+https://arxiv.org/abs/2610.22348
+https://arxiv.org/abs/2610.20614
+
+https://arxiv.org/abs/2610.20701
+https://arxiv.org/abs/2610.21478
+https://arxiv.org/abs/2610.22145
 
 * https://arxiv.org/abs/2610.20712 # Surviving readout errors and incomplete postselection in monitored quantum circuits, Murtaza Ali Mir, Teemu Ojanen, Ali G. Moghaddam
 https://arxiv.org/abs/2610.20775
