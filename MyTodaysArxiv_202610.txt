@@ -6,7 +6,7 @@
 https://arxiv.org/abs/2610.20775
 https://arxiv.org/abs/2610.20790
 * https://arxiv.org/abs/2610.20791 # Sparse-QITE: Discovering Compact Generators for Quantum Imaginary-Time Evolution via Regularization Methods, Rafael Gomez-Lurbe, Luca Ion, Alberto Acevedo, Andreu Angles-Castillo
-https://arxiv.org/abs/2610.20846
+* https://arxiv.org/abs/2610.20846 # Entanglement of superpositions in zero-energy subspace: insights from stabilizer theory, Konstantin Antipin, Richik Sengupta
 https://arxiv.org/abs/2610.20855
 https://arxiv.org/abs/2610.20988
 https://arxiv.org/abs/2610.21000
