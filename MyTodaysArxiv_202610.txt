@@ -42,7 +42,7 @@ https://arxiv.org/abs/2610.21075
 * https://arxiv.org/abs/2610.21672 # Diffusion Language Models as Open Quantum Systems, Akinori Tanaka, Yukinao Akamatsu, Takuki Tomita, Yuji Hirono
 https://arxiv.org/abs/2610.21879
 * https://arxiv.org/abs/2610.21761 # Probing Deconfined Quantum Criticality Point on a Digital Quantum Computer, Mrinal Kanti Giri, Pinaki Sengupta
-https://arxiv.org/abs/2610.21942
+* https://arxiv.org/abs/2610.21942 # Jianmu-Q: Bridging Quantum Field Theory and Quantum Hardware with AI Agents, Xiaolin Wang, Xingyu Guo, Jinyang Li, Tianyin Li, Enke Wang, Lingxiao Wang, Hongxi Xing
 https://arxiv.org/abs/2610.22284
 
 https://journals.aps.org/prl/abstract/10.1103/bpc2-zlx5
