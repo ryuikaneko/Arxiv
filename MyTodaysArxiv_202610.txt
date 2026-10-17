@@ -32,7 +32,7 @@ https://arxiv.org/abs/2610.22207
 * https://arxiv.org/abs/2610.22367 # Discovering state-of-the-art quantum circuits with large language models, Andi Gu, Alek H. Kemeny, Susanne F. Yelin, Mikhail D. Lukin
 https://arxiv.org/abs/2610.20620
 https://arxiv.org/abs/2610.20703
-https://arxiv.org/abs/2610.20723
+* https://arxiv.org/abs/2610.20723 # Boundary-induced geometrical frustration in a square Rydberg-atom lattice, Marco Rigobello, Luka Pavesic, Daniel Jaschke, Pietro Silvi, Marco Di Liberto, Simone Montangero, Simone Notarnicola
 https://arxiv.org/abs/2610.20768
 
 https://arxiv.org/abs/2610.20793
