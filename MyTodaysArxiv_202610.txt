@@ -33,11 +33,11 @@ https://arxiv.org/abs/2610.22207
 https://arxiv.org/abs/2610.20620
 https://arxiv.org/abs/2610.20703
 * https://arxiv.org/abs/2610.20723 # Boundary-induced geometrical frustration in a square Rydberg-atom lattice, Marco Rigobello, Luka Pavesic, Daniel Jaschke, Pietro Silvi, Marco Di Liberto, Simone Montangero, Simone Notarnicola
-https://arxiv.org/abs/2610.20768
+* https://arxiv.org/abs/2610.20768 # The Magic Barrier: A Universal Feature of Quantum Thermalization, Jakob J. Minar, Andreas Schaefer, Leonhard Schmotzer, Clemens Seidl
 
 https://arxiv.org/abs/2610.20793
 https://arxiv.org/abs/2610.21075
-https://arxiv.org/abs/2610.21155
+* https://arxiv.org/abs/2610.21155 # Localized states of the non-Hermitian Schroedinger equation with a complex 1/r2 potential: from Efimov states to bipolarons, Kyoka Tsunoda, Kazuki Yamamoto, Shimpei Endo
 https://arxiv.org/abs/2610.21631
 https://arxiv.org/abs/2610.21672
 https://arxiv.org/abs/2610.21879
