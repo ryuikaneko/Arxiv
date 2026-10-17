@@ -5,7 +5,7 @@
 * https://arxiv.org/abs/2610.20712 # Surviving readout errors and incomplete postselection in monitored quantum circuits, Murtaza Ali Mir, Teemu Ojanen, Ali G. Moghaddam
 https://arxiv.org/abs/2610.20775
 https://arxiv.org/abs/2610.20790
-https://arxiv.org/abs/2610.20791
+* https://arxiv.org/abs/2610.20791 # Sparse-QITE: Discovering Compact Generators for Quantum Imaginary-Time Evolution via Regularization Methods, Rafael Gomez-Lurbe, Luca Ion, Alberto Acevedo, Andreu Angles-Castillo
 https://arxiv.org/abs/2610.20846
 https://arxiv.org/abs/2610.20855
 https://arxiv.org/abs/2610.20988
