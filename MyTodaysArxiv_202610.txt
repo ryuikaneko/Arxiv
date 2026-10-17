@@ -11,7 +11,7 @@ https://arxiv.org/abs/2610.21130
 https://arxiv.org/abs/2610.21154
 https://arxiv.org/abs/2610.21209
 
-https://arxiv.org/abs/2610.21305
+* https://arxiv.org/abs/2610.21305 # d Phonon Softening in the Optimally-doped Trilayer Cuprate Bi2Sr2Ca2Cu3O10+delta, S. Nakata, K. Yamamoto, J. Okamoto, D. Shiga, R. Takahashi, H. Y. Huang, H. Kumigashira, H. Wadati, A. Fujimori, S. Ishida, H. Eisaki, D. J. Huang, J. Miyawaki, H. Suzuki
 https://arxiv.org/abs/2610.21310
 https://arxiv.org/abs/2610.21317
 https://arxiv.org/abs/2610.21326
