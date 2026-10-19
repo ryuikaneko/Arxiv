@@ -42,6 +42,8 @@ https://arxiv.org/abs/2610.23681
 https://arxiv.org/abs/2610.23781
 * https://arxiv.org/abs/2610.23815 # Anyonic Neural Network Wavefunctions, Andres Perez Fadon, Pok Man Tam, Leyna Shackleton
 
+https://journals.aps.org/pra/abstract/10.1103/wwqn-c9cb
+
 
 20261016
 
