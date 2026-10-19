@@ -1,9 +1,9 @@
 20261019
 
-https://arxiv.org/abs/2610.22476
-https://arxiv.org/abs/2610.22482
+* https://arxiv.org/abs/2610.22476 # Typical Superpositions are Magical, Joshuah T. Heath, Andrew Urilyon, Damien Quinn, Graham Kells
+* https://arxiv.org/abs/2610.22482 # Exploring Quantum Phase Transitions Beyond Landau Theory on a Quantum Processor, Ruizhe Shen, Yin Zhong, Ching Hua Lee
 https://arxiv.org/abs/2610.22489
-https://arxiv.org/abs/2610.22532
+* https://arxiv.org/abs/2610.22532 # Resonant pair production and flat band melting in a driven Rydberg chain, Tista Banerjee, K. Sengupta
 https://arxiv.org/abs/2610.22548
 https://arxiv.org/abs/2610.22689
 https://arxiv.org/abs/2610.22691
@@ -29,7 +29,7 @@ https://arxiv.org/abs/2610.23507
 https://arxiv.org/abs/2610.23695
 https://arxiv.org/abs/2610.23832
 https://arxiv.org/abs/2610.23834
-https://arxiv.org/abs/2610.23840
+* https://arxiv.org/abs/2610.23840 # Demonstration of Logical Error Suppression in a Surface Code Memory on a Cloud-Accessible IBM Superconducting Processor, Shuwen Kan, Aaron Hoyt, Sean Garner, Ethan Vo, Adrian Harkness, Rod Rofougaran, Zefan Du, Chenxu Liu, Norm Tubman, Ying Mao, Samuel Stein
 https://arxiv.org/abs/2610.22387
 https://arxiv.org/abs/2610.22710
 
