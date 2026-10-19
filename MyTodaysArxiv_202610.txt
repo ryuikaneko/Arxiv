@@ -1,3 +1,17 @@
+20261019
+
+https://arxiv.org/abs/2610.22476
+https://arxiv.org/abs/2610.22482
+https://arxiv.org/abs/2610.22489
+https://arxiv.org/abs/2610.22532
+https://arxiv.org/abs/2610.22548
+https://arxiv.org/abs/2610.22689
+https://arxiv.org/abs/2610.22691
+https://arxiv.org/abs/2610.22737
+https://arxiv.org/abs/2610.22738
+https://arxiv.org/abs/2610.22750
+
+
 20261016
 
 * https://arxiv.org/abs/2610.20717 # All-temperature superfluidity in two dimensions, Bilal Hawashin, Soumyadeep Chaudhuri, Igor F. Herbut, Michael M. Scherer
