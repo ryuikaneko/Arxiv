@@ -34,7 +34,7 @@ https://arxiv.org/abs/2610.22387
 https://arxiv.org/abs/2610.22710
 
 https://arxiv.org/abs/2610.22867
-https://arxiv.org/abs/2610.23105
+* https://arxiv.org/abs/2610.23105 # Nonergodicity from Hilbert-Subspace Cloning, Yuuya Chiba, Ryusuke Hamazaki
 https://arxiv.org/abs/2610.23108
 https://arxiv.org/abs/2610.23580
 https://arxiv.org/abs/2610.23681
