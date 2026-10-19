@@ -38,7 +38,7 @@ https://arxiv.org/abs/2610.22867
 https://arxiv.org/abs/2610.23108
 https://arxiv.org/abs/2610.23580
 https://arxiv.org/abs/2610.23681
-https://arxiv.org/abs/2610.23770
+* https://arxiv.org/abs/2610.23770 # Scaling of entanglement with distance between subsystems: detection of phase transitions in the t'-pi-flux model, Maksim Ulybyshev, Gergo Roosz, Gabriele Bellomia, Karsten Held, Fakher Assaad, Frederic Bippus
 https://arxiv.org/abs/2610.23781
 https://arxiv.org/abs/2610.23815
 
