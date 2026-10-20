@@ -4,11 +4,11 @@ https://arxiv.org/abs/2610.22385
 https://arxiv.org/abs/2610.22386
 https://arxiv.org/abs/2610.22486
 https://arxiv.org/abs/2610.22510
-https://arxiv.org/abs/2610.22585
+* https://arxiv.org/abs/2610.22585 # Bulk-Defect Correspondence in Algebraic Classical Spin Liquids, Rafael Flores-Calderon
 https://arxiv.org/abs/2610.22642
-https://arxiv.org/abs/2610.22965
+* https://arxiv.org/abs/2610.22965 # Kitaev, semi-Dirac, and spinon quantum spin Hall liquids on the square-hexagon-dodecagon lattice: A parent projective symmetry group classification, Harsh Raj, Yasir Iqbal
 https://arxiv.org/abs/2610.23217
-https://arxiv.org/abs/2610.23221
+* https://arxiv.org/abs/2610.23221 # Inducing Extraordinary-log Criticality through a Quantum Spin Chain, Grigorios Makris, Francesco Parisen Toldin, Stefan Wessel
 https://arxiv.org/abs/2610.23260
 
 * https://arxiv.org/abs/2610.23366 # Statistics-controlled topological phases in a Su-Schrieffer-Heeger ladder, Rajashri Parida, Biswajit Paul, Smitha Vishveshwara, Diptiman Sen, Tapan Mishra
