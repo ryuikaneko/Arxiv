@@ -11,7 +11,7 @@ https://arxiv.org/abs/2610.23217
 https://arxiv.org/abs/2610.23221
 https://arxiv.org/abs/2610.23260
 
-https://arxiv.org/abs/2610.23366
+* https://arxiv.org/abs/2610.23366 # Statistics-controlled topological phases in a Su-Schrieffer-Heeger ladder, Rajashri Parida, Biswajit Paul, Smitha Vishveshwara, Diptiman Sen, Tapan Mishra
 https://arxiv.org/abs/2610.23413
 https://arxiv.org/abs/2610.23512
 https://arxiv.org/abs/2610.23773
