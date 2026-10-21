@@ -5,10 +5,10 @@ https://arxiv.org/abs/2610.27436
 https://arxiv.org/abs/2610.27430
 https://arxiv.org/abs/2610.27412
 https://arxiv.org/abs/2610.27189
-https://arxiv.org/abs/2610.27173
+* https://arxiv.org/abs/2610.27173 # Ballistic transport and crystallographic control in altermagnetic quantum rings, Edilberto O. Silva
 https://arxiv.org/abs/2610.27154
-https://arxiv.org/abs/2610.27060
-https://arxiv.org/abs/2610.27050
+* https://arxiv.org/abs/2610.27060 # Spectral signatures of hidden order and hidden quantum critical points, Reja H. Wilke, Henning Schloemer, Sebastian Paeckel, Annabelle Bohrdt, Fabian Grusdt
+* https://arxiv.org/abs/2610.27050 # Field Theory of the Gutzwiller Projection, Abhijat Sarma, Cenke Xu, Chong Wang
 https://arxiv.org/abs/2610.27036
 
 https://journals.aps.org/prl/abstract/10.1103/7q31-xxsd
