@@ -1,3 +1,9 @@
+20261021
+
+https://journals.aps.org/prl/abstract/10.1103/7q31-xxsd
+https://journals.aps.org/prl/abstract/10.1103/6f9c-gb69
+
+
 20261020
 
 https://arxiv.org/abs/2610.23889
@@ -90,6 +96,7 @@ https://journals.aps.org/pre/abstract/10.1103/1xrx-rsxn
 https://journals.aps.org/prb/abstract/10.1103/jndp-2gbt
 https://journals.aps.org/prb/abstract/10.1103/mjx8-8vj6
 https://journals.aps.org/prb/abstract/10.1103/s8kf-crkv
+https://journals.aps.org/prb/abstract/10.1103/7ffq-9cvt
 
 ====
 
