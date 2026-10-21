@@ -46,7 +46,7 @@ https://arxiv.org/abs/2610.25186
 
 * https://arxiv.org/abs/2610.25222 # Self-Trapping and Liouvillian Spectral Transitions in a Dissipative Bose-Hubbard Dimer, Subhendu Saha, Raka Dasgupta
 https://arxiv.org/abs/2610.25236
-https://arxiv.org/abs/2610.25270
+* https://arxiv.org/abs/2610.25270 # Tensor network Monte Carlo study of the J1-J2 Ising model on the square lattice, Wanying Zheng, Tao Chen, Youjin Deng, Wanzhou Zhang
 
 https://journals.aps.org/pra/abstract/10.1103/cwpq-qqz1
 https://journals.aps.org/pre/abstract/10.1103/1xrx-rsxn
