@@ -23,7 +23,7 @@ https://arxiv.org/abs/2610.25976
 https://arxiv.org/abs/2610.26229
 
 https://arxiv.org/abs/2610.26279
-https://arxiv.org/abs/2610.26687
+* https://arxiv.org/abs/2610.26687 # Ground-State Sampling Correspondence between Penalty-Based and Constrained Quantum Annealing, Shunta Ide, Shu Tanaka
 https://arxiv.org/abs/2610.26753
 https://arxiv.org/abs/2610.26784
 https://arxiv.org/abs/2610.26833
