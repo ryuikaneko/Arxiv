@@ -22,7 +22,7 @@ https://arxiv.org/abs/2610.25685
 https://arxiv.org/abs/2610.25940
 https://arxiv.org/abs/2610.26246
 
-https://arxiv.org/abs/2610.26471
+* https://arxiv.org/abs/2610.26471 # End-to-End Optimization of Partial Fault Tolerance in Neutral-Atom Arrays, Stefano Veroni, Aydin Deger, Andrew J. Daley
 https://arxiv.org/abs/2610.26838
 https://arxiv.org/abs/2610.23865
 https://arxiv.org/abs/2610.23875
