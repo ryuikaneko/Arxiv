@@ -20,7 +20,7 @@ https://arxiv.org/abs/2610.22223
 https://arxiv.org/abs/2610.25472
 https://arxiv.org/abs/2610.25685
 https://arxiv.org/abs/2610.25940
-https://arxiv.org/abs/2610.26246
+* https://arxiv.org/abs/2610.26246 # Universal Quantum Criticality from a Gaussian Variational Manifold, Reyhaneh Khasseh, Fabian Ballar Trigueros, Markus Heyl, M. A. Rajabpour
 
 * https://arxiv.org/abs/2610.26471 # End-to-End Optimization of Partial Fault Tolerance in Neutral-Atom Arrays, Stefano Veroni, Aydin Deger, Andrew J. Daley
 https://arxiv.org/abs/2610.26838
