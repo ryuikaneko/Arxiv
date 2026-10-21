@@ -7,7 +7,7 @@ https://arxiv.org/abs/2610.25619
 https://arxiv.org/abs/2610.25713
 https://arxiv.org/abs/2610.25775
 https://arxiv.org/abs/2610.25884
-https://arxiv.org/abs/2610.26135
+* https://arxiv.org/abs/2610.26135 # Evidence of valence bond solid and quantum paramagnetism in the J1--J2--J3 Heisenberg model from pseudofermion functional renormalization group, Gun Gunal, Erhai Zhao, Ahmet Keles
 https://arxiv.org/abs/2610.26499
 * https://arxiv.org/abs/2610.26520 # Exploring ground state phase diagrams of Rydberg atom arrays with finite projected entangled-pair states, Konrad Schroeder, Erik Lennart Weerda, Matteo Rizzi
 
