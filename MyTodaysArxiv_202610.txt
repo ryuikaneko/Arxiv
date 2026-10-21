@@ -44,7 +44,7 @@ https://arxiv.org/abs/2610.24994
 * https://arxiv.org/abs/2610.25109 # Annealing Dynamics of the Two-Dimensional Fully Frustrated Ising Model, Kai-Hsin Wu, Anders W. Sandvik, Ying-Jer Kao
 https://arxiv.org/abs/2610.25186
 
-https://arxiv.org/abs/2610.25222
+* https://arxiv.org/abs/2610.25222 # Self-Trapping and Liouvillian Spectral Transitions in a Dissipative Bose-Hubbard Dimer, Subhendu Saha, Raka Dasgupta
 https://arxiv.org/abs/2610.25236
 https://arxiv.org/abs/2610.25270
 
