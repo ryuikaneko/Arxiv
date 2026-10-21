@@ -11,7 +11,7 @@ https://arxiv.org/abs/2610.24342
 https://arxiv.org/abs/2610.24344
 https://arxiv.org/abs/2610.24353
 
-https://arxiv.org/abs/2610.24658
+* https://arxiv.org/abs/2610.24658 # Collective Strong Quantum Mpemba Effect in Accelerated Quantum Detectors, G. D. de Moraes Neto, Richard Q. Matos, Norton G. de Almeida
 https://arxiv.org/abs/2610.24686
 https://arxiv.org/abs/2610.24755
 https://arxiv.org/abs/2610.24956
