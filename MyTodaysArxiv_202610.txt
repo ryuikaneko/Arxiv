@@ -36,7 +36,7 @@ https://arxiv.org/abs/2610.24514
 https://arxiv.org/abs/2610.24629
 https://arxiv.org/abs/2610.24669
 https://arxiv.org/abs/2610.24799
-https://arxiv.org/abs/2610.24923
+* https://arxiv.org/abs/2610.24923 # Frustration and topology in the phase behavior of solute-frustrated q-clock models, Hari Rajesh, Richard C. Remsing
 https://arxiv.org/abs/2610.24942
 https://arxiv.org/abs/2610.24994
 https://arxiv.org/abs/2610.25081
