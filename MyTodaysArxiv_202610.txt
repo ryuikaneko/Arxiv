@@ -40,7 +40,7 @@ https://arxiv.org/abs/2610.24799
 https://arxiv.org/abs/2610.24942
 https://arxiv.org/abs/2610.24994
 * https://arxiv.org/abs/2610.25081 # Dzyaloshinskii-Moriya interactions and deconfined criticality in SrCu2(BO3)2, Yasir Iqbal
-https://arxiv.org/abs/2610.25082
+* https://arxiv.org/abs/2610.25082 # Dzyaloshinskii-Moriya interactions in the SU(2) gauge theory of the Shastry-Sutherland Dirac spin liquids, Yasir Iqbal
 https://arxiv.org/abs/2610.25109
 https://arxiv.org/abs/2610.25186
 
