@@ -14,7 +14,7 @@ https://arxiv.org/abs/2610.26520
 https://arxiv.org/abs/2610.26561
 https://arxiv.org/abs/2610.26569
 https://arxiv.org/abs/2610.26617
-https://arxiv.org/abs/2610.26646
+* https://arxiv.org/abs/2610.26646 # Variational Block Correlated Coupled Cluster Monte Carlo, Hunter Brodie, Alexander Shilcusky, Adrian E. Feiguin
 https://arxiv.org/abs/2610.26736
 * https://arxiv.org/abs/2610.22223 # Constrained dissipation and the lifetime of quantum many-body scars, Weyner Ccuiro, Rosario Fazio, Alessandro Silva
 https://arxiv.org/abs/2610.25472
