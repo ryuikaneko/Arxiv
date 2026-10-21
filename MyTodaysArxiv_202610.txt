@@ -9,7 +9,7 @@ https://arxiv.org/abs/2610.25775
 https://arxiv.org/abs/2610.25884
 https://arxiv.org/abs/2610.26135
 https://arxiv.org/abs/2610.26499
-https://arxiv.org/abs/2610.26520
+* https://arxiv.org/abs/2610.26520 # Exploring ground state phase diagrams of Rydberg atom arrays with finite projected entangled-pair states, Konrad Schroeder, Erik Lennart Weerda, Matteo Rizzi
 
 https://arxiv.org/abs/2610.26561
 https://arxiv.org/abs/2610.26569
