@@ -17,7 +17,7 @@ https://arxiv.org/abs/2610.27709
 https://arxiv.org/abs/2610.27718
 https://arxiv.org/abs/2610.27729
 https://arxiv.org/abs/2610.27761
-https://arxiv.org/abs/2610.27779
+* https://arxiv.org/abs/2610.27779 # Spin fluctuations and nearly isotropic quasiparticles in the doped three-dimensional Hubbard model, Pengcheng Hou, Kun Chen, Youjin Deng
 https://arxiv.org/abs/2610.27823
 https://arxiv.org/abs/2610.27872
 https://arxiv.org/abs/2610.27938
