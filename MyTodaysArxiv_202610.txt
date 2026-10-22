@@ -26,7 +26,7 @@ https://arxiv.org/abs/2610.28368
 https://arxiv.org/abs/2610.28373
 https://arxiv.org/abs/2610.28412
 https://arxiv.org/abs/2610.28453
-https://arxiv.org/abs/2610.28462
+* https://arxiv.org/abs/2610.28462 # Tuning between collective dynamics and scrambling through initial-state symmetry alignment in long-range spin models, Sridevi Kuriyattil, Johannes Kombe, Andrew J. Daley, Pablo M. Poggi
 https://arxiv.org/abs/2610.28600
 https://arxiv.org/abs/2610.27098
 https://arxiv.org/abs/2610.27362
