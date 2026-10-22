@@ -1,7 +1,7 @@
 20261021
 
 https://arxiv.org/abs/2610.26900
-https://arxiv.org/abs/2610.27065
+* https://arxiv.org/abs/2610.27065 # Polynomial-Time Classical Simulation of BosonSampling under Any Constant-Fraction Photon Loss, Byeongseon Go, Hyunseok Jeong
 https://arxiv.org/abs/2610.27080
 https://arxiv.org/abs/2610.27335
 https://arxiv.org/abs/2610.27338
