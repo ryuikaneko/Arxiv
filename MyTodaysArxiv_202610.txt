@@ -19,7 +19,7 @@ https://arxiv.org/abs/2610.27729
 https://arxiv.org/abs/2610.27761
 * https://arxiv.org/abs/2610.27779 # Spin fluctuations and nearly isotropic quasiparticles in the doped three-dimensional Hubbard model, Pengcheng Hou, Kun Chen, Youjin Deng
 https://arxiv.org/abs/2610.27823
-https://arxiv.org/abs/2610.27872
+* https://arxiv.org/abs/2610.27872 # Moments of Random Permanents and Hafnians: A Replica Approach, Paolo Facchi, Angelo Mariano, Giorgio Parisi, Saverio Pascazio, Antonello Scardicchio
 https://arxiv.org/abs/2610.27938
 
 https://arxiv.org/abs/2610.28024
