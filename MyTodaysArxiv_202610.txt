@@ -28,7 +28,7 @@ https://arxiv.org/abs/2610.28055
 https://arxiv.org/abs/2610.28063
 https://arxiv.org/abs/2610.28148
 https://arxiv.org/abs/2610.28240
-https://arxiv.org/abs/2610.28298
+* https://arxiv.org/abs/2610.28298 # Classical spin liquids in the kagome Ising model, and their link with magnetoelasticity, T. Vignau Costa, J. Colbois, G. L. Rossini, F. Mila, D. C. Cabra, S. A. Grigera, R. A. Borzi
 https://arxiv.org/abs/2610.28365
 https://arxiv.org/abs/2610.28529
 https://arxiv.org/abs/2610.28542
