@@ -41,7 +41,7 @@ https://arxiv.org/abs/2610.27179
 * https://arxiv.org/abs/2610.27939 # Local-Channel Stability of Classical Z2 Lattice Gauge Models, Guanxi Xun, Weiguang Cao, Haruki Watanabe
 https://arxiv.org/abs/2610.28031
 * https://arxiv.org/abs/2610.28231 # Dynamical Mean-Field Theory for Real Materials using Variational Quantum Compressed Time Evolution on a Quantum Computer, Stefan Wolf, Johannes Selisko, Timo Eckstein, Ludwig Nuetzel, Maximilian Amsler, Christopher Wever, Georgy Samsonidze, Thomas Eckl, Michael J. Hartmann
-https://arxiv.org/abs/2610.28336
+* https://arxiv.org/abs/2610.28336 # Floquet ground state order, Suman Mondal, Paul M. Schindler, Marin Bukov
 https://arxiv.org/abs/2610.28358
 
 https://arxiv.org/abs/2610.28528
