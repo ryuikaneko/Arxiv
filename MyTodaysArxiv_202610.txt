@@ -36,7 +36,7 @@ https://arxiv.org/abs/2610.28542
 https://arxiv.org/abs/2610.28621
 https://arxiv.org/abs/2610.27054
 https://arxiv.org/abs/2610.27179
-https://arxiv.org/abs/2610.27462
+* https://arxiv.org/abs/2610.27462 # Systematic Truncated Wigner Approximation for Open Spin Systems Reveals Long-Range Order Far from Equilibrium, Igor Timofeev, Dawid A. Hryniuk, Marzena H. Szymanska
 https://arxiv.org/abs/2610.27596
 https://arxiv.org/abs/2610.27939
 https://arxiv.org/abs/2610.28031
