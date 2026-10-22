@@ -38,7 +38,7 @@ https://arxiv.org/abs/2610.27054
 https://arxiv.org/abs/2610.27179
 * https://arxiv.org/abs/2610.27462 # Systematic Truncated Wigner Approximation for Open Spin Systems Reveals Long-Range Order Far from Equilibrium, Igor Timofeev, Dawid A. Hryniuk, Marzena H. Szymanska
 * https://arxiv.org/abs/2610.27596 # Stabilizer Renyi moments beyond entanglement, Vishnu Jejjala, Joydeep Naskar
-https://arxiv.org/abs/2610.27939
+* https://arxiv.org/abs/2610.27939 # Local-Channel Stability of Classical Z2 Lattice Gauge Models, Guanxi Xun, Weiguang Cao, Haruki Watanabe
 https://arxiv.org/abs/2610.28031
 https://arxiv.org/abs/2610.28231
 https://arxiv.org/abs/2610.28336
