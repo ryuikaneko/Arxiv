@@ -8,7 +8,7 @@ https://arxiv.org/abs/2610.28845
 https://arxiv.org/abs/2610.28902
 https://arxiv.org/abs/2610.28964
 https://arxiv.org/abs/2610.28993
-https://arxiv.org/abs/2610.29035
+* https://arxiv.org/abs/2610.29035 # Optimization versus fair sampling in quantum annealing: An exactly characterized frustrated Ising benchmark, Masaru Hitomi, Masayuki Ohzeki
 https://arxiv.org/abs/2610.29190
 
 https://arxiv.org/abs/2610.29372
@@ -20,7 +20,7 @@ https://arxiv.org/abs/2610.29804
 https://arxiv.org/abs/2610.29919
 https://arxiv.org/abs/2610.29955
 https://arxiv.org/abs/2610.30040
-https://arxiv.org/abs/2610.30070
+* https://arxiv.org/abs/2610.30070 # A random sampling method to test the weak Eigenstate Thermalization Hypothesis, Nicolaus A. Chlanda, John Keim, Isabel Martinez-Robles, Sarah E. Spielman, Thomas J. Carroll, Michael W. Noel
 
 https://arxiv.org/abs/2609.13434
 https://arxiv.org/abs/2610.28678
