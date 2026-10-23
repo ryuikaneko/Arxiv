@@ -24,9 +24,9 @@ https://arxiv.org/abs/2610.29745
 
 https://arxiv.org/abs/2610.29862
 https://arxiv.org/abs/2610.29895
-https://arxiv.org/abs/2610.29916
+* https://arxiv.org/abs/2610.29916 # Stabilizing and detecting electron fractionalization in the Hofstadter-Hubbard model, Jiahao Yang, Zeyu Han, Gang v. Chen
 https://arxiv.org/abs/2610.29931
-https://arxiv.org/abs/2610.30048
+* https://arxiv.org/abs/2610.30048 # Projective symmetry groups beyond spin-1/2: Classifying integer-spin quantum spin liquids, Atanu Maity, Chunxiao Liu, Rhine Samajdar, Yasir Iqbal
 * https://arxiv.org/abs/2610.23111 # Liouvillian Non-Invertible Symmetry, Ying-Cheng Yang, Jhen-Dong Lin, Yueh-Nan Chen
 https://arxiv.org/abs/2610.28647
 https://arxiv.org/abs/2610.28846
