@@ -27,11 +27,11 @@ https://arxiv.org/abs/2610.29895
 https://arxiv.org/abs/2610.29916
 https://arxiv.org/abs/2610.29931
 https://arxiv.org/abs/2610.30048
-https://arxiv.org/abs/2610.23111
+* https://arxiv.org/abs/2610.23111 # Liouvillian Non-Invertible Symmetry, Ying-Cheng Yang, Jhen-Dong Lin, Yueh-Nan Chen
 https://arxiv.org/abs/2610.28647
 https://arxiv.org/abs/2610.28846
 https://arxiv.org/abs/2610.28848
-https://arxiv.org/abs/2610.29531
+* https://arxiv.org/abs/2610.29531 # Phase Transitions in Learning Driven by Extremal Data, Ethan Levien, Trevor GrandPre
 
 https://arxiv.org/abs/2610.29644
 https://arxiv.org/abs/2610.29998
