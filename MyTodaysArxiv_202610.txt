@@ -11,7 +11,7 @@ https://arxiv.org/abs/2610.29324
 https://arxiv.org/abs/2610.29341
 https://arxiv.org/abs/2610.29366
 
-https://arxiv.org/abs/2610.29420
+* https://arxiv.org/abs/2610.29420 # Microscopic origin of field-induced multiferroicity in Ni3TeO6, J. Lass, R. Toft-Petersen, A. A. Turrini, O. S. Fjellvag, B. Decrausaz, K. M. L. Krighaar, R. Sibille, H. Jacobsen, M. E. Kamminga, C. R. Y. Andersen, D. Sheptyakov, J. Ollivier, U. B. Hansen, M. Enderle, A. M. Laeuchli, H. M. Ronnow, K. Lefmann, D. G. Mazzone
 https://arxiv.org/abs/2610.29421
 https://arxiv.org/abs/2610.29440
 https://arxiv.org/abs/2610.29482
