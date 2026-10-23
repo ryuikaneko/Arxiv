@@ -4,9 +4,9 @@ https://arxiv.org/abs/2610.28760
 https://arxiv.org/abs/2610.28786
 https://arxiv.org/abs/2610.29022
 https://arxiv.org/abs/2610.29028
-https://arxiv.org/abs/2610.29064
+* https://arxiv.org/abs/2610.29064 # Exotic vortex states and enhancement of orbital upper critical fields in an s-wave quasicrystalline superconductor, Takumi Fukushima, Yuki Yamamoto, Nayuta Takemori, Shiro Sakai, Masanori Ichioka, Anuradha Jagannathan
 https://arxiv.org/abs/2610.29084
-https://arxiv.org/abs/2610.29278
+* https://arxiv.org/abs/2610.29278 # Chirality, Klein duality, and the stability of Kitaev spin liquids on the star lattice, Harsh Raj, Yasir Iqbal
 https://arxiv.org/abs/2610.29324
 * https://arxiv.org/abs/2610.29341 # Quantics tensor trains for multiloop functional renormalization group in multiorbital impurity models, Hyun-Yong Lee, Naoki Kawashima
 https://arxiv.org/abs/2610.29366
