@@ -15,7 +15,7 @@ https://arxiv.org/abs/2610.29420
 https://arxiv.org/abs/2610.29421
 https://arxiv.org/abs/2610.29440
 https://arxiv.org/abs/2610.29482
-https://arxiv.org/abs/2610.29547
+* https://arxiv.org/abs/2610.29547 # Splitting Probability in Monitored Quantum Dynamics, Prashant Singh, Sabine Tornow, David A Kessler, Eli Barkai
 https://arxiv.org/abs/2610.29583
 https://arxiv.org/abs/2610.29634
 https://arxiv.org/abs/2610.29694
