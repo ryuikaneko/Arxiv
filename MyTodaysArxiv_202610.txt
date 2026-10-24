@@ -13,7 +13,7 @@ https://arxiv.org/abs/2610.31067
 
 https://arxiv.org/abs/2610.31070
 * https://arxiv.org/abs/2610.31115 # The limits of magic-state distillation, Llorenc Balada Gaggioli, Jakub Marecek
-https://arxiv.org/abs/2610.31230
+* https://arxiv.org/abs/2610.31230 # Local Dephasing Sustains Continuous Time Crystals in a Spin-1/2 Ensemble, Zhen-huan Yang, Dan-Bo Zhang
 https://arxiv.org/abs/2610.31242
 https://arxiv.org/abs/2610.31249
 https://arxiv.org/abs/2610.31268
@@ -29,7 +29,7 @@ https://arxiv.org/abs/2610.31554
 https://arxiv.org/abs/2610.31571
 https://arxiv.org/abs/2610.31580
 https://arxiv.org/abs/2610.31591
-https://arxiv.org/abs/2610.30266
+* https://arxiv.org/abs/2610.30266 # Discrete time liquids, Zuo Wang, Paul M. Schindler, Marin Bukov, Marios H. Michael
 https://arxiv.org/abs/2610.30270
 https://arxiv.org/abs/2610.30301
 
