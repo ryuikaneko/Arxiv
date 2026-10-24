@@ -4,7 +4,7 @@ https://arxiv.org/abs/2610.30169
 https://arxiv.org/abs/2610.30172
 https://arxiv.org/abs/2610.30271
 https://arxiv.org/abs/2610.30281
-https://arxiv.org/abs/2610.30290
+* https://arxiv.org/abs/2610.30290 # pi-Flux Tuning of Quantum Paramagnetism in the Triangular-Lattice Hubbard Model, Zhaochen Liu, Andreas Feuerpfeil, Ronny Thomale
 https://arxiv.org/abs/2610.30381
 https://arxiv.org/abs/2610.30399
 https://arxiv.org/abs/2610.30403
