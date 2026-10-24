@@ -1,7 +1,7 @@
 20261023
 
 https://arxiv.org/abs/2610.30216
-https://arxiv.org/abs/2610.30257
+* https://arxiv.org/abs/2610.30257 # Scalable Neural Wave Functions via Information Mixing and Hierarchical Network Architectures, Faith Oyedemi, Stefanie Czischek
 https://arxiv.org/abs/2610.30279
 https://arxiv.org/abs/2610.30295
 https://arxiv.org/abs/2610.30315
@@ -12,7 +12,7 @@ https://arxiv.org/abs/2610.30836
 https://arxiv.org/abs/2610.31067
 
 https://arxiv.org/abs/2610.31070
-https://arxiv.org/abs/2610.31115
+* https://arxiv.org/abs/2610.31115 # The limits of magic-state distillation, Llorenc Balada Gaggioli, Jakub Marecek
 https://arxiv.org/abs/2610.31230
 https://arxiv.org/abs/2610.31242
 https://arxiv.org/abs/2610.31249
