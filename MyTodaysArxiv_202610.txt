@@ -33,7 +33,7 @@ https://arxiv.org/abs/2610.31591
 https://arxiv.org/abs/2610.30270
 https://arxiv.org/abs/2610.30301
 
-https://arxiv.org/abs/2610.30321
+* https://arxiv.org/abs/2610.30321 # Extreme competition between stripes and superconductivity in the hole-doped Hubbard model, Ao Chen, Johnnie Gray, Si-Jing Du, Garnet Kin-Lic Chan
 https://arxiv.org/abs/2610.30536
 https://arxiv.org/abs/2610.30581
 https://arxiv.org/abs/2610.30597
