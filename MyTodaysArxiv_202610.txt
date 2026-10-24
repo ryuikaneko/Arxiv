@@ -11,7 +11,7 @@ https://arxiv.org/abs/2610.30403
 https://arxiv.org/abs/2610.30502
 https://arxiv.org/abs/2610.30627
 
-https://arxiv.org/abs/2610.30647
+* https://arxiv.org/abs/2610.30647 # String Order in Quench Dynamics as a Probe of Quantum Phase Transitions, H. P. Zhang, Z. Song
 https://arxiv.org/abs/2610.30726
 https://arxiv.org/abs/2610.30733
 https://arxiv.org/abs/2610.30766
