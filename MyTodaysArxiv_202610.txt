@@ -68,11 +68,17 @@ https://arxiv.org/abs/2610.31394
 https://journals.aps.org/prl/abstract/10.1103/z9t9-mwgv
 https://journals.aps.org/prl/abstract/10.1103/6327-7256
 https://journals.aps.org/prb/abstract/10.1103/f3zp-8s7c
+https://journals.aps.org/prb/abstract/10.1103/n5rq-rf2b
+https://journals.aps.org/prb/abstract/10.1103/6vv5-tsql
+https://journals.aps.org/prb/abstract/10.1103/51zq-f75g
+https://journals.aps.org/prb/abstract/10.1103/c39y-4cdg
 
 ====
 
 https://journals.aps.org/prxquantum/abstract/10.1103/51mt-ghpn
 https://journals.aps.org/pra/abstract/10.1103/gk1m-2xsw
+https://journals.aps.org/prresearch/abstract/10.1103/c9d7-x8gc
+https://journals.aps.org/prresearch/abstract/10.1103/f7cn-h597
 
 
 20261022
