@@ -72,9 +72,6 @@ https://journals.aps.org/prb/abstract/10.1103/n5rq-rf2b
 https://journals.aps.org/prb/abstract/10.1103/6vv5-tsql
 https://journals.aps.org/prb/abstract/10.1103/51zq-f75g
 https://journals.aps.org/prb/abstract/10.1103/c39y-4cdg
-
-====
-
 https://journals.aps.org/prxquantum/abstract/10.1103/51mt-ghpn
 https://journals.aps.org/pra/abstract/10.1103/gk1m-2xsw
 https://journals.aps.org/prresearch/abstract/10.1103/c9d7-x8gc
