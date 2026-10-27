@@ -8,7 +8,7 @@ https://arxiv.org/abs/2610.33393
 https://arxiv.org/abs/2610.33436
 https://arxiv.org/abs/2610.33463
 https://arxiv.org/abs/2610.33523
-https://arxiv.org/abs/2610.33585
+* https://arxiv.org/abs/2610.33585 # Exact Magnetic Confinement of a Doped Hole by Kinetic Frustration, Nikolai Peshcherenko, Yixin Zhang, Cristian D. Batista, Yang Zhang
 https://arxiv.org/abs/2610.33815
 
 https://arxiv.org/abs/2610.33989
