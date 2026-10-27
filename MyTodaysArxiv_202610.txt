@@ -57,7 +57,7 @@ https://arxiv.org/abs/2610.35627
 
 https://arxiv.org/abs/2610.35672
 https://arxiv.org/abs/2610.35734
-https://arxiv.org/abs/2610.35784
+* https://arxiv.org/abs/2610.35784 # Twist-controlled imaginary-time Mpemba effect in quantum spin systems, Zhi-Yao Ning, Zi-Xiang Li, Naoki Kawashima
 https://arxiv.org/abs/2610.35822
 https://arxiv.org/abs/2610.35095
 
