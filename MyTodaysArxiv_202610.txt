@@ -8,7 +8,7 @@ https://arxiv.org/abs/2610.33532
 https://arxiv.org/abs/2610.33545
 https://arxiv.org/abs/2610.33607
 https://arxiv.org/abs/2610.33613
-https://arxiv.org/abs/2610.33834
+* https://arxiv.org/abs/2610.33834 # Initial-State Preparation for Strongly Correlated Molecules from Matrix Product States: Benchmarking and Environment-Aware Divide-and-Conquer Compilation, Haiqi Liu, Longfei Chang, Zhendong Li, Wei-Hai Fang
 https://arxiv.org/abs/2610.34055
 
 https://arxiv.org/abs/2610.34143
