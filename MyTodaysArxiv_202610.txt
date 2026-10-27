@@ -31,7 +31,7 @@ https://arxiv.org/abs/2610.31736
 * https://arxiv.org/abs/2610.32001 # QuantumMatterExplorer: An Autonomous Agent for the Discovery of Quantum Many-Body Phases of Matter, Jannes Nys, Andrew Jreissaty, Juan Carrasquilla
 https://arxiv.org/abs/2610.32021
 https://arxiv.org/abs/2610.32649
-https://arxiv.org/abs/2610.32733
+* https://arxiv.org/abs/2610.32733 # Entanglement Asymmetry and Asymmetry Contour under Boundary Symmetry Breaking, Takahiro Orito, Daisuke Yamamoto
 
 https://arxiv.org/abs/2610.32849
 https://arxiv.org/abs/2610.32856
