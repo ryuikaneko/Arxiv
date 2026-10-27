@@ -27,7 +27,7 @@ https://arxiv.org/abs/2610.32895
 https://arxiv.org/abs/2610.32901
 https://arxiv.org/abs/2610.32929
 https://arxiv.org/abs/2610.31736
-https://arxiv.org/abs/2610.31792
+* https://arxiv.org/abs/2610.31792 # Quantum Complexity and Stabilizer-State Expansions: From Pairing to Deformation in Fermionic Systems, S. Momme Hengstenberg, Caroline E. P. Robin
 https://arxiv.org/abs/2610.32001
 https://arxiv.org/abs/2610.32021
 https://arxiv.org/abs/2610.32649
