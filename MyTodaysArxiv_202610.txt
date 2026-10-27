@@ -12,7 +12,7 @@ https://arxiv.org/abs/2610.33523
 https://arxiv.org/abs/2610.33815
 
 https://arxiv.org/abs/2610.33989
-https://arxiv.org/abs/2610.34230
+* https://arxiv.org/abs/2610.34230 # Tuning from intrinsic to disorder-dominated quantum states in a kagome antiferromagnet, Y. Tanaka, R. Kumakura, T. Yamaguchi, M. Kato, K. Totsuka, B. Li, Y. Zhao, Y. Li, R. Grasset, O. Cavani, A. Alessi, V. Sharma, Y. Kohama, S. Suetsugu
 https://arxiv.org/abs/2610.34312
 * https://arxiv.org/abs/2610.34342 # Fermionic superfluid transition and pairing scale separation in the kagome flat band, Xiang Li, Yu Wang
 * https://arxiv.org/abs/2610.34439 # Theory of the 1/9 Magnetization Plateau of the Spin-1/2 Kagome Heisenberg Antiferromagnet, Pratyay Ghosh, Frederic Mila
