@@ -24,7 +24,7 @@ https://arxiv.org/abs/2610.35370
 
 https://arxiv.org/abs/2610.35498
 https://arxiv.org/abs/2610.35513
-https://arxiv.org/abs/2610.35585
+* https://arxiv.org/abs/2610.35585 # Equilibrium propagation in non-equilibrium quantum systems, Aditya Gandotra, David D. Noachtar, Aashish A. Clerk
 https://arxiv.org/abs/2610.35660
 https://arxiv.org/abs/2610.35722
 https://arxiv.org/abs/2610.33040
