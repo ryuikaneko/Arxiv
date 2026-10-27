@@ -14,7 +14,7 @@ https://arxiv.org/abs/2610.33815
 https://arxiv.org/abs/2610.33989
 https://arxiv.org/abs/2610.34230
 https://arxiv.org/abs/2610.34312
-https://arxiv.org/abs/2610.34342
+* https://arxiv.org/abs/2610.34342 # Fermionic superfluid transition and pairing scale separation in the kagome flat band, Xiang Li, Yu Wang
 https://arxiv.org/abs/2610.34439
 https://arxiv.org/abs/2610.34470
 https://arxiv.org/abs/2610.34536
