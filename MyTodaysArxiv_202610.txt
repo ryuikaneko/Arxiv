@@ -19,7 +19,7 @@ https://arxiv.org/abs/2610.34312
 * https://arxiv.org/abs/2610.34470 # Symmetry-resolved quasilocal entanglement as a key to Mott and pseudogap physics in plaquette CDMFT, Gabriele Bellomia, Carlos Mejuto-Zaera, Massimo Capone, Adriano Amaricci
 https://arxiv.org/abs/2610.34536
 https://arxiv.org/abs/2610.34551
-https://arxiv.org/abs/2610.34596
+* https://arxiv.org/abs/2610.34596 # Non-magnetic impurities as a quantum microscope of finite size effects in spin chains, Quentin Faure, Shintaro Takayoshi, Virginie Simonet, Beatrice Grenier, Stephane Raymond, Eric Ressouche, Xavier Fabreges, Pascal Lejay, Thierry Giamarchi, Sylvain Petit
 https://arxiv.org/abs/2610.34642
 
 https://arxiv.org/abs/2610.34693
