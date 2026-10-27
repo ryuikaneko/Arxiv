@@ -15,7 +15,7 @@ https://arxiv.org/abs/2610.33989
 https://arxiv.org/abs/2610.34230
 https://arxiv.org/abs/2610.34312
 * https://arxiv.org/abs/2610.34342 # Fermionic superfluid transition and pairing scale separation in the kagome flat band, Xiang Li, Yu Wang
-https://arxiv.org/abs/2610.34439
+* https://arxiv.org/abs/2610.34439 # Theory of the 1/9 Magnetization Plateau of the Spin-1/2 Kagome Heisenberg Antiferromagnet, Pratyay Ghosh, Frederic Mila
 https://arxiv.org/abs/2610.34470
 https://arxiv.org/abs/2610.34536
 https://arxiv.org/abs/2610.34551
