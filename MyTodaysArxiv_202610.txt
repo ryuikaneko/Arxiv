@@ -46,7 +46,7 @@ https://arxiv.org/abs/2610.34024
 
 https://arxiv.org/abs/2610.34203
 https://arxiv.org/abs/2610.34277
-https://arxiv.org/abs/2610.34330
+* https://arxiv.org/abs/2610.34330 # Boundary-condition independence of infinite-chain ground states in the S=1 J-D antiferromagnetic chain, Hal Tasaki
 https://arxiv.org/abs/2610.34485
 https://arxiv.org/abs/2610.34492
 https://arxiv.org/abs/2610.34815
