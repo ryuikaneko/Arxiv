@@ -6,7 +6,7 @@ https://arxiv.org/abs/2610.31775
 https://arxiv.org/abs/2610.31933
 https://arxiv.org/abs/2610.31938
 https://arxiv.org/abs/2610.31947
-https://arxiv.org/abs/2610.32037
+* https://arxiv.org/abs/2610.32037 # Asymptotic scars arising from the remnants of quantum phase transitions, Leonard Logaric, Shane Dooley, Tsuyoshi Okubo, Nobuyuki Yoshioka
 https://arxiv.org/abs/2610.32054
 https://arxiv.org/abs/2610.32156
 https://arxiv.org/abs/2610.32209
@@ -20,7 +20,7 @@ https://arxiv.org/abs/2610.32724
 https://arxiv.org/abs/2610.32823
 https://arxiv.org/abs/2610.32882
 https://arxiv.org/abs/2610.32937
-https://arxiv.org/abs/2610.32974
+* https://arxiv.org/abs/2610.32974 # Maximal Orbital Entanglement from Non-Interacting Fermions, Damiano Aliverti-Piuri, Julia Liebert, Christian Schilling
 
 https://arxiv.org/abs/2610.31680
 https://arxiv.org/abs/2610.31824
