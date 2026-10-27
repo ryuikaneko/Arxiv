@@ -35,7 +35,7 @@ https://arxiv.org/abs/2610.35381
 
 https://arxiv.org/abs/2610.35401
 * https://arxiv.org/abs/2610.35814 # The fate of s+- superconductivity in the bilayer nickelate La3Ni2O7, Kaustubh Roy, Piers Coleman
-https://arxiv.org/abs/2610.35855
+* https://arxiv.org/abs/2610.35855 # Collinear and Coplanar Altermagnetism in a Penrose Quasicrystal, Bai-He Yao, Zhi-Yan Shao, Ye Cao, Fan Yang
 https://arxiv.org/abs/2610.33156
 https://arxiv.org/abs/2610.33221
 https://arxiv.org/abs/2610.33524
