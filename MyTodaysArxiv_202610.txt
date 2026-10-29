@@ -11,10 +11,10 @@ https://arxiv.org/abs/2610.36199
 https://arxiv.org/abs/2610.36501
 https://arxiv.org/abs/2610.36505
 
-https://arxiv.org/abs/2610.36528
+* https://arxiv.org/abs/2610.36528 # Measurement-induced entanglement phases in hyperbolic gauge-Higgs models, Cole Kelson-Packer, Hiroki Sukeno, Akimasa Miyake
 https://arxiv.org/abs/2610.36567
 https://arxiv.org/abs/2610.36661
-https://arxiv.org/abs/2610.36673
+* https://arxiv.org/abs/2610.36673 # Atom as an Agent: Emergent Order by Collective Predictive Coding, Koji Hashimoto, Tadahiro Taniguchi
 https://arxiv.org/abs/2610.36697
 https://arxiv.org/abs/2610.36710
 https://arxiv.org/abs/2610.36799
