@@ -4,7 +4,7 @@ https://arxiv.org/abs/2610.35931
 https://arxiv.org/abs/2610.36038
 https://arxiv.org/abs/2610.36041
 https://arxiv.org/abs/2610.36048
-https://arxiv.org/abs/2610.36054
+* https://arxiv.org/abs/2610.36054 # Mesons, Confinement, and Complexity: A Krylov Space Perspective on the Long-Range Ising Chain, Xuhao Jiang, Jad C. Halimeh, N. S. Srivatsa
 https://arxiv.org/abs/2610.36058
 https://arxiv.org/abs/2610.36135
 https://arxiv.org/abs/2610.36199
