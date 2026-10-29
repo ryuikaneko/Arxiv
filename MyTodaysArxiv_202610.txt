@@ -41,7 +41,7 @@ https://arxiv.org/abs/2610.36997
 * https://arxiv.org/abs/2610.37092 # Quantum Fisher Information Deficit as a Geometric Signature of Strong-to-Weak Spontaneous Symmetry Breaking, Zhang-Chi Yin, Wei Zheng
 https://arxiv.org/abs/2610.37142
 https://arxiv.org/abs/2610.37160
-https://arxiv.org/abs/2610.37589
+* https://arxiv.org/abs/2610.37589 # Dynamical quantum simulations as laboratories for quantum information, Su Yeon Chang, Hailey S. Murray, Brian Barch, Greeshma Oruganti, Luis Pedro Garcia-Pintos, Martin Larocca, Mark M. Wilde, M. Cerezo
 https://arxiv.org/abs/2610.37630
 
 https://journals.aps.org/prb/abstract/10.1103/rlc2-ggbl
