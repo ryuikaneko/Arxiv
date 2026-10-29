@@ -30,7 +30,7 @@ https://arxiv.org/abs/2610.37301
 https://arxiv.org/abs/2610.37402
 * https://arxiv.org/abs/2610.37426 # Chaos picture of spin glasses, Wenlong Wang
 https://arxiv.org/abs/2610.37505
-https://arxiv.org/abs/2610.37575
+* https://arxiv.org/abs/2610.37575 # Topological Criticality with Charge-\(3e\) Fluctuations in the \(\mathrm{SU}(3)\) Triangular-Lattice Hofstadter--Hubbard Model, Yang Liu, Ya-Hui Zhang, Xue-Yang Song
 https://arxiv.org/abs/2610.37654
 
 https://arxiv.org/abs/2610.36047
