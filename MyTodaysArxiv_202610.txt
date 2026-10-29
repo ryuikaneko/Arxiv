@@ -38,7 +38,7 @@ https://arxiv.org/abs/2610.36180
 https://arxiv.org/abs/2610.36518
 https://arxiv.org/abs/2610.36898
 https://arxiv.org/abs/2610.36997
-https://arxiv.org/abs/2610.37092
+* https://arxiv.org/abs/2610.37092 # Quantum Fisher Information Deficit as a Geometric Signature of Strong-to-Weak Spontaneous Symmetry Breaking, Zhang-Chi Yin, Wei Zheng
 https://arxiv.org/abs/2610.37142
 https://arxiv.org/abs/2610.37160
 https://arxiv.org/abs/2610.37589
