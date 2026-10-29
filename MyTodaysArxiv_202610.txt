@@ -28,7 +28,7 @@ https://arxiv.org/abs/2610.37294
 https://arxiv.org/abs/2610.37300
 https://arxiv.org/abs/2610.37301
 https://arxiv.org/abs/2610.37402
-https://arxiv.org/abs/2610.37426
+* https://arxiv.org/abs/2610.37426 # Chaos picture of spin glasses, Wenlong Wang
 https://arxiv.org/abs/2610.37505
 https://arxiv.org/abs/2610.37575
 https://arxiv.org/abs/2610.37654
