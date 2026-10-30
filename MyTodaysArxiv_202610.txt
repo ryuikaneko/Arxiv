@@ -64,7 +64,7 @@ https://arxiv.org/abs/2610.38614
 https://arxiv.org/abs/2610.38635
 https://arxiv.org/abs/2610.38663
 https://arxiv.org/abs/2610.38961
-https://arxiv.org/abs/2610.39059
+* https://arxiv.org/abs/2610.39059 # Fate of Quantum Magic, Liuke Lyu, Erik S. Sorensen, William Witczak-Krempa
 
 https://arxiv.org/abs/2610.39707
 https://arxiv.org/abs/2610.39712
