@@ -9,7 +9,7 @@ https://arxiv.org/abs/2610.38651
 * https://arxiv.org/abs/2610.38704 # Gravitational anomaly spectroscopy of a Kitaev spin liquid, Kumar Ghosh
 https://arxiv.org/abs/2610.38724
 * https://arxiv.org/abs/2610.38741 # Mixed-State Topological Transition and Emergent Fractionalized Supersymmetry in the Non-Abelian Kitaev Spin Liquid, Zhou-Quan Wan, Hong Yao, Shao-Kai Jian
-https://arxiv.org/abs/2610.38805
+* https://arxiv.org/abs/2610.38805 # Spectrum of the steady-state distribution function of disordered Lindbladian fermions at large channel number, Maksim Parfenov, Igor Burmistrov
 
 https://arxiv.org/abs/2610.38850
 https://arxiv.org/abs/2610.38876
