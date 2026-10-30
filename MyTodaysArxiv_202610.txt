@@ -59,7 +59,7 @@ https://arxiv.org/abs/2610.37991
 https://arxiv.org/abs/2610.38028
 https://arxiv.org/abs/2610.38437
 https://arxiv.org/abs/2610.38437
-https://arxiv.org/abs/2610.38533
+* https://arxiv.org/abs/2610.38533 # Exploring Fractional Quantum Hall States with Deep Learning: From Abelian to Non-Abelian Phases, Xiangyu Ma, Kehuang Chen, Yuntian Gu, Weiluo Ren, Ji Chen, Di Luo, Fengcheng Wu, Xiang Li
 https://arxiv.org/abs/2610.38614
 https://arxiv.org/abs/2610.38635
 https://arxiv.org/abs/2610.38663
