@@ -81,7 +81,7 @@ https://arxiv.org/abs/2610.40612
 https://arxiv.org/abs/2610.40628
 https://arxiv.org/abs/2610.40638
 * https://arxiv.org/abs/2610.37746 # A B1g phonon unlocks d-wave superconductivity in the repulsive Hubbard model, Wen O. Wang, Tianshu Li, Xiaoyue Ma, Rong Zhang, Lei Zhang, Shruti Agarwal, Benjamin Cohen-Stead, Emily Z. Zhang, Brian Moritz, Steven Johnston, Zhi-Xun Shen, Thomas P. Devereaux
-https://arxiv.org/abs/2610.37754
+* https://arxiv.org/abs/2610.37754 # Meta-Altermagnetism and Enhanced Spin-Splitting, Bogeng Wen, Hae-Young Kee
 https://arxiv.org/abs/2610.37760
 https://arxiv.org/abs/2610.37761
 https://arxiv.org/abs/2610.37765
