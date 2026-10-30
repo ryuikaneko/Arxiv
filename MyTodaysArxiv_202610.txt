@@ -22,7 +22,7 @@ https://arxiv.org/abs/2610.38401
 * https://arxiv.org/abs/2610.38554 # Coherent errors, syndrome extraction and the Robustness of Magic in stabiliser codes, Enrico Bozzetto, Jonte R. Hance
 * https://arxiv.org/abs/2610.38630 # Competition and cancellation in a tilted Rice--Mele chain: exact Wannier--Stark offset and spectral readout, Xiang Gao, Xing Deng, Shoulong Chen, Ying Zhang, Chunhua Zhang, Wei Xiao, Xueting Fang
 
-https://arxiv.org/abs/2610.38707
+* https://arxiv.org/abs/2610.38707 # Quenched Thermodynamics from Ancilla-Assisted Imaginary-Time Evolution, Ibukunoluwa Adisa, Daniele Cuomo
 https://arxiv.org/abs/2610.38803
 https://arxiv.org/abs/2610.38807
 https://arxiv.org/abs/2610.38844
