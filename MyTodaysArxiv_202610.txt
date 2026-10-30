@@ -1,6 +1,6 @@
 20261030
 
-https://arxiv.org/abs/2610.37791
+* https://arxiv.org/abs/2610.37791 # Topological Quantum Error-Correcting Thresholds of a Symmetry-Enriched Toric Code, Jiasheng He, Ryan Thorngren
 https://arxiv.org/abs/2610.37807
 https://arxiv.org/abs/2610.37831
 https://arxiv.org/abs/2610.37839
