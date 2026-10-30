@@ -11,7 +11,7 @@ https://arxiv.org/abs/2610.37873
 https://arxiv.org/abs/2610.37894
 https://arxiv.org/abs/2610.38049
 
-https://arxiv.org/abs/2610.38059
+* https://arxiv.org/abs/2610.38059 # Exact Positive-P Simulation of Open Quantum Spin Systems with Generalized Density Matrix Formalism, Alex Ferrier, Yi Shi, Marzena H. Szymanska, Piotr Deuar
 https://arxiv.org/abs/2610.38119
 https://arxiv.org/abs/2610.38189
 https://arxiv.org/abs/2610.38193
