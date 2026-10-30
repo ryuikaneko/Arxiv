@@ -84,7 +84,7 @@ https://arxiv.org/abs/2610.40638
 * https://arxiv.org/abs/2610.37754 # Meta-Altermagnetism and Enhanced Spin-Splitting, Bogeng Wen, Hae-Young Kee
 https://arxiv.org/abs/2610.37760
 * https://arxiv.org/abs/2610.37761 # Field theory of competing phases in the interacting Kitaev chain, Pradip Kattel, Thierry Giamarchi
-https://arxiv.org/abs/2610.37765
+* https://arxiv.org/abs/2610.37765 # Long-Range Toric Code: Finite-Temperature Topological Order in Two Dimensions, Jacopo Gliozzi, Taylor L. Hughes, Kyung-Su Kim
 https://arxiv.org/abs/2610.37770
 https://arxiv.org/abs/2610.37781
 
