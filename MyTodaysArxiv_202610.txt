@@ -19,7 +19,7 @@ https://arxiv.org/abs/2610.38261
 https://arxiv.org/abs/2610.38322
 https://arxiv.org/abs/2610.38340
 https://arxiv.org/abs/2610.38401
-https://arxiv.org/abs/2610.38554
+* https://arxiv.org/abs/2610.38554 # Coherent errors, syndrome extraction and the Robustness of Magic in stabiliser codes, Enrico Bozzetto, Jonte R. Hance
 https://arxiv.org/abs/2610.38630
 
 https://arxiv.org/abs/2610.38707
