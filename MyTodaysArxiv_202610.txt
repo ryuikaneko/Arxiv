@@ -44,7 +44,7 @@ https://arxiv.org/abs/2610.40117
 https://arxiv.org/abs/2610.40170
 https://arxiv.org/abs/2610.40297
 
-https://arxiv.org/abs/2610.40317
+* https://arxiv.org/abs/2610.40317 # Transport in spinful non-Hermitian gauge lattices, Hamed Ghaemi-Dizicheh, Shahram Dehdashti, Janis Noetzel
 https://arxiv.org/abs/2610.40353
 https://arxiv.org/abs/2610.40410
 https://arxiv.org/abs/2610.40417
