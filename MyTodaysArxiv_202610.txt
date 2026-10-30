@@ -8,7 +8,7 @@ https://arxiv.org/abs/2610.38626
 https://arxiv.org/abs/2610.38651
 * https://arxiv.org/abs/2610.38704 # Gravitational anomaly spectroscopy of a Kitaev spin liquid, Kumar Ghosh
 https://arxiv.org/abs/2610.38724
-https://arxiv.org/abs/2610.38741
+* https://arxiv.org/abs/2610.38741 # Mixed-State Topological Transition and Emergent Fractionalized Supersymmetry in the Non-Abelian Kitaev Spin Liquid, Zhou-Quan Wan, Hong Yao, Shao-Kai Jian
 https://arxiv.org/abs/2610.38805
 
 https://arxiv.org/abs/2610.38850
