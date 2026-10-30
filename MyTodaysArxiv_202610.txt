@@ -47,7 +47,7 @@ https://arxiv.org/abs/2610.40170
 * https://arxiv.org/abs/2610.40317 # Transport in spinful non-Hermitian gauge lattices, Hamed Ghaemi-Dizicheh, Shahram Dehdashti, Janis Noetzel
 * https://arxiv.org/abs/2610.40353 # Multidimensional revival dynamics in a bosonic many-body system, Denis Ullmo (1), Steven Tomsovic (1 and 2), Gabriel M. Lando (1), Peter Schlagheck (3) 
 https://arxiv.org/abs/2610.40410
-https://arxiv.org/abs/2610.40417
+* https://arxiv.org/abs/2610.40417 # Seeding and Amplification of Chaos in Long-Range Interacting Spin Chains, Sareen Sabra, Jeffrey G. Rau
 https://arxiv.org/abs/2610.40469
 https://arxiv.org/abs/2610.40596
 https://arxiv.org/abs/2610.40651
