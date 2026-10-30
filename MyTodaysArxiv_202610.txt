@@ -42,7 +42,7 @@ https://arxiv.org/abs/2610.39986
 * https://arxiv.org/abs/2610.40093 # Static Response of the Strongly Coupled Electron Gas from Diffusion Monte Carlo, Muhammed H. Gunes, Yubo Yang, Vitaly Gorelov, Miguel A. Morales, Matteo Gatti, Lucia Reining, Shiwei Zhang
 https://arxiv.org/abs/2610.40117
 https://arxiv.org/abs/2610.40170
-https://arxiv.org/abs/2610.40297
+* https://arxiv.org/abs/2610.40297 # Topological Quantum Spin Liquids in a Ladder with Majorana fermions and p-wave Superconductivity, Magali Korolev, Fan Yang, Erik S. Sorensen, Karyn Le Hur
 
 * https://arxiv.org/abs/2610.40317 # Transport in spinful non-Hermitian gauge lattices, Hamed Ghaemi-Dizicheh, Shahram Dehdashti, Janis Noetzel
 https://arxiv.org/abs/2610.40353
