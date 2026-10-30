@@ -16,7 +16,7 @@ https://arxiv.org/abs/2610.38876
 https://arxiv.org/abs/2610.38925
 https://arxiv.org/abs/2610.39074
 https://arxiv.org/abs/2610.39081
-https://arxiv.org/abs/2610.39098
+* https://arxiv.org/abs/2610.39098 # The End of Chaos at the Ideal Glass Transition, Zi-Long Wang, Jack F. Douglas, Matteo Baggioli, Zhao-Yan Sun, Wen-Sheng Xu
 https://arxiv.org/abs/2610.39186
 https://arxiv.org/abs/2610.39307
 https://arxiv.org/abs/2610.39349
