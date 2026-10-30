@@ -68,12 +68,12 @@ https://arxiv.org/abs/2610.38961
 
 https://arxiv.org/abs/2610.39707
 https://arxiv.org/abs/2610.39712
-https://arxiv.org/abs/2610.39731
+* https://arxiv.org/abs/2610.39731 # Going deep, reaching further: What can Boltzmann machines efficiently represent?, Tobias Reinhart, Gemma De les Coves
 https://arxiv.org/abs/2610.40299
 https://arxiv.org/abs/2610.40337
 https://arxiv.org/abs/2610.40371
 https://arxiv.org/abs/2610.40471
-https://arxiv.org/abs/2610.40567
+* https://arxiv.org/abs/2610.40567 # Algebraic strong-to-weak symmetry breaking and partial decodability in the surface code, Stephen W. Yan, Yimu Bao, Sagar Vijay
 https://arxiv.org/abs/2610.40592
 https://arxiv.org/abs/2610.40598
 
