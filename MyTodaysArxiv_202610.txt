@@ -36,7 +36,7 @@ https://arxiv.org/abs/2610.39894
 https://arxiv.org/abs/2610.39929
 https://arxiv.org/abs/2610.39943
 https://arxiv.org/abs/2610.39973
-https://arxiv.org/abs/2610.39978
+* https://arxiv.org/abs/2610.39978 # Electronic liquid crystals and superconductivity from doping a moire Mott insulator, Yichi Zhang, Yiyu Xia, Zhongdong Han, Jekwan Lee, Brandon Bauer, Kenji Watanabe, Takashi Taniguchi, Wenjin Zhao, Kin Fai Mak, Jie Shan
 https://arxiv.org/abs/2610.39986
 https://arxiv.org/abs/2610.39994
 https://arxiv.org/abs/2610.40093
