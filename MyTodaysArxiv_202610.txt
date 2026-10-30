@@ -41,7 +41,7 @@ https://arxiv.org/abs/2610.40393
 https://arxiv.org/abs/2610.40405
 https://arxiv.org/abs/2610.40561
 https://arxiv.org/abs/2610.40585
-https://arxiv.org/abs/2610.37800
+* https://arxiv.org/abs/2610.37800 # Complex Langevin kernels for real-time SU(N) lattice gauge theory in 3+1 dimensions, Kirill Boguslavski, Paul Hotzy, David I. Mueller
 https://arxiv.org/abs/2610.37820
 
 https://arxiv.org/abs/2610.38660
