@@ -3,8 +3,8 @@
 * https://arxiv.org/abs/2610.37791 # Topological Quantum Error-Correcting Thresholds of a Symmetry-Enriched Toric Code, Jiasheng He, Ryan Thorngren
 https://arxiv.org/abs/2610.37807
 https://arxiv.org/abs/2610.37831
-https://arxiv.org/abs/2610.37839
-https://arxiv.org/abs/2610.37840
+* https://arxiv.org/abs/2610.37839 # Shor's algorithm compiled on cat qubits: 22 593 qubits for RSA-2048 in 3.14 days, Axel Pappalardo, Dahmun Goudarzi, Victor Hertz, Hugo Jacinto, Larissa Kroell, Andre Schrottenloher, Peter Shanahan, Elie Gouzien, Remi de la Vieuville, Vivien Londe
+* https://arxiv.org/abs/2610.37840 # Ground-state energy estimation compiled on cat qubits: 7 164 qubits for FeMoco-54 in 23.5 hours, Larissa Kroell, Hugo Jacinto, Victor Hertz, Axel Pappalardo, Adel Ben Moussa, Manuel Rispler, Peter Shanahan, Elie Gouzien, Christophe Vuillot, Vivien Londe
 https://arxiv.org/abs/2610.37847
 https://arxiv.org/abs/2610.37854
 https://arxiv.org/abs/2610.37873
