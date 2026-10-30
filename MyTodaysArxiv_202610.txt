@@ -27,7 +27,7 @@ https://arxiv.org/abs/2610.39514
 * https://arxiv.org/abs/2610.39529 # Multiple Current Enhancement Regimes and Interaction Induced Re-entrant Transport in a Quasiperiodic Hubbard Ring with Antiferromagnetic Order, Souvik Roy, Ranjini Bhattacharya
 https://arxiv.org/abs/2610.39568
 https://arxiv.org/abs/2610.39575
-https://arxiv.org/abs/2610.39710
+* https://arxiv.org/abs/2610.39710 # Phonon Fluctuations Enhanced Superconductivity in a Three-Band Cuprate Model, Jiarui Liu, Yao Wang
 https://arxiv.org/abs/2610.39737
 https://arxiv.org/abs/2610.39815
 https://arxiv.org/abs/2610.39886
