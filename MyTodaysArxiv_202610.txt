@@ -33,7 +33,7 @@ https://arxiv.org/abs/2610.39296
 https://arxiv.org/abs/2610.39541
 https://arxiv.org/abs/2610.39577
 
-https://arxiv.org/abs/2610.39670
+* https://arxiv.org/abs/2610.39670 # Error-Corrected Quantum Optimization via Rydberg Atom Array Embeddings, Andrew Byun, Berend Klaver, Arinjoy De, Pedro Ildefonso, Davit Khachatryan, Alexei Bylinskii, Michael Schuler, Wolfgang Lechner
 https://arxiv.org/abs/2610.39847
 https://arxiv.org/abs/2610.40141
 https://arxiv.org/abs/2610.40361
