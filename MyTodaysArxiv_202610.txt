@@ -151,9 +151,6 @@ https://arxiv.org/abs/2610.38338
 
 https://journals.aps.org/pre/abstract/10.1103/pvpn-49mz
 https://journals.aps.org/prl/abstract/10.1103/cx1p-thwd
-
-====
-
 https://journals.aps.org/prl/abstract/10.1103/q4lp-htgw
 https://journals.aps.org/prx/abstract/10.1103/yb9y-3t91
 https://journals.aps.org/prb/abstract/10.1103/5nbn-zfp3
