@@ -18,7 +18,7 @@ https://arxiv.org/abs/2610.41101
 * https://arxiv.org/abs/2610.41161 # Frustration-Induced 1/6-Vortex-Paired Phase in a Kagome XY Model, Tong-Yu Lin, Guang-Ming Zhang
 https://arxiv.org/abs/2610.41164
 https://arxiv.org/abs/2610.41167
-https://arxiv.org/abs/2610.41256
+* https://arxiv.org/abs/2610.41256 # Faster-than-power-law decay of order parameter correlations in the two-dimensional RP2 model: a rigorous result by vibe-proving, Masaki Oshikawa
 https://arxiv.org/abs/2610.41277
 https://arxiv.org/abs/2610.41393
 
