@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2610.40693
 https://arxiv.org/abs/2610.40709
-https://arxiv.org/abs/2610.40808
+* https://arxiv.org/abs/2610.40808 # Liouvillian spectral snapshots: A reduced-subspace approach for time-dependent and noisy open quantum systems, Hans Christiansen, Andre Melo, Jens Paaske, Fabrizio Minganti
 https://arxiv.org/abs/2610.40827
 https://arxiv.org/abs/2610.40840
 https://arxiv.org/abs/2610.40848
