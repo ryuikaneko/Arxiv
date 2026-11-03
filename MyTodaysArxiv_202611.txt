@@ -34,7 +34,7 @@ https://arxiv.org/abs/2610.41976
 https://arxiv.org/abs/2610.41991
 
 https://arxiv.org/abs/2610.42007
-https://arxiv.org/abs/2610.42108
+* https://arxiv.org/abs/2610.42108 # Quantum 3xplorer: AI-Native Engine for Next-Generation Quantum Materials Modeling, Vsevolod Biryukov, Sergey V. Barabash, Pranab Kumar Das, Jack Deslippe, Mauro Del Ben, Felipe H. da Jornada, Yuming Shi, Johannes Voss, Zhenglu Li, Piero Altoe, Kamal Choudhary, Ruth Pachter, Steven G. Louie, Marvin L. Cohen, Timur Bazhirov
 https://arxiv.org/abs/2610.42115
 https://arxiv.org/abs/2610.42127
 https://arxiv.org/abs/2610.18182
