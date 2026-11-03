@@ -42,7 +42,7 @@ https://arxiv.org/abs/2610.37791
 https://arxiv.org/abs/2610.40762
 * https://arxiv.org/abs/2610.40776 # A Universal Approach to Hydrodynamics in Higher Dimensions via Tensor Networks, Sajant Anand, Christopher D. White, Jack Kemp, Julia Wei, Norman Y. Yao, Michael P. Zaletel
 https://arxiv.org/abs/2610.40779
-https://arxiv.org/abs/2610.40805
+* https://arxiv.org/abs/2610.40805 # Fock-space delocalization and its control in scarred-vs-ergodic dynamics, Francesco Perciavalle
 
 https://arxiv.org/abs/2610.40810
 https://arxiv.org/abs/2610.41058
