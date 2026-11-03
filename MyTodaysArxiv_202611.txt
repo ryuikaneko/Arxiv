@@ -28,7 +28,7 @@ https://arxiv.org/abs/2611.00144
 * https://arxiv.org/abs/2611.00255 # Benchmarking Quantum Convolutional Neural Networks and their classical surrogates on long-range strongly correlated models, Tatiana A. Bespalova, Reka Schwengelbeck, Laura Mismetti, Johannes Schachenmayer, Ivano Tavernelli, Francesco Tacchino
 https://arxiv.org/abs/2611.00303
 https://arxiv.org/abs/2611.00404
-https://arxiv.org/abs/2611.00603
+* https://arxiv.org/abs/2611.00603 # Implications of the PXP ground-state sign structure for neural-network variational Monte Carlo, Jun Sur Richard Park, Kwangmin Yu
 
 https://arxiv.org/abs/2611.00271
 https://arxiv.org/abs/2611.00299
