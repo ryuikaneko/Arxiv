@@ -19,7 +19,7 @@ https://arxiv.org/abs/2611.01848
 https://arxiv.org/abs/2611.01885
 https://arxiv.org/abs/2611.01899
 https://arxiv.org/abs/2611.02022
-https://arxiv.org/abs/2611.03073
+* https://arxiv.org/abs/2611.03073 # Hidden variable Z2 topological order in a bilayer kagome antiferromagnet, Hao Tian, Pengwei Zhao, Gang v. Chen
 https://arxiv.org/abs/2611.03141
 
 https://arxiv.org/abs/2611.03164
