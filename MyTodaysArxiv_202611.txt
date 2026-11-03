@@ -25,7 +25,7 @@ https://arxiv.org/abs/2611.02345
 https://arxiv.org/abs/2611.03630
 https://arxiv.org/abs/2611.00144
 * https://arxiv.org/abs/2611.00201 # Quantum simulation of real-time Yukawa dynamics with qubits and qumodes, Jack Y. Araz, Jeffrey Forshaw, Ross Jenkinson
-https://arxiv.org/abs/2611.00255
+* https://arxiv.org/abs/2611.00255 # Benchmarking Quantum Convolutional Neural Networks and their classical surrogates on long-range strongly correlated models, Tatiana A. Bespalova, Reka Schwengelbeck, Laura Mismetti, Johannes Schachenmayer, Ivano Tavernelli, Francesco Tacchino
 https://arxiv.org/abs/2611.00303
 https://arxiv.org/abs/2611.00404
 https://arxiv.org/abs/2611.00603
