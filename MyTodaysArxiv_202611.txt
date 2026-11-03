@@ -28,7 +28,7 @@ https://arxiv.org/abs/2611.03316
 * https://arxiv.org/abs/2611.03562 # Multiple windows of eigenstate-selective delocalization in a non-Hermitian quasiperiodic lattice, Souvik Roy, Santanu K. Maiti
 https://arxiv.org/abs/2610.36031
 * https://arxiv.org/abs/2611.00197 # The Multi-trace Eigenstate Thermalization Hypothesis, Ahmed I. Abdalla, Gabriele Di Ubaldo, Elisa Tabor
-https://arxiv.org/abs/2611.00203
+* https://arxiv.org/abs/2611.00203 # Exhaustive Construction of Generalized Parent Hamiltonians for Matrix Product States, He-Ran Wang, Lorenzo Gotta, Sanjay Moudgalya
 https://arxiv.org/abs/2611.00233
 https://arxiv.org/abs/2611.00422
 https://arxiv.org/abs/2611.00710
