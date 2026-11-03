@@ -54,5 +54,3 @@ https://arxiv.org/abs/2610.42106
 https://arxiv.org/abs/2610.41845
 
 https://journals.aps.org/pra/abstract/10.1103/dw9y-yq31
-
-====
