@@ -28,7 +28,7 @@ https://arxiv.org/abs/2610.41608
 https://arxiv.org/abs/2610.41708
 https://arxiv.org/abs/2610.41712
 https://arxiv.org/abs/2610.41721
-https://arxiv.org/abs/2610.41761
+* https://arxiv.org/abs/2610.41761 # Scaling laws of entanglement entropy in fractal dimensions, Zheyu Cheng, Kailin Song, Jian-Wei Liu, Hanxi Sun, Hongyu Zou, Yuanjin Zheng, Yihao Yang, Baile Zhang
 https://arxiv.org/abs/2610.41808
 https://arxiv.org/abs/2610.41824
 https://arxiv.org/abs/2610.41831
