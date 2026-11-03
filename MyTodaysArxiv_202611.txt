@@ -14,7 +14,7 @@ https://arxiv.org/abs/2611.00954
 https://arxiv.org/abs/2611.01510
 https://arxiv.org/abs/2611.01574
 https://arxiv.org/abs/2611.01619
-https://arxiv.org/abs/2611.01771
+* https://arxiv.org/abs/2611.01771 # Three New Phases in the Two-Dimensional Potts Model at Complex Temperature, Fang-Cheng Wang, Qi-Jun Ye, Xin-Zheng Li
 https://arxiv.org/abs/2611.01848
 https://arxiv.org/abs/2611.01885
 https://arxiv.org/abs/2611.01899
