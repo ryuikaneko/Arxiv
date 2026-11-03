@@ -45,7 +45,7 @@ https://arxiv.org/abs/2611.03318
 https://arxiv.org/abs/2611.03469
 
 https://arxiv.org/abs/2611.03542
-https://arxiv.org/abs/2611.00154
+* https://arxiv.org/abs/2611.00154 # Weak-coupling selection and finite-torus entropy in the triangular Ising antiferromagnet, Weiqi Jiang, Pengcheng Hou
 https://arxiv.org/abs/2611.00170
 https://arxiv.org/abs/2611.00204
 https://arxiv.org/abs/2611.00228
