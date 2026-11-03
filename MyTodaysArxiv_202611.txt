@@ -8,7 +8,7 @@ https://arxiv.org/abs/2610.40840
 https://arxiv.org/abs/2610.40848
 https://arxiv.org/abs/2610.40886
 https://arxiv.org/abs/2610.40988
-https://arxiv.org/abs/2610.41017
+* https://arxiv.org/abs/2610.41017 # Preparation of a Laughlin-like fractional Chern insulator on a superconducting quantum processor, Kamil Dutkiewicz, Barbara Andrade, Geza Giedke, Tobias Grass
 https://arxiv.org/abs/2610.41033
 
 https://arxiv.org/abs/2610.41194
