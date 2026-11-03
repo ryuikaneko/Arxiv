@@ -12,7 +12,7 @@ https://arxiv.org/abs/2611.01890
 https://arxiv.org/abs/2611.02819
 
 https://arxiv.org/abs/2611.02833
-https://arxiv.org/abs/2611.02861
+* https://arxiv.org/abs/2611.02861 # Quantum-Nondemolition Probing of Multiphoton Transitions between Dressed States in a Strongly Driven Jaynes--Cummings System, Han-Yu Ren, Zi-Yi Liu, Wen-Qi Fu, Zhuo Chen, Wen-Hua Qin, Tao Rong, Bo-Yang An, ZhiAng Qin, Li-Wei Liu, Rami Mrad, Ming Gong, Yingqiu Mao, Yuan Zhang, Johannes Majer
 https://arxiv.org/abs/2611.03089
 https://arxiv.org/abs/2611.03262
 https://arxiv.org/abs/2611.03324
