@@ -23,7 +23,7 @@ https://arxiv.org/abs/2611.02022
 https://arxiv.org/abs/2611.03141
 
 https://arxiv.org/abs/2611.03164
-https://arxiv.org/abs/2611.03241
+* https://arxiv.org/abs/2611.03241 # Establishing Neel order in the square-lattice antiferromagnetic Heisenberg model: a bootstrap proof, Nisarg Chadha, Taige Wang, Pavel A. Nosov, Michael G. Scheer, Eslam Khalaf
 https://arxiv.org/abs/2611.03316
 https://arxiv.org/abs/2611.03562
 https://arxiv.org/abs/2610.36031
