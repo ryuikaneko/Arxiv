@@ -4,7 +4,7 @@ https://arxiv.org/abs/2611.00620
 https://arxiv.org/abs/2611.00751
 https://arxiv.org/abs/2611.00832
 https://arxiv.org/abs/2611.00885
-https://arxiv.org/abs/2611.00902
+* https://arxiv.org/abs/2611.00902 # Quantum Mpemba effect of Z2 symmetry restoration in the Dicke model, Dongni Chen, Wei Xiong, Peng-Cheng Li, Yee Sin Ang, Ching Hua Lee, Yi Qin
 * https://arxiv.org/abs/2611.01434 # Boson sampling is fragile to loss, Youngrong Lim
 https://arxiv.org/abs/2611.01389
 https://arxiv.org/abs/2611.01855
