@@ -7,9 +7,9 @@ https://arxiv.org/abs/2610.40761
 * https://arxiv.org/abs/2610.40771 # Gapless and Non-Equilibrium Topology in Blockaded Ladders, Ramanjit Sohal, Hannes Bernien, Ruben Verresen
 https://arxiv.org/abs/2610.40786
 https://arxiv.org/abs/2610.40862
-https://arxiv.org/abs/2610.40864
+* https://arxiv.org/abs/2610.40864 # Quantum Monte-Carlo study of spin-valley ferromagnetism in rhombohedral graphene, Michael Demos, Dongqi Li, Mainak Das, Tobias M. R. Wolf, Chunli Huang
 https://arxiv.org/abs/2610.40870
-https://arxiv.org/abs/2610.40910
+* https://arxiv.org/abs/2610.40910 # Triplon thermal Hall response in a honeycomb-lattice J1-J2 Heisenberg antiferromagnet with Dzyaloshinskii--Moriya interactions, Guilherme F. Figueiredo, E. Miranda, R. L. Doretto
 
 https://arxiv.org/abs/2610.40986
 https://arxiv.org/abs/2610.40990
