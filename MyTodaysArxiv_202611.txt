@@ -19,7 +19,7 @@ https://arxiv.org/abs/2610.41101
 https://arxiv.org/abs/2610.41164
 https://arxiv.org/abs/2610.41167
 * https://arxiv.org/abs/2610.41256 # Faster-than-power-law decay of order parameter correlations in the two-dimensional RP2 model: a rigorous result by vibe-proving, Masaki Oshikawa
-https://arxiv.org/abs/2610.41277
+* https://arxiv.org/abs/2610.41277 # Coordination three heals, coordination four is hard: the antiferromagnetic Potts model with a costly third state, Jeehoon Choi, Suhwan Yoo, Chaeyeon Kim, Hee Young Kwon, Changyeon Won
 https://arxiv.org/abs/2610.41393
 
 https://arxiv.org/abs/2610.41409
