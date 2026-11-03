@@ -1,5 +1,35 @@
 20261103
 
+https://arxiv.org/abs/2611.00620
+https://arxiv.org/abs/2611.00751
+https://arxiv.org/abs/2611.00832
+https://arxiv.org/abs/2611.00885
+https://arxiv.org/abs/2611.00902
+https://arxiv.org/abs/2611.01434
+https://arxiv.org/abs/2611.01389
+https://arxiv.org/abs/2611.01855
+https://arxiv.org/abs/2611.01890
+https://arxiv.org/abs/2611.02819
+
+https://arxiv.org/abs/2611.02833
+https://arxiv.org/abs/2611.02861
+https://arxiv.org/abs/2611.03089
+https://arxiv.org/abs/2611.03262
+https://arxiv.org/abs/2611.03324
+https://arxiv.org/abs/2611.03624
+https://arxiv.org/abs/2611.00008
+https://arxiv.org/abs/2611.00776
+https://arxiv.org/abs/2611.02263
+https://arxiv.org/abs/2611.02345
+
+https://arxiv.org/abs/2611.03630
+https://arxiv.org/abs/2611.00144
+https://arxiv.org/abs/2611.00201
+https://arxiv.org/abs/2611.00255
+https://arxiv.org/abs/2611.00303
+https://arxiv.org/abs/2611.00404
+https://arxiv.org/abs/2611.00603
+
 https://arxiv.org/abs/2611.00271
 https://arxiv.org/abs/2611.00299
 * https://arxiv.org/abs/2611.00354 # A Julia implementation of Floquet-Bloch theory for high-harmonic generation in periodic systems, Ashwin Pillai, Aurelien Manchon, Claudio Attaccalite
