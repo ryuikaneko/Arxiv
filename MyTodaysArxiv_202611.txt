@@ -19,7 +19,7 @@ https://arxiv.org/abs/2611.03324
 https://arxiv.org/abs/2611.03624
 https://arxiv.org/abs/2611.00008
 * https://arxiv.org/abs/2611.00776 # Lieb-Robinson Light Cones in Long-Range Bosonic Systems, Carla Rubiliani, Cheng Shang, Tomotaka Kuwahara
-https://arxiv.org/abs/2611.02263
+* https://arxiv.org/abs/2611.02263 # Lieb-Robinson bounds for Bose-Hubbard Hamiltonians via path expansions, Alexander Elgart, Marius Lemm
 https://arxiv.org/abs/2611.02345
 
 https://arxiv.org/abs/2611.03630
