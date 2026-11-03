@@ -50,7 +50,7 @@ https://arxiv.org/abs/2611.01885
 https://arxiv.org/abs/2611.01899
 https://arxiv.org/abs/2611.02022
 * https://arxiv.org/abs/2611.03073 # Hidden variable Z2 topological order in a bilayer kagome antiferromagnet, Hao Tian, Pengwei Zhao, Gang v. Chen
-https://arxiv.org/abs/2611.03141
+* https://arxiv.org/abs/2611.03141 # Exact fermionic matrix elements from the Bethe-ansatz solution of the Richardson-Gaudin model, Peter D. Johannsen, Valerii K. Kozin, Jelena Klinovaja, Daniel Loss
 
 https://arxiv.org/abs/2611.03164
 * https://arxiv.org/abs/2611.03241 # Establishing Neel order in the square-lattice antiferromagnetic Heisenberg model: a bootstrap proof, Nisarg Chadha, Taige Wang, Pavel A. Nosov, Michael G. Scheer, Eslam Khalaf
