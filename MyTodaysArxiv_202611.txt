@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2611.00271
 https://arxiv.org/abs/2611.00299
-https://arxiv.org/abs/2611.00354
+* https://arxiv.org/abs/2611.00354 # A Julia implementation of Floquet-Bloch theory for high-harmonic generation in periodic systems, Ashwin Pillai, Aurelien Manchon, Claudio Attaccalite
 https://arxiv.org/abs/2611.00563
 https://arxiv.org/abs/2611.00745
 https://arxiv.org/abs/2611.00761
