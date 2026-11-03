@@ -8,7 +8,7 @@ https://arxiv.org/abs/2611.00745
 https://arxiv.org/abs/2611.00761
 * https://arxiv.org/abs/2611.00798 # Charge-Order pattern in kappa-BEDT-TTF salts: A model independent, selection rule approach, Alberto Girlando
 https://arxiv.org/abs/2611.00954
-https://arxiv.org/abs/2611.00987
+* https://arxiv.org/abs/2611.00987 # Melting noncoplanar order on the square-kagome lattice: Chiral, flat-band, and staggered spin liquids from projective symmetry, Harsh Raj, Atanu Maity, Yasir Iqbal
 https://arxiv.org/abs/2611.01223
 
 https://arxiv.org/abs/2611.01510
