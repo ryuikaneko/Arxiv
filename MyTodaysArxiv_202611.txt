@@ -44,7 +44,7 @@ https://arxiv.org/abs/2610.40762
 https://arxiv.org/abs/2610.40779
 * https://arxiv.org/abs/2610.40805 # Fock-space delocalization and its control in scarred-vs-ergodic dynamics, Francesco Perciavalle
 
-https://arxiv.org/abs/2610.40810
+* https://arxiv.org/abs/2610.40810 # Beyond the Kubo formula: unification of adiabatic and isothermal response in quantum systems, Giuliano Chiriaco, Vasco Cavina
 https://arxiv.org/abs/2610.41058
 https://arxiv.org/abs/2610.41138
 https://arxiv.org/abs/2610.41500
