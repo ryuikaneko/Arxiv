@@ -15,7 +15,7 @@ https://arxiv.org/abs/2610.40986
 https://arxiv.org/abs/2610.40990
 https://arxiv.org/abs/2610.41003
 https://arxiv.org/abs/2610.41101
-https://arxiv.org/abs/2610.41161
+* https://arxiv.org/abs/2610.41161 # Frustration-Induced 1/6-Vortex-Paired Phase in a Kagome XY Model, Tong-Yu Lin, Guang-Ming Zhang
 https://arxiv.org/abs/2610.41164
 https://arxiv.org/abs/2610.41167
 https://arxiv.org/abs/2610.41256
