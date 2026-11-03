@@ -36,7 +36,7 @@ https://arxiv.org/abs/2610.41991
 https://arxiv.org/abs/2610.42007
 * https://arxiv.org/abs/2610.42108 # Quantum 3xplorer: AI-Native Engine for Next-Generation Quantum Materials Modeling, Vsevolod Biryukov, Sergey V. Barabash, Pranab Kumar Das, Jack Deslippe, Mauro Del Ben, Felipe H. da Jornada, Yuming Shi, Johannes Voss, Zhenglu Li, Piero Altoe, Kamal Choudhary, Ruth Pachter, Steven G. Louie, Marvin L. Cohen, Timur Bazhirov
 * https://arxiv.org/abs/2610.42115 # Observation of light-induced Haldane gap in graphene, Fei Wang, Xuanxi Cai, Wanying Chen, Xiao Tang, Jinze Li, Benshu Fan, Tianshuang Sheng, Jinxi Lu, Jiansong Li, Hongyun Zhang, Pu Yu, Peizhe Tang, Wenhui Duan, Angel Rubio, Zhiyuan Sun, Shuyun Zhou
-https://arxiv.org/abs/2610.42127
+* https://arxiv.org/abs/2610.42127 # Resolving the spinon hierarchy of the Heisenberg antiferromagnet, Ian P. McCulloch, Jesse J. Osborne
 https://arxiv.org/abs/2610.18182
 https://arxiv.org/abs/2610.37791
 https://arxiv.org/abs/2610.40762
