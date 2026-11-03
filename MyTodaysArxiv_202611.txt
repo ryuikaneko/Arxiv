@@ -33,7 +33,7 @@ https://arxiv.org/abs/2611.00233
 https://arxiv.org/abs/2611.00422
 https://arxiv.org/abs/2611.00710
 
-https://arxiv.org/abs/2611.00831
+* https://arxiv.org/abs/2611.00831 # Ultraslow diffusion emerging from local symmetry breaking in quenched disorder, Jin Liu, Rainer Klages, Huihai Wang, Kehui Sun
 https://arxiv.org/abs/2611.01532
 https://arxiv.org/abs/2611.02731
 https://arxiv.org/abs/2611.03154
