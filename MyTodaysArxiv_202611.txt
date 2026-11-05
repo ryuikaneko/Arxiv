@@ -9,7 +9,7 @@ https://arxiv.org/abs/2611.04060
 https://arxiv.org/abs/2611.04078
 https://arxiv.org/abs/2611.04214
 * https://arxiv.org/abs/2611.04333 # LaQX: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models, Yuntian Gu, Chaohui Fan, Ruichen Li, Haoxiang Chen, Weizhong Fu, Yixiao Chen, Dingshun Lv, Weiluo Ren, Tao Xiang, Liwei Wang, Mingpu Qin, Xiang Li
-https://arxiv.org/abs/2611.04675
+* https://arxiv.org/abs/2611.04675 # Thermodynamic Evidence for Multiple Field-Induced Phases in an Anisotropic Kagome Antiferromagnet, M. Schuchard, Q. Barthelemy, C. Marcenat, N. Wack, P. Puphal, A. De Muer, D. LeBoeuf, T. Klein
 
 https://arxiv.org/abs/2611.04704
 https://arxiv.org/abs/2611.04845
