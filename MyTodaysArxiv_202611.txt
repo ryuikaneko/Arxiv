@@ -12,7 +12,7 @@ https://arxiv.org/abs/2611.05268
 https://arxiv.org/abs/2611.05303
 
 https://arxiv.org/abs/2611.05369
-https://arxiv.org/abs/2611.03859
+* https://arxiv.org/abs/2611.03859 # Factorized approximate inverse preconditioners in the tensor train format, Pau Torrente Badia, Daniel Perez Garcia, Artur Garcia-Saez, Stefano Carignano
 https://arxiv.org/abs/2611.04818
 https://arxiv.org/abs/2611.03845
 https://arxiv.org/abs/2611.03851
