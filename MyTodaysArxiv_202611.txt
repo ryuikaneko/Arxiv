@@ -14,7 +14,7 @@ https://arxiv.org/abs/2611.04214
 * https://arxiv.org/abs/2611.04704 # Closed- and open-system characterization of the Yukawa-SYK model in real time, Alex Windey, Christian H. Johansen, Philipp Hauke, Andrea Legramandi
 https://arxiv.org/abs/2611.04845
 https://arxiv.org/abs/2611.04975
-https://arxiv.org/abs/2611.05174
+* https://arxiv.org/abs/2611.05174 # Evidence for a Dirac Spin Liquid in the Kagome Heisenberg Antiferromagnet from High-Precision Neural-Network Quantum States, Zheng-Hang Sun, Christopher Roth, Ao Chen, Markus Heyl
 https://arxiv.org/abs/2611.05284
 https://arxiv.org/abs/2611.05326
 https://arxiv.org/abs/2611.05375
