@@ -19,7 +19,7 @@ https://arxiv.org/abs/2611.05865
 https://arxiv.org/abs/2611.05867
 * https://arxiv.org/abs/2611.05883 # Hardware Demonstration of Neural-Surrogated Quantum-Enhanced MCMC for Large-Scale Constrained Boltzmann Sampling, Yuya Kawamata, Keisuke Fujii
 https://arxiv.org/abs/2611.05941
-https://arxiv.org/abs/2611.05975
+* https://arxiv.org/abs/2611.05975 # Sample-based Quantum Diagonalization via Density Matrix Renormalization Group, Yuto Sugimoto, Tomonori Shirakawa, Yukio Kawashima, Toshinari Itoko, Seiji Yunoki
 https://arxiv.org/abs/2611.06073
 
 https://arxiv.org/abs/2611.06119
