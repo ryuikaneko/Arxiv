@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2611.04442
 https://arxiv.org/abs/2611.04496
 https://arxiv.org/abs/2611.04840
-https://arxiv.org/abs/2611.04919
+* https://arxiv.org/abs/2611.04919 # Transferable Lindblad Variational Ansatz for Accelerated Steady-State Preparation, Yun-Zhuo Fan, Dan-Bo Zhang
 https://arxiv.org/abs/2611.04994
 https://arxiv.org/abs/2611.05047
 https://arxiv.org/abs/2611.05079
