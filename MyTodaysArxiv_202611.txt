@@ -27,7 +27,7 @@ https://arxiv.org/abs/2611.04290
 https://arxiv.org/abs/2611.04777
 https://arxiv.org/abs/2611.05069
 * https://arxiv.org/abs/2611.05185 # Efficient simulations of spectra and transport for multiorbital quantum impurities, Hao-En Li, Zhen Huang, Lin Lin
-https://arxiv.org/abs/2611.05273
+* https://arxiv.org/abs/2611.05273 # Universal dynamics of quantum phase transitions with fractional long-range interactions, Andraas Grabarits, Lincoln D. Carr, Adolfo del Campo
 https://arxiv.org/abs/2611.05329
 
 https://journals.aps.org/prb/abstract/10.1103/kxdz-6fl3
