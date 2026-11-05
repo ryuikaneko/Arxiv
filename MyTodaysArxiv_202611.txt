@@ -34,7 +34,7 @@ https://arxiv.org/abs/2611.06502
 https://arxiv.org/abs/2611.06592
 
 https://arxiv.org/abs/2611.06716
-https://arxiv.org/abs/2611.06771
+* https://arxiv.org/abs/2611.06771 # Non-compact Kogut-Susskind gauge theories: 1D lattice models with exact SL(2,R) gauge invariance, Carlos Fulgado-Claudio, Torsten V. Zache
 https://arxiv.org/abs/2611.06774
 https://arxiv.org/abs/2611.06797
 https://arxiv.org/abs/2611.04521
