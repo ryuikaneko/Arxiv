@@ -50,7 +50,7 @@ https://arxiv.org/abs/2611.05987
 https://arxiv.org/abs/2611.06154
 https://arxiv.org/abs/2611.06369
 https://arxiv.org/abs/2611.06473
-https://arxiv.org/abs/2611.06528
+* https://arxiv.org/abs/2611.06528 # Stability of energy gap of macroscopic quantum matter, Kangle Li, Liujun Zou
 https://arxiv.org/abs/2611.06552
 https://arxiv.org/abs/2611.06558
 https://arxiv.org/abs/2611.06613
