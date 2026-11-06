@@ -13,7 +13,7 @@ https://arxiv.org/abs/2611.06795
 
 https://arxiv.org/abs/2611.05395
 https://arxiv.org/abs/2611.06780
-https://arxiv.org/abs/2611.06880
+* https://arxiv.org/abs/2611.06880 # Simulating a chiral gauge theory, Laurens Lootens, Hersh Singh
 https://arxiv.org/abs/2611.05516
 https://arxiv.org/abs/2611.06533
 
