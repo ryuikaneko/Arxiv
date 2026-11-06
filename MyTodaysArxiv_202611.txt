@@ -3,7 +3,7 @@
 https://arxiv.org/abs/2611.05477
 https://arxiv.org/abs/2611.05563
 https://arxiv.org/abs/2611.05654
-https://arxiv.org/abs/2611.05782
+* https://arxiv.org/abs/2611.05782 # Emergent Incompressibility in Polariton Condensates for Scalable XY Spin Simulation, Chengyong Yu, Youya Xu, Xuan Ye, Yan Zhou, Sanjib Ghosh
 https://arxiv.org/abs/2611.05784
 * https://arxiv.org/abs/2611.05840 # Interplay between Spin Stripes and Pairing Crossover in the Bilayer Hubbard Model, Zixuan Jia, Xuelei Sui, Shijie Hu, Tianxing Ma, Haiqing Lin, Bing Huang
 https://arxiv.org/abs/2611.05964
