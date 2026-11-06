@@ -5,7 +5,7 @@ https://arxiv.org/abs/2611.05563
 https://arxiv.org/abs/2611.05654
 https://arxiv.org/abs/2611.05782
 https://arxiv.org/abs/2611.05784
-https://arxiv.org/abs/2611.05840
+* https://arxiv.org/abs/2611.05840 # Interplay between Spin Stripes and Pairing Crossover in the Bilayer Hubbard Model, Zixuan Jia, Xuelei Sui, Shijie Hu, Tianxing Ma, Haiqing Lin, Bing Huang
 https://arxiv.org/abs/2611.05964
 https://arxiv.org/abs/2611.06369
 https://arxiv.org/abs/2611.06582
