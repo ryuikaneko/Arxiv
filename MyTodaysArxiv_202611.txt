@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2611.03699
 https://arxiv.org/abs/2611.07010
-https://arxiv.org/abs/2611.07030
+* https://arxiv.org/abs/2611.07030 # Agnostic and efficient detection of Z2 symmetry-protected topological phases in projected entangled-pair states, Alexandre Chaduteau, Hao Chen, Juraj Hasik, Titus Neupert
 https://arxiv.org/abs/2611.07115
 https://arxiv.org/abs/2611.07353
 * https://arxiv.org/abs/2611.07400 # Extensions of the Haldane gap proof: higher dimensions, near degeneracy, fermions and tensor-network states, Tarun Grover
