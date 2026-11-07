@@ -36,7 +36,7 @@ https://arxiv.org/abs/2611.08180
 https://arxiv.org/abs/2611.08220
 https://arxiv.org/abs/2611.08235
 https://arxiv.org/abs/2611.08254
-https://arxiv.org/abs/2611.08424
+* https://arxiv.org/abs/2611.08424 # Disorder-blind Mpemba acceleration of quantum state preparation, M Nishanth, Shreyas Sadugol, Payman Mahmoudi, Alexander Yosifov, Aditya Iyer, Roopayan Ghosh, Jinzhao Sun
 https://arxiv.org/abs/2611.08444
 https://arxiv.org/abs/2611.08461
 https://arxiv.org/abs/2611.08488
