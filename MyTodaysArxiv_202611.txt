@@ -24,7 +24,7 @@ https://arxiv.org/abs/2611.07776
 
 https://arxiv.org/abs/2611.07800
 https://arxiv.org/abs/2611.07802
-https://arxiv.org/abs/2611.07960
+* https://arxiv.org/abs/2611.07960 # Monopoles, Scattering and Generalized Symmetries on a Quantum Computer, Oliver O'Brien, Atsushi Ueda, Etienne Granet, Henrik Dreyer, Frank Verstraete
 https://arxiv.org/abs/2611.08025
 https://arxiv.org/abs/2611.08040
 https://arxiv.org/abs/2611.08064
