@@ -29,7 +29,7 @@ https://arxiv.org/abs/2611.08025
 https://arxiv.org/abs/2611.08040
 https://arxiv.org/abs/2611.08064
 https://arxiv.org/abs/2611.08129
-https://arxiv.org/abs/2611.08151
+* https://arxiv.org/abs/2611.08151 # Machine learning quantum data to accelerate quantum Monte Carlo, Tong Jiang, Andrew Zhao, Shashwat Kumar, Jigyasa Nigam, Eliott Rosenberg, Ryan Babbush, Andrew D. Baczewski, William J. Huggins, Joonho Lee
 https://arxiv.org/abs/2611.08152
 https://arxiv.org/abs/2611.08180
 
