@@ -8,7 +8,7 @@ https://arxiv.org/abs/2611.07597
 https://arxiv.org/abs/2611.07681
 https://arxiv.org/abs/2611.07845
 https://arxiv.org/abs/2611.07933
-https://arxiv.org/abs/2611.08270
+* https://arxiv.org/abs/2611.08270 # Spin supersolid in triangular lattice easy-axis spin-1/2 antiferromagnet: a fermionic parton perspective, Meng Zeng, Roderich Moessner, Shu Zhang
 https://arxiv.org/abs/2611.07641
 https://arxiv.org/abs/2611.07695
 
