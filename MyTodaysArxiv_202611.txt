@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2611.06975
 https://arxiv.org/abs/2611.06997
-https://arxiv.org/abs/2611.07003
+* https://arxiv.org/abs/2611.07003 # Nonlocal magic of fermions is bounded by entanglement fluctuations and is logarithmic for free fermions, Raghav G. Jha, Dengyao Luo, Alexander F. Kemper, Bojko N. Bakalov
 https://arxiv.org/abs/2611.07017
 https://arxiv.org/abs/2611.07021
 https://arxiv.org/abs/2611.07036
