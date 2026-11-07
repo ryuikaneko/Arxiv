@@ -5,7 +5,7 @@ https://arxiv.org/abs/2611.07010
 https://arxiv.org/abs/2611.07030
 https://arxiv.org/abs/2611.07115
 https://arxiv.org/abs/2611.07353
-https://arxiv.org/abs/2611.07400
+* https://arxiv.org/abs/2611.07400 # Extensions of the Haldane gap proof: higher dimensions, near degeneracy, fermions and tensor-network states, Tarun Grover
 https://arxiv.org/abs/2611.07456
 https://arxiv.org/abs/2611.08161
 https://arxiv.org/abs/2611.08168
