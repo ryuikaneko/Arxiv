@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2611.07115
 https://arxiv.org/abs/2611.07131
-https://arxiv.org/abs/2611.07353
+* https://arxiv.org/abs/2611.07353 # Observable-Based Learning of Effective Entanglement Hamiltonians, Siyi Yang, Yuzhi Liu, Yi-Ming Ding, Zheng Yan
 https://arxiv.org/abs/2611.07456
 https://arxiv.org/abs/2611.07597
 https://arxiv.org/abs/2611.07681
