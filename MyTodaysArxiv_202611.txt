@@ -9,7 +9,7 @@ https://arxiv.org/abs/2611.09830
 https://arxiv.org/abs/2611.08503
 https://arxiv.org/abs/2611.08592
 https://arxiv.org/abs/2611.08675
-https://arxiv.org/abs/2611.09773
+* https://arxiv.org/abs/2611.09773 # A proof of the Aaronson-Ambainis conjecture, David Turturean
 
 https://journals.aps.org/prl/abstract/10.1103/l6sm-yzbn
 
