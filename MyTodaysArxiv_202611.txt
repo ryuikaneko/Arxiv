@@ -31,7 +31,7 @@ https://arxiv.org/abs/2611.09018
 https://arxiv.org/abs/2611.09138
 https://arxiv.org/abs/2611.09180
 https://arxiv.org/abs/2611.09314
-https://arxiv.org/abs/2611.09540
+* https://arxiv.org/abs/2611.09540 # Open Quantum Time Crystals without External Thermodynamic Resources: Go and No-Go Theorems, Yuri Ogami, Hiroyasu Tajima
 
 https://arxiv.org/abs/2611.09637
 https://arxiv.org/abs/2611.09786
