@@ -14,7 +14,7 @@ https://arxiv.org/abs/2611.09287
 https://arxiv.org/abs/2611.09325
 https://arxiv.org/abs/2611.09390
 https://arxiv.org/abs/2611.09391
-https://arxiv.org/abs/2611.09469
+* https://arxiv.org/abs/2611.09469 # Coexistence of antiferromagnetism and topological s+d+id superconductivity in twisted cuprate bilayers, Javier Castro Luaces, Manuel Fernandez Lopez, Jorge Bravo-Abad, Jaime Merino
 https://arxiv.org/abs/2611.09510
 https://arxiv.org/abs/2611.09668
 https://arxiv.org/abs/2611.09671
