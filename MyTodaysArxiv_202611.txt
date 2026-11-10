@@ -26,7 +26,7 @@ https://arxiv.org/abs/2611.09253
 https://arxiv.org/abs/2611.09311
 https://arxiv.org/abs/2611.09322
 https://arxiv.org/abs/2611.09434
-https://arxiv.org/abs/2611.09450
+* https://arxiv.org/abs/2611.09450 # Symmetry-Resolved Criticality in Dissipative Quantum Phase Transitions, Xingli Li, Yan Li, Jinghui Pi, Wenlin Li, Shuai Geng, Lin Shang, Jiasen Jin, Yangqian Yan
 https://arxiv.org/abs/2611.09464
 https://arxiv.org/abs/2611.09504
 https://arxiv.org/abs/2611.09519
