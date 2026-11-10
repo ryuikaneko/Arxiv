@@ -26,7 +26,7 @@ https://arxiv.org/abs/2611.09873
 * https://arxiv.org/abs/2611.09881 # Unraveling square and kagome lattice frustrated magnetism by scalable tensor networks, Xing-Yu Zhang, Jutho Haegeman, Yuchi He
 https://arxiv.org/abs/2611.08506
 https://arxiv.org/abs/2611.08582
-https://arxiv.org/abs/2611.08974
+* https://arxiv.org/abs/2611.08974 # Optimal asymptotic pure-state conversion under thermal operations, Tatsuya Yamanouchi, Naoto Shiraishi
 https://arxiv.org/abs/2611.09018
 https://arxiv.org/abs/2611.09138
 https://arxiv.org/abs/2611.09180
