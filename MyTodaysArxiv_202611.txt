@@ -42,19 +42,8 @@ https://arxiv.org/abs/2611.09760
 https://arxiv.org/abs/2611.09809
 https://arxiv.org/abs/2611.09830
 https://arxiv.org/abs/2611.08503
-https://arxiv.org/abs/2611.08592
+* https://arxiv.org/abs/2611.08592 # Density kernel and temporal quantum information probes in double-scaled SYK, Johanna Erdmenger, Maximilian Gaschler, Jonathan Karl, Arnab Kundu, Georg Setzer
 
-https://arxiv.org/abs/2611.08675
-https://arxiv.org/abs/2611.09773
-
-https://arxiv.org/abs/2611.09641
-https://arxiv.org/abs/2611.09659
-https://arxiv.org/abs/2611.09688
-https://arxiv.org/abs/2611.09760
-https://arxiv.org/abs/2611.09809
-https://arxiv.org/abs/2611.09830
-https://arxiv.org/abs/2611.08503
-https://arxiv.org/abs/2611.08592
 https://arxiv.org/abs/2611.08675
 * https://arxiv.org/abs/2611.09773 # A proof of the Aaronson-Ambainis conjecture, David Turturean
 
