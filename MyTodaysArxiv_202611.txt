@@ -23,7 +23,7 @@ https://arxiv.org/abs/2611.09855
 https://arxiv.org/abs/2611.09857
 
 https://arxiv.org/abs/2611.09873
-https://arxiv.org/abs/2611.09881
+* https://arxiv.org/abs/2611.09881 # Unraveling square and kagome lattice frustrated magnetism by scalable tensor networks, Xing-Yu Zhang, Jutho Haegeman, Yuchi He
 https://arxiv.org/abs/2611.08506
 https://arxiv.org/abs/2611.08582
 https://arxiv.org/abs/2611.08974
