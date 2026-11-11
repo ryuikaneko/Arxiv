@@ -34,7 +34,7 @@ https://arxiv.org/abs/2611.11430
 https://arxiv.org/abs/2611.11655
 
 https://arxiv.org/abs/2611.12400
-https://arxiv.org/abs/2611.12546
+* https://arxiv.org/abs/2611.12546 # Topological states in fractals through a self-similar tensor network encoding, Zebedeus F. Osseweijer, Jagoda Malag, Jose L. Lado, Tiago V. C. Antao, Anouar Moustaj
 https://arxiv.org/abs/2611.12714
 
 * https://arxiv.org/abs/2611.10039 # Efficient classical simulation of Fermi-Hubbard models with Kramers symmetry, Chaithanya Rayudu, Jun Takahashi, Ojas Parekh, Andrew Zhao
