@@ -25,7 +25,7 @@ https://arxiv.org/abs/2611.09995
 * https://arxiv.org/abs/2611.10076 # Roadmap on Nanoscale Superconductivity for Quantum Technologies
 https://arxiv.org/abs/2611.10077
 * https://arxiv.org/abs/2611.10124 # Energy-resolved current response and the crossover between two approximately linear-in-T resistivity regimes in the infinite-U Hubbard model, Shuo Liu, Aman Kumar, Yuhao Ma, Philip W. Phillips, Hitesh J. Changlani, B. Andrei Bernevig
-https://arxiv.org/abs/2611.10117
+* https://arxiv.org/abs/2611.10117 # Superconductivity in the Metallic Wigner Crystals of Rhombohedral Graphene: Possible Realization of an Electronic Supersolid, Felix Desrochers, Mark R. Hirsbrunner, Yong Baek Kim, Ashvin Vishwanath
 https://arxiv.org/abs/2611.10130
 https://arxiv.org/abs/2611.10368
 https://arxiv.org/abs/2611.10473
