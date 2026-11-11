@@ -17,7 +17,7 @@ https://arxiv.org/abs/2611.11084
 https://arxiv.org/abs/2611.11245
 https://arxiv.org/abs/2611.11393
 https://arxiv.org/abs/2611.11445
-https://arxiv.org/abs/2611.11446
+* https://arxiv.org/abs/2611.11446 # One Bit, Many Records: Information Replication in Quantum Many-Body Dynamics, Dan-Bo Zhang, Yan-Ming Chen
 https://arxiv.org/abs/2611.11537
 https://arxiv.org/abs/2611.11626
 https://arxiv.org/abs/2611.11822
