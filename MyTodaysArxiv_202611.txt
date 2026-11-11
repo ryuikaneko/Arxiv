@@ -3,7 +3,7 @@
 * https://arxiv.org/abs/2611.10039 # Efficient classical simulation of Fermi-Hubbard models with Kramers symmetry, Chaithanya Rayudu, Jun Takahashi, Ojas Parekh, Andrew Zhao
 * https://arxiv.org/abs/2611.10139 # The satisfiability conjecture for random k-SAT formulas. Human-friendly exposition of the recent OpenAI resolution, David Gamarnik
 https://arxiv.org/abs/2611.10629
-https://arxiv.org/abs/2611.10912
+* https://arxiv.org/abs/2611.10912 # One Measurement, Many Fronts in Kitaev and Cluster Chains, Nicholas Musat, Stephan Haas, Rishabh Jha
 https://arxiv.org/abs/2611.11049
 https://arxiv.org/abs/2611.11175
 https://arxiv.org/abs/2611.11557
