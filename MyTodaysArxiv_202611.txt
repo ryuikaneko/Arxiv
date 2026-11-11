@@ -50,7 +50,7 @@ https://arxiv.org/abs/2611.13522
 https://arxiv.org/abs/2611.13852
 https://arxiv.org/abs/2611.13886
 https://arxiv.org/abs/2611.14082
-https://arxiv.org/abs/2611.14108
+* https://arxiv.org/abs/2611.14108 # Memory of Initial States in Long-Time Dynamics Revealed by Non-Gaussianity, Julia Koczorowska, Lev Vidmar, Patrycja Lydzba
 * https://arxiv.org/abs/2611.14200 # Disorder-Induced Logarithmic Spreading and Localization of Quantum Fluctuations, Ang Yang, Jingxuan Zhang, Lei Ying
 https://arxiv.org/abs/2611.14319
 
