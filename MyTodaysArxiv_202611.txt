@@ -23,7 +23,7 @@ https://arxiv.org/abs/2611.13900
 https://arxiv.org/abs/2611.13934
 
 https://arxiv.org/abs/2611.13948
-https://arxiv.org/abs/2611.13967
+* https://arxiv.org/abs/2611.13967 # Quantum propagation of vibrational excitation in harmonically confined trapped-ion crystal, Takumi Yuri, Yu-Xuan Chen, Kenji Toyoda
 https://arxiv.org/abs/2611.14006
 * https://arxiv.org/abs/2611.14023 # PINNverse meets Jordan--Wigner: learning the Hamiltonian of long spin chains, Gubio G De Lima
 https://arxiv.org/abs/2611.14081
