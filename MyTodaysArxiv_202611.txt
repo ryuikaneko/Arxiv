@@ -25,7 +25,7 @@ https://arxiv.org/abs/2611.13934
 https://arxiv.org/abs/2611.13948
 https://arxiv.org/abs/2611.13967
 https://arxiv.org/abs/2611.14006
-https://arxiv.org/abs/2611.14023
+* https://arxiv.org/abs/2611.14023 # PINNverse meets Jordan--Wigner: learning the Hamiltonian of long spin chains, Gubio G De Lima
 https://arxiv.org/abs/2611.14081
 https://arxiv.org/abs/2611.14114
 https://arxiv.org/abs/2611.14173
