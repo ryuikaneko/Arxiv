@@ -17,7 +17,7 @@ https://arxiv.org/abs/2611.12509
 https://arxiv.org/abs/2611.12576
 https://arxiv.org/abs/2611.12701
 https://arxiv.org/abs/2611.12664
-https://arxiv.org/abs/2611.12773
+* https://arxiv.org/abs/2611.12773 # An efficient classical algorithm for OTOCs in chaotic quantum dynamics, Yunchao Liu, Yihui Quek, Shreya Vardhan, Tianci Zhou
 https://arxiv.org/abs/2611.09944
 https://arxiv.org/abs/2611.09946
 
