@@ -45,7 +45,7 @@ https://arxiv.org/abs/2611.13088
 https://arxiv.org/abs/2611.13097
 
 https://arxiv.org/abs/2611.13101
-https://arxiv.org/abs/2611.13141
+* https://arxiv.org/abs/2611.13141 # Dynamics of Renyi entanglement entropies and Eigenstate Thermalization, Riccardo Senese, Pasquale Calabrese
 https://arxiv.org/abs/2611.13522
 * https://arxiv.org/abs/2611.13852 # Assessing the expressive power of a gauge-invariant PEPS ansatz across a topological phase transition, Etsuko Itou, Tsuyoshi Okubo
 https://arxiv.org/abs/2611.13886
