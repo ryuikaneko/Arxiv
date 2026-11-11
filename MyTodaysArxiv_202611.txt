@@ -22,7 +22,7 @@ https://arxiv.org/abs/2611.09944
 https://arxiv.org/abs/2611.09946
 
 https://arxiv.org/abs/2611.09995
-https://arxiv.org/abs/2611.10076
+* https://arxiv.org/abs/2611.10076 # Roadmap on Nanoscale Superconductivity for Quantum Technologies
 https://arxiv.org/abs/2611.10077
 https://arxiv.org/abs/2611.10124
 https://arxiv.org/abs/2611.10117
