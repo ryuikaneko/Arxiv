@@ -54,6 +54,12 @@ https://arxiv.org/abs/2611.14082
 * https://arxiv.org/abs/2611.14200 # Disorder-Induced Logarithmic Spreading and Localization of Quantum Fluctuations, Ang Yang, Jingxuan Zhang, Lei Ying
 https://arxiv.org/abs/2611.14319
 
+https://journals.aps.org/prb/abstract/10.1103/hlx7-94t4
+
+====
+
+https://journals.aps.org/prb/abstract/10.1103/w2hc-g5j1
+https://journals.aps.org/prx/abstract/10.1103/744w-ln1x
 https://journals.aps.org/prl/abstract/10.1103/q8k6-mj9z
 https://journals.aps.org/prl/abstract/10.1103/ynk4-sj21
 
