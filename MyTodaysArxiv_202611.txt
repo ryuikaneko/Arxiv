@@ -30,7 +30,7 @@ https://arxiv.org/abs/2611.10130
 https://arxiv.org/abs/2611.10368
 https://arxiv.org/abs/2611.10473
 https://arxiv.org/abs/2611.10507
-https://arxiv.org/abs/2611.10623
+* https://arxiv.org/abs/2611.10593 # Markov-Shielded Typicality for Thermal Quantum States, Atsushi Iwaki, Chisa Hotta
 
 https://arxiv.org/abs/2611.10623
 https://arxiv.org/abs/2611.10706
