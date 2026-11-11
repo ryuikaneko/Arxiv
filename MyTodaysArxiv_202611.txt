@@ -47,7 +47,7 @@ https://arxiv.org/abs/2611.12328
 https://arxiv.org/abs/2611.12454
 https://arxiv.org/abs/2611.12569
 https://arxiv.org/abs/2611.12566
-https://arxiv.org/abs/2611.12669
+* https://arxiv.org/abs/2611.12669 # Ground-state phase diagram of the spin-1/2 Heisenberg zigzag ladder with anisotropic Gamma term revisited, Toshiya Hikihara, Nobuya Maeshima, Kouichi Okunishi
 https://arxiv.org/abs/2611.12658
 https://arxiv.org/abs/2611.12840
 
