@@ -10,7 +10,7 @@ https://arxiv.org/abs/2611.11557
 https://arxiv.org/abs/2611.11647
 https://arxiv.org/abs/2611.11807
 
-https://arxiv.org/abs/2611.11935
+* https://arxiv.org/abs/2611.11935 # AI-Driven Discovery of Entanglement Witness in Spin Hamiltonians, Jiwei Tian, Mouyang Cheng, Mingda Li
 https://arxiv.org/abs/2611.12071
 https://arxiv.org/abs/2611.12074
 https://arxiv.org/abs/2611.12509
