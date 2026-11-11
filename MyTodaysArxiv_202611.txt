@@ -38,7 +38,7 @@ https://arxiv.org/abs/2611.14368
 https://arxiv.org/abs/2611.14398
 https://arxiv.org/abs/2611.14406
 https://arxiv.org/abs/2611.14422
-https://arxiv.org/abs/2611.14484
+* https://arxiv.org/abs/2611.14484 # Nonperturbative string dynamics in a (2+1)D lattice gauge theory on a superconducting quantum processor, Sanziana Stelea, Anthony Gandon, Francesco Tacchino, Jad C. Halimeh, Ivano Tavernelli
 https://arxiv.org/abs/2611.12985
 https://arxiv.org/abs/2611.13071
 https://arxiv.org/abs/2611.13088
