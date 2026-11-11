@@ -26,7 +26,7 @@ https://arxiv.org/abs/2611.11858
 https://arxiv.org/abs/2611.12494
 https://arxiv.org/abs/2611.12589
 https://arxiv.org/abs/2611.12738
-https://arxiv.org/abs/2611.12782
+* https://arxiv.org/abs/2611.12782 # Self-Energy Construction for Chain Representations of Open Quantum Systems, Pengju Chen, Da-Wei Luo, Ting Yu
 https://arxiv.org/abs/2611.12779
 https://arxiv.org/abs/2611.12833
 https://arxiv.org/abs/2611.11419
