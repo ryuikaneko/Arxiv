@@ -1,7 +1,7 @@
 20261111
 
 https://arxiv.org/abs/2611.13085
-https://arxiv.org/abs/2611.13094
+* https://arxiv.org/abs/2611.13094 # Frustration-free control for quantum-state preparation: an exact first-passage theory, T. Doerstel, T. C. Lang, T. Iadecola, J. H. Wilson, M. Buchhold
 https://arxiv.org/abs/2611.13099
 https://arxiv.org/abs/2611.13103
 https://arxiv.org/abs/2611.13111
