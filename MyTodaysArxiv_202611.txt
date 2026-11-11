@@ -1,5 +1,42 @@
 20261110
 
+https://arxiv.org/abs/2611.10119
+https://arxiv.org/abs/2611.10206
+https://arxiv.org/abs/2611.10282
+https://arxiv.org/abs/2611.10330
+https://arxiv.org/abs/2611.10527
+https://arxiv.org/abs/2611.10529
+https://arxiv.org/abs/2611.10544
+https://arxiv.org/abs/2611.10588
+https://arxiv.org/abs/2611.10615
+https://arxiv.org/abs/2611.10817
+
+https://arxiv.org/abs/2611.11021
+https://arxiv.org/abs/2611.11044
+https://arxiv.org/abs/2611.11084
+https://arxiv.org/abs/2611.11245
+https://arxiv.org/abs/2611.11393
+https://arxiv.org/abs/2611.11445
+https://arxiv.org/abs/2611.11446
+https://arxiv.org/abs/2611.11537
+https://arxiv.org/abs/2611.11626
+https://arxiv.org/abs/2611.11822
+
+https://arxiv.org/abs/2611.11858
+https://arxiv.org/abs/2611.12494
+https://arxiv.org/abs/2611.12589
+https://arxiv.org/abs/2611.12738
+https://arxiv.org/abs/2611.12782
+https://arxiv.org/abs/2611.12779
+https://arxiv.org/abs/2611.12833
+https://arxiv.org/abs/2611.11419
+https://arxiv.org/abs/2611.11430
+https://arxiv.org/abs/2611.11655
+
+https://arxiv.org/abs/2611.12400
+https://arxiv.org/abs/2611.12546
+https://arxiv.org/abs/2611.12714
+
 * https://arxiv.org/abs/2611.10039 # Efficient classical simulation of Fermi-Hubbard models with Kramers symmetry, Chaithanya Rayudu, Jun Takahashi, Ojas Parekh, Andrew Zhao
 * https://arxiv.org/abs/2611.10139 # The satisfiability conjecture for random k-SAT formulas. Human-friendly exposition of the recent OpenAI resolution, David Gamarnik
 https://arxiv.org/abs/2611.10629
