@@ -22,7 +22,7 @@ https://arxiv.org/abs/2611.13716
 https://arxiv.org/abs/2611.13783
 https://arxiv.org/abs/2611.13804
 
-https://arxiv.org/abs/2611.13895
+* https://arxiv.org/abs/2611.13895 # Thermodynamic Properties of the S=1/2 Zigzag Spin Ladder, Nobuya Maeshima, Toshiya Hikihara, Kouichi Okunishi
 https://arxiv.org/abs/2611.13898
 * https://arxiv.org/abs/2611.14101 # Particle-hole asymmetry and a fluctuating pair-density-wave state in a lightly doped Mott insulator on the square lattice, Hao-Xin Wang, Zheng-Yuan Yue, Wen-Yuan Liu, Zheng-Cheng Gu
 * https://arxiv.org/abs/2611.14109 # Spin-glass order in a field requires magnetic-field chaos in XY gauge glasses for d<=4, Manaka Okuyama, Masayuki Ohzeki, Hidetoshi Nishimori
