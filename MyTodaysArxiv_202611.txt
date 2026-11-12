@@ -1,5 +1,35 @@
 20261111
 
+https://arxiv.org/abs/2611.12946
+https://arxiv.org/abs/2611.12947
+https://arxiv.org/abs/2611.13076
+https://arxiv.org/abs/2611.13081
+https://arxiv.org/abs/2611.13091
+https://arxiv.org/abs/2611.13148
+https://arxiv.org/abs/2611.13166
+https://arxiv.org/abs/2611.13235
+https://arxiv.org/abs/2611.13360
+https://arxiv.org/abs/2611.13374
+
+https://arxiv.org/abs/2611.13438
+https://arxiv.org/abs/2611.13500
+https://arxiv.org/abs/2611.13508
+https://arxiv.org/abs/2611.13532
+https://arxiv.org/abs/2611.13553
+https://arxiv.org/abs/2611.13683
+https://arxiv.org/abs/2611.13695
+https://arxiv.org/abs/2611.13716
+https://arxiv.org/abs/2611.13783
+https://arxiv.org/abs/2611.13804
+
+https://arxiv.org/abs/2611.13895
+https://arxiv.org/abs/2611.13898
+https://arxiv.org/abs/2611.14101
+https://arxiv.org/abs/2611.14109
+https://arxiv.org/abs/2611.13078
+https://arxiv.org/abs/2611.14221
+https://arxiv.org/abs/2611.12963
+
 * https://arxiv.org/abs/2611.13085 # Time Direction Entanglement Entropy of Free Fermion Ground States, Xinyu Sun, Bowei Liu, Joshua Yi, Biao Lian
 * https://arxiv.org/abs/2611.13094 # Frustration-free control for quantum-state preparation: an exact first-passage theory, T. Doerstel, T. C. Lang, T. Iadecola, J. H. Wilson, M. Buchhold
 https://arxiv.org/abs/2611.13099
