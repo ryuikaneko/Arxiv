@@ -4,7 +4,7 @@ https://arxiv.org/abs/2611.12946
 https://arxiv.org/abs/2611.12947
 https://arxiv.org/abs/2611.13076
 https://arxiv.org/abs/2611.13081
-https://arxiv.org/abs/2611.13091
+* https://arxiv.org/abs/2611.13091 # Chiral Superconductivity Indifferent to Parent Topology in the Square-Lattice Hofstadter-Hubbard Model, Jia-Xin Zhang, Wen O. Wang, Leon Balents, Lucile Savary, D. N. Sheng
 https://arxiv.org/abs/2611.13148
 * https://arxiv.org/abs/2611.13166 # Study of the frustrated SU(3) Heisenberg chain with SU(3)-symmetric matrix product states, O. R. Hryniv, I. V. Lukin, A. G. Sotnikov
 https://arxiv.org/abs/2611.13235
