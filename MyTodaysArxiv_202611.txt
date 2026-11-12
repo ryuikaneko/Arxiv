@@ -24,8 +24,8 @@ https://arxiv.org/abs/2611.13804
 
 https://arxiv.org/abs/2611.13895
 https://arxiv.org/abs/2611.13898
-https://arxiv.org/abs/2611.14101
-https://arxiv.org/abs/2611.14109
+* https://arxiv.org/abs/2611.14101 # Particle-hole asymmetry and a fluctuating pair-density-wave state in a lightly doped Mott insulator on the square lattice, Hao-Xin Wang, Zheng-Yuan Yue, Wen-Yuan Liu, Zheng-Cheng Gu
+* https://arxiv.org/abs/2611.14109 # Spin-glass order in a field requires magnetic-field chaos in XY gauge glasses for d<=4, Manaka Okuyama, Masayuki Ohzeki, Hidetoshi Nishimori
 https://arxiv.org/abs/2611.13078
 https://arxiv.org/abs/2611.14221
 https://arxiv.org/abs/2611.12963
