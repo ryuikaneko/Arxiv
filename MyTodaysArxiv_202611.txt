@@ -31,7 +31,7 @@ https://arxiv.org/abs/2611.17081
 https://arxiv.org/abs/2611.17144
 https://arxiv.org/abs/2611.17182
 https://arxiv.org/abs/2611.17188
-https://arxiv.org/abs/2611.10187
+* https://arxiv.org/abs/2611.10187 # Fast Accurate Quantum Monte Carlo without Metropolis Adjustment, Reuben Cohn-Gordon, Gabriel Pescia, Sumner N. Hearth, Jakob Robnik, Uros Seljak, Peter Lunts
 
 https://arxiv.org/abs/2611.11546
 https://arxiv.org/abs/2611.14611
