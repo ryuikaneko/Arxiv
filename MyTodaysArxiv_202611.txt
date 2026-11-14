@@ -9,7 +9,7 @@ https://arxiv.org/abs/2611.14727
 https://arxiv.org/abs/2611.14893
 https://arxiv.org/abs/2611.15081
 https://arxiv.org/abs/2611.15139
-https://arxiv.org/abs/2611.15354
+* https://arxiv.org/abs/2611.15354 # Superconductivity on the Kagome Lattice, Ruiqing Fu, Xianxin Wu, Ziqiang Wang, Sen Zhou
 
 https://arxiv.org/abs/2611.15409
 https://arxiv.org/abs/2611.15485
