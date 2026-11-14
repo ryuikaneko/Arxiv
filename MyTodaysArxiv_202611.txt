@@ -13,7 +13,7 @@ https://arxiv.org/abs/2611.16080
 
 https://arxiv.org/abs/2611.16115
 https://arxiv.org/abs/2611.16365
-https://arxiv.org/abs/2611.16479
+* https://arxiv.org/abs/2611.16479 # Quantum Mpemba effect from logical-information exposure in monitored circuits, Bochen Huang, D. L. Zhou, Chenfeng Cao
 https://arxiv.org/abs/2611.16610
 https://arxiv.org/abs/2611.17021
 https://arxiv.org/abs/2611.17158
