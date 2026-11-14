@@ -23,7 +23,7 @@ https://arxiv.org/abs/2611.15863
 * https://arxiv.org/abs/2611.16329 # Information Thermodynamics in Closed Quantum Many-Body Dynamics, Yusuke O. Nakai, Shoki Sugimoto, Ryusuke Hamazaki
 
 https://arxiv.org/abs/2611.16428
-https://arxiv.org/abs/2611.16430
+* https://arxiv.org/abs/2611.16430 # Multi-reference variational states resolve stripe selection and local d-wave pairing in the Hubbard model, Honghui Shang, Jinlong Yang
 https://arxiv.org/abs/2611.16532
 https://arxiv.org/abs/2611.16745
 https://arxiv.org/abs/2611.16765
