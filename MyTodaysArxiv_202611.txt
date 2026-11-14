@@ -16,7 +16,7 @@ https://arxiv.org/abs/2611.16365
 * https://arxiv.org/abs/2611.16479 # Quantum Mpemba effect from logical-information exposure in monitored circuits, Bochen Huang, D. L. Zhou, Chenfeng Cao
 https://arxiv.org/abs/2611.16610
 https://arxiv.org/abs/2611.17021
-https://arxiv.org/abs/2611.17158
+* https://arxiv.org/abs/2611.17158 # Efficient computation of PEPS gradients for optimized quantum state preparation on 2D topologies, Illia Lukin, Vladyslav Bohun, Maciej Koch-Janusz
 https://arxiv.org/abs/2611.17262
 https://arxiv.org/abs/2611.14607
 https://arxiv.org/abs/2611.14797
