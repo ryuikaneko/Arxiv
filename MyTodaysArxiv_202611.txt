@@ -19,7 +19,7 @@ https://arxiv.org/abs/2611.17021
 * https://arxiv.org/abs/2611.17158 # Efficient computation of PEPS gradients for optimized quantum state preparation on 2D topologies, Illia Lukin, Vladyslav Bohun, Maciej Koch-Janusz
 https://arxiv.org/abs/2611.17262
 https://arxiv.org/abs/2611.14607
-https://arxiv.org/abs/2611.14797
+* https://arxiv.org/abs/2611.14797 # Zeroth persistent homology of ground-state correlations at clean and disordered quantum transitions, Francisco Belchi, Nahuel Statuto
 https://arxiv.org/abs/2611.15080
 
 https://arxiv.org/abs/2611.16412
