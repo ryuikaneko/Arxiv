@@ -13,7 +13,7 @@ https://arxiv.org/abs/2611.15139
 
 * https://arxiv.org/abs/2611.15409 # Going beyond the standard quasiparticle picture: Entanglement spreading after quenching from highly entangled states, Elisa Sabadini, Vincenzo Alba
 * https://arxiv.org/abs/2611.15485 # Cumulant dynamics of the ferromagnetic dipolar XY model, Jinxin Yang, Alberto R. Cavallar, Lode Pollet
-https://arxiv.org/abs/2611.15677
+* https://arxiv.org/abs/2611.15677 # Spin Structure Factor of the classical Ising Model on the Centered Pyrochlore Lattice, L. Xu, T. Kreissel, N. Davier, L. D. C. Jaubert, L. Pollet
 https://arxiv.org/abs/2611.15845
 https://arxiv.org/abs/2611.15851
 https://arxiv.org/abs/2611.15859
