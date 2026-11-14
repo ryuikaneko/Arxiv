@@ -5,7 +5,7 @@ https://arxiv.org/abs/2611.14731
 https://arxiv.org/abs/2611.14944
 https://arxiv.org/abs/2611.14986
 https://arxiv.org/abs/2611.15104
-https://arxiv.org/abs/2611.15250
+* https://arxiv.org/abs/2611.15250 # Multi-head Quantum Neural Networks: Replacing Transformer Blocks with NISQ Modules inside a 30-Billion-Parameter LLM, Maforikan Amoussou, Borja Aizpurua, Sukhbinder Singh, Roman Orus, Hans-Arno Jacobsen
 https://arxiv.org/abs/2611.15298
 https://arxiv.org/abs/2611.15351
 https://arxiv.org/abs/2611.15365
