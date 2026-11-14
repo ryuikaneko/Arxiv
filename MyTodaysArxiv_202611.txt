@@ -25,8 +25,8 @@ https://arxiv.org/abs/2611.15863
 https://arxiv.org/abs/2611.16428
 * https://arxiv.org/abs/2611.16430 # Multi-reference variational states resolve stripe selection and local d-wave pairing in the Hubbard model, Honghui Shang, Jinlong Yang
 * https://arxiv.org/abs/2611.16532 # Thermal and dynamical behaviors of the spin-nematic phases in a spin-1 triangular lattice, Lei Xu, Zhentao Wang
-https://arxiv.org/abs/2611.16745
-https://arxiv.org/abs/2611.16765
+* https://arxiv.org/abs/2611.16745 # Detecting non-Hermitian topology from long-time dynamics, Antonio D'Abbruzzo, Rosario Fazio
+* https://arxiv.org/abs/2611.16765 # Physical interpretation of spin-glass models with correlated disorder, Hidetoshi Nishimori
 https://arxiv.org/abs/2611.17081
 https://arxiv.org/abs/2611.17144
 https://arxiv.org/abs/2611.17182
