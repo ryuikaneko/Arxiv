@@ -18,7 +18,7 @@ https://arxiv.org/abs/2611.15139
 https://arxiv.org/abs/2611.15851
 https://arxiv.org/abs/2611.15859
 https://arxiv.org/abs/2611.15863
-https://arxiv.org/abs/2611.15896
+* https://arxiv.org/abs/2611.15896 # U(1)-Symmetric Spin SYK Models: Ordering, Chaos, and Transport, Shiyong Guo, Enrico Rinaldi, Jad C. Halimeh, Brian Swingle
 https://arxiv.org/abs/2611.16249
 https://arxiv.org/abs/2611.16329
 
