@@ -12,7 +12,7 @@ https://arxiv.org/abs/2611.17842
 https://arxiv.org/abs/2611.17890
 
 * https://arxiv.org/abs/2611.17928 # Dissipation-induced integrability in a spin-1 chain and a Bose-Hubbard mixture, Kaixiang Lu, Mingdi Xu, Xiang-Ping Jiang, Lei Pan
-https://arxiv.org/abs/2611.17936
+* https://arxiv.org/abs/2611.17936 # Efficient representations by PEPS: critical free-fermion and chiral topological states, Ignacio Cirac, Rahul Trivedi
 https://arxiv.org/abs/2611.17941
 https://arxiv.org/abs/2611.17988
 https://arxiv.org/abs/2611.18065
