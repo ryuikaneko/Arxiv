@@ -22,7 +22,7 @@ https://arxiv.org/abs/2611.18435
 https://arxiv.org/abs/2611.18456
 https://arxiv.org/abs/2611.18497
 
-https://arxiv.org/abs/2611.18521
+* https://arxiv.org/abs/2611.18521 # Fibonacci Non-Abelian Quantum Hall States with Pair Structure - a classification of chiral 2-cluster many-body wave-functions, Abigail Timmel, Xiao-Gang Wen
 https://arxiv.org/abs/2611.18525
 https://arxiv.org/abs/2611.18532
 https://arxiv.org/abs/2611.16685
