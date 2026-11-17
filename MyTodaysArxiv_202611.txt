@@ -4,7 +4,7 @@ https://arxiv.org/abs/2611.17414
 https://arxiv.org/abs/2611.17429
 https://arxiv.org/abs/2611.17627
 https://arxiv.org/abs/2611.17641
-https://arxiv.org/abs/2611.17655
+* https://arxiv.org/abs/2611.17655 # Foundation Tensor Networks Generalize Across Quantum Lattice Systems, Ryan T. Grimm, Michael Lindsey
 https://arxiv.org/abs/2611.17670
 * https://arxiv.org/abs/2611.17709 # Theoretical exploration of ambient-pressure superconductivity in the bilayer nickelate: A strategy of atomic substitution for tuning chemical pressure, Tomo-Hiko Hamada, Kensei Ushio, Shu Kamiyama, Kazuhiko Kuroki, Hirofumi Sakakibara
 https://arxiv.org/abs/2611.17724
