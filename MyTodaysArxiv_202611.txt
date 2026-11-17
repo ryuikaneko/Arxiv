@@ -14,7 +14,7 @@ https://arxiv.org/abs/2611.17927
 https://arxiv.org/abs/2611.18007
 https://arxiv.org/abs/2611.18009
 https://arxiv.org/abs/2611.18029
-https://arxiv.org/abs/2611.18073
+* https://arxiv.org/abs/2611.18073 # Vestiges of magnon fractionalization in the quasi-two-dimensional quantum magnet rouaite Cu2(NO3)(OH)3 with alternating ferro- and antiferromagnetic S=12 chains, Darren C. Peets, Satoshi Nishimoto, Denys Y. Kononenko, Oleg Janson, Aswathi Mannathanath Chakkingal, Anton A. Kulbakov, Kaushick K. Parui, Harald O. Jeschke, Ellen Haeussler, James P. Tellam, J. Ross Stewart, Dmytro S. Inosov
 https://arxiv.org/abs/2611.18207
 https://arxiv.org/abs/2611.18400
 * https://arxiv.org/abs/2611.18427 # Transfer-Matrix Calculus for Infinite Matrix Product States, Qi Yang, Philippe Corboz
