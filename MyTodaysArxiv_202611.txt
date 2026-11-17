@@ -30,7 +30,7 @@ https://arxiv.org/abs/2611.18378
 https://arxiv.org/abs/2611.18447
 https://arxiv.org/abs/2611.18457
 https://arxiv.org/abs/2611.18504
-https://arxiv.org/abs/2611.18552
+* https://arxiv.org/abs/2611.18552 # Real-time simulation of scattering in phi4 theory: localized excitation, scalable wave packet preparation, and peak-generating artifacts, Boyu Gao, Natalie Klco
 https://arxiv.org/abs/2611.17987
 
 https://arxiv.org/abs/2611.18136
