@@ -20,7 +20,7 @@ https://arxiv.org/abs/2611.18065
 https://arxiv.org/abs/2611.18082
 https://arxiv.org/abs/2611.18091
 https://arxiv.org/abs/2611.18100
-https://arxiv.org/abs/2611.18122
+* https://arxiv.org/abs/2611.18122 # Quantum phase estimation on a Rydberg quantum simulator, Hendrik Timme, Benjamin F. Schiffer, Ohad Lib, Shijia Sun, Maximilian Ammenwerth, Dominik S. Wild, J. Ignacio Cirac, Immanuel Bloch, Johannes Zeiher
 
 https://arxiv.org/abs/2611.18135
 https://arxiv.org/abs/2611.18192
