@@ -17,7 +17,7 @@ https://arxiv.org/abs/2611.18029
 https://arxiv.org/abs/2611.18073
 https://arxiv.org/abs/2611.18207
 https://arxiv.org/abs/2611.18400
-https://arxiv.org/abs/2611.18427
+* https://arxiv.org/abs/2611.18427 # Transfer-Matrix Calculus for Infinite Matrix Product States, Qi Yang, Philippe Corboz
 https://arxiv.org/abs/2611.18435
 https://arxiv.org/abs/2611.18456
 * https://arxiv.org/abs/2611.18497 # Regularized Neural Quantum States for Heisenberg Magnets, Stefan Liscak, Vladyslav M. Kuchkin, Andreas Michels, Thomas L. Schmidt, Andreas Haller
