@@ -20,7 +20,7 @@ https://arxiv.org/abs/2611.18400
 https://arxiv.org/abs/2611.18427
 https://arxiv.org/abs/2611.18435
 https://arxiv.org/abs/2611.18456
-https://arxiv.org/abs/2611.18497
+* https://arxiv.org/abs/2611.18497 # Regularized Neural Quantum States for Heisenberg Magnets, Stefan Liscak, Vladyslav M. Kuchkin, Andreas Michels, Thomas L. Schmidt, Andreas Haller
 
 * https://arxiv.org/abs/2611.18521 # Fibonacci Non-Abelian Quantum Hall States with Pair Structure - a classification of chiral 2-cluster many-body wave-functions, Abigail Timmel, Xiao-Gang Wen
 https://arxiv.org/abs/2611.18525
