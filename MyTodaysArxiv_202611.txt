@@ -16,7 +16,7 @@ https://arxiv.org/abs/2611.17890
 https://arxiv.org/abs/2611.17941
 https://arxiv.org/abs/2611.17988
 https://arxiv.org/abs/2611.18065
-https://arxiv.org/abs/2611.18071
+* https://arxiv.org/abs/2611.18071 # Spin-adapted sample-based quantum diagonalization with randomized time evolution, Stefano Barison, Samuele Piccinelli, Alberto Baiardi, Francesco Tacchino, Ivano Tavernelli
 https://arxiv.org/abs/2611.18082
 https://arxiv.org/abs/2611.18091
 https://arxiv.org/abs/2611.18100
