@@ -33,7 +33,7 @@ https://arxiv.org/abs/2611.19888
 https://arxiv.org/abs/2611.20181
 https://arxiv.org/abs/2611.20247
 
-https://arxiv.org/abs/2611.20506
+* https://arxiv.org/abs/2611.20506 # Efficient Finite-Temperature Krylov Methods Based on Imaginary-Time Evolution, Hiroto Yamamoto, Katsuhiro Morita
 https://arxiv.org/abs/2611.20560
 https://arxiv.org/abs/2611.20632
 https://arxiv.org/abs/2611.20706
