@@ -51,7 +51,7 @@ https://arxiv.org/abs/2611.18588
 https://arxiv.org/abs/2611.18975
 https://arxiv.org/abs/2611.19083
 https://arxiv.org/abs/2611.19233
-https://arxiv.org/abs/2611.19301
+* https://arxiv.org/abs/2611.19301 # Finding Low-Energy States of the Bernasconi Model via Simulated Transverse-Field Quantum Dynamics, Shaashwat Sagar Kale, Rudranil Basu
 https://arxiv.org/abs/2611.19848
 https://arxiv.org/abs/2611.20035
 
