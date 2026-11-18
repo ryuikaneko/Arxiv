@@ -8,7 +8,7 @@ https://arxiv.org/abs/2611.18881
 https://arxiv.org/abs/2611.19002
 https://arxiv.org/abs/2611.19017
 https://arxiv.org/abs/2611.19092
-https://arxiv.org/abs/2611.19265
+* https://arxiv.org/abs/2611.19265 # Quantum Dynamics of Dynamics, Takano Taira, Hiroyasu Tajima, Philip Taranto
 https://arxiv.org/abs/2611.19313
 
 https://arxiv.org/abs/2611.19334
