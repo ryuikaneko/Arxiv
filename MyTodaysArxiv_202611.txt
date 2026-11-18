@@ -9,7 +9,7 @@ https://arxiv.org/abs/2611.19002
 https://arxiv.org/abs/2611.19017
 https://arxiv.org/abs/2611.19092
 * https://arxiv.org/abs/2611.19265 # Quantum Dynamics of Dynamics, Takano Taira, Hiroyasu Tajima, Philip Taranto
-https://arxiv.org/abs/2611.19313
+* https://arxiv.org/abs/2611.19313 # Probing equilibrium properties with Gaussian states beyond mean-field, Esther Cruz, J. Ignacio Cirac, Dominik S. Wild
 
 https://arxiv.org/abs/2611.19334
 https://arxiv.org/abs/2611.19367
