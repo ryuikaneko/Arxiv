@@ -24,7 +24,7 @@ https://arxiv.org/abs/2611.19574
 
 https://arxiv.org/abs/2611.19595
 https://arxiv.org/abs/2611.19776
-https://arxiv.org/abs/2611.19790
+* https://arxiv.org/abs/2611.19790 # Compact Projected Pfaffian States for Rydberg-Blockaded Quantum Spin Systems, Ryui Kaneko
 https://arxiv.org/abs/2611.19793
 https://arxiv.org/abs/2611.19799
 https://arxiv.org/abs/2611.19801
