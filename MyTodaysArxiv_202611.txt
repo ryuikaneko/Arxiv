@@ -58,7 +58,7 @@ https://arxiv.org/abs/2611.20035
 * https://arxiv.org/abs/2611.20159 # Mixed-state topological transitions with hidden long-range correlations, Ze-Min Huang, Frank Pollmann, Sebastian Diehl
 https://arxiv.org/abs/2611.20327
 https://arxiv.org/abs/2611.20429
-https://arxiv.org/abs/2611.20581
+* https://arxiv.org/abs/2611.20581 # Relaxation Critical Dynamics of Strong-to-Weak Spontaneous Symmetry Breaking, Jiaqiang Li, Xianquan Yan, Han-Ze Li, Shuai Yin, Shuo Liu
 https://arxiv.org/abs/2611.20756
 https://arxiv.org/abs/2611.20874
 https://arxiv.org/abs/2611.21341
