@@ -18,7 +18,7 @@ https://arxiv.org/abs/2611.19180
 * https://arxiv.org/abs/2611.19205 # Fragmentation in Non-Hermitian Many-Body Systems, Stefano Longhi
 https://arxiv.org/abs/2611.19328
 https://arxiv.org/abs/2611.19386
-https://arxiv.org/abs/2611.19470
+* https://arxiv.org/abs/2611.19470 # A Universal Algebraic Construction of Hilbert-Space Fragmentation, Pramod Padmanabhan, Vladimir Korepin
 https://arxiv.org/abs/2611.19553
 https://arxiv.org/abs/2611.19574
 
