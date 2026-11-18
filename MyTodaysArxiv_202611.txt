@@ -44,7 +44,7 @@ https://arxiv.org/abs/2611.21242
 https://arxiv.org/abs/2611.21351
 https://arxiv.org/abs/2611.21398
 
-https://arxiv.org/abs/2611.21445
+* https://arxiv.org/abs/2611.21445 # Localization transition in a spin chain with an exact Fock-space tree, Bernhard Jobst, Simone Warzel, Alexander Altland, Frank Pollmann
 https://arxiv.org/abs/2611.21482
 https://arxiv.org/abs/2611.21592
 https://arxiv.org/abs/2611.18588
