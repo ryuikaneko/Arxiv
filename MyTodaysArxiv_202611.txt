@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2611.18755
 * https://arxiv.org/abs/2611.18777 # Quantum Transitions From Integrable to Chaotic, Sizhe Yan, Biao Wu
-https://arxiv.org/abs/2611.18829
+* https://arxiv.org/abs/2611.18829 # Optimal Frobenius light cones for power-law systems in any dimension, Laura Shou, An Le, Twesh Upadhyaya, T. C. Mooney, Alexey V. Gorshkov
 https://arxiv.org/abs/2611.18838
 https://arxiv.org/abs/2611.18881
 https://arxiv.org/abs/2611.19002
