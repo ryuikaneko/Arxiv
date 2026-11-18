@@ -5,8 +5,8 @@ https://arxiv.org/abs/2611.18650
 https://arxiv.org/abs/2611.18731
 https://arxiv.org/abs/2611.18795
 https://arxiv.org/abs/2611.18797
-https://arxiv.org/abs/2611.18840
-https://arxiv.org/abs/2611.18848
+* https://arxiv.org/abs/2611.18840 # Gapless Nature of Spin Liquid in the S=1/2 Kagome Heisenberg Antiferromagnet with Neural-Network Quantum States, Andreas Raikos, Alessandro Sinibaldi, Riccardo Rende, Giuseppe Carleo, Federico Becca, Luciano Loris Viteritti
+* https://arxiv.org/abs/2611.18848 # Flexible ground-state search algorithm on hybrid Clifford-tensor network manifolds, Hari Timsina, Antonio Francesco Mello, Meghadeepa Adhikary, Marcello Dalmonte, Mario Collura
 https://arxiv.org/abs/2611.18873
 https://arxiv.org/abs/2611.19022
 https://arxiv.org/abs/2611.19053
