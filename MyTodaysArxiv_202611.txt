@@ -1,7 +1,7 @@
 20261117
 
 https://arxiv.org/abs/2611.18755
-https://arxiv.org/abs/2611.18777
+* https://arxiv.org/abs/2611.18777 # Quantum Transitions From Integrable to Chaotic, Sizhe Yan, Biao Wu
 https://arxiv.org/abs/2611.18829
 https://arxiv.org/abs/2611.18838
 https://arxiv.org/abs/2611.18881
