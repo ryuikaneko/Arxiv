@@ -59,7 +59,7 @@ https://arxiv.org/abs/2611.20035
 https://arxiv.org/abs/2611.20327
 https://arxiv.org/abs/2611.20429
 * https://arxiv.org/abs/2611.20581 # Relaxation Critical Dynamics of Strong-to-Weak Spontaneous Symmetry Breaking, Jiaqiang Li, Xianquan Yan, Han-Ze Li, Shuai Yin, Shuo Liu
-https://arxiv.org/abs/2611.20756
+* https://arxiv.org/abs/2611.20756 # Genuine multipartite entanglement in ring-shaped Hubbard models, K. Shahzad, S. Pittalis, G. Goldoni, R. Di Felice, F. Troiani
 https://arxiv.org/abs/2611.20874
 https://arxiv.org/abs/2611.21341
 https://arxiv.org/abs/2611.21431
