@@ -12,7 +12,7 @@ https://arxiv.org/abs/2611.18873
 * https://arxiv.org/abs/2611.19053 # Quasi-particle sector hybridization and the onset of chaos in spin ladders, Arnav Pushkar, Abhik Kumar Saha
 
 https://arxiv.org/abs/2611.19139
-https://arxiv.org/abs/2611.19152
+* https://arxiv.org/abs/2611.19152 # Exact mobility edges in high-dimensional quasiperiodic networks, Jia-Hui Zhang, Shan-Zhong Li, Zhi Li
 https://arxiv.org/abs/2611.19161
 https://arxiv.org/abs/2611.19180
 https://arxiv.org/abs/2611.19205
