@@ -15,7 +15,7 @@ https://arxiv.org/abs/2611.19139
 * https://arxiv.org/abs/2611.19152 # Exact mobility edges in high-dimensional quasiperiodic networks, Jia-Hui Zhang, Shan-Zhong Li, Zhi Li
 https://arxiv.org/abs/2611.19161
 https://arxiv.org/abs/2611.19180
-https://arxiv.org/abs/2611.19205
+* https://arxiv.org/abs/2611.19205 # Fragmentation in Non-Hermitian Many-Body Systems, Stefano Longhi
 https://arxiv.org/abs/2611.19328
 https://arxiv.org/abs/2611.19386
 https://arxiv.org/abs/2611.19470
