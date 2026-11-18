@@ -55,7 +55,7 @@ https://arxiv.org/abs/2611.19233
 https://arxiv.org/abs/2611.19848
 https://arxiv.org/abs/2611.20035
 
-https://arxiv.org/abs/2611.20159
+* https://arxiv.org/abs/2611.20159 # Mixed-state topological transitions with hidden long-range correlations, Ze-Min Huang, Frank Pollmann, Sebastian Diehl
 https://arxiv.org/abs/2611.20327
 https://arxiv.org/abs/2611.20429
 https://arxiv.org/abs/2611.20581
