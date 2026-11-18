@@ -29,7 +29,7 @@ https://arxiv.org/abs/2611.19793
 * https://arxiv.org/abs/2611.19799 # Mixed-Sign Kitaev Exchange in Jahn-Teller-Distorted CrI2, Shiyan Gao, Zekuo Yang, Chuanhang Chen, Zefeng Chen, Lianchuang Li, Hongjun Xiang, Changsong Xu
 * https://arxiv.org/abs/2611.19801 # Exact environment checkpointing for memory-limited DMRG and TDVP, Nihal Krishna Shrivastava, Rudranil Basu
 https://arxiv.org/abs/2611.19888
-https://arxiv.org/abs/2611.20181
+* https://arxiv.org/abs/2611.20181 # Calculating correlation functions in integrable spin chains from local conserved charges and currents, Kohei Fukai
 https://arxiv.org/abs/2611.20181
 https://arxiv.org/abs/2611.20247
 
