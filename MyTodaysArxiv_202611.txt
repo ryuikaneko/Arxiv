@@ -4,7 +4,7 @@ https://arxiv.org/abs/2611.18755
 * https://arxiv.org/abs/2611.18777 # Quantum Transitions From Integrable to Chaotic, Sizhe Yan, Biao Wu
 * https://arxiv.org/abs/2611.18829 # Optimal Frobenius light cones for power-law systems in any dimension, Laura Shou, An Le, Twesh Upadhyaya, T. C. Mooney, Alexey V. Gorshkov
 https://arxiv.org/abs/2611.18838
-* https://arxiv.org/abs/2611.18881
+https://arxiv.org/abs/2611.18881
 https://arxiv.org/abs/2611.19002
 https://arxiv.org/abs/2611.19017
 https://arxiv.org/abs/2611.19092
@@ -24,11 +24,11 @@ https://arxiv.org/abs/2611.19994
 
 https://arxiv.org/abs/2611.20139
 https://arxiv.org/abs/2611.20342
-https://arxiv.org/abs/2611.20881 # Non-Hermitian edge accretion, Wei Li, Ching Hua Lee, Fuxiang Li
+* https://arxiv.org/abs/2611.20881 # Non-Hermitian edge accretion, Wei Li, Ching Hua Lee, Fuxiang Li
 https://arxiv.org/abs/2611.20902
 https://arxiv.org/abs/2611.20932
 https://arxiv.org/abs/2611.21349
-https://arxiv.org/abs/2611.21490
+* https://arxiv.org/abs/2611.21490 # Entanglement distillation, nonlocal magic, and state sharing in an isospectral non-Hermitian bipartite model, Chenhuan Wu
 https://arxiv.org/abs/2611.18676
 https://arxiv.org/abs/2611.19307
 https://arxiv.org/abs/2611.19453
