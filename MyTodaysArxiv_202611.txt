@@ -62,7 +62,7 @@ https://arxiv.org/abs/2611.20429
 * https://arxiv.org/abs/2611.20756 # Genuine multipartite entanglement in ring-shaped Hubbard models, K. Shahzad, S. Pittalis, G. Goldoni, R. Di Felice, F. Troiani
 https://arxiv.org/abs/2611.20874
 * https://arxiv.org/abs/2611.21341 # Quantum adiabatic and diabatic optimization: A Hilbert space engineering strategy with Rydberg arrays, Rui Lin
-https://arxiv.org/abs/2611.21431
+* https://arxiv.org/abs/2611.21431 # Variational and geometric time-dependent density-functional theory of electronic systems, Eric Cances, Theo Duez, Jari van Gog, Asbjorn Baekgaard Lauritsen, Mathieu Lewin, Jakob Oldenburg, Julien Toulouse
 
 https://journals.aps.org/prb/abstract/10.1103/k8rg-69rv
 https://journals.aps.org/pra/abstract/10.1103/zyqp-zb3p
