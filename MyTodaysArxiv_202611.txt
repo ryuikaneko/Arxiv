@@ -6,7 +6,7 @@ https://arxiv.org/abs/2611.21709
 https://arxiv.org/abs/2611.21723
 https://arxiv.org/abs/2611.21740
 https://arxiv.org/abs/2611.21748
-https://arxiv.org/abs/2611.21829
+* https://arxiv.org/abs/2611.21829 # Charge self-consistent DFT+QDMFT framework with a Krylov-based quantum impurity solver, M. Karabin, T. Sohail, E. A. Coello Perez, S. Ghosh, M. Sajjan, H. Terletska, M. Eisenbach
 https://arxiv.org/abs/2611.21830
 https://arxiv.org/abs/2611.21889
 https://arxiv.org/abs/2611.22108
