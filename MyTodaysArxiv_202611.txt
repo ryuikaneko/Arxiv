@@ -28,7 +28,7 @@ https://arxiv.org/abs/2611.21744
 https://arxiv.org/abs/2611.21801
 https://arxiv.org/abs/2611.21842
 * https://arxiv.org/abs/2611.22014 # Generalized Schrieffer-Wolff transformation, Tie-Cheng Guo
-https://arxiv.org/abs/2611.22391
+* https://arxiv.org/abs/2611.22391 # Strong eigenstate thermalization in Singer-cycle Clifford circuits, Naoto Tsuji
 https://arxiv.org/abs/2611.22530
 https://arxiv.org/abs/2611.22547
 https://arxiv.org/abs/2611.21767
