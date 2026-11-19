@@ -7,7 +7,7 @@ https://arxiv.org/abs/2611.21676
 https://arxiv.org/abs/2611.21708
 https://arxiv.org/abs/2611.21715
 * https://arxiv.org/abs/2611.21720 # Constraints on the volume enclosed by Fermi surfaces, Subir Sachdev
-https://arxiv.org/abs/2611.21745
+* https://arxiv.org/abs/2611.21745 # Tunable Topological Charge Order in Magnetic Moire Systems, Conor Smith, Yubo Yang, Shiwei Zhang, Miguel A. Morales
 https://arxiv.org/abs/2611.21773
 https://arxiv.org/abs/2611.21903
 
