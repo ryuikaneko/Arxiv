@@ -41,7 +41,7 @@ https://arxiv.org/abs/2611.23375
 * https://arxiv.org/abs/2611.23514 # Quantum resources and the onset of the quantum Monte Carlo sign problem, Naga Dileep Varikuti, Leela Ganesh Chandra Lakkaraju, Philipp Hauke
 https://arxiv.org/abs/2611.23561
 
-https://arxiv.org/abs/2611.23645
+* https://arxiv.org/abs/2611.23645 # Parisi Energy before Parisi Geometry in the Quantum Approximate Optimization Algorithm, Maxime Dupont, Bhuvanesh Sundar
 https://arxiv.org/abs/2611.23680
 https://arxiv.org/abs/2611.23758
 https://arxiv.org/abs/2611.23762
