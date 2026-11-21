@@ -52,7 +52,7 @@ https://arxiv.org/abs/2611.24268
 * https://arxiv.org/abs/2611.24448 # Virtual Autopurification in Translationally Invariant Quantum States, Atsushi Iwaki, Hideaki Hakoshima, Nobuyuki Yoshioka
 https://arxiv.org/abs/2611.24531
 
-https://arxiv.org/abs/2611.24591
+* https://arxiv.org/abs/2611.24591 # Reliable arithmetic circuits using less reliable (sub-digital) logic, Trevor McCourt, Ila R. Fiete, Neil Gershenfeld, Isaac L. Chuang
 https://arxiv.org/abs/2611.24592
 https://arxiv.org/abs/2611.24640
 https://arxiv.org/abs/2611.24710
