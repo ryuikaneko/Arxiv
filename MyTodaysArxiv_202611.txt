@@ -17,7 +17,7 @@ https://arxiv.org/abs/2611.23989
 https://arxiv.org/abs/2611.24029
 https://arxiv.org/abs/2611.24035
 https://arxiv.org/abs/2611.24044
-https://arxiv.org/abs/2611.24053
+* https://arxiv.org/abs/2611.24053 # Odd-Even Effects on Liouvillian Spectra and Relaxation Dynamics in Boundary-Driven Spin Chains, Zhen-Yu Zheng, Shu Chen
 
 https://arxiv.org/abs/2611.24078
 https://arxiv.org/abs/2611.24328
