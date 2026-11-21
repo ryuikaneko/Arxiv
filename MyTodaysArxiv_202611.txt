@@ -35,7 +35,7 @@ https://arxiv.org/abs/2611.24629
 https://arxiv.org/abs/2611.24730
 https://arxiv.org/abs/2611.24878
 https://arxiv.org/abs/2611.24919
-https://arxiv.org/abs/2611.24935
+* https://arxiv.org/abs/2611.24935 # Exact Parent Hamiltonians for Partially Magnetized Chiral Spin Liquids, Xin Shen, Guangyue Ji, Jie Wang
 https://arxiv.org/abs/2611.23366
 https://arxiv.org/abs/2611.23375
 https://arxiv.org/abs/2611.23514
