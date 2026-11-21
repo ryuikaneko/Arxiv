@@ -1,12 +1,12 @@
 20261120
 
-https://arxiv.org/abs/2611.25010
+* https://arxiv.org/abs/2611.25010 # Exact Fractional Chern Insulators from Hubbard Interactions, Jonah Herzog-Arbeitman, Rui-Heng Liu, Jiangping Hu, Chen Fang
 https://arxiv.org/abs/2611.25015
 https://arxiv.org/abs/2611.25018
 https://arxiv.org/abs/2611.25028
 https://arxiv.org/abs/2611.25034
 https://arxiv.org/abs/2611.25037
-https://arxiv.org/abs/2611.25051
+* https://arxiv.org/abs/2611.25051 # Quantum many-body scars and zero modes in the spin-1 Kitaev chain, Ayush Sharma, Jay Pandey
 https://arxiv.org/abs/2611.25212
 https://arxiv.org/abs/2611.25030
 https://arxiv.org/abs/2611.25055
