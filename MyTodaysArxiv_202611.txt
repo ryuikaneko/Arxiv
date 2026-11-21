@@ -49,7 +49,7 @@ https://arxiv.org/abs/2611.23762
 * https://arxiv.org/abs/2611.24013 # Topological Quantum Reservoir Computing, Zhi-Lei Zhang, Lianxiang Cui, C. P. Sun, Kohei Nakajima, Kazuyuki Aihara
 * https://arxiv.org/abs/2611.24089 # Quantum Annealing with a Quantum Neural Network: Width of Annealing Matters, Mojtaba Asadollahi, Danial Khajehzadeh, Abolfazl Ramezanpour
 https://arxiv.org/abs/2611.24268
-https://arxiv.org/abs/2611.24448
+* https://arxiv.org/abs/2611.24448 # Virtual Autopurification in Translationally Invariant Quantum States, Atsushi Iwaki, Hideaki Hakoshima, Nobuyuki Yoshioka
 https://arxiv.org/abs/2611.24531
 
 https://arxiv.org/abs/2611.24591
