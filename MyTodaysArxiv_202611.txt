@@ -1,5 +1,18 @@
 20261120
 
+https://arxiv.org/abs/2611.25019
+https://arxiv.org/abs/2611.25025
+https://arxiv.org/abs/2611.25038
+https://arxiv.org/abs/2611.25048
+https://arxiv.org/abs/2611.25074
+https://arxiv.org/abs/2611.25095
+https://arxiv.org/abs/2611.25107
+https://arxiv.org/abs/2611.25117
+https://arxiv.org/abs/2611.25131
+https://arxiv.org/abs/2611.25323
+
+https://arxiv.org/abs/2611.25013
+
 * https://arxiv.org/abs/2611.25010 # Exact Fractional Chern Insulators from Hubbard Interactions, Jonah Herzog-Arbeitman, Rui-Heng Liu, Jiangping Hu, Chen Fang
 https://arxiv.org/abs/2611.25015
 https://arxiv.org/abs/2611.25018
