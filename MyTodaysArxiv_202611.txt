@@ -23,7 +23,7 @@ https://arxiv.org/abs/2611.24097
 https://arxiv.org/abs/2611.24105
 https://arxiv.org/abs/2611.24112
 https://arxiv.org/abs/2611.24130
-https://arxiv.org/abs/2611.24134
+* https://arxiv.org/abs/2611.24134 # Non-Abelian Hall Effects of Flavor-Waves in CP2 Skyrmions, Carlos Saji, Eduardo Saavedra, Alvaro S. Nunez, Roberto E. Troncoso
 https://arxiv.org/abs/2611.24288
 https://arxiv.org/abs/2611.24312
 https://arxiv.org/abs/2611.24318
