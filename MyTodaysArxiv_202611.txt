@@ -10,7 +10,7 @@ https://journals.aps.org/prl/abstract/10.1103/kfd4-91m9
 
 https://arxiv.org/abs/2611.23390
 https://arxiv.org/abs/2611.23409
-https://arxiv.org/abs/2611.23586
+* https://arxiv.org/abs/2611.23586 # Topological signatures of criticality: the Ising case, Tak-Shing Chan, Pawel Dlotko, Jacek Gulgowski, Biagio Lucini, Mateusz Maslowski, Davide Vadacchino
 https://arxiv.org/abs/2611.23595
 https://arxiv.org/abs/2611.23688
 https://arxiv.org/abs/2611.23760
