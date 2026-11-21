@@ -46,7 +46,7 @@ https://arxiv.org/abs/2611.23680
 https://arxiv.org/abs/2611.23758
 https://arxiv.org/abs/2611.23762
 * https://arxiv.org/abs/2611.23975 # Efficient Spectra and Dynamics with Tangent-Space Chebyshev Tree Tensor Networks, Zhangyu Yang, Xingyao Wu, Shuo Sun, Yu Wang, Weitang Li, Jan von Delft, Christian B. Mendl, Zhigang Shuai
-https://arxiv.org/abs/2611.24013
+* https://arxiv.org/abs/2611.24013 # Topological Quantum Reservoir Computing, Zhi-Lei Zhang, Lianxiang Cui, C. P. Sun, Kohei Nakajima, Kazuyuki Aihara
 https://arxiv.org/abs/2611.24089
 https://arxiv.org/abs/2611.24268
 https://arxiv.org/abs/2611.24448
