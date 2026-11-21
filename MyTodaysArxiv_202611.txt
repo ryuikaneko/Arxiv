@@ -27,7 +27,7 @@ https://arxiv.org/abs/2611.24130
 https://arxiv.org/abs/2611.24288
 https://arxiv.org/abs/2611.24312
 https://arxiv.org/abs/2611.24318
-https://arxiv.org/abs/2611.24483
+* https://arxiv.org/abs/2611.24483 # A Bose-Hubbard quantum thermal machine, Felipe Isaule, Juan E. Bernate, Francisco J. Pena, Patricio Vargas, Thomas Fogarty
 https://arxiv.org/abs/2611.24503
 
 https://arxiv.org/abs/2611.24515
