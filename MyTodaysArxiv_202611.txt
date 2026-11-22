@@ -32,6 +32,12 @@ https://arxiv.org/abs/2611.25064
 https://arxiv.org/abs/2611.25343
 https://arxiv.org/abs/2611.25285
 
+https://journals.aps.org/prb/abstract/10.1103/smnt-rq8g
+https://journals.aps.org/prb/abstract/10.1103/lfcd-48xg
+https://journals.aps.org/prb/abstract/10.1103/p98l-7b5m
+https://journals.aps.org/prxquantum/abstract/10.1103/r726-r5xr
+https://journals.aps.org/prx/abstract/10.1103/b884-4h1s
+
 https://journals.aps.org/prl/abstract/10.1103/9b1c-bl53
 https://journals.aps.org/prl/abstract/10.1103/fz8w-w61f
 https://journals.aps.org/prl/abstract/10.1103/6cyn-zbpm
