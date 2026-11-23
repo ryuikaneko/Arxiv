@@ -37,7 +37,6 @@ https://journals.aps.org/prb/abstract/10.1103/lfcd-48xg
 https://journals.aps.org/prb/abstract/10.1103/p98l-7b5m
 https://journals.aps.org/prxquantum/abstract/10.1103/r726-r5xr
 https://journals.aps.org/prx/abstract/10.1103/b884-4h1s
-
 https://journals.aps.org/prl/abstract/10.1103/9b1c-bl53
 https://journals.aps.org/prl/abstract/10.1103/fz8w-w61f
 https://journals.aps.org/prl/abstract/10.1103/6cyn-zbpm
@@ -120,9 +119,6 @@ https://arxiv.org/abs/2611.24752
 
 https://journals.aps.org/prb/abstract/10.1103/hwnp-1vdr
 https://journals.aps.org/prb/abstract/10.1103/znfm-3c7x
-
-====
-
 https://journals.aps.org/prx/abstract/10.1103/74gr-cq5n
 https://journals.aps.org/prx/abstract/10.1103/gnq3-c2df
 https://journals.aps.org/prl/abstract/10.1103/l8m8-vk2h
