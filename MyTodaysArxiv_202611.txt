@@ -30,7 +30,7 @@ https://arxiv.org/abs/2611.29768
 https://arxiv.org/abs/2611.29787
 * https://arxiv.org/abs/2611.29926 # Generalized Bloch Oscillations of Doublon Defect in One-dimensional Antiferromagnetic Atomic Spin Chain under Linear and Quadratic Magnetic Gradients, Xiang Gao, Xing Deng, Wei Xiao, Chunhua Zhang, Xingxing Wang, Xueting Fang
 https://arxiv.org/abs/2611.29983
-https://arxiv.org/abs/2611.30014
+* https://arxiv.org/abs/2611.30014 # Spin-adapted state preparation for quantum chemistry, Matthew L. Sims-Goh, Fredrik Hasselgren, Hamza Jnane
 https://arxiv.org/abs/2611.30175
 https://arxiv.org/abs/2611.30192
 https://arxiv.org/abs/2611.30441
