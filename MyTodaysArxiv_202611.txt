@@ -14,7 +14,7 @@ https://arxiv.org/abs/2611.28677
 https://arxiv.org/abs/2611.28749
 
 https://arxiv.org/abs/2611.28904
-https://arxiv.org/abs/2611.28906
+* https://arxiv.org/abs/2611.28906 # Long-time dynamics of open quantum systems: mathematical and physical aspects, Daniele Amato, Paolo Facchi, Giovanni Gramegna, Arturo Konderak
 https://arxiv.org/abs/2611.29019
 https://arxiv.org/abs/2611.29134
 https://arxiv.org/abs/2611.29314
