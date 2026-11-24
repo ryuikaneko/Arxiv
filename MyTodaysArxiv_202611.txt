@@ -18,13 +18,13 @@ https://arxiv.org/abs/2611.27507
 https://arxiv.org/abs/2611.27640
 https://arxiv.org/abs/2611.27660
 https://arxiv.org/abs/2611.27703
-https://arxiv.org/abs/2611.27779
+* https://arxiv.org/abs/2611.27779 # Complex chaotic Boltzmann machines as deterministic representations of quantum states, J. Montes
 https://arxiv.org/abs/2611.27815
 https://arxiv.org/abs/2611.27851
 
-https://arxiv.org/abs/2611.27871
+* https://arxiv.org/abs/2611.27871 # World Models for Learning Quantum Many-Body Dynamics, Yuan Wang, Oleksandr Kyriienko
 https://arxiv.org/abs/2611.27975
-https://arxiv.org/abs/2611.26693
+* https://arxiv.org/abs/2611.26693 # Topological phases protected by half-chiral symmetry, Chen-Shen Lee, Itamar Kimchi
 https://arxiv.org/abs/2611.27600
 
 
