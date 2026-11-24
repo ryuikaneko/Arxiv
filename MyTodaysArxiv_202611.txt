@@ -53,7 +53,7 @@ https://arxiv.org/abs/2611.29858
 * https://arxiv.org/abs/2611.29976 # Pseudo-Altermagnetism in Non-Hermitian Systems, Chang-Yin Ji, Runze Li, Zhi-Ming Yu, Yugui Yao
 * https://arxiv.org/abs/2611.30068 # Reconstructing Pure-State OTOCs from Forward-Time Linear Response, Yu-Hang Jin, Xudong He, Yu Chen
 https://arxiv.org/abs/2611.30187
-https://arxiv.org/abs/2611.30485
+* https://arxiv.org/abs/2611.30485 # Universal stabilizer correlations in chaotic eigenstates, Zhi-Han Liu, Hao-Yue Qi, Wei Zheng
 https://arxiv.org/abs/2611.30604
 https://arxiv.org/abs/2611.30811
 
