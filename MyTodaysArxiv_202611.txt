@@ -27,7 +27,7 @@ https://arxiv.org/abs/2611.27647
 https://arxiv.org/abs/2611.27785
 https://arxiv.org/abs/2611.27819
 https://arxiv.org/abs/2611.27846
-https://arxiv.org/abs/2611.27982
+* https://arxiv.org/abs/2611.27982 # Quantum Many-Body Scars from Operator Size, Debarghya Chakraborty, Dario Rosa
 https://arxiv.org/abs/2611.22786
 * https://arxiv.org/abs/2611.26695 # Thermalization and quantum chaos in a pure gauge discrete non-Abelian lattice gauge theory, Marco Vaia, Edoardo Ballini, Alberto Bottarelli, Matteo M. Wauters, Philipp Hauke
 * https://arxiv.org/abs/2611.27019 # Augmenting Quantum Neural Networks with Contractive Layers, Bolin Huang, Pengfei Zhang
