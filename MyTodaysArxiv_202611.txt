@@ -25,7 +25,7 @@ https://arxiv.org/abs/2611.27555
 https://arxiv.org/abs/2611.27564
 https://arxiv.org/abs/2611.27647
 https://arxiv.org/abs/2611.27785
-https://arxiv.org/abs/2611.27819
+* https://arxiv.org/abs/2611.27819 # Magnetic-Field Response of a Hyperbolic Kitaev Spin Liquid, Tao Yang, Baigeng Wang, Rui Wang, Z. Y. Xie
 https://arxiv.org/abs/2611.27846
 * https://arxiv.org/abs/2611.27982 # Quantum Many-Body Scars from Operator Size, Debarghya Chakraborty, Dario Rosa
 https://arxiv.org/abs/2611.22786
