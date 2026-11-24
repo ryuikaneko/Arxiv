@@ -4,7 +4,7 @@
 
 https://arxiv.org/abs/2611.28261
 https://arxiv.org/abs/2611.28325
-https://arxiv.org/abs/2611.28353
+* https://arxiv.org/abs/2611.28353 # Tailored Magic States for Algorithmic Primitives, Matthew Steinberg, Joseph Sullivan, Chunjun Cao, Michael Perlin
 https://arxiv.org/abs/2611.28361
 https://arxiv.org/abs/2611.28373
 https://arxiv.org/abs/2611.28388
