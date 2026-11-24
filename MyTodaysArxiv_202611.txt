@@ -20,7 +20,7 @@ https://arxiv.org/abs/2611.29174
 https://arxiv.org/abs/2611.29317
 https://arxiv.org/abs/2611.29362
 https://arxiv.org/abs/2611.29445
-https://arxiv.org/abs/2611.29495
+* https://arxiv.org/abs/2611.29495 # Ground-State Manifold Curvature and Phase Transitions in the Kitaev Honeycomb Model, Omid Yahyayi Monem, Setare Bashari, Hosein Mohammadzadeh
 https://arxiv.org/abs/2611.29537
 https://arxiv.org/abs/2611.29539
 
