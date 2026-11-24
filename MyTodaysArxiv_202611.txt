@@ -9,7 +9,7 @@ https://arxiv.org/abs/2611.28479
 * https://arxiv.org/abs/2611.28593 # Competing magnetic correlations in the square-lattice Hubbard model with spin-dependent nearest-neighbor and next-nearest-neighbor hopping, Rana Imran Mushtaq, Ji Liu, Yinlong Li, Wing Chi Yu, Xiaosen Yang, Ho-Kin Tang
 https://arxiv.org/abs/2611.28597
 * https://arxiv.org/abs/2611.28705 # Corrections to the IPR in the localized phase of the Anderson model on the Bethe lattice, Tommaso Rizzo, Marco Tarzia, Angelica Vecchiarelli
-https://arxiv.org/abs/2611.28709
+* https://arxiv.org/abs/2611.28709 # Anomalous corrections to the inverse participation ratio in the localized phase on the Bethe lattice: insights from a solvable "toy" non-linear \sigma-model, Tommaso Rizzo, Marco Tarzia, Angelica Vecchiarelli
 https://arxiv.org/abs/2611.28747
 https://arxiv.org/abs/2611.28751
 
