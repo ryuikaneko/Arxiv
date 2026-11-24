@@ -47,7 +47,7 @@ https://arxiv.org/abs/2611.31000
 https://arxiv.org/abs/2611.31116
 
 https://arxiv.org/abs/2611.31158
-https://arxiv.org/abs/2611.28181
+* https://arxiv.org/abs/2611.28181 # Adaptive Multiset Tree Tensor Networks for Large-Scale Exciton Dynamics, Lachlan P Lindoy, Ivan Rungger
 https://arxiv.org/abs/2611.28450
 https://arxiv.org/abs/2611.29045
 https://arxiv.org/abs/2611.29420
