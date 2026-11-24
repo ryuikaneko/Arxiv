@@ -15,7 +15,7 @@ https://arxiv.org/abs/2611.28751
 
 https://arxiv.org/abs/2611.28810
 https://arxiv.org/abs/2611.28874
-https://arxiv.org/abs/2611.29070
+* https://arxiv.org/abs/2611.29070 # Finite-size reversal of a multiparticle correction to local spin spectra in a flux-disordered Kitaev honeycomb model, David C. Ronquillo
 https://arxiv.org/abs/2611.29174
 https://arxiv.org/abs/2611.29317
 https://arxiv.org/abs/2611.29362
