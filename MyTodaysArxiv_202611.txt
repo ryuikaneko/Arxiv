@@ -48,7 +48,7 @@ https://arxiv.org/abs/2611.28206
 
 https://arxiv.org/abs/2611.28324
 https://arxiv.org/abs/2611.28958
-https://arxiv.org/abs/2611.29351
+* https://arxiv.org/abs/2611.29351 # A Novel Algebraic Approach to Medium-Range Solvable Models, Yuan Miao, Kohei Fukai
 https://arxiv.org/abs/2611.29858
 https://arxiv.org/abs/2611.29976
 https://arxiv.org/abs/2611.30068
