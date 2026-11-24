@@ -30,7 +30,7 @@ https://arxiv.org/abs/2611.27846
 https://arxiv.org/abs/2611.27982
 https://arxiv.org/abs/2611.22786
 https://arxiv.org/abs/2611.26695
-https://arxiv.org/abs/2611.27019
+* https://arxiv.org/abs/2611.27019 # Augmenting Quantum Neural Networks with Contractive Layers, Bolin Huang, Pengfei Zhang
 * https://arxiv.org/abs/2611.27402 # Quantum computing for gearing down complex many-fermion problems, Weijie Du, Filippo Fornetti, James P. Vary
 
 https://arxiv.org/abs/2611.27535
