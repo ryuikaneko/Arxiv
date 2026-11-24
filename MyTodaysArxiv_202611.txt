@@ -13,7 +13,7 @@ https://arxiv.org/abs/2611.27076
 
 https://arxiv.org/abs/2611.27103
 https://arxiv.org/abs/2611.27188
-https://arxiv.org/abs/2611.27247
+* https://arxiv.org/abs/2611.27247 # Nonmonotonic Magnetic Correlations in Decorated Lieb-Lattice Anderson Models, Raymond Hmuifoo, Edwin W. Huang, Annabelle Ancheta, Richard T. Scalettar
 https://arxiv.org/abs/2611.27321
 https://arxiv.org/abs/2611.27384
 https://arxiv.org/abs/2611.27386
