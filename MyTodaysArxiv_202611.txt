@@ -17,7 +17,7 @@ https://arxiv.org/abs/2611.28904
 * https://arxiv.org/abs/2611.28906 # Long-time dynamics of open quantum systems: mathematical and physical aspects, Daniele Amato, Paolo Facchi, Giovanni Gramegna, Arturo Konderak
 * https://arxiv.org/abs/2611.29019 # A Frequency-Learning Interpolation-Based Coordinate Descent Method to Optimize Parameterized Quantum Circuits on Quantum Hardware, Jack Mandell (1), Adam Leicester (2), Zixu Wang (2), Jian Shi (2 and 3), Haimeng Zhang (4), Yangyang Xu (1) 
 https://arxiv.org/abs/2611.29134
-https://arxiv.org/abs/2611.29314
+* https://arxiv.org/abs/2611.29314 # Quantum Geometric Tensor in Parameter-Dependent Quasi-Hermitian Systems, Ming-Zhang Wang, Xu-Yang Hou, Hao Guo
 https://arxiv.org/abs/2611.29359
 https://arxiv.org/abs/2611.29384
 https://arxiv.org/abs/2611.29430
