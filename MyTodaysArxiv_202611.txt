@@ -10,7 +10,7 @@ https://arxiv.org/abs/2611.28479
 https://arxiv.org/abs/2611.28597
 * https://arxiv.org/abs/2611.28705 # Corrections to the IPR in the localized phase of the Anderson model on the Bethe lattice, Tommaso Rizzo, Marco Tarzia, Angelica Vecchiarelli
 * https://arxiv.org/abs/2611.28709 # Anomalous corrections to the inverse participation ratio in the localized phase on the Bethe lattice: insights from a solvable "toy" non-linear \sigma-model, Tommaso Rizzo, Marco Tarzia, Angelica Vecchiarelli
-https://arxiv.org/abs/2611.28747
+* https://arxiv.org/abs/2611.28747 # Minimal Three-Band Model and d-Wave Superconductivity in La4Ni3O8, Ao Zhang, Chao Deng, Wenfeng Wu, Run Yang, Zhixiang Shi, Liang Si
 https://arxiv.org/abs/2611.28751
 
 https://arxiv.org/abs/2611.28810
