@@ -44,7 +44,7 @@ https://arxiv.org/abs/2611.31093
 * https://arxiv.org/abs/2611.31234 # A Fractional Chern Semimetal: Exact Wavefunction and Conformal Criticality, Fa-Jie Wang, Yang Qi, Zhi-Da Song
 https://arxiv.org/abs/2611.31242
 https://arxiv.org/abs/2611.28206
-https://arxiv.org/abs/2611.28215
+* https://arxiv.org/abs/2611.28215 # State-selective dynamical freezing in driven Rydberg atom chains, Madhumita Sarkar, Sougato Bose, Roopayan Ghosh
 
 https://arxiv.org/abs/2611.28324
 https://arxiv.org/abs/2611.28958
