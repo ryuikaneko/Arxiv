@@ -3,7 +3,7 @@
 * https://arxiv.org/abs/2611.30788 # From joint attention to shared symbols: A free-energy principle account, Tadahiro Taniguchi, Koji Hashimoto, Ryuichiro Ishikawa
 
 https://arxiv.org/abs/2611.28147
-https://arxiv.org/abs/2611.28276
+* https://arxiv.org/abs/2611.28276 # Symmetry classes of hyperdeterminant wavefunctions: Application to phase transitions between a bosonic fractional Chern insulator and superfluids, Guan-Lin Lin, Xiaodong Hu, Di Xiao, Ying Ran
 https://arxiv.org/abs/2611.28358
 https://arxiv.org/abs/2611.28479
 https://arxiv.org/abs/2611.28593
