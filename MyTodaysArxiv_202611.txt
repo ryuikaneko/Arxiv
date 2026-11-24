@@ -32,7 +32,7 @@ https://arxiv.org/abs/2611.29787
 https://arxiv.org/abs/2611.29983
 * https://arxiv.org/abs/2611.30014 # Spin-adapted state preparation for quantum chemistry, Matthew L. Sims-Goh, Fredrik Hasselgren, Hamza Jnane
 * https://arxiv.org/abs/2611.30175 # Observable-Level Expressivity in Fixed-Readout Quantum Neural Networks, Iqra Bashir, Yuanfeng Wang, Mingda Huang, Keren Li, Qi Qin
-https://arxiv.org/abs/2611.30192
+* https://arxiv.org/abs/2611.30192 # Combining Schroedinger and Heisenberg Evolution to Extend Quantum Many-Body Simulations, Zhigang Hu, Igor Ermakov, Yauheni Talochka, Biao Wu, Oleg Lychkovskiy
 https://arxiv.org/abs/2611.30441
 
 https://arxiv.org/abs/2611.30508
