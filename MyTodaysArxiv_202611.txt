@@ -18,7 +18,7 @@ https://arxiv.org/abs/2611.27321
 https://arxiv.org/abs/2611.27384
 https://arxiv.org/abs/2611.27386
 https://arxiv.org/abs/2611.27406
-https://arxiv.org/abs/2611.27455
+* https://arxiv.org/abs/2611.27455 # Spectral and dynamical properties of quasiperiodically kicked staggered chains, Sanghoon Lee, Kyoung-Min Kim
 https://arxiv.org/abs/2611.27538
 https://arxiv.org/abs/2611.27555
 
