@@ -35,7 +35,7 @@ https://arxiv.org/abs/2611.27402
 
 https://arxiv.org/abs/2611.27535
 https://arxiv.org/abs/2611.27618
-https://arxiv.org/abs/2611.27650
+* https://arxiv.org/abs/2611.27650 # Emergent Causality of Macroscopic Transport and Equilibration in Long-Range Quantum Systems, Hongchao Li, Marius Lemm
 https://arxiv.org/abs/2611.27707
 https://arxiv.org/abs/2611.27768
 https://arxiv.org/abs/2611.27873
