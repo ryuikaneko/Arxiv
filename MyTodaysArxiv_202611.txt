@@ -6,7 +6,7 @@ https://arxiv.org/abs/2611.28147
 * https://arxiv.org/abs/2611.28276 # Symmetry classes of hyperdeterminant wavefunctions: Application to phase transitions between a bosonic fractional Chern insulator and superfluids, Guan-Lin Lin, Xiaodong Hu, Di Xiao, Ying Ran
 https://arxiv.org/abs/2611.28358
 https://arxiv.org/abs/2611.28479
-https://arxiv.org/abs/2611.28593
+* https://arxiv.org/abs/2611.28593 # Competing magnetic correlations in the square-lattice Hubbard model with spin-dependent nearest-neighbor and next-nearest-neighbor hopping, Rana Imran Mushtaq, Ji Liu, Yinlong Li, Wing Chi Yu, Xiaosen Yang, Ho-Kin Tang
 https://arxiv.org/abs/2611.28597
 https://arxiv.org/abs/2611.28705
 https://arxiv.org/abs/2611.28709
