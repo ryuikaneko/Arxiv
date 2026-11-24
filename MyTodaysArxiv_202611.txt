@@ -6,7 +6,7 @@ https://arxiv.org/abs/2611.26693
 https://arxiv.org/abs/2611.26704
 https://arxiv.org/abs/2611.26714
 https://arxiv.org/abs/2611.26725
-https://arxiv.org/abs/2611.26741
+* https://arxiv.org/abs/2611.26741 # Emergent Long-Range Entanglement in the XXZ Quantum Spin Chain with Competing Orders, Anthony Balchin, Eytan Grosfeld, Eran Ginossar
 https://arxiv.org/abs/2611.26749
 https://arxiv.org/abs/2611.26872
 * https://arxiv.org/abs/2611.27076 # Quantum order by disorder among lozenge tilings: a staircase of hub-free crystals between the Lieb ferrimagnet and the antiferromagnet, Suhwan Yoo, Jeehoon Choi, Chaeyeon Kim, Hee Young Kwon, Changyeon Won
