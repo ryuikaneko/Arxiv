@@ -1,3 +1,8 @@
+20261125
+
+https://journals.aps.org/prresearch/abstract/10.1103/5ggp-n1bz
+
+
 20261124
 
 * https://arxiv.org/abs/2611.30788 # From joint attention to shared symbols: A free-energy principle account, Tadahiro Taniguchi, Koji Hashimoto, Ryuichiro Ishikawa
