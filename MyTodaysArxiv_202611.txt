@@ -36,7 +36,7 @@ https://arxiv.org/abs/2611.33063
 https://arxiv.org/abs/2611.33128
 * https://arxiv.org/abs/2611.31631 # Adaptive ghost Gutzwiller dynamics of Hubbard model quenches across coupling strengths over extended times, Yong-Xin Yao
 * https://arxiv.org/abs/2611.31745 # Light-cone distributions of vector and scalar bound states in the Schwinger model from tensor networks, Juan Hormaza, Wenyang Qian
-https://arxiv.org/abs/2611.31749
+* https://arxiv.org/abs/2611.31749 # Parton Physics in the Schwinger Model from Matrix Product States, Mari Carmen Banuls, Krzysztof Cichy, C.-J. David Lin, Manuel Schneider
 https://arxiv.org/abs/2611.32215
 https://arxiv.org/abs/2611.32301
 https://arxiv.org/abs/2611.32469
