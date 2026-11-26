@@ -5,7 +5,7 @@ https://arxiv.org/abs/2611.31339
 https://arxiv.org/abs/2611.31366
 https://arxiv.org/abs/2611.31371
 https://arxiv.org/abs/2611.31383
-https://arxiv.org/abs/2611.31384
+* https://arxiv.org/abs/2611.31384 # Localization in one-dimensional magnetic quasicrystals, Andrew Osborne, Rhine Samajdar, Andrew A. Houck
 https://arxiv.org/abs/2611.31412
 https://arxiv.org/abs/2611.31423
 https://arxiv.org/abs/2611.31458
