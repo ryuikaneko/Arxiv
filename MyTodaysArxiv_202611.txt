@@ -14,7 +14,7 @@ https://arxiv.org/abs/2611.31584
 https://arxiv.org/abs/2611.31609
 * https://arxiv.org/abs/2611.31655 # Universal spectrum of weakly coupled quantum critical Ising chains, Hansen S. Wu, Ribhu K. Kaul
 https://arxiv.org/abs/2611.31748
-https://arxiv.org/abs/2611.31872
+* https://arxiv.org/abs/2611.31872 # Upper and lower bounds for the critical point of the three-dimensional Ising model, Zhongpu Qiu
 https://arxiv.org/abs/2611.31878
 https://arxiv.org/abs/2611.31888
 https://arxiv.org/abs/2611.32280
