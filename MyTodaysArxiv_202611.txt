@@ -44,7 +44,7 @@ https://arxiv.org/abs/2611.31370
 https://arxiv.org/abs/2611.31653
 https://arxiv.org/abs/2611.32190
 
-https://arxiv.org/abs/2611.32236
+* https://arxiv.org/abs/2611.32236 # Augmented Imaginary-Time Evolution of Neural Quantum States with Implicit Time Steps, Maksymilian Kliczkowski, Thomas D. Kuehne, Fedor Simkovic IV, Prachi Sharma, Carlos L. Benavides-Riveros, Werner Dobrautz
 https://arxiv.org/abs/2611.32265
 https://arxiv.org/abs/2611.32485
 https://arxiv.org/abs/2611.32895
