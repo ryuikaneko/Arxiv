@@ -34,7 +34,7 @@ https://arxiv.org/abs/2611.33027
 https://arxiv.org/abs/2611.33063
 
 https://arxiv.org/abs/2611.33128
-https://arxiv.org/abs/2611.31631
+* https://arxiv.org/abs/2611.31631 # Adaptive ghost Gutzwiller dynamics of Hubbard model quenches across coupling strengths over extended times, Yong-Xin Yao
 https://arxiv.org/abs/2611.31745
 https://arxiv.org/abs/2611.31749
 https://arxiv.org/abs/2611.32215
