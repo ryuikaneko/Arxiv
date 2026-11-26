@@ -19,7 +19,7 @@ https://arxiv.org/abs/2611.31878
 * https://arxiv.org/abs/2611.31888 # Coherent meson-baryon conversion in a cold-atom non-Abelian lattice gauge simulator, Tian-Yi Wang, Wei-Yong Zhang, Tie-Jin Zhong, Ming-Gen He, Zhao-Yu Zhou, Hui Sun, Zhen-Sheng Yuan, Jian-Wei Pan
 https://arxiv.org/abs/2611.32280
 https://arxiv.org/abs/2611.32312
-https://arxiv.org/abs/2611.32370
+* https://arxiv.org/abs/2611.32370 # AI-assisted formal proofs for static and time-dependent density functional theory on lattices, Miguel A. L. Marques, Irene D'Amico, Stefano Pittalis
 https://arxiv.org/abs/2611.32466
 
 https://arxiv.org/abs/2611.32468
