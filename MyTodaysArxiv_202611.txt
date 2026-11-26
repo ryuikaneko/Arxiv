@@ -6,7 +6,7 @@ https://arxiv.org/abs/2611.31366
 https://arxiv.org/abs/2611.31371
 https://arxiv.org/abs/2611.31383
 * https://arxiv.org/abs/2611.31384 # Localization in one-dimensional magnetic quasicrystals, Andrew Osborne, Rhine Samajdar, Andrew A. Houck
-https://arxiv.org/abs/2611.31412
+* https://arxiv.org/abs/2611.31412 # Ground state and thermal phase diagrams of the magnetized spin-1/2 XXZ antiferromagnet on the triangular lattice, Owan Cho, Seungho Lee, Hyun-Yong Lee, SungBin Lee
 https://arxiv.org/abs/2611.31423
 https://arxiv.org/abs/2611.31458
 https://arxiv.org/abs/2611.31584
