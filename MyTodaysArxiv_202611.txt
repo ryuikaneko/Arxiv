@@ -18,7 +18,7 @@ https://arxiv.org/abs/2611.32126
 https://arxiv.org/abs/2611.32189
 https://arxiv.org/abs/2611.32259
 https://arxiv.org/abs/2611.32358
-https://arxiv.org/abs/2611.32388
+* https://arxiv.org/abs/2611.32388 # Thermal state preparation with shallow quantum circuits, Cenk Tuysuz, Simon Deconihout, Enrico Rinaldi, Michele Grossi
 https://arxiv.org/abs/2611.32459
 https://arxiv.org/abs/2611.32497
 
