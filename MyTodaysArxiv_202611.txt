@@ -37,7 +37,7 @@ https://arxiv.org/abs/2611.32961
 https://arxiv.org/abs/2611.32974
 * https://arxiv.org/abs/2611.32983 # Investigating competing order in the Kanamori-Hubbard model with the multiorbital multichannel fluctuating field theory, Laura Torchia, Erik Linner, Massimo Capone
 https://arxiv.org/abs/2611.33085
-https://arxiv.org/abs/2611.33150
+* https://arxiv.org/abs/2611.33150 # Parametric neural-network wavefunctions across a bosonic phase transition, Daniil S. Antonenko, Liang Fu, Leonid I. Glazman
 https://arxiv.org/abs/2611.33155
 https://arxiv.org/abs/2611.31269
 https://arxiv.org/abs/2611.31370
