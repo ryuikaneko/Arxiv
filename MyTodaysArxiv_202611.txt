@@ -16,7 +16,7 @@ https://arxiv.org/abs/2611.31609
 https://arxiv.org/abs/2611.31748
 * https://arxiv.org/abs/2611.31872 # Upper and lower bounds for the critical point of the three-dimensional Ising model, Zhongpu Qiu
 https://arxiv.org/abs/2611.31878
-https://arxiv.org/abs/2611.31888
+* https://arxiv.org/abs/2611.31888 # Coherent meson-baryon conversion in a cold-atom non-Abelian lattice gauge simulator, Tian-Yi Wang, Wei-Yong Zhang, Tie-Jin Zhong, Ming-Gen He, Zhao-Yu Zhou, Hui Sun, Zhen-Sheng Yuan, Jian-Wei Pan
 https://arxiv.org/abs/2611.32280
 https://arxiv.org/abs/2611.32312
 https://arxiv.org/abs/2611.32370
