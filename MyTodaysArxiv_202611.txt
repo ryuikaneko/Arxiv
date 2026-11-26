@@ -38,7 +38,7 @@ https://arxiv.org/abs/2611.33128
 * https://arxiv.org/abs/2611.31745 # Light-cone distributions of vector and scalar bound states in the Schwinger model from tensor networks, Juan Hormaza, Wenyang Qian
 * https://arxiv.org/abs/2611.31749 # Parton Physics in the Schwinger Model from Matrix Product States, Mari Carmen Banuls, Krzysztof Cichy, C.-J. David Lin, Manuel Schneider
 https://arxiv.org/abs/2611.32215
-https://arxiv.org/abs/2611.32301
+* https://arxiv.org/abs/2611.32301 # Dynamic scaling behaviors induced by periodic drivings at continuous Ising quantum transitions, Andrea Pelissetto, Davide Rossini, Ettore Vicari
 https://arxiv.org/abs/2611.32469
 https://arxiv.org/abs/2611.32694
 https://arxiv.org/abs/2611.32725
