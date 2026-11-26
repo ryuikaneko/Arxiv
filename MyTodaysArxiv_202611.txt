@@ -30,7 +30,7 @@ https://arxiv.org/abs/2611.32766
 * https://arxiv.org/abs/2611.32775 # Space-Time Point Defects as Probes of Criticality: Application to the Gross-Neveu-Heisenberg Transition, Jakob Vaeth, Luis Thremer, Francesco Parisen Toldin, Fakher F. Assaad
 * https://arxiv.org/abs/2611.32798 # Zone-folded Goldstone mode of the field-induced spin supersolid in the square-lattice S=1 antiferromagnet, Sibin Yang, Pinaki Sengupta
 https://arxiv.org/abs/2611.32804
-https://arxiv.org/abs/2611.32916
+* https://arxiv.org/abs/2611.32916 # From Fermions to Vortices: Microscopic Simulations of Phase Ordering in a d-Wave Superconductor, Ali Rayat, Gia-Wei Chern
 https://arxiv.org/abs/2611.32934
 
 https://arxiv.org/abs/2611.32961
