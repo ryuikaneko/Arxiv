@@ -48,7 +48,7 @@ https://arxiv.org/abs/2611.32190
 https://arxiv.org/abs/2611.32265
 https://arxiv.org/abs/2611.32485
 https://arxiv.org/abs/2611.32895
-https://arxiv.org/abs/2611.32902
+* https://arxiv.org/abs/2611.32902 # Dirac Propagation for Simulating Fermionic Observables under Particle-Number-Conserving Unitaries, G Arnav Naidu, Matteo D'Anna, Adrian Perez-Salinas, Jannes Nys, Juan Carrasquilla
 https://arxiv.org/abs/2611.32968
 
 https://journals.aps.org/pra/abstract/10.1103/8kqz-9bfp
