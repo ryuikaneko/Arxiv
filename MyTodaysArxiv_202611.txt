@@ -25,7 +25,7 @@ https://arxiv.org/abs/2611.32466
 https://arxiv.org/abs/2611.32468
 https://arxiv.org/abs/2611.32495
 https://arxiv.org/abs/2611.32659
-https://arxiv.org/abs/2611.32680
+* https://arxiv.org/abs/2611.32680 # Probing the Rung-Mott Insulator in Bosonic Two-Leg Ladders, Christopher Parsonage, Lennart Koehn, Lorenzo Carfora, Ben Watson, Timon Hilker, Elmar Haller, Peter Kirton, Arthur La Rooij, Stefan Kuhr
 https://arxiv.org/abs/2611.32766
 https://arxiv.org/abs/2611.32775
 https://arxiv.org/abs/2611.32798
