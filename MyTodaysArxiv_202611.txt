@@ -27,7 +27,7 @@ https://arxiv.org/abs/2611.32578
 https://arxiv.org/abs/2611.32673
 https://arxiv.org/abs/2611.32757
 https://arxiv.org/abs/2611.32759
-https://arxiv.org/abs/2611.32805
+* https://arxiv.org/abs/2611.32805 # Exploiting SU(2) Symmetry for Efficient Quantum State Preparation of Matrix Product States, Etienne D'Argenlieu, Alessandro Summer, Francois Jamet, David P. Tew, Lachlan P. Lindoy
 https://arxiv.org/abs/2611.32923
 https://arxiv.org/abs/2611.32995
 https://arxiv.org/abs/2611.33027
