@@ -1,6 +1,6 @@
 20261126
 
-https://arxiv.org/abs/2611.33286
+* https://arxiv.org/abs/2611.33286 # Pairing from anti-Hund's coupling under infinite Hubbard repulsion, Donggyu Kim, Ya-Hui Zhang
 https://arxiv.org/abs/2611.33288
 https://arxiv.org/abs/2611.33289
 https://arxiv.org/abs/2611.33294
