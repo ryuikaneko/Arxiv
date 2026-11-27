@@ -20,7 +20,7 @@ https://arxiv.org/abs/2611.33208
 https://arxiv.org/abs/2611.33281
 https://arxiv.org/abs/2611.33328
 https://arxiv.org/abs/2611.33354
-https://arxiv.org/abs/2611.33987
+* https://arxiv.org/abs/2611.33987 # Unified preparation of exact and asymptotic quantum many-body scars from Dicke states, Yuki Asari, Masaya Kunimi, Tetsuro Nikuni
 
 https://arxiv.org/abs/2611.34004
 
