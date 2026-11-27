@@ -12,7 +12,7 @@ https://arxiv.org/abs/2611.33566
 https://arxiv.org/abs/2611.33630
 
 https://arxiv.org/abs/2611.33803
-https://arxiv.org/abs/2611.33807
+* https://arxiv.org/abs/2611.33807 # Controlling truncation errors in loop tensor network renormalization, Rikuto Fushio, Kokin Cho, Yuta Yamamoto, Akira Otsuki, Masahito Yamazaki
 https://arxiv.org/abs/2611.33869
 https://arxiv.org/abs/2611.33912
 https://arxiv.org/abs/2611.33195
