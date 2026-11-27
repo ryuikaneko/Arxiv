@@ -5,7 +5,7 @@ https://arxiv.org/abs/2611.33284
 https://arxiv.org/abs/2611.33421
 https://arxiv.org/abs/2611.33454
 https://arxiv.org/abs/2611.33461
-https://arxiv.org/abs/2611.33472
+* https://arxiv.org/abs/2611.33472 # Optimal Controlled Quantum Instrument for Monitored Many-Body Dynamics, Jimin Li
 https://arxiv.org/abs/2611.33730
 https://arxiv.org/abs/2611.33776
 https://arxiv.org/abs/2611.33806
