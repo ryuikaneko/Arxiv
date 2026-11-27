@@ -22,7 +22,7 @@ https://arxiv.org/abs/2611.33328
 https://arxiv.org/abs/2611.33354
 * https://arxiv.org/abs/2611.33987 # Unified preparation of exact and asymptotic quantum many-body scars from Dicke states, Yuki Asari, Masaya Kunimi, Tetsuro Nikuni
 
-https://arxiv.org/abs/2611.34004
+* https://arxiv.org/abs/2611.34004 # Discrete truncated Wigner approximation of the quantum phase transition in the transverse-field Ising model, Tuan-Vu Truong, Hoang-Long Nguyen
 
 https://arxiv.org/abs/2611.33267
 https://arxiv.org/abs/2611.33386
